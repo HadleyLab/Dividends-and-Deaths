@@ -147,11 +147,7 @@ And then there was Warren Ewens on my thesis committee.
 
 Warren carried the kind of quiet authority that doesn’t need to announce itself. His presence in that room wasn’t about flash. It was about standards. The kind of standards that make you realize you’re not just learning facts—you’re being shaped by a lineage.
 
-This is where lay readers deserve a pause, because the word “genomics” gets thrown around like it’s magic. It isn’t.
-
-Genomics is simply the study of the genome—the complete set of DNA instructions in a person’s cells. DNA is written in four chemical “letters.” A genotype is the particular pattern of those letters at specific points in the genome—like a fingerprint made of biology. A SNP (pronounced “snip”) is a single-letter variation—one tiny place where one person might have an A and another might have a G. It sounds small, but when you measure hundreds of thousands of SNPs across thousands of people, you can detect patterns that shape disease risk.
-
-In the mid-2000s, that was big science.
+The jargon map above is the shorthand; in the mid-2000s, that was big science.
 
 And one of the great early resources for autism genetics was AGRE—the Autism Genetics Resource Exchange—families who volunteered their time, their blood, their stories, their patience. Parents showed up again and again; the recruitment letters said “research is hope,” and the families kept coming.
 
@@ -178,17 +174,9 @@ If you don’t have enough samples from a group, you cannot generate reliable co
 
 Small numbers don’t create clarity. They create noise.
 
-Noise doesn’t publish well.
-Noise doesn’t fund well.
-Noise doesn’t become product.
+Noise doesn’t publish, fund, or become product.
 
-So the machine does what machines do.
-
-It narrows.
-
-And we did what everyone did.
-
-We dropped the outliers and carried on.
+So the machine narrows, and we did what everyone did. We dropped the outliers and carried on.
 
 Not because anyone wanted to erase anyone. Because the system rewarded the path of least statistical resistance.
 
@@ -280,7 +268,7 @@ Value.
 
 At NeuroFix—our precision-medicine venture in neuropsychiatry—I became lead bioinformatician on pediatric genotyping efforts at a scale that was breathtaking at the time: tens of thousands of children, hundreds of thousands of SNPs.
 
-Put that in lay terms: we were taking a child’s biology and turning it into a dataset dense enough to compute on.
+Put in plain terms: we were taking a child’s biology and turning it into a dataset dense enough to compute on.
 
 And then I asked the same question again:
 
@@ -389,9 +377,7 @@ These aren’t “administrative.” They are the rails.
 
 Codes are not neutral.
 
-A new test can be brilliant.
-It can save lives.
-It can be scientifically correct.
+A new test can be brilliant, lifesaving, and scientifically correct.
 
 But if it doesn’t fit into the coded pathways, it doesn’t become routine care.
 
@@ -446,11 +432,7 @@ And in some ways, it is.
 
 But open data has a shadow property that matters more in an economy:
 
-Open data is liquid.
-
-It can move fast.
-It can be reused endlessly.
-It can be recombined into new claims.
+Open data is liquid—it moves fast, reuses endlessly, and recombines into new claims.
 
 And here’s the trap: when biased data becomes liquid, bias compounds.
 
@@ -475,9 +457,7 @@ You don’t even have to be malicious to participate.
 
 You just have to be busy.
 
-This is where “software is eating the world” becomes healthcare’s darker cousin:
-
-Data is eating medicine.
+This is where “software is eating the world” becomes healthcare’s darker cousin: data is eating medicine.
 
 And the people who own the pipes get the dividends.
 
@@ -516,11 +496,7 @@ Because insurance needed a way to standardize reality so money could move at sca
 
 Insurance doesn’t run on empathy. It runs on categories.
 
-And the more categories it has, the more precisely it can price you, deny you, and optimize profit around you.
-
-That is why the codebook expanded.
-
-That is why the “translation layer” of medicine became more valuable than the medicine itself.
+And the more categories it has, the more precisely it can price you, deny you, and optimize profit around you. That is why the codebook expanded. That is why the “translation layer” of medicine became more valuable than the medicine itself.
 
 This is not abstract. It is measurable.
 
@@ -549,7 +525,7 @@ And again, the patient is the only one not reimbursed.
 
 Interlude: What we know so far
 
-Codes make care legible. Legibility creates volume. Volume creates credibility. Credibility attracts money. Money builds more pipes. The pipes reward what they can read and discard what they cannot. That is not a conspiracy; it is a design pattern. The dividends rise to those who are already legible. The costs fall to those who are not. In this chapter, every scene is just a different angle on that single machine.
+Codes make care legible. Legibility creates volume. Volume creates credibility. Credibility attracts money. Money builds more pipes. The pipes reward what they can read and discard what they cannot. That is not a conspiracy; it is a design pattern. The dividends rise to those who are already legible. The costs fall to those who are not.
 
 ## **The Dividend Summary: How the Trillions Assemble**
 
