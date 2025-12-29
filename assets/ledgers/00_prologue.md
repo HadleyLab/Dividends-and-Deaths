@@ -19,6 +19,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 2. ID: 00-CASE-01
    Type: Historical case
    Name: Henrietta Lacks
+   Aliases: Henrietta's; Henrietta’s
    Cultural/National Identity: Black American; African American
    Context: Biological extraction and consent (1951)
    Function: Prototype of extraction without equity
@@ -91,6 +92,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 11. ID: 00-CHAR-05
     Type: Character
     Name: Ma-Ma
+    Aliases: Mama
     Status: Deceased
     Cultural/National Identity: Hindu matriarch; Trinidadian
     Context: Gasparillo family yard, rituals
@@ -118,6 +120,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 14. ID: 00-CHAR-08
     Type: Character
     Name: Major Francis Hadley
+    Aliases: Major Hadley; Major Hadley's; Major Hadley’s; British Major Hadley; British Major's; British Major’s
     Status: Deceased
     Cultural/National Identity: British colonial officer; British
     Context: 900-acre commission in Tobago
@@ -127,6 +130,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 15. ID: 00-PLACE-02
     Type: Place
     Name: Trinidad and Tobago
+    Aliases: Trinidad's; Trinidad’s
     Context: Plural culture and mixed systems
     Function: Cultural operating system contrast
     Reuse: Across book
@@ -141,6 +145,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 17. ID: 00-PLACE-04
     Type: Place
     Name: Englishman's Bay
+    Aliases: Englishman's; Englishman’s
     Context: Ashes returned to ancestral water
     Function: Generational loop closure
     Reuse: Epilogue
@@ -260,6 +265,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 34. ID: 00-PLACE-12
     Type: Place
     Name: University of Pennsylvania
+    Aliases: Penn; Penn's; Penn’s; Franklin's University; Franklin’s University
     Context: MD/PhD training start
     Function: Precision medicine origin in the author’s arc
     Reuse: Chapter 02
@@ -267,6 +273,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 35. ID: 00-PLACE-13
     Type: Place
     Name: CHOP Center for Applied Genomics (CAG)
+    Aliases: CAG; CAG's; CAG’s
     Context: Pediatric genomics scale
     Function: Precision pipeline prelude
     Reuse: Chapter 02
@@ -331,6 +338,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 43. ID: 00-OBJ-06
     Type: Object
     Name: Pacemaker serial number
+    Aliases: Pacemaker Serial; pacemaker serial
     Context: Device identity gap at bedside
     Function: Custody failure illustration
     Reuse: Chapter 07
@@ -366,6 +374,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 48. ID: 00-POLICY-01
     Type: Policy
     Name: SB 266 (Florida)
+    Aliases: Senate Bill 266; Senate Bill
     Context: DEI ban in public universities
     Function: Language constraint on equity
     Reuse: Chapter 07
@@ -417,6 +426,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 55. ID: 00-CHAR-14
     Type: Character
     Name: Benjamin Franklin
+    Aliases: Benjamin Franklin's; Benjamin Franklin’s
     Status: Public Figure
     Cultural/National Identity: American; American
     Context: University naming and civic purpose
@@ -470,6 +480,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 62. ID: 00-ORG-08
     Type: Organization
     Name: Children’s Hospital of Philadelphia (CHOP)
+    Aliases: CHOP; CHOP's; CHOP’s
     Context: Pediatric care and data scale
     Function: Geographic-ethical contrast for dataset bias
     Reuse: Chapter 02
@@ -591,6 +602,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 79. ID: 00-ORG-13
     Type: Organization
     Name: University of Central Florida
+    Aliases: Central Florida's medical school; Central Florida’s medical school; UCF
     Context: Medical school leadership role
     Function: Florida system context
     Reuse: Chapter 02
@@ -654,6 +666,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 88. ID: 00-PLACE-22
     Type: Place
     Name: California
+    Aliases: California's; California’s
     Context: UCSF era and departure to Florida
     Function: Regional system contrast
     Reuse: Chapter 02
@@ -713,3 +726,376 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
     Context: Barataria family gatherings
     Function: Family ritual cadence
     Reuse: Chapter 03
+
+97. ID: 00-ORG-15
+    Type: Organization
+    Name: Stanford University
+    Context: Residency and systems training
+    Function: Institutional training anchor
+    Reuse: Chapter 02
+
+98. ID: 00-ORG-16
+    Type: Organization
+    Name: Bakar Institute for Computational Health Sciences
+    Context: UCSF computational health hub
+    Function: Data-scale platform reference
+    Reuse: Chapter 02
+
+99. ID: 00-CONCEPT-14
+    Type: Concept
+    Name: Seventh-day Adventism
+    Context: Family faith environment
+    Function: Faith layering and migration bridge
+    Reuse: Chapter 01
+
+100. ID: 00-CONCEPT-15
+    Type: Concept
+    Name: Hinduism
+    Aliases: Hindu
+    Context: Maternal lineage faith environment
+    Function: Cultural anchor and ritual context
+    Reuse: Chapter 01
+
+101. ID: 00-CONCEPT-16
+    Type: Concept
+    Name: Catholicism
+    Aliases: Catholic
+    Context: Schooling environment
+    Function: Faith layering backdrop
+    Reuse: Chapter 01
+
+102. ID: 00-CONCEPT-17
+    Type: Concept
+    Name: Islam
+    Aliases: Muslim
+    Context: Wife’s faith environment
+    Function: Cultural expectation anchor
+    Reuse: Part V
+
+103. ID: 00-CONCEPT-18
+    Type: Concept
+    Name: Christianity
+    Aliases: Christian
+    Context: Village faith environment
+    Function: Faith-bridge context
+    Reuse: Chapter 01
+
+104. ID: 00-CONCEPT-19
+    Type: Concept
+    Name: Dougla
+    Context: Afro-Indian mixed identity
+    Function: Identity framing for the author
+    Reuse: Chapter 01
+
+105. ID: 00-CONCEPT-20
+    Type: Concept
+    Name: Hindi
+    Context: Ma-Ma’s prayers and bhajans
+    Function: Ritual and language marker
+    Reuse: Chapter 03
+
+106. ID: 00-CONCEPT-21
+    Type: Concept
+    Name: Spanish
+    Context: Wife’s language
+    Function: Cultural competence expectation
+    Reuse: Part V
+
+107. ID: 00-CONCEPT-22
+    Type: Concept
+    Name: Arabic
+    Context: Wife’s language
+    Function: Cultural competence expectation
+    Reuse: Part V
+
+108. ID: 00-CONCEPT-23
+    Type: Concept
+    Name: English
+    Context: Lingua franca in U.S. care
+    Function: Language contrast
+    Reuse: Part V
+
+109. ID: 00-CONCEPT-24
+    Type: Concept
+    Name: Latin
+    Context: Fatima College coursework
+    Function: Classical education marker
+    Reuse: Chapter 01
+
+110. ID: 00-CONCEPT-25
+    Type: Concept
+    Name: BASIC
+    Context: Early programming language
+    Function: Code-origin detail
+    Reuse: Chapter 01
+
+111. ID: 00-CONCEPT-26
+    Type: Concept
+    Name: SQL
+    Context: Hospital database querying
+    Function: Data access contrast
+    Reuse: Chapter 07
+
+112. ID: 00-CONCEPT-27
+    Type: Concept
+    Name: AI
+    Context: Precision medicine infrastructure and roles
+    Function: Technical framing
+    Reuse: Across book
+
+113. ID: 00-CONCEPT-28
+    Type: Concept
+    Name: DNA
+    Context: Precision medicine premise
+    Function: Scientific substrate
+    Reuse: Chapter 02
+
+114. ID: 00-CONCEPT-29
+    Type: Concept
+    Name: HIV
+    Context: Nurse migration demand and drug development
+    Function: Epidemiologic pressure point
+    Reuse: Chapter 03
+
+115. ID: 00-CONCEPT-30
+    Type: Concept
+    Name: HPV
+    Context: Vaccine development reference
+    Function: Biomedical impact marker
+    Reuse: Chapter 02
+
+116. ID: 00-CONCEPT-31
+    Type: Concept
+    Name: Polio vaccine
+    Context: Biomedical milestone enabled by HeLa cells
+    Function: Impact evidence
+    Reuse: Chapter 02
+
+117. ID: 00-CONCEPT-32
+    Type: Concept
+    Name: Personalized medicine
+    Context: Early framing for precision efforts
+    Function: Terminology shift setup
+    Reuse: Chapter 02
+
+118. ID: 00-CONCEPT-33
+    Type: Concept
+    Name: Precision medicine
+    Context: Core system being critiqued
+    Function: Central thematic anchor
+    Reuse: Across book
+
+119. ID: 00-CONCEPT-34
+    Type: Concept
+    Name: Genomics and Computational Biology
+    Context: MD/PhD program focus
+    Function: Training pathway
+    Reuse: Chapter 02
+
+120. ID: 00-CONCEPT-35
+    Type: Concept
+    Name: Clinical Pathology and Laboratory Medicine
+    Context: Residency specialty
+    Function: Coding infrastructure entry point
+    Reuse: Chapter 02
+
+121. ID: 00-CONCEPT-36
+    Type: Concept
+    Name: Systems Medicine
+    Context: Stanford leadership role
+    Function: Pipeline pivot framing
+    Reuse: Chapter 02
+
+122. ID: 00-CONCEPT-37
+    Type: Concept
+    Name: DEI
+    Context: Florida policy restriction
+    Function: Equity language constraint
+    Reuse: Chapter 07
+
+123. ID: 00-CONCEPT-38
+    Type: Concept
+    Name: ICU
+    Context: Hospital revenue example
+    Function: Economic pressure illustration
+    Reuse: Chapter 07
+
+124. ID: 00-CONCEPT-39
+    Type: Concept
+    Name: Bollywood
+    Context: Middle name origin reference
+    Function: Cultural lineage marker
+    Reuse: Chapter 03
+
+125. ID: 00-CONCEPT-40
+    Type: Concept
+    Name: Colonialism
+    Context: Extraction and naming pressure
+    Function: Structural framing
+    Reuse: Across book
+
+126. ID: 00-RIT-04
+    Type: Ritual
+    Name: Christmas
+    Context: Family return for funeral
+    Function: Temporal anchor
+    Reuse: Chapter 03
+
+127. ID: 00-CONCEPT-41
+    Type: Concept
+    Name: God
+    Aliases: God's; God’s
+    Context: Faith and sacrifice language
+    Function: Spiritual framing
+    Reuse: Chapter 01
+
+128. ID: 00-CONCEPT-42
+    Type: Concept
+    Name: Latina
+    Context: Exclusion from research participation
+    Function: Representation gap marker
+    Reuse: Chapter 07
+
+129. ID: 00-CONCEPT-43
+    Type: Concept
+    Name: Mammography
+    Context: Screening shutdown during COVID-19
+    Function: Care disruption marker
+    Reuse: Chapter 07
+
+130. ID: 00-RIT-05
+    Type: Ritual
+    Name: Sabbath
+    Aliases: Sabbaths
+    Context: Weekly worship cadence
+    Function: Faith rhythm marker
+    Reuse: Chapter 01
+
+131. ID: 00-OBJ-09
+    Type: Object
+    Name: Imaging uploads
+    Aliases: X-rays; CT scans
+    Context: Imaging uploads for trial
+    Function: Evidence medium
+    Reuse: Chapter 02
+
+132. ID: 00-ORG-17
+    Type: Organization
+    Name: Office of the First Lady of Florida
+    Aliases: First Lady's office; First Lady’s office
+    Context: State grant conduit
+    Function: Policy funding pathway
+    Reuse: Chapter 15
+
+133. ID: 00-CONCEPT-44
+    Type: Concept
+    Name: European ancestry
+    Aliases: European; Eurocentric
+    Context: Reference genome bias
+    Function: Data representativeness gap
+    Reuse: Chapter 02
+
+134. ID: 00-PHRASE-02
+    Type: Phrase
+    Name: The Mother of Precision Medicine
+    Context: Prologue section title
+    Function: Frame-setting invocation for Henrietta Lacks
+    Reuse: Chapter 01
+
+135. ID: 00-PHRASE-03
+    Type: Phrase
+    Name: Behind God’s Back
+    Context: Prologue section title
+    Function: Geographical isolation framing
+    Reuse: Chapter 01
+
+136. ID: 00-PHRASE-04
+    Type: Phrase
+    Name: The Rose from Gasparillo
+    Context: Prologue section title
+    Function: Maternal lineage anchor
+    Reuse: Chapter 01
+
+137. ID: 00-PHRASE-05
+    Type: Phrase
+    Name: Malta, Mangoes, and Mauby
+    Context: Prologue section title
+    Function: Sensory lineage and care ledger anchor
+    Reuse: Chapter 03
+
+138. ID: 00-PHRASE-06
+    Type: Phrase
+    Name: A Long Line of Universal Men
+    Context: Prologue section title
+    Function: Lineage philosophy anchor
+    Reuse: Chapter 15
+
+139. ID: 00-PHRASE-07
+    Type: Phrase
+    Name: Code and Calling
+    Context: Prologue section title
+    Function: Career synthesis framing
+    Reuse: Chapter 02
+
+140. ID: 00-PHRASE-08
+    Type: Phrase
+    Name: Migration and the Cost of Opportunity
+    Context: Prologue section title
+    Function: Migration cost framing
+    Reuse: Chapter 03
+
+141. ID: 00-PHRASE-09
+    Type: Phrase
+    Name: Franklin’s University and the Promise of Precision
+    Context: Prologue section title
+    Function: Institutional and methodological framing
+    Reuse: Chapter 02
+
+142. ID: 00-PHRASE-10
+    Type: Phrase
+    Name: The Transitional Year and the Decision Not to Cut
+    Context: Prologue section title
+    Function: Clinical pivot framing
+    Reuse: Chapter 02
+
+143. ID: 00-PHRASE-11
+    Type: Phrase
+    Name: Stanford, Ontologies, and the Skeleton of the System
+    Context: Prologue section title
+    Function: Code-infrastructure framing
+    Reuse: Chapter 02
+
+144. ID: 00-PHRASE-12
+    Type: Phrase
+    Name: UCSF, Eighty Million Lives, and the Profit of Failure
+    Context: Prologue section title
+    Function: System-scale critique framing
+    Reuse: Chapter 02
+
+145. ID: 00-PHRASE-13
+    Type: Phrase
+    Name: Florida, DEI, and a Pacemaker Serial Number
+    Context: Prologue section title
+    Function: Equity and fragmentation framing
+    Reuse: Chapter 07
+
+146. ID: 00-PHRASE-14
+    Type: Phrase
+    Name: Alzheimer’s, Culture, and COVID
+    Context: Prologue section title
+    Function: Family and pandemic framing
+    Reuse: Chapter 07
+
+147. ID: 00-PHRASE-15
+    Type: Phrase
+    Name: A Universal Future
+    Context: Prologue section title
+    Function: Future-facing inclusion framing
+    Reuse: Part V
+
+148. ID: 00-PHRASE-16
+    Type: Phrase
+    Name: Dividends & Deaths
+    Context: Prologue section title
+    Function: Thesis and title anchor
+    Reuse: Across book

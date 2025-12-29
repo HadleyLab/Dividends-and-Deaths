@@ -250,7 +250,7 @@ After Penn, I returned to clinical training and then into the part of the world 
 
 At CHOP—the Children’s Hospital of Philadelphia—there is a kind of reverence you feel the first time you walk through it. Not religious reverence. Institutional reverence. The sense that you are inside one of the great engines of pediatric medicine.
 
-CHOP’s origin story carries weight for a reason: it was founded in 1855 and is widely recognized as the first hospital in the United States devoted exclusively to children.  ￼
+CHOP’s origin story carries weight for a reason: it was founded in the mid‑19th century and is widely recognized as the first hospital in the United States devoted exclusively to children.
 
 Across the street is West Philadelphia—predominantly Black, deeply rooted, deeply burdened by the same inequities every American city carries in its bones. CHOP sits against that reality like a fortress of excellence.
 
@@ -272,7 +272,7 @@ Who is in the dataset?
 
 The answer hit like a body blow:
 
-Over 99% White.
+Overwhelmingly White.
 
 Not “mostly.” Not “skewed.” Not “needs improvement.”
 
@@ -462,10 +462,10 @@ And when I launched decentralized trials—patients uploading imaging from home�
 
 It came from advertising metrics.
 
-Recruiting a White woman: under ~$200.
-Recruiting a Black woman: over ~$9,000.
+Recruiting a White woman: hundreds of dollars.
+Recruiting a Black woman: thousands of dollars.
 
-A 45-fold difference.
+An order‑of‑magnitude difference.
 
 That isn’t bias as ideology.
 
@@ -491,7 +491,7 @@ And the more categories it has, the more precisely it can price you, deny you, a
 
 This is not abstract. It is measurable.
 
-U.S. healthcare spending is in the trillions—$4.9 trillion in 2023 per widely cited national estimates. That money does not move as a single river. It moves through intermediaries: insurers, billing systems, risk scores, reimbursement policies. The code is the language of those flows.
+U.S. healthcare spending is in the trillions. That money does not move as a single river. It moves through intermediaries: insurers, billing systems, risk scores, reimbursement policies. The code is the language of those flows.
 
 And when the economy becomes code-driven, whoever controls coding controls outcomes.
 
@@ -499,11 +499,11 @@ By then I already knew the first rule from Chapter One: The billable code is the
 
 This is where the dividends become grotesque.
 
-A recent OIG-reported pattern (covered publicly) described billions in extra Medicare Advantage payments tied to diagnoses from insurer-initiated home visits, often without follow-up treatment—diagnosis as revenue event.
+A recent OIG‑reported pattern (covered publicly) described billions in extra Medicare Advantage payments tied to diagnoses from insurer‑initiated home visits, often without follow‑up treatment—diagnosis as revenue event.
 
 There is also the lawsuit story—the one that feels like the future arriving early.
 
-A Reuters-reported case describes allegations around a company (owned by UnitedHealth) accused of using algorithmic risk scores that inflated risk and denied or delayed needed post-acute care for Medicare Advantage patients, with claims of rapid denials and pressure on clinicians.
+A Reuters‑reported case describes allegations around a company (owned by UnitedHealth) accused of using algorithmic risk scores that inflated risk and denied or delayed needed post‑acute care for Medicare Advantage patients, with claims of rapid denials and pressure on clinicians.
 
 Whether every allegation holds in court is for courts to decide.
 

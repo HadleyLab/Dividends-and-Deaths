@@ -38,9 +38,9 @@ Three houses down lived my closest neighborhood friend—half Chinese, half Span
 
 Aunty Janice was a single mother, fierce in the way single parents often are, raising her son and his much older sister from a house that doubled as a salon. While my home ran on Sabbath schedules and scripture, hers ran on conversation, laughter, music, and the low hum of hairdryers. People came and went constantly—neighbors, clients, cousins—all orbiting around a woman who made beauty her livelihood and independence her defiance.
 
-She wasn’t just a hairdresser. She was Queen of the Band for one of the most prominent Chinese designers of the time—a position that mattered in Trinidad, where Carnival is not a festival but an economy, a language, and a declaration of self. Her hands shaped how people would be seen on the road. She understood spectacle the way my father understood scripture. Devoutly.
+She wasn’t just a hairdresser. She was Queen of the Band for one of the most prominent Chinese designers of the time—a position that mattered in Trinidad, where Carnival is not a festival but an economy, a language, and a declaration of self. Her hands shaped how people would be seen on the road. The results were spectacle, delivered with the same discipline my father brought to scripture.
 
-She loved her children without compromise. They lived with her parents in a multigenerational household that felt distinctly Chinese to me—the decor, the food, the cadence of conversation—and yet utterly familiar. Another version of the same Trinidadian truth: struggle softened by community, sacrifice absorbed by family.
+She raised her children without compromise. They lived with her parents in a multigenerational household that felt distinctly Chinese to me—the decor, the food, the cadence of conversation—and yet utterly familiar. Another version of the same Trinidadian truth: struggle softened by community, sacrifice absorbed by family.
 
 The contrast between our homes was sharp, but never hostile.
 
@@ -86,7 +86,7 @@ Eventually, like so many others, my friend emigrated. Canada took him. America w
 
 And with him went a fork in the road.
 
-When his Nintendo arrived, he moved on to Mario and Zelda—games I loved too. But where his attention turned to the finished worlds on the screen, mine stayed fixed on the machinery underneath.
+When his Nintendo arrived, he moved on to Mario and Zelda—games I loved too. He played the finished worlds on the screen; I kept pulling at the machinery underneath.
 
 My destiny was not to play with computers.
 

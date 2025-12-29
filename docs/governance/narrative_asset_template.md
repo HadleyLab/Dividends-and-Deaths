@@ -11,6 +11,7 @@
 - **Status:** (Living / Deceased / Public Figure / Abstract) (if Character)
 - **Cultural Context:** (ancestry, geography, faith environment if relevant)
 - **Cultural/National Identity:** (if Character)
+- **Aliases:** (optional variants, possessives, plurals, abbreviations)
 - **Introduced In:** (scene or section)
 - **Narrative Function:** (what work this asset does *in this chapter*)
 - **Reuse Hook:** (where and how it will reappear later)

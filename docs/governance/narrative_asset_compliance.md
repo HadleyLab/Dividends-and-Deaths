@@ -126,6 +126,7 @@ Each asset must include:
 - **Cultural / Historical Context**
 - **Narrative Function**
 - **Reuse Hook**
+- **Aliases** (optional variants, possessives, plurals, abbreviations)
 
 Character assets must also include:
 - **Cultural/National Identity**
