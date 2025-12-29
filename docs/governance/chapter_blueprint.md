@@ -21,7 +21,7 @@ Repeatable workflow for drafting every chapter.
 
 ## Asset Ledger First
 1. Spin up or update `assets/ledgers/NN_chapter_name.md`.
-2. For each asset include: ID, type, cultural context, function, reuse hooks.
+2. For each asset include: ID, type, cultural context, function, reuse hooks. Character assets must include **Status** and **Cultural/National Identity**.
 3. Run the compliance checklist from `narrative_asset_compliance.md` against the ledger before you draft.
 
 ## Scene Architecture
@@ -46,6 +46,11 @@ Repeatable workflow for drafting every chapter.
 3. Spine alignment: chapter exit handoff tees up the next part's promise.
 4. Economic claims: framed conservatively and sourced.
 5. Sprinkling rule: at least one reusable hook planted for later chapters.
+
+## AI Drafting Fast Path
+- Start with the ledger template and fill required fields before writing prose.
+- Use ledger assets as the outline; do not invent unlogged characters or places.
+- Avoid parenthetical identity tags; integrate identity as a clause when relevant.
 
 ## Publication Staging
 - Update `chapters/README.md` checklist with the chapter status (outline -> draft -> polish).

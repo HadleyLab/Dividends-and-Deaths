@@ -7,11 +7,10 @@
 
 ## Asset: [Canonical Name]
 
-- **Asset Type:** (Character | Place | Object | Ritual | Economic | Phrase)
-- **Status:** (Living / Deceased / Public Figure / Abstract)
+- **Asset Type:** (see docs/governance/narrative_asset_compliance.md)
+- **Status:** (Living / Deceased / Public Figure / Abstract) (if Character)
 - **Cultural Context:** (ancestry, geography, faith environment if relevant)
-- **Cultural Identity:** (if Character)
-- **Nationality/Ethnicity:** (if Character)
+- **Cultural/National Identity:** (if Character)
 - **Introduced In:** (scene or section)
 - **Narrative Function:** (what work this asset does *in this chapter*)
 - **Reuse Hook:** (where and how it will reappear later)

@@ -42,12 +42,21 @@ Naming is power. This rule protects privacy, avoids unintended attribution, and 
   - Motives
   - Private emotions  
   of any person other than the author.
-- **Exception (limited):**
-  - Memory-framed interiority for *deceased* family members or *deceased* colleagues
+**Exceptions (limited):**
+- Memory-framed interiority for *deceased* family members or *deceased* colleagues  
   - Must be grounded in:
     - Close physical scenes
     - Observable behavior
     - Spoken words
+- Clinical-circumstance framing for *living* family members when a documented diagnosis alters cognition  
+  - Must be grounded in:
+    - Observable behavior
+    - Care context
+    - The author’s direct witness
+  - Avoid mind-reading; name the condition and describe what it does to memory, perception, or behavior as observed.
+- Authorial attestation for *biological relatives (shared DNA)*  
+  - The author may state interiority when based on direct lived experience and relational proximity.
+  - Do not generalize interior states to non-relatives or to groups.
 - Always prefer:
   - Actions
   - Roles
@@ -60,7 +69,7 @@ This book documents systems, not psychologies. Interior speculation weakens auth
 
 ---
 
-## 3. Cultural and Religious Representation
+## 3. Cultural, Religious, and Identity Representation
 
 - Faith appears as:
   - Environment
@@ -80,14 +89,6 @@ This book documents systems, not psychologies. Interior speculation weakens auth
   - Coexistence without apology
   - Layering rather than resolution
   - Practice rather than explanation
-
-**Rationale:**  
-Faith is lived context, not thesis.
-
----
-
-## 3A. Nationality and Ethnicity (Context Only)
-
 - Nationality or ethnicity may be named when it provides:
   - Cultural translation for a scene
   - Historical or institutional context
@@ -97,7 +98,7 @@ Faith is lived context, not thesis.
 - Any nationality/ethnicity named must be logged in the chapter ledger as part of the character asset.
 
 **Rationale:**  
-Identity is context, not characterization. Use it to explain systems, not to assign motives.
+Faith is lived context, not thesis. Identity is context, not characterization.
 
 ---
 
@@ -127,16 +128,24 @@ Each asset must include:
 - **Reuse Hook**
 
 Character assets must also include:
-- **Cultural Identity**
-- **Nationality/Ethnicity**
+- **Cultural/National Identity**
+- **Status** (Living / Deceased / Public Figure / Abstract)
 
-Standard asset types:
+Canonical asset types:
 - Character
 - Place
 - Object
 - Ritual
 - Economic
 - Phrase
+- Concept
+- Symbol
+- Organization
+- Policy
+- Evidence
+- Historical case
+- Metaphor
+- Foreshadowing
 
 Assets that are not logged are considered non-canonical.
 

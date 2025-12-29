@@ -8,7 +8,7 @@ Exit handoff: If codes create the economy, the next part must trace where those 
 
 ## Assets
 1. ID: 01-THESIS-01
-   Type: Conceptual
+   Type: Concept
    Name: Billable Code as economic unit
    Context: Insurance-driven translation of care into payment
    Function: Establish the core economic mechanism of the book
@@ -31,6 +31,8 @@ Exit handoff: If codes create the economy, the next part must trace where those 
 4. ID: 01-CHAR-01
    Type: Character
    Name: Aunty Janice
+   Status: Deceased
+   Cultural/National Identity: Trinidadian, Chinese ancestry
    Context: Single mother, salon, Queen of the Band
    Function: Contrast household systems and visibility
    Reuse: Chapter 01 only
@@ -57,21 +59,21 @@ Exit handoff: If codes create the economy, the next part must trace where those 
    Reuse: Chapter 01 only
 
 8. ID: 01-CONCEPT-01
-   Type: Conceptual
+   Type: Concept
    Name: Legibility vs personhood
    Context: Systems act on what they can encode
    Function: Moral engine of the chapter
    Reuse: Chapters 02-10
 
-9. ID: 01-SYSTEM-01
-   Type: System
+9. ID: 01-ECON-01
+   Type: Economic
    Name: Insurance engine
    Context: Standardization for payment
    Function: Explain why codes exist and how extraction begins
    Reuse: Chapters 02-03
 
 10. ID: 01-CONCEPT-02
-    Type: Conceptual
+    Type: Concept
     Name: Date of birth as primary key
     Context: Identity as database index
     Function: Show the first code and its power
@@ -92,7 +94,7 @@ Exit handoff: If codes create the economy, the next part must trace where those 
     Reuse: Chapters 02-03
 
 13. ID: 01-CONCEPT-03
-    Type: Conceptual
+    Type: Concept
     Name: Digital Maya
     Context: Representation mistaken for reality
     Function: Introduce the named concept and custody question

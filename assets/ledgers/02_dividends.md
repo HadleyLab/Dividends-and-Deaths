@@ -1,5 +1,5 @@
 # Narrative Asset Ledger - 02 Dividends
-Version: 1.0
+Version: 1.1
 
 ## Chapter Contract
 Chapter question: How did the precision-medicine economy learn to monetize data long before it learned to represent the people who generate it?
@@ -8,14 +8,14 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 
 ## Assets
 1. ID: 02-THESIS-01
-   Type: Conceptual
+   Type: Concept
    Name: Dividends follow volume and legibility
    Context: Discovery pipelines and reimbursement
    Function: Explain why money flows upward
    Reuse: Chapter 03 and Part II
 
 2. ID: 02-PLACE-01
-   Type: Institution
+   Type: Place
    Name: Penn MD/PhD Genomics and Computational Biology
    Context: Early precision-medicine pipeline
    Function: Origin point for volume logic
@@ -29,28 +29,28 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
    Reuse: Chapter 03 references
 
 4. ID: 02-DATA-01
-   Type: Dataset
+   Type: Evidence
    Name: Autism cohorts (AGRE, Autism Genome Project)
    Context: Early large-scale genomics
    Function: Establish representation gaps
    Reuse: Chapter 03
 
 5. ID: 02-TOOL-01
-   Type: Method
+   Type: Evidence
    Name: Pivot table ancestry check
    Context: First dividend: volume
    Function: Reveal demographic collapse in data
    Reuse: Chapter 03 framing
 
 6. ID: 02-TOOL-02
-   Type: Method
+   Type: Evidence
    Name: Ancestry caller and phylogenetic tree
    Context: PCA and SNP clustering
    Function: Confirm European-dominant datasets
    Reuse: Chapter 03
 
 7. ID: 02-PLACE-02
-   Type: Institution
+   Type: Place
    Name: CHOP Center for Applied Genomics (CAG)
    Context: 30,000+ pediatric genotypes, >99% White
    Function: Industrial scale of biased data
@@ -64,28 +64,28 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
    Reuse: Chapter 03
 
 9. ID: 02-PLACE-03
-   Type: Institution
+   Type: Place
    Name: Stanford pathology and informatics
    Context: Codes as constitution (SNOMED, LOINC, ICD, CPT)
    Function: Show reimbursement as engine
    Reuse: Chapter 01 callbacks
 
 10. ID: 02-PLACE-04
-    Type: Institution
+    Type: Place
     Name: UCSF and public data platforms (GEO, STARGEO, CrADLe, BD2K)
     Context: Open data and reuse economics
     Function: Show bias amplification at scale
     Reuse: Chapter 03
 
 11. ID: 02-CONCEPT-02
-    Type: Conceptual
+    Type: Concept
     Name: Liquidity as dividend
     Context: Public data routed into private pipelines
     Function: Define the economic mechanism of reuse
     Reuse: Part III
 
 12. ID: 02-PLACE-05
-    Type: Institution
+    Type: Place
     Name: UCF decentralized imaging trial (NCT05384912)
     Context: Pandemic-era recruitment
     Function: Show cost of representation
@@ -99,7 +99,7 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
     Reuse: Chapter 03
 
 14. ID: 02-CONCEPT-03
-   Type: Conceptual
+   Type: Concept
    Name: System billing for invisibility
    Context: Algorithmic ad pricing
    Function: Summarize dividend logic in one line
@@ -108,8 +108,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 15. ID: 02-CHAR-01
     Type: Character
     Name: Junhyong Kim
-    Cultural Identity: Korean
-    Nationality/Ethnicity: Korean
+    Status: Not stated
+    Cultural/National Identity: Korean
     Context: Penn population genetics mentorship
     Function: Embody constraint-driven systems thinking
     Reuse: Chapter 03
@@ -117,8 +117,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 16. ID: 02-CHAR-02
     Type: Character
     Name: Motoo Kimura
-    Cultural Identity: Japanese
-    Nationality/Ethnicity: Japanese
+    Status: Not stated
+    Cultural/National Identity: Japanese
     Context: Neutral theory in the Penn basement
     Function: Ground volume logic in evolutionary math
     Reuse: Chapter 03
@@ -126,8 +126,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 17. ID: 02-CHAR-03
     Type: Character
     Name: Maja Bucan
-    Cultural Identity: Croatian
-    Nationality/Ethnicity: Croatian
+    Status: Not stated
+    Cultural/National Identity: Croatian
     Context: Wet lab grounding for molecular reality
     Function: Anchor abstraction in physical practice
     Reuse: Part II
@@ -135,8 +135,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 18. ID: 02-CHAR-04
     Type: Character
     Name: Warren Ewens
-    Cultural Identity: Australian, British Commonwealth
-    Nationality/Ethnicity: Australian
+    Status: Not stated
+    Cultural/National Identity: Australian, British Commonwealth
     Context: Thesis committee governance
     Function: Establish standards and accountability
     Reuse: Part II
@@ -144,8 +144,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 19. ID: 02-CHAR-05
     Type: Character
     Name: Hakon Hakonarson
-    Cultural Identity: Icelandic by ancestry
-    Nationality/Ethnicity: Icelandic by ancestry
+    Status: Not stated
+    Cultural/National Identity: Icelandic by ancestry
     Context: CAG builder and scale driver
     Function: Show industrialization of pediatric genomics
     Reuse: Chapter 03
@@ -153,8 +153,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 20. ID: 02-CHAR-06
     Type: Character
     Name: Atul Butte
-    Cultural Identity: Not stated
-    Nationality/Ethnicity: Not stated
+    Status: Not stated
+    Cultural/National Identity: Not stated
     Context: Systems medicine bridge at Stanford
     Function: Signal the pivot from bedside to pipelines
     Reuse: Part III
@@ -162,8 +162,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 21. ID: 02-CHAR-07
     Type: Character
     Name: Ben Pinsky
-    Cultural Identity: Not stated
-    Nationality/Ethnicity: Not stated
+    Status: Not stated
+    Cultural/National Identity: Not stated
     Context: Dengue prognostic validation project
     Function: Show market allocation of attention
     Reuse: Chapter 03
@@ -206,8 +206,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 27. ID: 02-CHAR-08
     Type: Character
     Name: Brian Lara
-    Cultural Identity: Trinidad and Tobago
-    Nationality/Ethnicity: Trinidad and Tobago
+    Status: Public Figure
+    Cultural/National Identity: Trinidad and Tobago
     Context: Greatest batsman of his era
     Function: Anchor West Indies excellence and authorial lens
     Reuse: Part II

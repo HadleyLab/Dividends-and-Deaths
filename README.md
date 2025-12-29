@@ -10,8 +10,10 @@ This repository is now organized like a production system so every chapter can b
 ## Chapter Build Order
 1. Read `docs/governance/chapter_blueprint.md` for the step-by-step recipe.
 2. Log or update assets in `assets/ledgers/`.
-3. Cross-check the ledger against `docs/governance/narrative_asset_compliance.md`, the book spine, the emotional arc map, and the concept vocabulary.
-4. Draft or revise the chapter inside `chapters/`, using the ledger as the authority for scenes, terms, and hooks.
+3. Confirm the Chapter Contract includes **Chapter Question**, **Chapter Claim**, and **Exit Handoff**.
+4. Use `docs/governance/narrative_asset_template.md` and fill required fields (Character assets must include **Status** and **Cultural/National Identity**).
+5. Cross-check the ledger against `docs/governance/narrative_asset_compliance.md`, the book spine, the emotional arc map, and the concept vocabulary.
+6. Draft or revise the chapter inside `chapters/`, using the ledger as the authority for scenes, terms, and hooks.
 
 ## Publication Readiness
 - Governance docs live under `docs/governance/` so legal, editorial, and collaborators can review invariants without touching prose.

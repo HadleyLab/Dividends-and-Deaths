@@ -76,7 +76,7 @@ My father was the outside child.
 
  
 
-He and his half sister, Betty, were raised by Veronca alone. We called her Granny. She was a master seamstress. She could take a flat piece of fabric and, with a few cuts and stitches, turn it into something that fit a body perfectly. She did the same with her child: patched together scraps of opportunity and discipline into a life.
+He and his half sister, Betty, were raised by Veronica alone. We called her Granny. She was a master seamstress. She could take a flat piece of fabric and, with a few cuts and stitches, turn it into something that fit a body perfectly. She did the same with her child: patched together scraps of opportunity and discipline into a life.
 
  
 
@@ -285,7 +285,7 @@ We like to talk about opportunity as if it is free. It isn’t. It is paid for i
 
  
 
-I eventually landed at the University of Pennsylvania—Benjamin Franklin’s university, the only Ivy League school not named after a person because Franklin, a Quaker, thought universities should exist to serve people, not immortalize donors. Quakers value simplicity, humility and most of all equality such that achievement remains an accolade for the community, not for personal legacy or recognition.
+I eventually landed at the University of Pennsylvania—Benjamin Franklin’s university, the only Ivy League school not named after a person because Franklin, a Quaker, argued that universities should exist to serve people, not immortalize donors. Quaker meetinghouses prize simplicity and equality; that cultural stamp sits under Penn’s founding story.
 
  
 
@@ -313,7 +313,7 @@ CHOP sits in West Philadelphia, a predominantly Black neighborhood. Kids from th
 
  
 
-From that operation, we helped build NeuroFix Therapeutics, a precision medicine startup focused on ADHD and impulsivity. I was the lead bioinformatician. We used CAG’s data—over 30,000 genotyped children—to stratify complex behavioral traits, design a trial, and execute it at a speed that would have been unthinkable in the old era of paper charts and Rolodexes.
+From that operation, we helped build NeuroFix Therapeutics, a precision medicine startup focused on ADHD and impulsivity. I was the lead bioinformatician. We used CAG’s data—tens of thousands of genotyped children—to stratify complex behavioral traits, design a trial, and execute it at a speed that would have been unthinkable in the old era of paper charts and Rolodexes.
 
  
 
@@ -329,11 +329,11 @@ Then we looked closely at who was in the dataset.
 
  
 
-Over 99% of those 30,000 children were White.
+The overwhelming majority of those children were White.
 
  
 
-CHOP is wrapped by Black neighborhoods. But the genomic engine powering our discoveries barely touched them. It wasn’t CHOP’s “fault” in any simple sense. They studied the families who came, who had insurance, who trusted academic medicine, who could take time off work, who had cars. The pipeline into the data was already biased long before we started modeling anything.
+CHOP is wrapped by Black neighborhoods. But the genomic engine powering our discoveries barely touched them. It wasn’t CHOP’s “fault” in any simple sense. They studied the families who came, who had insurance, who could take time off work, who had cars. The pipeline into the data was already biased long before we started modeling anything.
 
  
 
@@ -424,7 +424,7 @@ If something is not coded, it might as well not exist—for reimbursement, for a
 
  
 
-Around that time, I met Atul Butte, who led Systems Medicine at Stanford. He believed, as I did, that the biggest untapped resource in medicine wasn’t another trial—it was the data already sitting in hospital servers, insurance warehouses, and public repositories.
+Around that time, I met Atul Butte, who led Systems Medicine at Stanford. He focused on the data already sitting in hospital servers, insurance warehouses, and public repositories—the biggest untapped resource in medicine.
 
  
 
@@ -448,7 +448,7 @@ Tens of millions of patient records. Years of lab results, diagnoses, prescripti
 
  
 
-I co-authored a deep learning model that could detect Alzheimer’s disease on FDG-PET scans more than five years before the diagnosis showed up in the chart. On paper, it was a triumph of precision: the ability to see neurodegeneration long before the clinical exam caught it.
+I co-authored a deep learning model that could detect Alzheimer’s disease on FDG-PET scans years before the diagnosis showed up in the chart. On paper, it was a triumph of precision: the ability to see neurodegeneration long before the clinical exam caught it.
 
  
 
@@ -477,7 +477,7 @@ We saw it in claims and codes and trajectories:
 
  
 
-No clinician sits at the bedside thinking this way. Nurses and doctors fight like hell for their patients. But the system—the spreadsheets, the budgets, the contracts—tells a different story.
+At the bedside, nurses and doctors fight like hell for their patients. But the system—the spreadsheets, the budgets, the contracts—tells a different story.
 
  
 
@@ -511,7 +511,7 @@ Then COVID-19 hit.
 
  
 
-Mammography units shut down. Routine cancer screening went dark. We pivoted and launched a trial—later registered as NCT05384912—to crowdsource COVID chest imaging directly from patients over the internet. We bought ads on Facebook to recruit people willing to upload their X-rays and CT scans. That’s when we discovered another brutal number: it cost around \$183 in ad spend to recruit a White woman to donate a single chest image. To recruit a Black woman? Over \$9,000.
+Mammography units shut down. Routine cancer screening went dark. We pivoted and launched a trial—later registered as NCT05384912—to crowdsource COVID chest imaging directly from patients over the internet. We bought ads on Facebook to recruit people willing to upload their X-rays and CT scans. That’s when we discovered another brutal number: it cost hundreds of dollars in ad spend to recruit a White woman to donate a single chest image. To recruit a Black woman? Thousands of dollars.
 
  
 
