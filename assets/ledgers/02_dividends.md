@@ -99,8 +99,85 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
     Reuse: Chapter 03
 
 14. ID: 02-CONCEPT-03
-    Type: Conceptual
-    Name: System billing for invisibility
-    Context: Algorithmic ad pricing
-    Function: Summarize dividend logic in one line
+   Type: Conceptual
+   Name: System billing for invisibility
+   Context: Algorithmic ad pricing
+   Function: Summarize dividend logic in one line
+   Reuse: Chapter 03
+
+15. ID: 02-CHAR-01
+    Type: Character
+    Name: Junhyong Kim
+    Context: Penn population genetics mentorship
+    Function: Embody constraint-driven systems thinking
     Reuse: Chapter 03
+
+16. ID: 02-CHAR-02
+    Type: Character
+    Name: Motoo Kimura
+    Context: Neutral theory in the Penn basement
+    Function: Ground volume logic in evolutionary math
+    Reuse: Chapter 03
+
+17. ID: 02-CHAR-03
+    Type: Character
+    Name: Maja Bucan
+    Context: Wet lab grounding for molecular reality
+    Function: Anchor abstraction in physical practice
+    Reuse: Part II
+
+18. ID: 02-CHAR-04
+    Type: Character
+    Name: Warren Ewens
+    Context: Thesis committee governance
+    Function: Establish standards and accountability
+    Reuse: Part II
+
+19. ID: 02-CHAR-05
+    Type: Character
+    Name: Hakon Hakonarson
+    Context: CAG builder and scale driver
+    Function: Show industrialization of pediatric genomics
+    Reuse: Chapter 03
+
+20. ID: 02-CHAR-06
+    Type: Character
+    Name: Atul Butte
+    Context: Systems medicine bridge at Stanford
+    Function: Signal the pivot from bedside to pipelines
+    Reuse: Part III
+
+21. ID: 02-CHAR-07
+    Type: Character
+    Name: Ben Pinsky
+    Context: Dengue prognostic validation project
+    Function: Show market allocation of attention
+    Reuse: Chapter 03
+
+22. ID: 02-OBJ-01
+    Type: Object
+    Name: Figure 2.1 - From Data to Dividends pipeline
+    Context: Visual summary of extraction flow
+    Function: X-ray the system without narration
+    Reuse: Chapter 03
+
+23. ID: 02-RIT-01
+    Type: Ritual
+    Name: Systems engineering study groups
+    Context: Cohort-level language gatekeeping
+    Function: Show legibility as early dividend
+    Reuse: Chapter 01 callbacks
+
+24. ID: 02-PLACE-06
+    Type: Place
+    Name: West Philadelphia (CHOP across the street)
+    Context: Majority-Black neighborhood beside CAG pipeline
+    Function: Ground exclusion in geographic proximity
+    Reuse: Chapter 03
+
+25. ID: 02-EVID-01
+    Type: Evidence
+    Name: Medicare Advantage coding allegations (OIG/Reuters)
+    Context: Risk scoring, denials, and payment inflation
+    Function: Show insurance dividend mechanics
+    Reuse: Part III
