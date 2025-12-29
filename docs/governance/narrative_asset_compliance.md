@@ -86,6 +86,21 @@ Faith is lived context, not thesis.
 
 ---
 
+## 3A. Nationality and Ethnicity (Context Only)
+
+- Nationality or ethnicity may be named when it provides:
+  - Cultural translation for a scene
+  - Historical or institutional context
+  - Systemic legibility or exclusion framing
+- Do not use parenthetical identity tags in prose; integrate identity as a clause.
+- Avoid stereotypes or generalized claims; anchor in observed setting or authorial context.
+- Any nationality/ethnicity named must be logged in the chapter ledger as part of the character asset.
+
+**Rationale:**  
+Identity is context, not characterization. Use it to explain systems, not to assign motives.
+
+---
+
 ## 4. Language and Jargon
 
 - All technical or academic jargon must:
@@ -110,6 +125,10 @@ Each asset must include:
 - **Cultural / Historical Context**
 - **Narrative Function**
 - **Reuse Hook**
+
+Character assets must also include:
+- **Cultural Identity**
+- **Nationality/Ethnicity**
 
 Standard asset types:
 - Character

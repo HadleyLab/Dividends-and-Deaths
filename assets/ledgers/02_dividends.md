@@ -108,6 +108,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 15. ID: 02-CHAR-01
     Type: Character
     Name: Junhyong Kim
+    Cultural Identity: Korean
+    Nationality/Ethnicity: Korean
     Context: Penn population genetics mentorship
     Function: Embody constraint-driven systems thinking
     Reuse: Chapter 03
@@ -115,6 +117,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 16. ID: 02-CHAR-02
     Type: Character
     Name: Motoo Kimura
+    Cultural Identity: Japanese
+    Nationality/Ethnicity: Japanese
     Context: Neutral theory in the Penn basement
     Function: Ground volume logic in evolutionary math
     Reuse: Chapter 03
@@ -122,6 +126,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 17. ID: 02-CHAR-03
     Type: Character
     Name: Maja Bucan
+    Cultural Identity: Croatian
+    Nationality/Ethnicity: Croatian
     Context: Wet lab grounding for molecular reality
     Function: Anchor abstraction in physical practice
     Reuse: Part II
@@ -129,6 +135,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 18. ID: 02-CHAR-04
     Type: Character
     Name: Warren Ewens
+    Cultural Identity: Australian, British Commonwealth
+    Nationality/Ethnicity: Australian
     Context: Thesis committee governance
     Function: Establish standards and accountability
     Reuse: Part II
@@ -136,6 +144,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 19. ID: 02-CHAR-05
     Type: Character
     Name: Hakon Hakonarson
+    Cultural Identity: Icelandic by ancestry
+    Nationality/Ethnicity: Icelandic by ancestry
     Context: CAG builder and scale driver
     Function: Show industrialization of pediatric genomics
     Reuse: Chapter 03
@@ -143,6 +153,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 20. ID: 02-CHAR-06
     Type: Character
     Name: Atul Butte
+    Cultural Identity: Not stated
+    Nationality/Ethnicity: Not stated
     Context: Systems medicine bridge at Stanford
     Function: Signal the pivot from bedside to pipelines
     Reuse: Part III
@@ -150,6 +162,8 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
 21. ID: 02-CHAR-07
     Type: Character
     Name: Ben Pinsky
+    Cultural Identity: Not stated
+    Nationality/Ethnicity: Not stated
     Context: Dengue prognostic validation project
     Function: Show market allocation of attention
     Reuse: Chapter 03
@@ -181,3 +195,19 @@ Exit handoff: Having followed the money through these systems, Chapter 03 traces
     Context: Risk scoring, denials, and payment inflation
     Function: Show insurance dividend mechanics
     Reuse: Part III
+
+26. ID: 02-CULT-01
+    Type: Ritual
+    Name: Australia vs West Indies Test cricket contrast
+    Context: Commonwealth cricket framing for systems vs improvisation
+    Function: Cultural translation for legibility and dominance
+    Reuse: Chapter 03
+
+27. ID: 02-CHAR-08
+    Type: Character
+    Name: Brian Lara
+    Cultural Identity: Trinidad and Tobago
+    Nationality/Ethnicity: Trinidad and Tobago
+    Context: Greatest batsman of his era
+    Function: Anchor West Indies excellence and authorial lens
+    Reuse: Part II

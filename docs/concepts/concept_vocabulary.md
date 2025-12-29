@@ -106,6 +106,7 @@ This document defines non-negotiable meanings, terms, and phrases used throughou
 - Do not anthropomorphize AI.
 - Avoid moralizing language; describe incentives instead.
 - Equity is defined by outcomes, not intentions.
+- Character assets must include Cultural Identity and Nationality/Ethnicity in ledgers; avoid parenthetical identity tags in prose.
 
 ---
 
@@ -127,4 +128,3 @@ This document defines non-negotiable meanings, terms, and phrases used throughou
 - No optimism without custody reassignment
 - No invocation of Māyā without structural consequences
 - No invocation of Ma’at without governance implications
-

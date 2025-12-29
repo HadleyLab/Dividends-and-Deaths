@@ -12,7 +12,7 @@ I was trained by the people who invented it.
 
 Not the bias—the mathematics.
 
-That distinction matters, because the villain of this chapter isn’t a person. It’s a design. It’s a set of incentives so old and so normalized that we stop seeing them as choices. We start seeing them as physics.
+That distinction matters, because the villain of this chapter isn’t a person. It’s a design. It’s a set of incentives so old and so normalized that we stop seeing them as choices and start seeing them as physics.
 
 And physics, once you accept it, becomes destiny.
 
@@ -20,11 +20,11 @@ What I’m about to describe doesn’t require conspiracy. It doesn’t require 
 
 Once data can be turned into money, money will build a machine to collect it—once—and keep the dividends flowing—forever.
 
-That is the logic of the digital age. Build once. Scale endlessly. Extract repeatedly. That’s why the great platforms—social networks, marketplaces, ad engines—are not “products.” They are pipes. You lay them down and the world’s value runs through them.
+That is the logic of the digital age: build once, scale endlessly, extract repeatedly. That’s why the great platforms—social networks, marketplaces, ad engines—are not “products.” They are pipes. You lay them down and the world’s value runs through them.
 
 Marc Andreessen gave the culture its phrase for this: software is eating the world.
 
-Healthcare is where that phrase stops being clever and starts being cruel, because healthcare is the one market where the buyer is in crisis, the stakes are bodily, and the timeline is short. It is commerce under duress. And under duress, the moral theory we like to cite—free choice, informed consumers, market discipline—does not behave like morality. It behaves like appetite.
+Healthcare is where that phrase stops being clever and starts being cruel, because healthcare is the one market where the buyer is in crisis, the stakes are bodily, and the timeline is short. It is commerce under duress. Under duress, the moral theory we like to cite—free choice, informed consumers, market discipline—does not behave like morality. It behaves like appetite.
 
 The patient does not enter the precision-medicine economy as a partner.
 
@@ -42,19 +42,19 @@ A coded event.
 
 And then the machine goes to work.
 
-This chapter is the story of that machine—told through the places that trained me, the mentors who sharpened me, the datasets that seduced me, and the simple arithmetic that finally made the whole thing impossible to unsee.
+This chapter is the story of that machine—told through the places that trained me, the mentors who sharpened me, the datasets that seduced me, and the arithmetic that made the whole thing impossible to unsee.
 
 Not outrage.
 
 Arithmetic.
 
-Because the most haunting thing about this economy is not that it’s evil.
+The most haunting thing about this economy is not that it’s evil.
 
 It’s that it’s efficient.
 
 ## **Dividend One: Training the Eye to See Value**
 
-By the time I entered the University of Pennsylvania’s MD/PhD program, biology had begun its irreversible transformation into an information science. Sequencing costs were falling. Computers were getting faster. The Human Genome Project was moving toward completion. A new kind of lab was emerging—one where the limiting reagent wasn’t a pipette tip, it was a programmer.
+By the time I entered the University of Pennsylvania’s MD/PhD program, biology was already becoming an information science. Sequencing costs were falling. Computers were getting faster. The Human Genome Project was moving toward completion. A new kind of lab was emerging—one where the limiting reagent wasn’t a pipette tip, it was a programmer.
 
 Penn was the right place to feel that shift in your bones.
 
@@ -62,21 +62,19 @@ This wasn’t just another campus with ivy on the walls. Penn carries a specific
 
 And Penn also sits near another origin story—one that feels like a prophecy when you’re living a double life between biology and computation. Across the same city, within the same institutional ecosystem, the early architecture of modern computing was being forged—machines that turned human thought into symbols a device could process. You can feel it in Philadelphia if you know what you’re listening for: the hum of old ideas still powering new ones.
 
-To a lay reader, “MD/PhD” can sound like a humble brag, so let me translate it plainly: it’s a dual-degree track where you begin medical school, then step out—sometimes for years—to do full-time research training, then step back into the hospital and finish the doctor part. You learn two languages: the language of bodies and the language of evidence. You learn to move between bedside and bench without pretending they are the same world.
+To a lay reader, “MD/PhD” can sound like a humble brag. Here is the plain translation: it’s a dual-degree track where you begin medical school, step out—sometimes for years—for full-time research training, then step back into the hospital to finish the doctor part. You learn two languages: the language of bodies and the language of evidence. You learn to move between bedside and bench without pretending they are the same world.
 
 In my case, I started in medicine, then spent two years in systems engineering before returning—like a prodigal son with better self-knowledge—to a new discipline: Genomics and Computational Biology, one of the earliest formal homes for people who wanted to speak both languages—medicine and machine.
 
-That detour mattered.
+That detour mattered. Systems engineering taught me something the hospital rarely teaches explicitly: systems don’t reward effort; they reward alignment. If you speak the system’s language, you move. If you don’t, you stall.
 
-Because systems engineering taught me something the hospital rarely teaches explicitly: systems don’t reward effort; they reward alignment. If you speak the system’s language, you move. If you don’t, you stall.
-
-Engineering at Penn was brilliant, intense, and—if I’m honest—humbling in a way I did not know I needed. The culture was math-fluent in a way that felt like a dialect spoken at speed. Many of the strongest students were Chinese. The study groups moved like a current, and if you didn’t already swim that way, you spent your energy just trying not to drown.
+Engineering at Penn was brilliant, intense, and—if I’m honest—humbling in a way I did not know I needed. The culture was math-fluent in a way that felt like a dialect spoken at speed. Many of the strongest students were Chinese. The study groups moved like a current; if you didn’t already swim that way, you spent your energy just trying not to drown.
 
 I shared an office with the only other native English speaker in the cohort. He was Black. Brilliant. Eventually, like me, he left.
 
 I used to joke that the main reason I wasn’t an engineer is I don’t speak Chinese.
 
-It was a joke, yes—but it was also a coping mechanism. A way to smile at what felt like defeat. Because the truth was simpler and sharper:
+It was a joke, yes—and a coping mechanism. A way to smile at what felt like defeat. The truth underneath was simpler and sharper:
 
 They could speak math the way I could speak story.
 
@@ -123,7 +121,7 @@ Volume wins.
 
 Not because volume is morally superior, but because volume produces statistical confidence, and confidence is currency in science.
 
-In the basement—because the best kind of thinking in academia often happens below ground, away from windows, away from the campus theater—we read Motoo Kimura. Junhyong Kim trained me to think in population genetics the way an engineer thinks in constraints: not as romance, not as vibes, but as structure.
+In the basement—because the best kind of thinking in academia often happens below ground, away from windows, away from the campus theater—we read Motoo Kimura. Junhyong Kim, Korean, trained me to think in population genetics the way an engineer thinks in constraints: not as romance, not as vibes, but as structure.
 
 Here’s the gentle translation for the reader: Kimura’s neutral theory is the idea that much of genetic change is driven not by dramatic survival battles, but by randomness—drift—quiet fluctuations accumulating over time.
 
@@ -139,17 +137,17 @@ That’s not ideology. It’s the math.
 
 Junhyong could speak that math with a fluency that reminded me—painfully, productively—of the systems engineering rooms I’d just left. That same sensation: the system has a language; you either learn it or you watch the current take you.
 
-And then there was Maja Bucan, who grounded all that abstraction in wet lab reality. If Junhyong taught the grammar of populations, Maja taught the grammar of molecules—the literal feel of early training: gels, bands, ladders, the smell of buffers, the quiet discipline of doing the same thing again because biology doesn’t care that you’re tired.
+And then there was Maja Bucan, Croatian, who grounded all that abstraction in wet lab reality. If Junhyong taught the grammar of populations, Maja taught the grammar of molecules—the literal feel of early training: gels, bands, ladders, the smell of buffers, the quiet discipline of doing the same thing again because biology doesn’t care that you’re tired.
 
 A gel—for the lay reader—is a slab you run DNA through using electricity. DNA moves through it like people moving through a crowded city: some pieces travel faster, some slower. The result is visible bands—evidence you can point to. In a world of theory, the gel is your receipt.
 
-And then there was Warren Ewens on my thesis committee.
+And then there was Warren Ewens, Australian, on my thesis committee. He was the only one from the British Commonwealth. He and I would drift into Australia versus West Indies Test cricket, and for me Brian Lara was still the greatest batsman of his era, from Trinidad and Tobago.
 
 Warren carried the kind of quiet authority that doesn’t need to announce itself. His presence in that room wasn’t about flash. It was about standards. The kind of standards that make you realize you’re not just learning facts—you’re being shaped by a lineage.
 
-The jargon map above is the shorthand; in the mid-2000s, that was big science.
+The jargon map above is the shorthand; in the mid-2000s, it was big science.
 
-And one of the great early resources for autism genetics was AGRE—the Autism Genetics Resource Exchange—families who volunteered their time, their blood, their stories, their patience. Parents showed up again and again; the recruitment letters said “research is hope,” and the families kept coming.
+And one of the great early resources for autism genetics was AGRE—the Autism Genetics Resource Exchange—families who volunteered their time, their blood, their stories, their patience. Parents showed up again and again. The recruitment letters said “research is hope,” and the families kept coming.
 
 The first time I analyzed one of those autism cohorts, I didn’t start with a sophisticated model.
 
@@ -159,7 +157,7 @@ A pivot table is a blunt instrument: you take a spreadsheet and count categories
 
 Who is actually in here?
 
-I pivoted the cohort by the ancestry labels recorded in the dataset. The output was not a poetry line. It was a number line:
+I pivoted the cohort by the ancestry labels recorded in the dataset. The output was not poetry. It was a number line:
 
 European ancestry: ~99%
 Everything else: the remainder—thin slices too small to carry statistical weight.
@@ -174,15 +172,13 @@ If you don’t have enough samples from a group, you cannot generate reliable co
 
 Small numbers don’t create clarity. They create noise.
 
-Noise doesn’t publish, fund, or become product.
+Noise doesn’t publish, doesn’t fund, doesn’t become product.
 
-So the machine narrows, and we did what everyone did. We dropped the outliers and carried on.
+So the machine narrows. We did what everyone did: dropped the outliers and carried on.
 
 Not because anyone wanted to erase anyone. Because the system rewarded the path of least statistical resistance.
 
-That is the second dividend:
-
-a dataset that’s big enough—and clean enough—to produce effects.
+That is the second dividend: a dataset big enough, clean enough, to produce effects.
 
 And once you can produce effects, you can get grants, publish, build reputation, attract investors, file patents.
 
@@ -262,15 +258,15 @@ Inside CHOP, a new kind of center was coming into power: the Center for Applied 
 
 This is where I first met Hakon Hakonarson in that era: Icelandic by ancestry, big-science by temperament, running the center like a builder. If academia has poets, he read as an engineer of scale.
 
-And engines produce outputs. Not just papers. Not just knowledge.
+Engines produce outputs. Not just papers or knowledge.
 
 Value.
 
 At NeuroFix—our precision-medicine venture in neuropsychiatry—I became lead bioinformatician on pediatric genotyping efforts at a scale that was breathtaking at the time: tens of thousands of children, hundreds of thousands of SNPs.
 
-Put in plain terms: we were taking a child’s biology and turning it into a dataset dense enough to compute on.
+Plainly: we were taking a child’s biology and turning it into a dataset dense enough to compute on.
 
-And then I asked the same question again:
+I asked the same question again:
 
 Who is in the dataset?
 
@@ -282,7 +278,7 @@ Not “mostly.” Not “skewed.” Not “needs improvement.”
 
 A near-monoculture.
 
-And here is where the book’s thesis begins to harden into something readers can feel in their teeth:
+Here the book’s thesis begins to harden into something readers can feel in their teeth:
 
 CHOP’s dataset—built beside a majority-Black community—barely represented that community.
 
@@ -290,7 +286,7 @@ The children across the street were absent from the genomic record defining the 
 
 This isn’t symbolic exclusion.
 
-This is economic exclusion.
+It is economic exclusion.
 
 Because those genotypes didn’t just generate knowledge.
 
@@ -319,18 +315,13 @@ The dividends are what keep paying long after the seed is planted.
 
 And NeuroFix eventually sold for millions.
 
-Here is the part that should make the reader physically uncomfortable:
+Here is the part meant to land physically:
 
 None of those dividends went back to the families whose DNA made the value possible.
 
 The patient—the literal source of the asset—does not get reimbursed.
 
-The hospital bills.
-The lab bills.
-The insurer bills and denies and arbitrates.
-The vendors bill.
-The platforms monetize.
-The investors exit.
+The hospital bills. The lab bills. The insurer bills, denies, arbitrates. Vendors bill. Platforms monetize. Investors exit.
 
 The patient supplies the substrate and gets nothing but the bill.
 
@@ -359,15 +350,15 @@ It’s indictment.
 
 After CHOP, I went to Stanford for residency in Clinical Pathology and Laboratory Medicine—the specialty that lives behind the scenes, where medicine becomes measurable.
 
-If you want to know how the healthcare economy truly works, go to pathology.
+If you want to know how the healthcare economy really works, go to pathology.
 
-Pathology is where disease becomes a label. Where a diagnosis becomes something that can be recorded, transmitted, billed. Where biology becomes code.
+Pathology is where disease becomes a label, where a diagnosis can be recorded, transmitted, billed, where biology becomes code.
 
 At Stanford, I learned the simplest rule of American medicine:
 
 If you can’t bill it, it won’t live.
 
-This is where the vocabularies matter—not as acronyms, but as the alphabet of power:
+Here the vocabularies matter—not as acronyms, but as the alphabet of power:
 - ICD: what you're diagnosed with
 - CPT: what was done to you
 - LOINC: what lab result you produced
@@ -383,7 +374,7 @@ But if it doesn’t fit into the coded pathways, it doesn’t become routine car
 
 And routine care is where scale happens.
 
-At Stanford I also lived another truth: the training environment itself is a kind of machine. In my CP year there was essentially one other resident I truly ran alongside—an Israeli, Caltech-trained, the kind of colleague who solved problems in the room faster than anyone else. We both left after the first year. Different exits, same conclusion:
+Stanford taught me another truth: the training environment itself is a kind of machine. In my CP year there was essentially one other resident I truly ran alongside—an Israeli, Caltech-trained, the kind of colleague who solved problems in the room faster than anyone else. We both left after the first year. Different exits, same conclusion:
 
 Some systems are not built to keep you; they are built to use you.
 
@@ -395,7 +386,7 @@ With Ben Pinsky, Stanford’s virology leadership, we worked on dengue prognosti
 
 Prognostic testing in dengue is hard because severe cases are rare, and rarity is the enemy of statistical power. You need enough events to predict events. You need enough outcomes to model outcomes.
 
-And again, I saw the same economic physics:
+I saw the same economic physics again:
 
 If a disease is concentrated in places without purchasing power, the pipeline moves slower.
 If a disease is concentrated in places with insurers and reimbursement, the pipeline speeds up.
@@ -406,9 +397,9 @@ They’re just incomplete.
 
 American medicine is about codes.
 
-Because codes are how money flows.
+That’s how money flows.
 
-And around that same era, the wider tech world was shifting in ways that made the convergence feel inevitable: Bitcoin moving from obscure to discussable; deep learning’s modern arc accelerating; GPUs becoming the new industrial engine. The air was changing. The pipes were being laid.
+Around that same era, the wider tech world was shifting in ways that made the convergence feel inevitable: Bitcoin moving from obscure to discussable; deep learning’s modern arc accelerating; GPUs becoming the new industrial engine. The air was changing. The pipes were being laid.
 
 So I turned toward systems medicine—not as branding, but as the only way I knew how to stay honest.
 
@@ -428,7 +419,7 @@ At UCSF, I entered the era of open data at scale—repositories like GEO (the Ge
 
 Open data is sold as democratization.
 
-And in some ways, it is.
+In some ways, it is.
 
 But open data has a shadow property that matters more in an economy:
 
@@ -442,9 +433,9 @@ It misrepresents a thousand times.
 
 Because every reuse inherits the shape of the original.
 
-At UCSF, I watched this happen in real time. The same samples—drawn largely from the same populations—producing results that become “generalizable” through repetition, not through true representational breadth.
+At UCSF, I watched this happen in real time. The same samples—drawn largely from the same populations—producing results that became “generalizable” through repetition, not through true representational breadth.
 
-This is the network effect in scientific clothing:
+That is the network effect in scientific clothing:
 
 Once a dataset becomes the standard reference, it attracts more users.
 More users generate more papers.
@@ -510,7 +501,7 @@ This is where the dividends become grotesque.
 
 A recent OIG-reported pattern (covered publicly) described billions in extra Medicare Advantage payments tied to diagnoses from insurer-initiated home visits, often without follow-up treatment—diagnosis as revenue event.
 
-And then there’s the lawsuit story—the one that feels like the future arriving early.
+There is also the lawsuit story—the one that feels like the future arriving early.
 
 A Reuters-reported case describes allegations around a company (owned by UnitedHealth) accused of using algorithmic risk scores that inflated risk and denied or delayed needed post-acute care for Medicare Advantage patients, with claims of rapid denials and pressure on clinicians.
 
@@ -539,11 +530,7 @@ Here is the dividend logic, stacked:
 5. Insurance dividend: risk scoring turns diagnoses into revenue and denials into savings.
 6. Equity surcharge: representation costs more - priced explicitly by the market.
 
-Add it up and you don’t get “a big industry.”
-
-You get an economy with gravity.
-
-You get an economy that can plausibly sit under the umbrella of U.S. healthcare spending in the trillions.
+Add it up and you don’t get “a big industry.” You get an economy with gravity, one that can plausibly sit under the umbrella of U.S. healthcare spending in the trillions.
 
 And the central insult remains:
 
