@@ -3,6 +3,9 @@
 ## Purpose
 Control reader fatigue and momentum by governing where the book permits grief, when it demands analysis, and how often agency must return. This document is a guardrail, not prose.
 
+## Scope
+Applies to every chapter, with special attention to the Prologue and Part transitions.
+
 ## Emotional Temperature by Part
 | Section | Emotional Temperature | Dominant Emotions | Notes |
 | --- | --- | --- | --- |

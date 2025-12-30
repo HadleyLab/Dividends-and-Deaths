@@ -1,10 +1,12 @@
+# Ma’at
 
-# Ma’at Guidance
+## Purpose
+Keep Ma’at structurally present without turning it into philosophy or moral instruction.
 
-Use this to keep Ma’at structurally present without turning it into philosophy or moral instruction.
+## Scope
+Applies to chapters once systems are shown to function without accountability.
 
-## Core Principle
-
+## Usage
 Treat Ma’at as governance logic, not virtue.
 - Do not introduce Ma’at in Chapter 1.
 - Ma’at emerges only once systems are shown to function without accountability.
@@ -57,27 +59,25 @@ Immediately translate it into modern terms:
 - revocation
 - enforceable responsibility
 
-⸻
+---
 
-Final Chapters (Dividends, Contracts, Futures)
-	•	Do not repeat the definition.
-	•	Use Ma’at implicitly through mechanisms:
-	•	custody reassignment
-	•	enforceable provenance
-	•	shared dividends
-	•	revocable representations
-	•	Ma’at is now rendered operational.
+### Final Chapters (Dividends, Contracts, Futures)
+- Do not repeat the definition.
+- Use Ma’at implicitly through mechanisms:
+  - custody reassignment
+  - enforceable provenance
+  - shared dividends
+  - revocable representations
+- Ma’at is now rendered operational.
 
-The reader should understand:
+The reader should understand: Governance is Ma’at without the name.
 
-Governance is Ma’at—without the name.
+---
 
-⸻
-
-Relationship to Digital Māyā
-	•	Māyā explains how systems drift.
-	•	Ma’at explains why drift is tolerated.
-	•	Māyā is descriptive.
+### Relationship to Digital Māyā
+- Māyā explains how systems drift.
+- Ma’at explains why drift is tolerated.
+- Māyā is descriptive.
 	•	Ma’at is corrective.
 
 Never collapse them.

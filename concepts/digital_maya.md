@@ -1,9 +1,12 @@
+# Digital Maya
 
-# Digital Maya Guidance
+## Purpose
+Keep Digital Maya present without repeating its definition.
 
-Use this to keep Digital Maya present without repeating its definition.
+## Scope
+Applies to all chapters after the initial definition in Chapter 1.
 
-## Core Principle
+## Usage
 Treat Digital Maya as a lens, not a slogan.
 
 - Name Digital Maya once in Chapter 1.

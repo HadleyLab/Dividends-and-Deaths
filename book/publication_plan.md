@@ -1,5 +1,11 @@
 # Publication Plan
 
+## Purpose
+Define the editorial process and delivery discipline.
+
+## Scope
+Applies to the full manuscript from Prologue through Epilogue.
+
 This plan focuses on editorial convergence, structural tightening, and execution discipline. Use it to move from complete system to publication-ready book.
 
 ## Current State

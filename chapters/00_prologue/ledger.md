@@ -91,8 +91,8 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 
 11. ID: 00-CHAR-05
     Type: Character
-    Name: Ma-Ma
-    Aliases: Mama
+    Name: Mama
+    Aliases: Ma-Ma
     Status: Deceased
     Cultural/National Identity: Hindu matriarch; Trinidadian
     Context: Gasparillo family yard, rituals
@@ -790,7 +790,7 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
 105. ID: 00-CONCEPT-20
     Type: Concept
     Name: Hindi
-    Context: Ma-Ma’s prayers and bhajans
+    Context: Mama’s prayers and bhajans
     Function: Ritual and language marker
     Reuse: Chapter 03
 
@@ -1099,3 +1099,117 @@ Exit handoff: Move from human cost to system mechanics for Chapter 01.
     Context: Prologue section title
     Function: Thesis and title anchor
     Reuse: Across book
+
+149. ID: 00-CHAR-17
+    Type: Character
+    Name: Brother (author’s)
+    Status: Living
+    Cultural/National Identity: Trinidadian (Dougla)
+    Context: Childhood scenes and migration
+    Function: Shared lineage witness
+    Reuse: Chapter 03
+
+150. ID: 00-CHAR-18
+    Type: Character
+    Name: Children (author’s)
+    Status: Living
+    Cultural/National Identity: Trinidadian and Spanish Moroccan lineage
+    Context: Future inheritance and boat scene
+    Function: Stakes for system redesign
+    Reuse: Part V, Part VI
+
+151. ID: 00-CHAR-19
+    Type: Character
+    Name: Seventh-day Adventist pastor
+    Status: Living
+    Cultural/National Identity: Not stated
+    Context: Father’s burial at sea
+    Function: Ritual witness
+    Reuse: Epilogue
+
+152. ID: 00-PLACE-25
+    Type: Place
+    Name: Nursing home
+    Context: Father’s end-of-life care in Florida
+    Function: Custody gap setting
+    Reuse: Chapter 03, Chapter 07
+
+153. ID: 00-OBJ-09
+    Type: Object
+    Name: Oorni (Hindu headpiece)
+    Context: Mama’s daily attire
+    Function: Visual anchor of Hindu lineage
+    Reuse: Chapter 04
+
+154. ID: 00-RIT-04
+    Type: Ritual
+    Name: Pooja and bhajan prayers
+    Context: Mama’s daily chanting in Hindi
+    Function: Faith rhythm in Gasparillo
+    Reuse: Chapter 04
+
+155. ID: 00-RIT-05
+    Type: Ritual
+    Name: Hindu cremation pyre by the village creek
+    Context: Mama’s funeral rites
+    Function: Care honored outside formal institutions
+    Reuse: Chapter 04
+
+156. ID: 00-CONCEPT-33
+    Type: Concept
+    Name: Hypertension
+    Context: Father’s comorbidity
+    Function: Chronic disease burden
+    Reuse: Chapter 03
+
+157. ID: 00-CONCEPT-34
+    Type: Concept
+    Name: Diabetes
+    Context: Father’s comorbidity
+    Function: Chronic disease burden
+    Reuse: Chapter 03
+
+158. ID: 00-CONCEPT-35
+    Type: Concept
+    Name: End-stage kidney disease
+    Context: Father’s renal failure
+    Function: System cost and dependency
+    Reuse: Chapter 07
+
+159. ID: 00-CONCEPT-36
+    Type: Concept
+    Name: Dialysis
+    Context: Father’s treatment
+    Function: System dependency marker
+    Reuse: Chapter 07
+
+160. ID: 00-CONCEPT-37
+    Type: Concept
+    Name: Profit from failure
+    Context: Revenue structure that rewards readmissions and chronic decline
+    Function: System incentive exposure
+    Reuse: Chapter 07
+
+161. ID: 00-ORG-17
+    Type: Organization
+    Name: Seventh-day Adventist community hospital (Trinidad)
+    Context: Mother’s nursing post and father’s administration role
+    Function: Faith-to-care bridge
+    Reuse: Chapter 03
+
+## Scene Map
+1. The Mother of Precision Medicine: 00-PHRASE-02, 00-CASE-01, 00-OBJ-01, 00-PLACE-01, 00-SYMBOL-01, 00-THESIS-01, 00-CONCEPT-01, 00-EXIT-01
+2. Behind God’s Back: 00-PHRASE-03, 00-CHAR-01, 00-CHAR-02, 00-CHAR-03, 00-CHAR-08, 00-PLACE-03, 00-PLACE-04, 00-PLACE-02, 00-PLACE-06
+3. The Rose from Gasparillo: 00-PHRASE-04, 00-CHAR-04, 00-CHAR-01, 00-ORG-06, 00-ORG-17, 00-PLACE-05, 00-PLACE-07, 00-PLACE-20
+4. Malta, Mangoes, and Mauby: 00-PHRASE-05, 00-CHAR-05, 00-CHAR-02, 00-CHAR-04, 00-CHAR-06, 00-CHAR-07, 00-CHAR-17, 00-CONCEPT-19, 00-OBJ-02, 00-OBJ-03, 00-OBJ-09, 00-RIT-02, 00-RIT-03, 00-RIT-04, 00-RIT-05, 00-HIST-04, 00-PLACE-05, 00-PLACE-08, 00-PLACE-09, 00-PLACE-10, 00-PLACE-11, 00-SYMBOL-02, 00-SYMBOL-03
+5. A Long Line of Universal Men: 00-PHRASE-06, 00-CONCEPT-03, 00-CHAR-01, 00-CHAR-02, 00-CHAR-03, 00-CHAR-06, 00-CHAR-07, 00-CHAR-08, 00-CONCEPT-19, 00-ORG-14
+6. Code and Calling: 00-PHRASE-07, 00-OBJ-04, 00-OBJ-05, 00-FORESHADOW-01, 00-CONCEPT-25, 00-CHAR-03, 00-CHAR-04
+7. Migration and the Cost of Opportunity: 00-PHRASE-08, 00-CONCEPT-02, 00-PLACE-19, 00-PLACE-17, 00-PLACE-18, 00-CHAR-01, 00-CHAR-04, 00-CHAR-17, 00-HIST-03
+8. Franklin’s University and the Promise of Precision: 00-PHRASE-09, 00-PLACE-12, 00-CHAR-14, 00-ORG-05, 00-CONCEPT-13, 00-HIST-01, 00-CHAR-15, 00-POLICY-02, 00-ORG-08, 00-PLACE-21, 00-PLACE-13, 00-CHAR-09, 00-ORG-01, 00-CONCEPT-10, 00-THESIS-01
+9. The Transitional Year and the Decision Not to Cut: 00-PHRASE-10, 00-ORG-07
+10. Stanford, Ontologies, and the Skeleton of the System: 00-PHRASE-11, 00-ORG-15, 00-CHAR-11, 00-CONCEPT-05, 00-CONCEPT-06, 00-CONCEPT-07, 00-CONCEPT-08, 00-CONCEPT-01, 00-CHAR-10
+11. UCSF, Eighty Million Lives, and the Profit of Failure: 00-PHRASE-12, 00-PLACE-22, 00-PLACE-15, 00-ORG-16, 00-CHAR-12, 00-ORG-09, 00-EVID-02, 00-OBJ-08, 00-CONCEPT-09, 00-CONCEPT-37
+12. Florida, DEI, and a Pacemaker Serial Number: 00-PHRASE-13, 00-PLACE-16, 00-ORG-13, 00-ORG-02, 00-ORG-03, 00-HIST-02, 00-EVID-01, 00-ORG-10, 00-POLICY-01, 00-POLICY-03, 00-ORG-04, 00-CONCEPT-33, 00-CONCEPT-34, 00-CONCEPT-35, 00-CONCEPT-36, 00-OBJ-06, 00-PLACE-25, 00-CHAR-01, 00-CHAR-04
+13. Alzheimer’s, Culture, and COVID: 00-PHRASE-14, 00-CONCEPT-09, 00-CHAR-01, 00-CHAR-04, 00-HIST-02, 00-PLACE-25, 00-CONCEPT-03
+14. A Universal Future: 00-PHRASE-15, 00-CHAR-13, 00-CHAR-18, 00-CHAR-04, 00-CONCEPT-03, 00-CONCEPT-09, 00-CONCEPT-17, 00-CONCEPT-21, 00-CONCEPT-22, 00-CONCEPT-23
+15. Dividends & Deaths: 00-PHRASE-16, 00-OBJ-07, 00-PLACE-04, 00-PLACE-03, 00-CHAR-19, 00-CHAR-18, 00-CHAR-13, 00-CHAR-01, 00-CHAR-02, 00-CHAR-05, 00-CHAR-06, 00-CHAR-07, 00-CASE-01, 00-ORG-08, 00-ORG-15, 00-PLACE-15, 00-ORG-04, 00-POLICY-01, 00-THESIS-01, 00-CONCEPT-11, 00-CONCEPT-12, 00-CONCEPT-01, 00-EXIT-01

@@ -98,6 +98,8 @@ Just a boy, a boat, and a mother’s faith.
 
 He never lived in Charlotteville again.
 
+Colonial extraction left only one path out, even when the island had none.
+
 
 
 **The Rose from Gasparillo**
@@ -162,17 +164,19 @@ I grew up inside that something.
 
  
 
-We had three grandmothers and one grandfather in our emotional orbit: Ma‑Ma in Gasparillo; Granny, my Black Tobagonian grandmother; Grandma, my Venezuelan step‑grandmother; and Grandpa, the Trinidadian son of the British Major’s line.
+We had three grandmothers and one grandfather in our emotional orbit: Mama in Gasparillo; Granny, my Black Tobagonian grandmother; Grandma, my Venezuelan step‑grandmother; and Grandpa, the Trinidadian son of the British Major’s line.
 
  
 
-On some weekends, my mother drove us from our home in St. James in Port of Spain “down South” to Gasparillo to see Ma-Ma, who lived with her elder sister, one of the main ringleaders in the family opposing her marrying that creole boy. She would jokingly explain it away and say once the family saw my brother and me with “straight hair” they accepted us. Again, I suspect she was right as we were never treated differently for being dougla. However, my father never went down south with us. Just my mother, my brother, and me—straight hair and all.
+On some weekends, my mother drove us from our home in St. James in Port of Spain “down South” to Gasparillo to see Mama, who lived with her elder sister, one of the main ringleaders in the family opposing her marrying that creole boy. She would jokingly explain it away and say once the family saw my brother and me with “straight hair” they accepted us. Again, I suspect she was right as we were never treated differently for being dougla. However, my father never went down south with us. Just my mother, my brother, and me—straight hair and all.
 
-I only knew Ma-Ma senile. She never aged to me either. She was always old until one day she died. She would go about her day in her white oorni or Hindu headpiece, a simple white dress, and thick black horn-rimmed glasses worthy of a nonagenarian. She had a frail body always chanting in Hindi—her daily prayers or poojas, singing her bhajans. Up until I emigrated, she was still doing her normal chores like washing her clothes and everything else slightly out of her mind.
+I only knew Mama senile. She never aged to me either. She was always old until one day she died. She would go about her day in her white oorni or Hindu headpiece, a simple white dress, and thick black horn-rimmed glasses worthy of a nonagenarian. She had a frail body always chanting in Hindi—her daily prayers or poojas, singing her bhajans. Up until I emigrated, she was still doing her normal chores like washing her clothes and everything else slightly out of her mind.
 
 Mama was so old they didn’t know her exact age. Her birth certificate was lost in the Red House fire of 1903 when she was a little girl. As she could neither read nor write it was understandable they didn’t know her exact date of birth. We assumed she died close to 100 years old. I distinctly remember returning to Trinidad that Christmas break of my first year in medical school for the funeral.
 
 Her body was cremated in traditional Hindu pomp and ceremony like the matriarch she was. Her body burned in an outdoor pyre on the banks of the village creek used for such ceremonies. Her ashes returned to the ground that bore her as she was celebrated by the community for her lifelong contributions.
+
+Care was honored in ritual because the economy never counted it.
 
 Her big yard was our little universe: sugar cane along the back fence, mango trees of every variety, pawpaw, guava, governor plums, regular plums, whatever could grow in Trinidad’s heat. There were always cousins. Always some uncle tuning a car. 
 
@@ -681,7 +685,7 @@ On the boat with me were all my children, my three older teenage girls, my two y
 In that moment, the lines converged:
 
 - Granny, the Black seamstress who sent her son away by boat so he wouldn’t be trapped behind God’s back.
-- Ma-Ma, the Hindu matriarch whose yard grew sugar cane, mangoes, pawpaw, guava, and governor plums, and whose daughter broke every rule by marrying a creole.
+- Mama, the Hindu matriarch whose yard grew sugar cane, mangoes, pawpaw, guava, and governor plums, and whose daughter broke every rule by marrying a creole.
 - Grandma and Grandpa, the Venezuelan-Trinidadian step-grandparents who represented a line that once owned 900 acres and never owned responsibility for what had been done with it.
 - My parents, who migrated in their fifties so their sons could go to schools they’d only ever read about.
 - Henrietta Lacks, the mother of precision medicine, whose cells made other people rich and whose descendants had to hire a civil rights attorney to get anyone to admit what had been taken.

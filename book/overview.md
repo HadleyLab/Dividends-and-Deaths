@@ -1,9 +1,16 @@
 # Dividends & Deaths
 ## Reclaiming the Precision Medicine Economy
 
-Author: Dexter Hadley, MD/PhD
+## Purpose
+Provide the high-level narrative and chapter map for the book.
 
-## Book Overview
+## Scope
+Applies to proposals, editorial alignment, and chapter sequencing.
+
+## Author
+Dexter Hadley, MD/PhD
+
+## Overview
 
 Modern medicine runs on an economy most people never see.
 

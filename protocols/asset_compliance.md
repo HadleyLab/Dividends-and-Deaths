@@ -1,22 +1,23 @@
-# Canon Compliance and Narrative Governance
+# Canon Compliance Protocol
 
-**Applies to the Prologue and all chapters.  
-This document defines policy, not style.**
+## Purpose
+Enforce the non-negotiable rules that govern naming, interiority, identity, and claims.
 
-This book is governed by a strict narrative canon.  
-All chapters, ledgers, and revisions must comply with the rules below.
+## Scope
+Applies to the Prologue and all chapters.
 
-This document works in conjunction with:
-- `book_spine.md`
-- `chapter_blueprint.md`
-- `emotional_arc_map.md`
-- `narrative_asset_template.md`
+## Inputs
+- `book/spine.md`
+- `protocols/chapter_build.md`
+- `book/emotional_arc.md`
+- `protocols/narrative_asset.md`
 
-No chapter should be written or revised without reference to these documents.
+## Outputs
+- Chapters and ledgers that comply with the canon
 
----
+## Procedure
 
-## 1. Naming and Identity
+### Rule 1. Naming and Identity
 
 - Only **one living, non–public-figure person may be named** in the entire book:
   - **Pearl Surajee** (the author’s mother)
@@ -33,7 +34,7 @@ Naming is power. This rule protects privacy, avoids unintended attribution, and 
 
 ---
 
-## 2. Interior-State Prohibition
+### Rule 2. Interior-State Prohibition
 
 - Do **not** describe or infer:
   - Thoughts
@@ -69,7 +70,7 @@ This book documents systems, not psychologies. Interior speculation weakens auth
 
 ---
 
-## 3. Cultural, Religious, and Identity Representation
+### Rule 3. Cultural, Religious, and Identity Representation
 
 - Faith appears as:
   - Environment
@@ -102,7 +103,7 @@ Faith is lived context, not thesis. Identity is context, not characterization.
 
 ---
 
-## 4. Language and Jargon
+### Rule 4. Language and Jargon
 
 - All technical or academic jargon must:
   - Be introduced gently
@@ -116,7 +117,7 @@ If a term cannot be explained to a lay reader without embarrassment, it does not
 
 ---
 
-## 5. Narrative Asset Rules
+### Rule 5. Narrative Asset Rules
 
 Every narrative asset must be logged in its chapter ledger using the canonical template.
 
@@ -152,7 +153,7 @@ Assets that are not logged are considered non-canonical.
 
 ---
 
-## 6. Economic Claims
+### Rule 6. Economic Claims
 
 - Quantified claims must be:
   - Conservative
@@ -168,7 +169,7 @@ This invariant must never be contradicted.
 
 ---
 
-## 7. Spine Alignment
+### Rule 7. Spine Alignment
 
 Each chapter ledger must explicitly map:
 - Chapter Question
@@ -181,7 +182,7 @@ Assets that do not serve one of these functions must be:
 
 ---
 
-## 8. Authorial Posture
+### Rule 8. Authorial Posture
 
 The authorial voice must be:
 - Observational
@@ -197,6 +198,15 @@ Avoid:
 The book critiques systems, not individuals.
 
 ---
+
+## Notes
+This protocol defines policy, not style.
+
+## Checks
+- Naming rules respected for living and public figures.
+- Interior-state prohibition observed outside allowed exceptions.
+- Character assets include Status and Cultural/National Context.
+- Economic claims framed conservatively and sourced.
 
 ## 9. Forward Compatibility
 

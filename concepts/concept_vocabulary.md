@@ -1,7 +1,13 @@
-
 # Dividends & Deaths — Concept & Vocabulary Canon
 
-This document defines non-negotiable meanings, terms, and phrases used throughout the book. Its purpose is to prevent semantic drift, enforce conceptual precision, and maintain narrative authority.
+## Purpose
+Define non-negotiable meanings, terms, and phrases used throughout the book.
+
+## Scope
+Applies to all chapters and protocols.
+
+## Usage
+Reference this file whenever a core term appears in prose or a ledger.
 
 ---
 

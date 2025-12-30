@@ -1,4 +1,10 @@
-# Dividends & Deaths - Book Spine (Narrative Contracts)
+# Dividends & Deaths - Book Spine
+
+## Purpose
+Define narrative contracts, red lines, and part-level commitments.
+
+## Scope
+Applies to every chapter and ledger.
 
 ## One-Sentence Thesis
 Modern precision medicine and AI are extraction economies that convert human life into codes, capture the dividends upstream, and leave the deaths downstream; this book argues that the future depends on returning custody, provenance, and economic participation to the patients whose bodies power the system.
