@@ -354,7 +354,7 @@ As I moved through those cities, I did not feel erased.
 
 I felt clarified.
 
-I did not need a Sistine Chapel ceiling to remember who I am. I did not need validation carved into stone. My ancestry was already encoded—not in monuments, but in lineage. From India to the Arab world to Africa, and now braided again through my wife, my history predates the need for European permission.
+I did not need a Sistine Chapel ceiling to remember who I am. I did not need validation carved into stone. My ancestry was already encoded—not in monuments, but in lineage. From India to through Africa, and now braided again through my Arab wife, both my history and legacy predates the need for European permission.
 
 Walking there with my children, that truth felt less philosophical and more practical.
 

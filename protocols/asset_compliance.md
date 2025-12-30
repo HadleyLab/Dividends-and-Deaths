@@ -148,6 +148,7 @@ Canonical asset types:
 - Organization
 - Policy
 - Evidence
+- Citation
 - Historical case
 - Metaphor
 - Foreshadowing
@@ -163,6 +164,8 @@ Assets that are not logged are considered non-canonical.
   - Order-of-magnitude
   - Anchored in widely cited public figures or structural logic
 - Avoid precise numbers unless sourced.
+- If a claim is not cited, keep it to rough orders of magnitude or clearly qualified ranges.
+- If a claim is cited, precise numbers may be used as long as they match the source.
 - The core economic invariant of the book is fixed:
 
 > **Every layer of the system is reimbursed  
