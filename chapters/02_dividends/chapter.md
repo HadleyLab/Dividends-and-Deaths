@@ -3,7 +3,7 @@ Status: POLISH
 ## **Where the Money Goes**
 
 > **Chapter Question:** How did the precision-medicine economy learn to monetize data long before it learned to represent the people who generate it?
-> **Chapter Claim:** Every major discovery pipeline—from Penn to CHOP to Stanford to UCSF to UCF—was engineered to reward coded volume, not demographic accuracy, so the dividends naturally flowed upward to those already legible.
+> **Chapter Claim:** Every major discovery pipeline—from Penn to CHOP to Stanford to UCSF to the University of Central Florida (UCF)—was engineered to reward coded volume, not demographic accuracy, so the dividends naturally flowed upward to those already legible.
 > **Exit Handoff:** Having followed the money through these systems, Chapter Three traces the deaths that accumulate wherever the data disappears.
 
 I did not stumble into the mathematics of bias.
@@ -374,7 +374,7 @@ But if it doesn’t fit into the coded pathways, it doesn’t become routine car
 
 And routine care is where scale happens.
 
-Stanford taught me another truth: the training environment itself is a kind of machine. In my CP year there was essentially one other resident I truly ran alongside—an Israeli, Caltech-trained, the kind of colleague who solved problems in the room faster than anyone else. We both left after the first year. Different exits, same conclusion:
+Stanford taught me another truth: the training environment itself is a kind of machine. In my clinical pathology (CP) year there was essentially one other resident I truly ran alongside—an Israeli, Caltech-trained, the kind of colleague who solved problems in the room faster than anyone else. We both left after the first year. Different exits, same conclusion:
 
 Some systems are not built to keep you; they are built to use you.
 
@@ -382,7 +382,7 @@ From Stanford, one of the most important projects I touched wasn’t a glamorous
 
 It was dengue.
 
-With Ben Pinsky, Stanford’s virology leadership, we worked on dengue prognostic validation in Trinidad—a place where the circulating serotype was available and the reality was immediate. Dengue is classified by the WHO among neglected tropical diseases. The irony of “neglected” hits differently when you grew up in the tropics: you learn that the world’s attention isn’t allocated by suffering; it’s allocated by markets.
+With Ben Pinsky, Stanford’s virology leadership, we worked on dengue prognostic validation in Trinidad—a place where the circulating serotype was available and the reality was immediate. Dengue is classified by the World Health Organization (WHO) among neglected tropical diseases. The irony of “neglected” hits differently when you grew up in the tropics: you learn that the world’s attention isn’t allocated by suffering; it’s allocated by markets.
 
 Prognostic testing in dengue is hard because severe cases are rare, and rarity is the enemy of statistical power. You need enough events to predict events. You need enough outcomes to model outcomes.
 
@@ -399,7 +399,7 @@ American medicine is about codes.
 
 That’s how money flows.
 
-Around that same era, the wider tech world was shifting in ways that made the convergence feel inevitable: Bitcoin moving from obscure to discussable; deep learning’s modern arc accelerating; GPUs becoming the new industrial engine. The air was changing. The pipes were being laid.
+Around that same era, the wider tech world was shifting in ways that made the convergence feel inevitable: Bitcoin moving from obscure to discussable; deep learning’s modern arc accelerating; GPUs—graphics processing units—becoming the new industrial engine. The air was changing. The pipes were being laid.
 
 So I turned toward systems medicine—not as branding, but as the only way I knew how to stay honest.
 
@@ -454,7 +454,7 @@ And the people who own the pipes get the dividends.
 
 ## **Dividend Seven: UCF, COVID, and the Price of Representation**
 
-By the time I reached UCF, I had already lived inside the system long enough to recognize its reflexes.
+By the time I reached the University of Central Florida (UCF), I had already lived inside the system long enough to recognize its reflexes.
 
 Then COVID hit, and the system revealed itself in high contrast: the inequities that used to be buried in academic language became national headlines.
 
@@ -499,7 +499,7 @@ By then I already knew the first rule from Chapter One: The billable code is the
 
 This is where the dividends become grotesque.
 
-A recent OIG‑reported pattern (covered publicly) described billions in extra Medicare Advantage payments tied to diagnoses from insurer‑initiated home visits, often without follow‑up treatment—diagnosis as revenue event.
+A recent Office of Inspector General (OIG)‑reported pattern (covered publicly) described billions in extra Medicare Advantage payments tied to diagnoses from insurer‑initiated home visits, often without follow‑up treatment—diagnosis as revenue event.
 
 There is also the lawsuit story—the one that feels like the future arriving early.
 
