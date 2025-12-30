@@ -6,6 +6,9 @@ Define the core ideas, terms, and lenses that must stay consistent across the bo
 ## Scope
 Applies to all chapters and protocols.
 
+## Chapter Bundle
+Concept definitions support the `chapter.md`, `ledger.md`, and `scene.md` triplet used in each chapter bundle.
+
 ## Naming
 - Files use `snake_case`.
 

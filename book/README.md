@@ -6,6 +6,9 @@ Define the book-level invariants that must remain stable across drafts.
 ## Scope
 Applies to all chapters and protocols.
 
+## Chapter Bundle
+Book-level invariants assume each chapter bundle has `chapter.md`, `ledger.md`, and `scene.md`.
+
 ## Naming
 - Files use `snake_case`.
 

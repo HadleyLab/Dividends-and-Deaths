@@ -58,6 +58,9 @@ Naming is power. This rule protects privacy, avoids unintended attribution, and 
 - Authorial attestation for *biological relatives (shared DNA)*  
   - The author may state interiority when based on direct lived experience and relational proximity.
   - Do not generalize interior states to non-relatives or to groups.
+- Authorial attestation for *spouse/partner*  
+  - Permitted when grounded in direct conversation, shared decisions, or observed practice.
+  - Prefer reported speech or concrete scenes over abstract motives or predictions.
 - Always prefer:
   - Actions
   - Roles

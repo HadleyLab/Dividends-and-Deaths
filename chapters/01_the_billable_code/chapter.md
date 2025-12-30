@@ -72,7 +72,7 @@ We built bottle rockets from saltpeter and StarLite—sparklers gutted for powde
 
 We launched them badly. We singed eyebrows.
 
-But he knew what we were learning.
+But he kept bringing us back to the rum factory for caps anyway.
 
 Cause and effect. Empirically.
 
@@ -162,7 +162,7 @@ That difference matters more than nostalgia. It is the first clue that the Ameri
 
 I learned the limits of that belief through two people I loved.
 
-My grandmother lived in a world where missing a code was a story.
+Mama lived in a world where missing a code was a story.
 
 My father died in a world where missing a code became fate.
 
@@ -280,7 +280,7 @@ That third party is insurance.
 
 Insurance demands proof. Proof demands standardization. Standardization demands codes. And once codes exist, the system begins to treat the code as more real than the human it represents.
 
-The date of birth becomes more “real” than the grandmother without it.
+The date of birth becomes more “real” than Mama without it.
 
 The pacemaker serial number becomes more actionable than the father whose chest it beats inside.
 

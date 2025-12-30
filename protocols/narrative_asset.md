@@ -13,7 +13,7 @@ Applies to any new character, place, object, concept, ritual, or phrase introduc
 
 ## Outputs
 - Updated ledger entry with the next canonical ID
-- Scene Map updated to include the new asset
+- `scene.md` updated to include the new asset
 
 ## Procedure
 1. Open the chapter ledger in `chapters/NN_chapter_name/ledger.md`.
@@ -21,13 +21,19 @@ Applies to any new character, place, object, concept, ritual, or phrase introduc
 3. Assign the next ID using the chapter prefix (e.g., `00-CHAR-07`, `01-PLACE-03`).
 4. Fill the template below with canonical details and reuse hooks.
 5. If the asset is a Character, include **Status** and **Cultural/National Identity**.
-6. Add or update the Scene Map entry that uses this asset.
-7. Re-run the compliance checks for naming and interior-state rules.
+6. Maintain human-readable ledger formatting:
+   - Chapter Contract is a bullet list with bold labels.
+   - Assets use a `### NN. ID — Name` heading and bolded field labels.
+7. Maintain human-readable scene formatting in `scene.md`:
+   - Document title: `# Scene Map — NN Chapter Name`.
+   - Use `###` headings per scene with a single **Assets:** line.
+8. Add or update the `scene.md` entry that uses this asset.
+9. Re-run the compliance checks for naming and interior-state rules.
 
 ## Checks
 - Asset is logged before it appears in prose.
 - Character entries include Status and Cultural/National Identity.
-- Scene Map points to the correct asset ID.
+- `scene.md` points to the correct asset ID.
 
 ## Notes
 Append new assets rather than reordering existing IDs.
@@ -35,7 +41,7 @@ Append new assets rather than reordering existing IDs.
 ## Quick Checklist
 - ID assigned
 - Template filled
-- Scene Map updated
+- `scene.md` updated
 - Compliance rechecked
 
 ## Template

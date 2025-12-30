@@ -32,7 +32,7 @@ In 1951, in a segregated ward at Johns Hopkins, a Black woman in her early thirt
 
  
 
-HeLa cells helped develop the polio vaccine. They helped map the human genome. They helped test chemotherapies, HIV drugs, HPV vaccines, and gene editing. They built patents, companies, and fortunes.
+HeLa cells helped develop the polio vaccine. They helped map the human genome. They helped test chemotherapies, HIV drugs, HPV (human papillomavirus) vaccines, and gene editing. They built patents, companies, and fortunes.
 
  
 
@@ -84,7 +84,7 @@ Charlotteville was poor. As my father liked to say, “We were poor, but we neve
 
  
 
-Granny understood something about the limits of that village. One day, Seventh-day Adventist missionaries arrived with a proposition: a place at a boarding school in Trinidad called Caribbean Union College. There was no road out of Charlotteville yet. So she put her teenage son on a boat with the missionaries and sent him away, trusting that God and strangers would do what the island could not.
+Granny met the limits of that village head-on. One day, Seventh-day Adventist missionaries arrived with a proposition: a place at a boarding school in Trinidad called Caribbean Union College. There was no road out of Charlotteville yet. So she put her teenage son on a boat with the missionaries and sent him away, trusting that God and strangers would do what the island could not.
 
  
 
@@ -220,7 +220,7 @@ Those weekends were my first accounting lessons. I watched how love, labor, and 
 
  
 
-My father had a particular phrase he used with my brother and me: “We come from a long line of universal men.” One line ran from a British Major through a Trinidadian son and a Venezuelan wife into us. Another ran from Indian indentured laborers through cane cutters and oil workers, through my mother and her decision to leave at sixteen, into us. My father was proud of this chaos. He understood that his life could not fit into a single box, and he liked it that way.
+My father had a particular phrase he used with my brother and me: “We come from a long line of universal men.” One line ran from a British Major through a Trinidadian son and a Venezuelan wife into us. Another ran from Indian indentured laborers through cane cutters and oil workers, through my mother and her decision to leave at sixteen, into us. My father used to say he was proud of this chaos. He would tell us his life could not fit into a single box, and that he liked it that way.
 
  
 
@@ -297,7 +297,7 @@ I started as a straight medical student. But the pull of data was too strong.
 
  
 
-Penn was launching an MD/PhD program in Genomics and Computational Biology, and I joined the inaugural class. The Human Genome Project had just produced its reference sequence. We talked about it as if it were the human genome—singular, definitive. Only later would it become widely acknowledged that the sequence came largely from individuals of European ancestry. Precise, yes. But not accurate for most of the world.
+Penn was launching an MD/PhD program in Genomics and Computational Biology—a combined medical and research doctorate in DNA-scale biology and computation—and I joined the inaugural class. The Human Genome Project had just produced its reference sequence. We talked about it as if it were the human genome—singular, definitive. Only later would it become widely acknowledged that the sequence came largely from individuals of European ancestry. Precise, yes. But not accurate for most of the world.
 
  
 
@@ -317,7 +317,7 @@ CHOP sits in West Philadelphia, a predominantly Black neighborhood. Kids from th
 
  
 
-From that operation, we helped build NeuroFix Therapeutics, a precision medicine startup focused on ADHD and impulsivity. I was the lead bioinformatician. We used CAG’s data—tens of thousands of genotyped children—to stratify complex behavioral traits, design a trial, and execute it at a speed that would have been unthinkable in the old era of paper charts and Rolodexes.
+From that operation, we helped build NeuroFix Therapeutics, a precision medicine startup focused on attention deficit hyperactivity disorder (ADHD) and impulsivity. I was the lead bioinformatician, translating DNA and clinical data into usable models. We used CAG’s data—tens of thousands of genotyped children, their DNA variations cataloged—to stratify complex behavioral traits, design a trial, and execute it at a speed that would have been unthinkable in the old era of paper charts and Rolodexes.
 
  
 
@@ -351,7 +351,7 @@ The deaths—undiagnosed ADHD in under-resourced schools, comorbidities worsened
 
  
 
-Henrietta’s story, updated for the era of GWAS and ADHD.
+Henrietta’s story, updated for the era of genome-wide association studies (GWAS) and ADHD.
 
 Part I will quantify those flows; here I only needed you to feel how familiar the pattern already was.
 
@@ -410,9 +410,11 @@ In pathology, nothing moves without a label:
 - ICD codes for diagnoses
 - CPT codes for billable procedures
 
+These are the standardized codebooks that turn care into billing and data.
+
  
 
-Upstairs, people like Mark Musen were standardizing these into formal ontologies and decision-support systems. Downstairs, we were signing out biopsies and lab reports that would be translated into those codes, sent to insurers, and used to justify payments.
+Upstairs, people like Mark Musen were standardizing these into formal ontologies—controlled vocabularies for machines—and decision-support systems. Downstairs, we were signing out biopsies and lab reports that would be translated into those codes, sent to insurers, and used to justify payments.
 
  
 
@@ -424,7 +426,7 @@ The billable code is the fundamental economic unit of American healthcare.
 
  
 
-If something is not coded, it might as well not exist—for reimbursement, for analytics, for research, for AI. That is true whether we are talking about a breast biopsy, a metastasis, a recurrence, or a clinical trial response.
+If something is not coded, it might as well not exist—for reimbursement, for analytics, for research, for AI (machine-learning systems). That is true whether we are talking about a breast biopsy, a metastasis (cancer spread), a recurrence (its return), or a clinical trial response.
 
  
 
@@ -448,11 +450,11 @@ When Atul was recruited to UCSF to build what would become the Bakar Institute f
 
  
 
-Tens of millions of patient records. Years of lab results, diagnoses, prescriptions, outcomes. We mined open datasets like the Gene Expression Omnibus, layered them over clinical codes, and started building models: predicting who would get sepsis, which tumors would respond to which drugs, who would die in the hospital, who could be safely sent home.
+Tens of millions of patient records. Years of lab results, diagnoses, prescriptions, outcomes. We mined open datasets like the Gene Expression Omnibus, layered them over clinical codes, and started building models: predicting who would get sepsis, the body-wide spiral of infection, which tumors would respond to which drugs, who would die in the hospital, who could be safely sent home.
 
  
 
-I co-authored a deep learning model that could detect Alzheimer’s disease on FDG-PET scans years before the diagnosis showed up in the chart. On paper, it was a triumph of precision: the ability to see neurodegeneration long before the clinical exam caught it.
+I co-authored a deep learning model, a neural-network system, that could detect Alzheimer’s disease on FDG-PET scans, a metabolic imaging test, years before the diagnosis showed up in the chart. On paper, it was a triumph of precision: the ability to see neurodegeneration long before the clinical exam caught it.
 
  
 
@@ -476,7 +478,7 @@ We saw it in claims and codes and trajectories:
 
 - Every readmission is revenue.
 - Every extra dialysis session is revenue.
-- Every ICU day is revenue.
+- Every ICU (intensive care unit) day is revenue.
 - A metastatic cancer is more profitable than a cured one.
 
  
@@ -560,7 +562,7 @@ The laugh died quickly.
 
 Because I realized something in that moment:
 
-I had access to SQL dumps of hospital databases with millions of coded events. I could query cancer registries and national repositories. I could write a grant to analyze hundreds of thousands of radiology studies.
+I had access to SQL—the query language for databases—dumps of hospital databases with millions of coded events. I could query cancer registries and national repositories. I could write a grant to analyze hundreds of thousands of radiology studies.
 
  
 
@@ -636,11 +638,12 @@ Now I am the father.
 
  
 
-I have three teenage daughters from my first marriage and two young sons and a baby girl on the way from my second. Their mother—my wife—is Spanish Moroccan. She speaks Spanish and Arabic more easily than English. She is Muslim. She is from Spain, not Latin America, and she has her own deep expectations about what makes healthcare feel safe, respectful, and culturally competent.
+I have three teenage daughters from my first marriage and two young sons and a baby girl on the way from my second. Their mother—my wife—is Spanish Moroccan. She speaks Spanish and Arabic more easily than English. She is Muslim. She is from Spain, not Latin America, and she has told me what makes healthcare feel safe, respectful, and culturally competent.
 
  
 
-She has not had her first mammogram yet. When she does, she will want a system that speaks her language—literally and metaphorically. She will expect a platform that treats her not as an outlier but as part of the fabric.
+She has not had her first mammogram yet. In our kitchen, she has told me she wants a system that speaks her language—literally and metaphorically—and treats her not as an outlier but as part of the fabric.
+
 
  
 

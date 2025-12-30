@@ -11,8 +11,8 @@ Every protocol follows the same structure:
 - Notes
 
 ## Protocol Index
-- `protocols/chapter_build.md` — chapter drafting workflow
-- `protocols/narrative_asset.md` — add or update narrative assets
+- `protocols/chapter_build.md` — chapter drafting workflow (chapter.md + ledger.md + scene.md)
+- `protocols/narrative_asset.md` — add or update narrative assets and scene map
 - `protocols/asset_compliance.md` — canon compliance rules
 
 ## Naming

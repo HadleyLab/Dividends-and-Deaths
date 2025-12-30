@@ -23,11 +23,12 @@ Applies to every chapter bundle, including the Prologue and Epilogue.
 1. Confirm the naming convention:
    - Prologue is Chapter 00.
    - Chapter bundles use two-digit prefixes: `chapters/00_prologue/`, `chapters/01_the_billable_code/`.
-   - Each bundle contains `chapter.md` and `ledger.md`.
+   - Each bundle contains `chapter.md`, `ledger.md`, and `scene.md`.
 2. Write or confirm the Chapter Question / Claim / Exit Handoff block from `book/spine.md`.
 3. Update `chapters/NN_chapter_name/ledger.md` using `protocols/narrative_asset.md`.
 4. Run the compliance checklist from `protocols/asset_compliance.md` against the ledger.
 5. Draft or revise `chapters/NN_chapter_name/chapter.md` using the ledger as the outline.
+6. Update `chapters/NN_chapter_name/scene.md` to map scenes to assets.
 6. Enforce scene architecture:
    - Opening hook: place the ledger’s Core Thesis Asset or mirror scene immediately.
    - System explanation: insert governance facts within 600 words of any vignette.
