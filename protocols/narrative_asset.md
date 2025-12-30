@@ -38,6 +38,17 @@ Applies to any new character, place, object, concept, ritual, or phrase introduc
 ## Notes
 Append new assets rather than reordering existing IDs.
 
+## Citation Handling
+Citations are optional. Use them when a chapter includes a references section or when you want traceable sourcing beyond the Evidence asset.
+- Evidence assets may include an optional **Citations** field listing source labels (Author, Year) or a short list of URLs/DOIs.
+- Separate Citation assets are only required when a chapter maintains a formal references section.
+- When using a `.bib`, use only inline citation keys (e.g., `[@key]`) in the prose and omit any “Selected References” block from the chapter text.
+- Do not duplicate citations by mixing inline keys with textual citations like “Author, Year.”
+- When a list or block draws from one source, include a single inline key after the list instead of repeating it on each bullet.
+
+## References Handling
+Journal names and author initials in reference sections are treated as part of the Evidence asset. Do not log them as separate assets unless they are discussed in the prose as entities.
+
 ## Quick Checklist
 - ID assigned
 - Template filled
