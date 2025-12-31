@@ -12,7 +12,20 @@ Treat Ma’at as governance logic, not virtue.
 - Ma’at emerges only once systems are shown to function without accountability.
 - Readers should encounter Ma’at as a missing constraint, not a belief system.
 
-Ma’at is never aspirational. It is diagnostic.
+---
+
+## Death-Bound Clarification
+
+Ma’at is not a moral appeal. It is the **governance condition required to prevent patient death once systems scale**.
+
+Ma’at becomes relevant only when failure can kill.
+
+In this book, Ma’at is invoked when:
+- Misrepresentation can no longer be corrected informally
+- Errors propagate across institutions and time
+- No actor is structurally obligated to reconcile harm
+
+Ma’at names the **missing constraint** that allows failures in **Discovery, Care, and Information** to produce mortality without accountability.
 
 ---
 
@@ -58,6 +71,8 @@ Immediately translate it into modern terms:
 - provenance
 - revocation
 - enforceable responsibility
+
+Ma’at is introduced at the moment the reader can see that, without enforceable alignment, the system will continue to produce preventable deaths while appearing functional.
 
 ---
 
@@ -123,3 +138,21 @@ If it can only be rewritten as:
 “This system requires enforceable alignment between value, power, and consequence”
 
 Then Ma’at is correctly placed.
+
+---
+
+## Canonical Relationship to Engines, Geometry, and Digital Māyā
+
+- **Three Engines (Discovery / Care / Information):** Ma’at is the constraint that binds engine output to consequence.
+- **Geometry of Medicine:** Ma’at is the requirement that the space be auditable, correctable, and accountable.
+- **Digital Māyā:** Ma’at prevents representations from governing action without custody.
+
+Digital Māyā explains how systems drift.
+
+Geometry explains why misplacement becomes inevitable.
+
+Engines explain where death is instantiated.
+
+Ma’at explains why death is no longer tolerated.
+
+Without Ma’at, scale guarantees harm.

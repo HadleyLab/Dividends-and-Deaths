@@ -23,6 +23,12 @@ Reference this file whenever a core term appears in prose or a ledger.
 - Includes genomics, pharma, imaging, AI, EHRs, insurers, and data brokers.
 - Measured in dividends and deaths, not innovation metrics.
 
+### Three Engines of the Precision Medicine Economy
+- The coupled engines that convert human life into value: discovery, care, and information.
+- Failure in any engine produces downstream harm; failure across all three produces structural mortality.
+- Use once as explicit framework, then reuse as upstream/downstream language.
+- These are the only canonical engines; other candidates are gears inside the three.
+
 ### Medical Dividend
 - The economic value generated from patient data to which patients currently have no claim.
 - A future construct: royalties, equity, shared savings, or participation rights.
@@ -64,6 +70,11 @@ Reference this file whenever a core term appears in prose or a ledger.
 - **EGO:** Ethical Governance Operators — validate consent and integrity.
 - Framed as trust infrastructure, not ideology or cryptocurrency.
 
+### Healthcare Data Laws
+- U.S. policy decisions that shaped how health data is collected, controlled, and monetized.
+- Use for chapters on data rights, provenance, or governance; keep framing structural, not partisan.
+- Anchor claims in specific laws (HIPAA, HITECH, 21st Century Cures Act).
+
 
 ## Circular Data Economy
 - A closed loop where data generates value that funds further extraction.
@@ -85,6 +96,11 @@ Reference this file whenever a core term appears in prose or a ledger.
 - Digital Māyā is not error; it is structural illusion produced by scalable systems.
 - Lives in Chapter 1 as a named concept; thereafter it returns as effect, not definition.
 - Always invoked in relation to misaction, custody failure, or provenance loss.
+
+### Geometry of Medicine
+- The representational regime where people become vectors, illness becomes position in a learned space, and care becomes boundary decisions.
+- The math-native sibling of Digital Māyā: the system's shape, not the illusion itself.
+- When the geometry is wrong or incomplete, dividends rise and deaths fall.
 
 ### Ma’at
 - The principle of order, balance, truth, and rightful accounting.
@@ -121,6 +137,8 @@ Reference this file whenever a core term appears in prose or a ledger.
 - “Dividends rise. Deaths fall.”
 - “Codes are not neutral.”
 - “Custody, not capability, is the core problem.”
+- “The precision medicine economy runs on three engines--discovery, care, and information. When any one fails, harm follows. When all three fail together, deaths are inevitable.”
+- “Modern medicine is geometry: people become coordinates, care becomes boundaries, and death becomes the only metric that proves whether the space was built truthfully.”
 - “Mortality is the only KPI that matters.”
 - “Where Māyā scales without Ma’at, harm becomes invisible.”
 - “Governance is Ma’at rendered operational.”
