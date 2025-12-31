@@ -178,7 +178,11 @@ So the machine narrows. We did what everyone did: dropped the outliers and carri
 
 Not because anyone wanted to erase anyone. Because the system rewarded the path of least statistical resistance.
 
-That is the second dividend: a dataset big enough, clean enough, to produce effects.
+That was the dividend: coded volume that could produce effects. (See Figure 2.1.)
+
+Figure 2.1 — The Precision-Medicine Dividend Stack
+
+Figure 2.1 | The Precision-Medicine Dividend Stack. Patient data enters the medical system through biospecimens, imaging, and genotyping. Once translated into standardized codes, it becomes legible to reimbursement systems, research consortia, and AI pipelines. Economic value flows upward through grants, publications, and commercialization, while demographic distortion compounds wherever representation is sparse or dropped for statistical power.
 
 And once you can produce effects, you can get grants, publish, build reputation, attract investors, file patents.
 
@@ -544,16 +548,8 @@ If this feels like theft, it’s because the word “theft” is what we call it
 
 ## **Exit Handoff: Why Chapter Three Must Be Deaths**
 
-This chapter was the money.
+This chapter followed the money. The system is functioning exactly as designed. Dividends flow upward. Omissions flow downward.
 
-Chapter Three is what the money leaves behind.
+Chapter Three follows what the money leaves behind.
 
-Because whenever a system optimizes for what is easiest to count, it will systematically neglect what is hardest to represent.
-
-And neglected data becomes neglected people.
-
-The dividends go up.
-
-The deaths go down.
-
-And that is why the next chapter exists.
+Dependencies: Figure 2.1 — figure_02_01_dividend_stack.png

@@ -162,11 +162,12 @@ Version: 1.1
 - **Reuse:** Chapter 03
 
 ### 22. 02-OBJ-01 — Figure 2.1 - From Data to Dividends pipeline
-- **Type:** Object
-- **Aliases:** Figure 2.1; From Data to Dividends; Figure_2_1_From_Data_to_Dividends.png
+- **Type:** Figure
+- **Aliases:** Figure 2.1; From Data to Dividends; Figure_2_1_From_Data_to_Dividends.png; figure_02_01_dividend_stack.png
 - **Context:** Visual summary of extraction flow
 - **Function:** X-ray the system without narration
 - **Reuse:** Chapter 03
+- **Notes:** Figure guidance — “How the Precision-Medicine Economy Extracts Value.” Single-page figure with four vertical layers: Data Generation (Patients, Biospecimens, Imaging, Genotypes); Translation Layer (Codes) (ICD/CPT, LOINC/SNOMED, Genotype arrays, Ancestry labels); Monetization Pipelines (Grants—NIH/R01s, Publications, Consortia—AGRE/CAG/GEO, Reimbursement, Venture-backed startups); Dividend Flow (Institutions, Vendors, Pharma, Insurers, AI companies). Side elements, visually faded/fragmented: Underrepresented populations; “Dropped for power”; “Statistically insignificant”; “Too costly to recruit.” Key insight: Value flows upward smoothly; representation leaks downward.
 
 ### 23. 02-RIT-01 — Systems engineering study groups
 - **Type:** Ritual

@@ -195,7 +195,7 @@ Version: 1.3
 
 ### 28. 00-OBJ-03 — Mauby drink
 - **Type:** Object
-- **Context:** Bitter bark drink, Charlotteville memory
+- **Context:** Bitter bark drink, River Estate memory
 - **Function:** Sensory lineage anchor
 - **Reuse:** Chapter 03
 

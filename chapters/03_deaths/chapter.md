@@ -298,5 +298,3 @@ This chapter is built to make the mechanism legible, not just the grief. It show
 The rest of this book is about what we must do—structurally, economically, and morally—to ensure the next generation of precision medicine does not replicate the inequities of the last. To understand how extraction began and why it was normalized, we have to return to its origin story: Henrietta Lacks.
 
 Dividends rise. Deaths fall.
-
-Dependencies: None.
