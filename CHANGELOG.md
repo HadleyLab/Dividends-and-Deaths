@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Productionized documentation structure across root and directory READMEs (links, authority order, update triggers).
 - Added canonical ledger stubs for Chapters 04-18.
 - Standardized chapter numbering and filenames (00-03).
 - Cleaned and unified governance and overview docs for publication.
