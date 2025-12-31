@@ -1,7 +1,8 @@
 # Canon Compliance Protocol
 
 ## Purpose
-Enforce the non-negotiable rules that govern naming, interiority, identity, and claims.
+Enforce the non-negotiable rules that govern naming, interiority, identity, and claims.  
+This protocol ensures that narrative authority never outruns structural accountability, especially where harm or death is referenced.
 
 ## Scope
 Applies to the Prologue and all chapters.
@@ -68,6 +69,8 @@ Naming is power. This rule protects privacy, avoids unintended attribution, and 
   - Outcomes
   - Structures
 
+Interior restraint is especially critical in death-adjacent scenes. Emotion may be named only after the structural cause of harm is made legible.
+
 **Rationale:**  
 This book documents systems, not psychologies. Interior speculation weakens authority.
 
@@ -131,6 +134,7 @@ Each asset must include:
 - **Narrative Function**
 - **Reuse Hook**
 - **Aliases** (optional variants, possessives, plurals, abbreviations)
+- **Engine Link** — which canonical engine failure (Discovery, Care, Information) the asset illuminates, if applicable
 
 Character assets must also include:
 - **Cultural/National Identity**
@@ -140,6 +144,7 @@ Canonical asset types:
 - Character
 - Place
 - Object
+- Figure
 - Ritual
 - Economic
 - Phrase
@@ -171,20 +176,19 @@ Assets that are not logged are considered non-canonical.
 > **Every layer of the system is reimbursed  
 > except the patient who generates the value.**
 
-This invariant must never be contradicted.
+Any economic claim that implies harm or exclusion must be traceable to a specific engine failure.
 
 ---
 
-### Rule 7. Spine Alignment
+### Rule 7. Spine and Engine Alignment
 
 Each chapter ledger must explicitly map:
 - Chapter Question
 - Chapter Claim
 - Exit Handoff
+- Interrogated Engine(s)
 
-Assets that do not serve one of these functions must be:
-- Removed, or
-- Relocated to a more appropriate chapter
+Assets that do not serve one of these functions—or that cannot be mapped to an engine when harm is implied—must be removed or relocated.
 
 ---
 
@@ -200,6 +204,7 @@ Avoid:
 - Moralizing
 - Villain construction
 - Polemics
+- Treating death as accidental, mysterious, or inevitable without mechanism
 
 The book critiques systems, not individuals.
 
@@ -235,6 +240,7 @@ Before a chapter is considered canonical, confirm:
 - [ ] Economic claims conservatively framed
 - [ ] All assets logged and reusable
 - [ ] Chapter aligns with spine and canon
+- [ ] Every referenced death or disparity is traceable to a canonical engine failure
 
 ---
 
