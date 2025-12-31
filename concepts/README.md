@@ -122,7 +122,7 @@ This directory contains the authoritative definitions for:
 
 - `concept_vocabulary.md` — canonical meanings and phrases
 - `geometry_of_medicine.md` — representational geometry and proof assets
-- `three_engines_of_the_precision_medicine_economy.md` — discovery, care, information
+- `three_engines.md` — discovery, care, information
 - `digital_maya.md` — representation without custody
 - `maat.md` — enforceable governance and alignment
 - `healthcare_data_laws.md` — mortality governance through policy
