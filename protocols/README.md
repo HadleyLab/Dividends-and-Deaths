@@ -118,6 +118,14 @@ If a protocol blocks progress, fix the input — **do not bypass the protocol**.
 
 ---
 
+## AI Review Discipline
+
+Protocol checks include AI-assisted consistency scans where noted (see `protocols/chapter_build.md` and `AUTHORING_PLAN.md`).
+
+AI never introduces meaning; it only enforces structure, reuse, and contradiction checks.
+
+---
+
 ## Author–Protocol Contract
 
 - The author supplies judgment, witness, and intent.

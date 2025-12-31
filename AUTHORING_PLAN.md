@@ -219,6 +219,38 @@ These passes occur **only after structural integrity is confirmed**.
 
 ---
 
+## Phase Outputs and Definition of Done
+
+Use this checklist to scale work across collaborators.
+
+### Phase 1 — Episode Intake
+- **Output:** raw episode notes (non-canonical)
+- **Done when:** the episode can be summarized in one sentence without interpretation
+
+### Phase 2 — Ledger an Episode
+- **Outputs:**
+  - `chapters/NN_chapter_name/ledger.md` entry
+  - `chapters/global_ledger.md` row
+- **Done when:** asset has a canonical ID, engine link, and reuse hook
+
+### Phase 3 — Scene Mapping
+- **Output:** `chapters/NN_chapter_name/scene.md` entries
+- **Done when:** every scene lists asset IDs that exist in the global ledger
+
+### Phase 4 — Build Chapter
+- **Output:** `chapters/NN_chapter_name/chapter.md` draft
+- **Done when:** every asset referenced in prose is logged and engine-linked
+
+### Phase 5 — Structural Edit (Pass 1)
+- **Output:** audit notes and fixes applied to ledgers/scenes
+- **Done when:** chapter passes all protocol checks without prose edits
+
+### Phase 6 — Compression and Polish
+- **Output:** tightened prose with canonical phrasing enforced
+- **Done when:** redundancy removed and cadence tuned without changing claims
+
+---
+
 ## Role of AI (Explicit)
 
 AI is used to:
@@ -233,6 +265,21 @@ AI is **not** used to:
 
 AI enforces structure.
 Humans supply meaning.
+
+---
+
+## AI Handoff Format (Required)
+
+When requesting AI review or assistance, provide:
+
+- **Files in scope:** exact paths (chapter, ledger, scene, global ledger)
+- **Goal:** what must be validated or transformed
+- **Constraints:** non-negotiables and exclusions
+- **Required outputs:** checklist or specific edits
+
+Example:
+\"Validate that `chapters/02_dividends/chapter.md` only references assets listed in `chapters/02_dividends/ledger.md` and `chapters/global_ledger.md`. Flag missing IDs and mismatches. Do not rewrite prose.\"
+AI outputs must be actionable lists or diff-ready edits.
 
 ---
 

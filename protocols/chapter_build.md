@@ -1,61 +1,3 @@
-# Chapter Build Protocol
-
-## Purpose
-Draft or revise a chapter with governance, ledgers, and tone aligned.
-
-## Scope
-Applies to every chapter bundle, including the Prologue and Epilogue.
-
-## Inputs
-- `protocols/asset_compliance.md`
-- `protocols/narrative_asset.md`
-- `book/spine.md`
-- `book/emotional_arc.md`
-- `concepts/concept_vocabulary.md`
-- `concepts/digital_maya.md`
-- `chapters/NN_chapter_name/ledger.md`
-
-## Outputs
-- Updated ledger synced to scenes
-- Updated `chapters/NN_chapter_name/chapter.md`
-- Figure callouts and captions when figures are used
-
-## Procedure
-1. Confirm the naming convention:
-   - Prologue is Chapter 00.
-   - Chapter bundles use two-digit prefixes: `chapters/00_prologue/`, `chapters/01_the_billable_code/`.
-   - Each bundle contains `chapter.md`, `ledger.md`, and `scene.md`.
-2. Write or confirm the Chapter Question / Claim / Exit Handoff block from `book/spine.md`.
-3. Update `chapters/NN_chapter_name/ledger.md` using `protocols/narrative_asset.md`.
-4. Run the compliance checklist from `protocols/asset_compliance.md` against the ledger.
-5. Draft or revise `chapters/NN_chapter_name/chapter.md` using the ledger as the outline.
-   - If a figure appears, add a callout and caption in `chapter.md`.
-6. Update `chapters/NN_chapter_name/scene.md` to map scenes to assets.
-6. Enforce scene architecture:
-   - Opening hook: place the ledger’s Core Thesis Asset or mirror scene immediately.
-   - System explanation: insert governance facts within 600 words of any vignette.
-   - Callback frequency: reuse at least one prior asset per chapter.
-   - Translation > Extraction > Custody progression.
-7. Enforce tonal guardrails:
-   - Match the emotional arc table.
-   - After any grief vignette, close with a structural cause sentence.
-   - Maintain observational, inevitable tone.
-8. Enforce language and concept hygiene:
-   - Reuse mandated phrases from `concepts/concept_vocabulary.md`.
-   - Introduce jargon using the three-step rule.
-   - Mention Digital Maya only when consequences align with its guidance.
-9. Update `chapters/README.md` with the chapter status.
-
-## Checks
-- Compliance: living-person naming rule respected; interior-state prohibition observed.
-- Ledger sync: every scene maps to a logged asset; remove or relocate orphans.
-- Spine alignment: exit handoff tees up the next part’s promise.
-- Economic claims: framed conservatively and sourced.
-- Sprinkling rule: at least one reusable hook planted for later chapters.
-
-## Notes
-Following this order keeps asset governance, emotional flow, and concept precision synchronized so chapters remain publication-ready.
-
 # Chapter Build Protocol — Governed Execution
 
 ## Purpose
@@ -78,11 +20,13 @@ No chapter is exempt.
 - `protocols/asset_compliance.md`
 - `protocols/narrative_asset.md`
 - `chapters/NN_chapter_name/ledger.md`
+- `chapters/global_ledger.md`
 
 ## Outputs
 - Updated `chapters/NN_chapter_name/chapter.md`
 - Updated `chapters/NN_chapter_name/ledger.md` (authoritative)
 - Updated `chapters/NN_chapter_name/scene.md`
+- Updated `chapters/global_ledger.md`
 - Figure callouts and captions (if used)
 
 ## Procedure
@@ -106,11 +50,16 @@ No chapter is exempt.
 
 Prose may not introduce unledgered material.
 
-### Step 4 — Asset Compliance Check
+### Step 4 — Global Ledger Sync (Non-Negotiable)
+- Register every asset from the chapter ledger in `chapters/global_ledger.md`.
+- Resolve duplicates via **DEPRECATED** redirects.
+- Confirm all `scene.md` asset IDs exist in the global ledger.
+
+### Step 5 — Asset Compliance Check
 - Run `protocols/asset_compliance.md` against the ledger.
 - Resolve violations before drafting.
 
-### Step 5 — Draft Prose from the Ledger
+### Step 6 — Draft Prose from the Ledger
 Draft `chapter.md` using the ledger as the outline.
 
 Required structure:
@@ -120,40 +69,43 @@ Required structure:
 
 If a figure appears, insert a callout and caption tied to a ledgered asset.
 
-### Step 6 — Scene Mapping
+### Step 7 — Scene Mapping
 - Update `scene.md` so every scene maps to one or more ledger assets.
 - Remove or relocate orphan scenes.
 
-### Step 7 — Death-Bound Enforcement
+### Step 8 — Death-Bound Enforcement
 
 For every death, near-death, or lethal disparity referenced:
 - Identify the **engine failure** explicitly in prose or in an adjacent sentence.
 - If grief is invoked, the paragraph **must close** with a structural cause.
 - Death may never appear as accident, mystery, or inevitability without mechanism.
 
-### Step 8 — Tone and Emotion Control
+### Step 9 — Tone and Emotion Control
 - Match the emotional temperature defined in `book/emotional_arc.md`.
 - Maintain observational, inevitable tone.
 - No unresolved grief beats.
 
-### Step 9 — Concept and Language Hygiene
+### Step 10 — Concept and Language Hygiene
 - Use only canonical concepts defined in `concepts/`.
 - Reuse mandated phrases from `concepts/concept_vocabulary.md`.
 - Introduce new terms only via approved concepts.
 - Mention **Digital Māyā** only when representation is governing action without custody.
 - Mention **Ma’at** only when enforceable correction or governance is at stake.
 
-### Step 10 — Exit Alignment
+### Step 11 — Exit Alignment
 - Ensure the final section fulfills the **Exit Handoff** to the next chapter or part.
 - The chapter must leave the reader with increased structural clarity, not just affect.
 
-### Step 11 — Status Update
+### Step 12 — Status Update
 - Update `chapters/README.md` with chapter status and pass completion.
+
+---
 
 ## Checks (Pass / Fail)
 
 - [ ] Spine contract honored (question, claim, exit)
 - [ ] Ledger complete and authoritative
+- [ ] Global ledger updated and deduped
 - [ ] Every death traceable to engine failure
 - [ ] No ungoverned concepts or assets
 - [ ] Emotional arc respected
@@ -161,6 +113,20 @@ For every death, near-death, or lethal disparity referenced:
 - [ ] Language reuse enforced
 
 Failure on any check means the chapter is **not publication-ready**.
+
+---
+
+## AI Review Checklist (Second-Pass)
+
+Use AI to:
+- verify that every asset ID in `chapter.md` exists in `ledger.md` and `chapters/global_ledger.md`
+- flag any prose claims that lack engine failure linkage
+- detect concept drift against `concepts/` definitions
+- identify repeated explanations that should be collapsed into canonical phrases
+
+AI does not decide meaning or claims; it enforces consistency.
+
+---
 
 ## Notes
 This protocol exists to prevent eloquence from outrunning accountability.

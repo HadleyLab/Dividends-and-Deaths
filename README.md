@@ -98,6 +98,7 @@ NN_chapter_name/
 ├── ledger.md
 └── scene.md
 ```
+Global asset index: `chapters/global_ledger.md`
 Read: `chapters/README.md`
 
 ### `drafts/` — Exploration

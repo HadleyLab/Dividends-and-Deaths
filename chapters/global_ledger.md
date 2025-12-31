@@ -76,6 +76,17 @@ Silent duplication is a protocol violation.
 
 ---
 
+## Conflict Resolution
+
+When discrepancies appear:
+1. This file defines canonical IDs and asset truth.
+2. Chapter ledgers must conform to this file.
+3. Prose must conform to chapter ledgers.
+
+Fix inputs upstream; never patch prose to bypass the ledger.
+
+---
+
 ## Workflow Integration
 
 - **Ledgering an episode** registers or updates an entry here.

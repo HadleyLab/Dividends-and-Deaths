@@ -218,6 +218,7 @@ This protocol defines policy, not style.
 - Interior-state prohibition observed outside allowed exceptions.
 - Character assets include Status and Cultural/National Context.
 - Economic claims framed conservatively and sourced.
+- All chapter assets appear in `chapters/global_ledger.md`.
 
 ## 9. Forward Compatibility
 
@@ -240,6 +241,7 @@ Before a chapter is considered canonical, confirm:
 - [ ] Economic claims conservatively framed
 - [ ] All assets logged and reusable
 - [ ] Chapter aligns with spine and canon
+- [ ] Chapter assets registered in `chapters/global_ledger.md`
 - [ ] Every referenced death or disparity is traceable to a canonical engine failure
 
 ---

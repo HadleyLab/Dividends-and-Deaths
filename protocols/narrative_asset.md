@@ -1,88 +1,7 @@
-# Narrative Asset Protocol
-
-## Purpose
-Add or update a narrative asset so it is canonical, compliant, and reusable.
-
-## Scope
-Applies to any new character, place, object, concept, ritual, or phrase introduced in a chapter.
-
-## Inputs
-- `protocols/asset_compliance.md`
-- `chapters/NN_chapter_name/ledger.md`
-- The draft or scene that introduces the asset
-
-## Outputs
-- Updated ledger entry with the next canonical ID
-- `scene.md` updated to include the new asset
-
-## Procedure
-1. Open the chapter ledger in `chapters/NN_chapter_name/ledger.md`.
-2. Confirm the asset belongs in this chapter (serves the Chapter Question, Claim, or Exit Handoff).
-3. Assign the next ID using the chapter prefix (e.g., `00-CHAR-07`, `01-PLACE-03`).
-4. Fill the template below with canonical details and reuse hooks.
-5. If the asset is a Character, include **Status** and **Cultural/National Identity**.
-6. Maintain human-readable ledger formatting:
-   - Chapter Contract is a bullet list with bold labels.
-   - Assets use a `### NN. ID — Name` heading and bolded field labels.
-7. Maintain human-readable scene formatting in `scene.md`:
-   - Document title: `# Scene Map — NN Chapter Name`.
-   - Use `###` headings per scene with a single **Assets:** line.
-8. Add or update the `scene.md` entry that uses this asset.
-9. Re-run the compliance checks for naming and interior-state rules.
-
-## Checks
-- Asset is logged before it appears in prose.
-- Character entries include Status and Cultural/National Identity.
-- `scene.md` points to the correct asset ID.
-
-## Notes
-Append new assets rather than reordering existing IDs.
-
-## Citation Handling
-Citations are optional. Use them when a chapter includes a references section or when you want traceable sourcing beyond the Evidence asset.
-- Evidence assets may include an optional **Citations** field listing source labels (Author, Year) or a short list of URLs/DOIs.
-- Separate Citation assets are only required when a chapter maintains a formal references section.
-- When using a `.bib`, use only inline citation keys (e.g., `[@key]`) in the prose and omit any “Selected References” block from the chapter text.
-- Do not duplicate citations by mixing inline keys with textual citations like “Author, Year.”
-- When a list or block draws from one source, include a single inline key after the list instead of repeating it on each bullet.
-
-## Figure Handling
-When a chapter introduces a figure:
-- Log it as a **Figure** asset in the ledger.
-- Include a figure callout in the prose (e.g., “(See Figure 2.1.)”).
-- Add a standalone title line and a caption line in `chapter.md` using `Figure X | Caption...`.
-- List the file name in **Aliases** if a source image or diagram exists.
-- Standardize file naming: `figure_NN_XX_short_slug.png` (e.g., `figure_02_01_dividend_stack.png`) and place the file in the chapter folder.
-
-## References Handling
-Journal names and author initials in reference sections are treated as part of the Evidence asset. Do not log them as separate assets unless they are discussed in the prose as entities.
-
-## Quick Checklist
-- ID assigned
-- Template filled
-- `scene.md` updated
-- Compliance rechecked
-
-## Template
-# Narrative Asset Ledger — Chapter XX
-
-## Asset: [Canonical Name]
-
-- **Asset Type:** (see protocols/asset_compliance.md)
-- **Status:** (Living / Deceased / Public Figure / Abstract) (if Character)
-- **Cultural/National Identity:** (ancestry, geography, faith environment; if Character include national identity)
-- **Aliases:** (optional variants, possessives, plurals, abbreviations)
-- **Introduced In:** (scene or section)
-- **Narrative Function:** (what work this asset does *in this chapter*)
-- **Reuse Hook:** (where and how it will reappear later)
-
-## Notes
-(Optional: constraints, reminders, compliance flags)
-
 # Narrative Asset Protocol — Canonical Reconciliation
 
 ## Purpose
-Admit, register, and govern **narrative assets** so that lived episodes, cases, people, places, and objects become reusable **system components** rather than isolated anecdotes.
+Admit, register, and govern **narrative assets** so that lived episodes, cases, people, places, objects, and figures become reusable **system components** rather than isolated anecdotes.
 
 This protocol ensures that narrative material serves the book’s structural claims, remains interoperable with formal concepts, and never outruns accountability.
 
@@ -103,11 +22,13 @@ If an asset appears in prose, it must be registered here.
 - `concepts/README.md` (canonical ontology)
 - `protocols/asset_compliance.md`
 - `chapters/NN_chapter_name/ledger.md`
+- `chapters/global_ledger.md`
 - Draft prose or scene introducing the asset
 
 ## Outputs
-- Updated `ledger.md` with canonical asset entry
-- Updated `scene.md` with asset references
+- Updated `chapters/NN_chapter_name/ledger.md` with canonical asset entry
+- Updated `chapters/global_ledger.md` with canonical index row
+- Updated `chapters/NN_chapter_name/scene.md` with asset references
 - Updated reuse hooks for future chapters
 
 ---
@@ -143,7 +64,7 @@ If it does not, do not admit the asset.
 - IDs are append-only. Never reuse or reorder.
 
 ### Step 3 — Ledger Registration (Non-Negotiable)
-Register the asset in `ledger.md` using the canonical template.
+Register the asset in `chapters/NN_chapter_name/ledger.md` using the canonical template.
 
 Required fields:
 - **Asset Type**
@@ -156,18 +77,32 @@ Required fields:
 
 Interior emotional states are not logged unless analytically required.
 
-### Step 4 — Death-Bound Declaration
+### Step 4 — Global Ledger Registration (Non-Negotiable)
+Add or update the asset row in `chapters/global_ledger.md`.
+
+Required columns:
+- Asset ID
+- Canonical Name
+- Type
+- Home Chapter
+- Engine Link
+- Status
+- Redirect / Notes
+
+If a duplicate exists, mark the duplicate **DEPRECATED** and redirect to the canonical ID.
+
+### Step 5 — Death-Bound Declaration
 If the asset involves harm, disparity, or death:
 - Explicitly declare which **engine failure(s)** are implicated.
 - State whether the failure is **exclusion**, **misaction**, or **lock-in**.
 
 Assets that touch death without mechanism are non-compliant.
 
-### Step 5 — Scene Map Update
-- Update `scene.md` so each scene lists the asset IDs it uses.
+### Step 6 — Scene Map Update
+- Update `chapters/NN_chapter_name/scene.md` so each scene lists the asset IDs it uses.
 - Scenes may not reference unregistered assets.
 
-### Step 6 — Compliance Check
+### Step 7 — Compliance Check
 Run `protocols/asset_compliance.md` and resolve all violations before prose is finalized.
 
 ---
@@ -176,12 +111,50 @@ Run `protocols/asset_compliance.md` and resolve all violations before prose is f
 
 - [ ] Asset serves chapter contract
 - [ ] Canonical ID assigned
-- [ ] Ledger entry complete
+- [ ] Chapter ledger entry complete
+- [ ] Global ledger row recorded or updated
 - [ ] Engine failure declared (if applicable)
 - [ ] Scene map updated
 - [ ] Compliance rechecked
 
 Failure on any check means the asset is **not canonical**.
+
+---
+
+## Figure Handling
+
+When a chapter introduces a figure:
+- Log it as a **Figure** asset in the ledger.
+- Include a figure callout in the prose (e.g., “(See Figure 2.1.)”).
+- Add a standalone title line and a caption line in `chapter.md` using `Figure X | Caption...`.
+- List the file name in **Aliases** if a source image or diagram exists.
+- Standardize file naming: `figure_NN_XX_short_slug.png` (e.g., `figure_02_01_dividend_stack.png`) and place the file in the chapter folder.
+
+---
+
+## References Handling
+
+Journal names and author initials in reference sections are treated as part of the Evidence asset. Do not log them as separate assets unless they are discussed in the prose as entities.
+
+---
+
+## Templates
+
+### Chapter Ledger Entry (Canonical Fields)
+
+- **Asset Type:** (see canonical asset types)
+- **Status:** (Living / Deceased / Public Figure / Abstract) (if Character)
+- **Cultural/National Identity:** (if Character)
+- **Aliases:** (optional variants, possessives, plurals, abbreviations)
+- **Introduced In:** (scene or section)
+- **Narrative Function:** (what work this asset does in this chapter)
+- **Engine Link:** (Discovery / Care / Information + failure mode)
+- **Reuse Hook:** (where and how it will reappear later)
+
+### Global Ledger Row
+
+| Asset ID | Canonical Name | Type | Home Chapter | Engine Link | Status | Redirect / Notes |
+|---|---|---|---|---|---|---|
 
 ---
 
