@@ -23,14 +23,16 @@ Modern precision medicine and AI are extraction economies that convert human lif
 - Not a book about "AI replacing doctors"
 
 ## Core Throughline (Must Hold in Every Part)
-Translation -> Extraction -> Asymmetry -> Digital Maya -> Custody -> Reassignment
+Geometry -> Representation -> Extraction -> Asymmetry -> Digital Māyā -> Engines -> Custody -> Reassignment
 
-1. Human reality is translated into standardized symbols (codes)
-2. Those symbols enable extraction at scale
+1. Human reality is embedded into representational spaces (geometry)
+2. Representations enable legibility and large-scale extraction
 3. Extraction concentrates dividends and distributes deaths
-4. The system begins acting on the abstraction (Digital Maya), not the person
-5. The root problem is custody of that abstraction
-6. The solution is reassignment, not abolition
+4. Systems begin acting on representations instead of people (Digital Māyā)
+5. Discovery, Care, and Information engines execute and persist these actions
+6. Death occurs when engine failures cannot be corrected
+7. The root problem is custody of representation
+8. The solution is reassignment, not abolition
 
 ## PART-BY-PART CONTRACTS
 
@@ -46,12 +48,14 @@ Reader must understand: This system was designed, not accidental
 - Chapter 1: The Billable Code
   - Establishes the billable code as the atomic unit of value
   - Shows how legibility replaces personhood and introduces the Digital Maya lens
+  - Introduces medicine as geometry: codes as coordinates and care as boundary decisions
 
 - Chapter 2: Dividends
   - Maps where value flows (pharma, AI, genomics, hospitals)
 
 - Chapter 3: Deaths
   - Proves asymmetry using breast cancer mortality and global data
+  - Frames mortality as the audit trail of geometric and engine failure
 
 Exit belief: The system is coherent, profitable, and morally inverted
 
@@ -70,6 +74,7 @@ Reader must realize: AI did not invent this - it automated it
 - Medicine built the first circular data economy
 - AI scales it to trillion-dollar loops
 - The legal asymmetry between medicine and AI is the twist
+- Shows how AI removes friction between representational error and patient death
 
 Exit belief: Regulation already exists - just not where value moved
 
@@ -79,6 +84,7 @@ Reader must feel: Agency returning
 - Provenance is the missing primitive
 - mCODE is grammar, not software
 - OPTS-EGO is infrastructure, not ideology
+- Introduces Ma’at as enforceable governance once failure can kill
 
 Exit belief: This is technically and legally possible
 
@@ -105,6 +111,13 @@ Exit belief: Inaction is also a decision
 - AI is never anthropomorphized
 - Equity is defined in outcomes, not intentions
 - Mortality gaps are the ultimate metric
+- Death is never treated as accidental; it is always traced to engine failure
+
+## Canonical Systems Claim
+
+The precision medicine economy is governed by geometry, executed by engines, biased by gears, and corrected only through custody.
+
+When governance fails, mortality becomes the system’s only remaining audit.
 
 ## Ending Contract
 The book must end with custody returned - not optimism, not outrage, but reassignment of power to the people whose lives are represented by the system.
