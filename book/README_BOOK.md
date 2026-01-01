@@ -17,6 +17,23 @@ Nothing here is illustrative.
 
 ---
 
+## Non-Negotiables
+
+- Governance documents override prose.
+- Death is never treated as accidental or mysterious.
+- Grief is permitted only after structure is explicit.
+- Every chapter must trace harm to engine failure.
+
+If a chapter "feels right" but violates these rules, it is wrong.
+
+## Update Triggers
+
+- a governance invariant changes
+- authority order changes
+- a governance document is added or removed
+
+---
+
 ## How This Book Is Written (Symbiotic Human Computation)
 
 Two orthogonal inputs:
@@ -76,18 +93,3 @@ When conflicts arise:
 
 Episodes without governance become memoir.
 Concepts without episodes become abstraction.
-
-## Non-Negotiables
-
-- Governance documents override prose.
-- Death is never treated as accidental or mysterious.
-- Grief is permitted only after structure is explicit.
-- Every chapter must trace harm to engine failure.
-
-If a chapter "feels right" but violates these rules, it is wrong.
-
-## Update Triggers
-
-- a governance invariant changes
-- authority order changes
-- a governance document is added or removed

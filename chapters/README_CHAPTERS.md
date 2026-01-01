@@ -16,6 +16,24 @@ No prose is canonical unless it lives inside a compliant chapter bundle.
 
 ---
 
+## Non-Negotiables
+
+- Ledger precedes prose.
+- Governance overrides style.
+- Concepts override narrative when conflicts arise.
+- Death is always treated as a systems outcome.
+
+If a chapter feels "right" but violates these rules, the chapter is wrong.
+
+## Update Triggers
+
+- the chapter bundle structure changes
+- global ledger rules change
+- status tags change
+- chapter workflow steps change
+
+---
+
 ## Chapter Bundle Structure (Non-Negotiable)
 
 Each chapter lives in its own directory:
@@ -138,21 +156,3 @@ Chapters **may not include**:
 4. `chapters/NN_chapter_name/chapter_NN_prose.md`
 
 Fix inputs upstream; never patch prose to bypass the ledger.
-
----
-
-## Non-Negotiables
-
-- Ledger precedes prose.
-- Governance overrides style.
-- Concepts override narrative when conflicts arise.
-- Death is always treated as a systems outcome.
-
-If a chapter feels "right" but violates these rules, the chapter is wrong.
-
-## Update Triggers
-
-- the chapter bundle structure changes
-- global ledger rules change
-- status tags change
-- chapter workflow steps change

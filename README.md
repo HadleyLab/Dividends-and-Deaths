@@ -18,6 +18,23 @@ This repository is not a draft folder.
 
 ---
 
+## Non-Negotiables
+
+- Governance documents override prose.
+- Canonical concepts override narrative when conflicts arise.
+- Death must always be traceable to system failure.
+- Grief is permitted only after structure is explicit.
+
+If the system blocks progress, fix the input — do not bypass the system.
+
+## Update Triggers
+
+- when repository purpose or invariants change
+- when directory structure or canonical order changes
+- when the authoring plan changes
+
+---
+
 ## What This Is
 
 A writing system where:
@@ -162,18 +179,3 @@ AI is **not** used to:
 
 Episodes without governance become memoir.
 Concepts without episodes become abstraction.
-
-## Non-Negotiables
-
-- Governance documents override prose.
-- Canonical concepts override narrative when conflicts arise.
-- Death must always be traceable to system failure.
-- Grief is permitted only after structure is explicit.
-
-If the system blocks progress, fix the input — do not bypass the system.
-
-## Update Triggers
-
-- when repository purpose or invariants change
-- when directory structure or canonical order changes
-- when the authoring plan changes

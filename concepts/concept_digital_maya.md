@@ -1,15 +1,15 @@
-# Digital Maya
+# Digital Māyā
 
 ## Purpose
-Keep Digital Maya present without repeating its definition.
+Keep Digital Māyā present without repeating its definition.
 
 ## Scope
 Applies to all chapters after the initial definition in Chapter 1.
 
 ## Usage
-Treat Digital Maya as a lens, not a slogan.
+Treat Digital Māyā as a lens, not a slogan.
 
-- Name Digital Maya once in Chapter 1.
+- Name Digital Māyā once in Chapter 1.
 - Thereafter, let readers recognize it through effect, not exposition.
 - If you must name it again, do so sparingly (mid-book nod, pre-epilogue callback).
 
@@ -31,7 +31,7 @@ It is the **operating condition** that allows failures in **Discovery, Care, and
 ## Chapter-Level Direction
 
 ### Chapters 2–3 (Translation → Extraction)
-- Do not name Digital Maya.
+- Do not name Digital Māyā.
 - Show how codes travel farther than patients and how systems act on abstractions instead of bodies.
 - Let readers feel the illusion without labeling it.
 - Show how early representational shortcuts quietly pre-decide later mortality.
@@ -49,7 +49,7 @@ It is the **operating condition** that allows failures in **Discovery, Care, and
 ## When to Name It Again
 
 1. **Pre-Epilogue:** Single recognition line (e.g., "In older traditions this would have been called Maya—not because it is false, but because we mistake it for the whole.")
-2. **Final sentence:** Tie custody to Digital Maya ("The task ahead is not to destroy the illusion, but to return it.")
+2. **Final sentence:** Tie custody to Digital Māyā ("The task ahead is not to destroy the illusion, but to return it.")
 
 No additional definitions.
 

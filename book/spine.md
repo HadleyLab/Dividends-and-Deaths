@@ -47,7 +47,7 @@ Reader must understand: This system was designed, not accidental
 
 - Chapter 1: The Billable Code
   - Establishes the billable code as the atomic unit of value
-  - Shows how legibility replaces personhood and introduces the Digital Maya lens
+  - Shows how legibility replaces personhood and introduces the Digital Māyā lens
   - Introduces medicine as geometry: codes as coordinates and care as boundary decisions
 
 - Chapter 2: Dividends
@@ -59,11 +59,11 @@ Reader must understand: This system was designed, not accidental
 
 Exit belief: The system is coherent, profitable, and morally inverted
 
-### PART II - Extraction: From HeLa to 23&Me
+### PART II - Extraction: From HeLa to 23andMe
 Reader must see: This pattern repeats across eras
 
 - Henrietta is not an exception; she is the prototype
-- 23&Me is not a failure; it is a business success
+- 23andMe is not a failure; it is a business success
 - Underrepresentation is structural, not incidental
 
 Exit belief: Good intentions do not stop extraction

@@ -17,6 +17,23 @@ Nothing in this directory is illustrative.
 
 ---
 
+## Non-Negotiables
+
+- Concepts override prose when conflicts arise.
+- Concepts may not be redefined casually or implicitly.
+- Closed sets remain closed unless governance changes.
+- Any concept that touches harm must remain death-bound.
+
+If a passage violates a concept definition, the passage is wrong.
+
+## Update Triggers
+
+- a concept category changes
+- the required concept file structure changes
+- a concept is added to or removed from the canonical index
+
+---
+
 ## Role in the System (Read This When Confused)
 
 Layered system:
@@ -94,18 +111,3 @@ Closed sets remain closed unless book governance is explicitly revised.
 
 Episodes without concepts become anecdote.
 Concepts without episodes become abstraction.
-
-## Non-Negotiables
-
-- Concepts override prose when conflicts arise.
-- Concepts may not be redefined casually or implicitly.
-- Closed sets remain closed unless governance changes.
-- Any concept that touches harm must remain death-bound.
-
-If a passage violates a concept definition, the passage is wrong.
-
-## Update Triggers
-
-- a concept category changes
-- the required concept file structure changes
-- a concept is added to or removed from the canonical index

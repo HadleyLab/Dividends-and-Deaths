@@ -67,7 +67,7 @@ How precision medicine became a multi-trillion-dollar economy: pharma pipelines,
 Chapter 3 - Deaths: Where the Burden Falls
 Breast cancer as proof that dividends flow upward while deaths fall downward. Mortality follows representation, not biology. Mortality is framed as the audit trail of geometric and engine failure.
 
-## PART II - EXTRACTION: FROM HeLa TO 23ANDME
+## PART II - EXTRACTION: FROM HeLa TO 23andMe
 Chapter 4 - Henrietta Lacks and the Immortal Dividend
 HeLa cells as the prototype of extraction without equity. Estimating the downstream economic value.
 
@@ -139,74 +139,3 @@ The reader is never asked to accept outrage without mechanism. Every claim of ha
 I am an NIH-funded MD/PhD physician-scientist working at the intersection of clinical medicine, genomics, AI, and health economics. I have trained, validated, and deployed AI in medicine; built and studied precision medicine systems; founded a patient-centered health-tech company; and taught physicians about data rights, equity, and algorithmic risk.
 
 This book is not theoretical. It is written from inside the systems that generate both dividends and deaths.
-
-## Chapter Map
-### PROLOGUE
-The First Dividend
-Henrietta Lacks inaugurates the precision medicine economy. Her cells generate enormous scientific and economic value without consent or equity. The book's central thesis appears.
-
-## PART I - THE ECONOMY WE INHERITED
-Chapter 1 - The Billable Code
-The billable code as the fundamental economic unit of American healthcare - how it converts illness into revenue while disenfranchising the patient who generates it.
-
-Chapter 2 - Dividends: Where the Money Goes
-How precision medicine became a multi-trillion-dollar economy: pharma pipelines, genomics, imaging AI, EHRs, data brokers, and risk engines.
-
-Chapter 3 - Deaths: Where the Burden Falls
-Breast cancer as proof that dividends flow upward while deaths fall downward. Mortality follows representation, not biology.
-
-## PART II - EXTRACTION: FROM HeLa TO 23ANDME
-Chapter 4 - Henrietta Lacks and the Immortal Dividend
-HeLa cells as the prototype of extraction without equity. Estimating the downstream economic value.
-
-Chapter 5 - 23andMe: The Precision Medicine Company That Wasn't
-Why ancestry replaced precision. Eurocentric bias, weak effect sizes, and the real business: clinical-trial recruitment.
-
-Chapter 6 - The Underrepresented Majority
-How minorities, immigrants, LMIC populations, and women of color are systematically excluded from discovery.
-
-## PART III - THE CIRCULAR ECONOMY OF MEDICINE AND AI
-Chapter 7 - Medicine's Circular Data Economy
-Patients -> data -> products -> profits -> more extraction - with patients as the only actor without dividends.
-
-Chapter 8 - The Trillion-Dollar Circular AI Economy
-OpenAI-Nvidia-AMD-style circular deals. Unpaid human data transformed into trillion-dollar valuations.
-
-Chapter 9 - The Legal Twist
-Medicine built guardrails AI does not have. Healthcare becomes the blueprint for AI governance.
-
-## PART IV - REWRITING THE ECONOMY
-Chapter 10 - Provenance: The Right to the Code
-Ownership, audit trails, consent, and the right to participate in value creation.
-
-Chapter 11 - mCODE: The Cancer Grammar
-Structured oncology data as the foundation for equity, portability, and transparency.
-
-Chapter 12 - The OPTS-EGO Ledger
-Blockchain-backed provenance, ethical governance, and trust at scale.
-
-## PART V - A PATIENT-CENTERED FUTURE
-Chapter 13 - The Medical Dividend
-Data royalties, micro-equity, shared savings, and community-owned datasets.
-
-Chapter 14 - Mortality as the KPI
-Precision medicine succeeds only if mortality gaps shrink.
-
-Chapter 15 - Community as Infrastructure
-Why patient communities will become the next discovery engines.
-
-## PART VI - THE FUTURE WE DESERVE
-Chapter 16 - The Precision Medicine Social Contract
-A new rights framework: provenance, participation, dividends, equity, agency.
-
-Chapter 17 - A 2035 Vision
-What an equitable precision medicine economy looks like.
-
-### EPILOGUE
-Henrietta's Return
-Justice as structural redesign, not symbolic restitution.
-
-## Project Notes
-- Target length: 75,000-85,000 words
-- Format: Narrative nonfiction with scientific authority
-- Delivery: ~9-12 months from contract

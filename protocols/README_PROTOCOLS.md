@@ -16,6 +16,23 @@ If material is intended to appear in the book, these protocols apply.
 
 ---
 
+## Non-Negotiables
+
+- Protocols override convenience.
+- Prose does not become canonical until protocol-complete.
+- Death must remain traceable to engine failure.
+- Governance language may not be softened for comfort or speed.
+
+If following a protocol feels slow, that friction is intentional.
+
+## Update Triggers
+
+- a protocol is added or removed
+- the canonical protocol structure changes
+- protocol scope or authority changes
+
+---
+
 ## Role in the System (Read This When Confused)
 
 Layered system:
@@ -84,18 +101,3 @@ AI never introduces meaning; it enforces structure, reuse, and contradiction che
 
 Episodes without protocols become memoir.
 Concepts without protocols become abstraction.
-
-## Non-Negotiables
-
-- Protocols override convenience.
-- Prose does not become canonical until protocol-complete.
-- Death must remain traceable to engine failure.
-- Governance language may not be softened for comfort or speed.
-
-If following a protocol feels slow, that friction is intentional.
-
-## Update Triggers
-
-- a protocol is added or removed
-- the canonical protocol structure changes
-- protocol scope or authority changes
