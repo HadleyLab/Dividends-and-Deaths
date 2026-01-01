@@ -16,11 +16,15 @@ This plan assumes the book is already **concept-complete** and focuses on:
 
 ## Current State
 You already have:
-- A closed and defensible conceptual system (geometry, engines, gears, Digital Māyā, Ma’at)
+- A drafted conceptual system (geometry, engines, gears, Digital Māyā, Ma’at)
 - A governed narrative architecture (spine, emotional arc, red lines)
 - Two anchor chapters (Prologue and Chapter 1)
-- Canonical concepts formalized and enforced
 - A working symbiotic human–AI writing loop
+
+You do not yet have:
+- The full concept set canonized via `protocols/protocol_concept_admission.md`
+- Admitted concepts beyond `concepts/concept_vocabulary.md`, `concepts/concept_geometry_of_medicine.md`,
+  `concepts/concept_three_engines.md`, and `concepts/concept_digital_maya.md`
 
 You do not need:
 - More ideas, chapters, or concepts

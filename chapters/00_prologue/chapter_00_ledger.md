@@ -3,9 +3,10 @@ Version: 1.3
 
 ## Chapter Contract
 - **Purpose:** Establish the moral origin of extraction and the dividends/deaths frame.
-- **Chapter Question:** Who pays for precision medicine, and who bears the cost when value is extracted?
-- **Chapter Claim:** The system’s dividends rise while deaths and burdens stay downstream, and the author’s lineage makes that extraction personal and legible.
-- **Exit handoff:** Move from human cost to system mechanics for Chapter 01.
+- **Chapter Question:** What does extraction without consent produce when scaled into a medical economy?
+- **Chapter Claim:** Henrietta Lacks proves that representation can generate dividends without custody and deaths without accountability.
+- **Exit handoff:** The reader is ready to see the economy as designed, not accidental, and to follow the system’s machinery.
+- **Interrogated Engines:** Discovery, Information
 
 ## Assets
 
@@ -46,6 +47,7 @@ Version: 1.3
 
 
 - **Asset Type:** Object
+- **Aliases:** HeLa cell
 - **Cultural / Historical Context:** Immortal cells as currency
 - **Narrative Function:** Tangible engine of extraction
 - **Reuse Hook:** Chapters 01-03
@@ -60,6 +62,7 @@ Version: 1.3
 
 
 - **Asset Type:** Place
+- **Aliases:** Johns Hopkins
 - **Cultural / Historical Context:** 1951 cervical biopsy
 - **Narrative Function:** Origin scene for extraction
 - **Reuse Hook:** Chapter 01
@@ -74,6 +77,7 @@ Version: 1.3
 
 
 - **Asset Type:** Symbol
+- **Aliases:** hospital
 - **Cultural / Historical Context:** Sample storage
 - **Narrative Function:** Concrete image for commodification
 - **Reuse Hook:** Chapters 02-03
@@ -92,7 +96,7 @@ Version: 1.3
 - **Narrative Function:** Billing infrastructure example
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** The Mother of Precision Medicine
+- **Introduced In:** Stanford, Ontologies, and the Skeleton of the System
 - **Engine Link:** Information
 
 ### 48. 00-CONCEPT-05 — Universal men
@@ -102,11 +106,12 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** Universal Men
 - **Cultural / Historical Context:** Lineage philosophy
 - **Narrative Function:** Identity and inclusion frame
 - **Reuse Hook:** Chapter 15, Epilogue
 
-- **Introduced In:** The Mother of Precision Medicine
+- **Introduced In:** A Long Line of Universal Men
 - **Engine Link:** Care
 
 ### 9. 00-PHRASE-02 — Behind God’s Back
@@ -130,6 +135,7 @@ Version: 1.3
 
 
 - **Asset Type:** Character
+- **Aliases:** Leonard Kempthorne
 - **Status:** Deceased
 - **Cultural / National Identity:** Black Tobagonian, Seventh-day Adventist; Tobagonian (Trinidad and Tobago)
 - **Cultural / Historical Context:** Lineage, migration, end-of-life care
@@ -146,6 +152,7 @@ Version: 1.3
 
 
 - **Asset Type:** Character
+- **Aliases:** Granny
 - **Status:** Deceased
 - **Cultural / National Identity:** Black Tobagonian; Tobagonian (Trinidad and Tobago)
 - **Cultural / Historical Context:** Seamstress, single mother
@@ -194,6 +201,7 @@ Version: 1.3
 
 
 - **Asset Type:** Place
+- **Aliases:** Charlotteville
 - **Cultural / Historical Context:** Fishing village, no road access
 - **Narrative Function:** Origin of father and extraction line
 - **Reuse Hook:** Chapters 01, Epilogue
@@ -251,6 +259,7 @@ Version: 1.3
 
 
 - **Asset Type:** Organization
+- **Aliases:** NHS
 - **Cultural / Historical Context:** Mother’s nurse training in England
 - **Narrative Function:** Colonial care pipeline marker
 - **Reuse Hook:** Chapter 03
@@ -265,6 +274,7 @@ Version: 1.3
 
 
 - **Asset Type:** Organization
+- **Aliases:** Harvard
 - **Cultural / Historical Context:** Adventist education comparison
 - **Narrative Function:** Status benchmark metaphor
 - **Reuse Hook:** Chapter 01
@@ -338,6 +348,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** Precision Medicine
 - **Cultural / Historical Context:** Core system being critiqued
 - **Narrative Function:** Central thematic anchor
 - **Reuse Hook:** Across book
@@ -352,6 +363,7 @@ Version: 1.3
 
 
 - **Asset Type:** Ritual
+- **Aliases:** Malta
 - **Cultural / Historical Context:** Granny's fridge, shared bottle
 - **Narrative Function:** Quiet inheritance and care ledger
 - **Reuse Hook:** Chapter 03
@@ -366,6 +378,7 @@ Version: 1.3
 
 
 - **Asset Type:** Object
+- **Aliases:** Mauby
 - **Cultural / Historical Context:** Bitter bark drink, River Estate memory
 - **Narrative Function:** Sensory lineage anchor
 - **Reuse Hook:** Chapter 03
@@ -394,6 +407,7 @@ Version: 1.3
 
 
 - **Asset Type:** Ritual
+- **Aliases:** by the river
 - **Cultural / Historical Context:** Village practice in Gasparillo
 - **Narrative Function:** Cultural rhythm and community care
 - **Reuse Hook:** Chapter 04
@@ -451,6 +465,7 @@ Version: 1.3
 
 
 - **Asset Type:** Ritual
+- **Aliases:** pooja
 - **Cultural / Historical Context:** Mama’s daily chanting in Hindi
 - **Narrative Function:** Faith rhythm in Gasparillo
 - **Reuse Hook:** Chapter 04
@@ -465,6 +480,7 @@ Version: 1.3
 
 
 - **Asset Type:** Ritual
+- **Aliases:** the village creek
 - **Cultural / Historical Context:** Mama’s funeral rites
 - **Narrative Function:** Care honored outside formal institutions
 - **Reuse Hook:** Chapter 04
@@ -493,6 +509,7 @@ Version: 1.3
 
 
 - **Asset Type:** Symbol
+- **Aliases:** Fatima
 - **Cultural / Historical Context:** Catholic Fatima named after Islamic Fatima; Fatima College
 - **Narrative Function:** Hidden continuity across systems
 - **Reuse Hook:** Chapters 01, 08
@@ -535,6 +552,7 @@ Version: 1.3
 
 
 - **Asset Type:** Organization
+- **Aliases:** Commonwealth
 - **Cultural / Historical Context:** Migration limits for family care
 - **Narrative Function:** Colonial governance constraint
 - **Reuse Hook:** Chapter 03
@@ -563,6 +581,7 @@ Version: 1.3
 
 
 - **Asset Type:** Foreshadowing
+- **Aliases:** Code
 - **Cultural / Historical Context:** Early computation exposure
 - **Narrative Function:** Bridge to Chapter 01
 - **Reuse Hook:** Chapters 01-02
@@ -577,6 +596,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** personalized medicine
 - **Cultural / Historical Context:** Early framing for precision efforts
 - **Narrative Function:** Terminology shift setup
 - **Reuse Hook:** Chapter 02
@@ -605,6 +625,7 @@ Version: 1.3
 
 
 - **Asset Type:** Place
+- **Aliases:** Orlando
 - **Cultural / Historical Context:** Parents starting over in the U.S.
 - **Narrative Function:** Migration cost anchor
 - **Reuse Hook:** Chapter 03
@@ -692,6 +713,7 @@ Version: 1.3
 
 
 - **Asset Type:** Organization
+- **Aliases:** Quaker; Society of Friends
 - **Cultural / Historical Context:** Franklin’s university framing
 - **Narrative Function:** Ethos backdrop for institutional values
 - **Reuse Hook:** Chapter 02
@@ -720,6 +742,7 @@ Version: 1.3
 
 
 - **Asset Type:** Character
+- **Aliases:** wife
 - **Status:** Living
 - **Cultural / National Identity:** Spanish Moroccan, Muslim; Spanish Moroccan
 - **Cultural / Historical Context:** Cultural expectations in care
@@ -835,6 +858,7 @@ Version: 1.3
 
 
 - **Asset Type:** Organization
+- **Aliases:** Stanford
 - **Cultural / Historical Context:** Residency and systems training
 - **Narrative Function:** Institutional training anchor
 - **Reuse Hook:** Chapter 02
@@ -906,6 +930,7 @@ Version: 1.3
 
 
 - **Asset Type:** Object
+- **Aliases:** urn
 - **Cultural / Historical Context:** Father's burial at sea
 - **Narrative Function:** Moral closure and continuity
 - **Reuse Hook:** Epilogue
@@ -991,6 +1016,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** polio vaccine
 - **Cultural / Historical Context:** Biomedical milestone enabled by HeLa cells
 - **Narrative Function:** Impact evidence
 - **Reuse Hook:** Chapter 02
@@ -1019,6 +1045,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** dialysis
 - **Cultural / Historical Context:** Father’s treatment
 - **Narrative Function:** System dependency marker
 - **Reuse Hook:** Chapter 07
@@ -1075,6 +1102,7 @@ Version: 1.3
 
 
 - **Asset Type:** Character
+- **Aliases:** children
 - **Status:** Living
 - **Cultural / National Identity:** Trinidadian and Spanish Moroccan lineage
 - **Cultural / Historical Context:** Future inheritance and boat scene
@@ -1163,6 +1191,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** and deaths
 - **Cultural / Historical Context:** Precision medicine economy
 - **Narrative Function:** Moral anchor for the book
 - **Reuse Hook:** Chapters 01-10, Epilogue
@@ -1178,6 +1207,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** Billable Code
 - **Cultural / Historical Context:** Prologue-to-Chapter 01 transition
 - **Narrative Function:** Bridge to system mechanics
 - **Reuse Hook:** Chapters 01-02
@@ -1192,6 +1222,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** Prologue
 - **Cultural / Historical Context:** Transition to Chapter 01
 - **Narrative Function:** Move from narrative cost to system mechanics
 - **Canonical transition:** "In Chapter One, I give that currency its formal name."
@@ -1238,6 +1269,7 @@ Version: 1.3
 
 
 - **Asset Type:** Character
+- **Aliases:** Pearl
 - **Status:** Living
 - **Cultural / National Identity:** Indo-Trinidadian, Hindu upbringing, later Seventh-day Adventist; Trinidadian
 - **Cultural / Historical Context:** Nurse training, name change, care labor
@@ -1254,6 +1286,7 @@ Version: 1.3
 
 
 - **Asset Type:** Organization
+- **Aliases:** Seventh-day Adventist community hospital
 - **Cultural / Historical Context:** Mother’s nursing post and father’s administration role
 - **Narrative Function:** Faith-to-care bridge
 - **Reuse Hook:** Chapter 03
@@ -1268,6 +1301,7 @@ Version: 1.3
 
 
 - **Asset Type:** Place
+- **Aliases:** Gasparillo
 - **Cultural / Historical Context:** Cane and oil country
 - **Narrative Function:** Mother lineage anchor
 - **Reuse Hook:** Chapters 01, 08
@@ -1329,6 +1363,7 @@ Version: 1.3
 
 
 - **Asset Type:** Character
+- **Aliases:** Brother
 - **Status:** Living
 - **Cultural / National Identity:** Trinidadian (Dougla)
 - **Cultural / Historical Context:** Childhood scenes and migration
@@ -1359,6 +1394,7 @@ Version: 1.3
 
 
 - **Asset Type:** Object
+- **Aliases:** oorni
 - **Cultural / Historical Context:** Mama’s daily attire
 - **Narrative Function:** Visual anchor of Hindu lineage
 - **Reuse Hook:** Chapter 04
@@ -1373,6 +1409,7 @@ Version: 1.3
 
 
 - **Asset Type:** Place
+- **Aliases:** St. James
 - **Cultural / Historical Context:** Family home base
 - **Narrative Function:** Anchor for childhood scenes
 - **Reuse Hook:** Chapter 01
@@ -1429,6 +1466,7 @@ Version: 1.3
 
 
 - **Asset Type:** Object
+- **Aliases:** Tandy TRS
 - **Cultural / Historical Context:** First programming exposure
 - **Narrative Function:** Code-before-medicine foreshadow
 - **Reuse Hook:** Chapter 01
@@ -1457,6 +1495,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** migration
 - **Cultural / Historical Context:** Separation, aging alone, starting over
 - **Narrative Function:** Undercut meritocracy myth
 - **Reuse Hook:** Chapters 02, 07
@@ -1632,6 +1671,7 @@ Version: 1.3
 
 
 - **Asset Type:** Place
+- **Aliases:** Bakar Institute
 - **Cultural / Historical Context:** Systemwide data scale
 - **Narrative Function:** Circular data economy prelude
 - **Reuse Hook:** Chapter 02
@@ -1704,6 +1744,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** profit from
 - **Cultural / Historical Context:** Revenue structure that rewards readmissions and chronic decline
 - **Narrative Function:** System incentive exposure
 - **Reuse Hook:** Chapter 07
@@ -1718,6 +1759,7 @@ Version: 1.3
 
 
 - **Asset Type:** Place
+- **Aliases:** Florida
 - **Cultural / Historical Context:** Decentralized trials and DEI ban
 - **Narrative Function:** Representation cost setup
 - **Reuse Hook:** Chapter 02
@@ -1774,6 +1816,7 @@ Version: 1.3
 
 
 - **Asset Type:** Evidence
+- **Aliases:** NCT05384912
 - **Cultural / Historical Context:** COVID-era recruitment
 - **Narrative Function:** Representation cost evidence
 - **Reuse Hook:** Chapter 02
@@ -1831,6 +1874,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** hypertension
 - **Cultural / Historical Context:** Father’s comorbidity
 - **Narrative Function:** Chronic disease burden
 - **Reuse Hook:** Chapter 03
@@ -1845,6 +1889,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** diabetes
 - **Cultural / Historical Context:** Father’s comorbidity
 - **Narrative Function:** Chronic disease burden
 - **Reuse Hook:** Chapter 03
@@ -1859,6 +1904,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** stage kidney disease
 - **Cultural / Historical Context:** Father’s renal failure
 - **Narrative Function:** System cost and dependency
 - **Reuse Hook:** Chapter 07
@@ -1917,6 +1963,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** equitable governance layer
 - **Cultural / Historical Context:** Proposed architecture in closing
 - **Narrative Function:** Future governance bridge
 - **Reuse Hook:** Chapter 15, Epilogue
@@ -1961,6 +2008,7 @@ Version: 1.3
 
 
 - **Asset Type:** Concept
+- **Aliases:** Seventh
 - **Cultural / Historical Context:** Family faith environment
 - **Narrative Function:** Faith layering and migration bridge
 - **Reuse Hook:** Chapter 01
@@ -2218,6 +2266,7 @@ Version: 1.3
 
 
 - **Asset Type:** Metaphor
+- **Aliases:** labor
 - **Cultural / Historical Context:** Care labor and sacrifice
 - **Narrative Function:** Sets dividends vs deaths accounting logic
 - **Reuse Hook:** Chapters 02-10
@@ -2247,6 +2296,7 @@ Version: 1.3
 
 
 - **Asset Type:** Organization
+- **Aliases:** NIH
 - **Cultural / Historical Context:** Data-mining grant work
 - **Narrative Function:** Research funding backdrop
 - **Reuse Hook:** Chapter 02
@@ -2290,6 +2340,7 @@ Version: 1.3
 
 
 - **Asset Type:** Place
+- **Aliases:** Stanford
 - **Cultural / Historical Context:** Codes and ontologies
 - **Narrative Function:** Billable code formalization
 - **Reuse Hook:** Chapter 02
@@ -2318,6 +2369,7 @@ Version: 1.3
 
 
 - **Asset Type:** Ritual
+- **Aliases:** faith
 - **Cultural / Historical Context:** Hindu, Seventh-day Adventist, Catholic, Islam
 - **Narrative Function:** Plural systems outlast purist ones
 - **Reuse Hook:** Digital Māyā, governance chapters

@@ -6,6 +6,9 @@ Define the structural engines through which the precision medicine economy gener
 ## Scope
 Applies to chapters that describe how discovery, care, and information systems turn representations into decisions, value, and mortality.
 
+## Category
+System Primitive
+
 ## Canonical Definition
 The precision medicine economy operates through three coupled engines:
 1. Discovery

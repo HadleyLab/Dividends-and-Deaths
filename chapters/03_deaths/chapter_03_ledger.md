@@ -5,6 +5,7 @@ Version: 1.0
 - **Chapter Question:** Where do deaths accumulate when representation fails?
 - **Chapter Claim:** Mortality follows representation; when data is incomplete and models ignore comorbidity, deaths concentrate in the communities the system was never built to see.
 - **Exit Handoff:** If deaths are the downstream ledger, we must trace how extraction began and why it was normalized.
+- **Interrogated Engines:** Discovery, Care, Information
 
 ## Assets
 
@@ -57,6 +58,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** redlined
 - **Cultural / Historical Context:** Pollution and neighborhood risk
 - **Narrative Function:** Structural exposure anchor
 - **Reuse Hook:** Chapter 06
@@ -100,6 +102,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** Breast cancer mortality
 - **Cultural / Historical Context:** Black women ~40% higher mortality
 - **Citations:** @desantis2022_breast_cancer_stats
 - **Narrative Function:** Flagship disparity datum
@@ -115,6 +118,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** Breast cancer
 - **Cultural / Historical Context:** NEJM confirmation of mortality gap
 - **Citations:** @daly2022_breast_cancer_disparities
 - **Narrative Function:** Independent validation
@@ -189,6 +193,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** in trials
 - **Cultural / Historical Context:** Trial enrollment imbalance
 - **Narrative Function:** Future therapy exclusion
 - **Reuse Hook:** Chapter 05
@@ -203,6 +208,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** genomic recurrence scoring
 - **Cultural / Historical Context:** Eligibility tied to coded history
 - **Narrative Function:** Precision access filter
 - **Reuse Hook:** Chapter 04
@@ -217,6 +223,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** cost differential
 - **Cultural / Historical Context:** Ad pricing inequity
 - **Narrative Function:** Economic barrier evidence
 - **Reuse Hook:** Chapter 07
@@ -231,6 +238,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** asthma
 - **Cultural / Historical Context:** Highest asthma mortality in Black and Latino children
 - **Citations:** @akinbami2012_asthma_disparities
 - **Narrative Function:** Comorbidity inequity evidence
@@ -246,6 +254,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** Puerto Rican
 - **Cultural / Historical Context:** Puerto Rican asthma prevalence ~3x White children
 - **Citations:** @nishimura2015_latino_asthma
 - **Narrative Function:** Population-specific burden evidence
@@ -261,6 +270,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** African ancestry
 - **Cultural / Historical Context:** Ancestry-linked exacerbation risk
 - **Citations:** @kumar2015_african_asthma
 - **Narrative Function:** Representation gap impact
@@ -276,6 +286,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** genomics
 - **Cultural / Historical Context:** Eurocentric GWAS underrepresentation
 - **Citations:** @popejoy2016_diversity_failure
 - **Narrative Function:** Pipeline indictment evidence
@@ -320,6 +331,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** hypertension
 - **Cultural / Historical Context:** European-ancestry bias in risk models
 - **Citations:** @hoffmann2018_gwas_bias
 - **Narrative Function:** Chronic disease inequity evidence
@@ -335,6 +347,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** diabetes
 - **Cultural / Historical Context:** Diabetes risk prediction least accurate for minorities
 - **Citations:** @osei2021_diabetes_disparities
 - **Narrative Function:** Algorithmic gap evidence
@@ -350,6 +363,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** preterm birth
 - **Cultural / Historical Context:** Black women +50% preterm birth risk
 - **Citations:** @taylor2020_preterm_birth
 - **Narrative Function:** Maternal inequity evidence
@@ -365,6 +379,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** APOL1 variants
 - **Cultural / Historical Context:** APOL1 discovery after sequencing gaps
 - **Citations:** @genovese2010_apol1_ckd
 - **Narrative Function:** Representation delay consequence
@@ -408,6 +423,7 @@ Version: 1.0
 
 
 - **Asset Type:** Phrase
+- **Aliases:** institutional mirror
 - **Cultural / Historical Context:** Representation that acts before the person
 - **Narrative Function:** Digital Māyā proxy without naming it
 - **Reuse Hook:** Chapter 07
@@ -422,6 +438,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** COVID
 - **Cultural / Historical Context:** Disparate pandemic mortality
 - **Citations:** @hill2021_covid_inequities
 - **Narrative Function:** Crisis exposure evidence
@@ -437,6 +454,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** Clinical Trial
 - **Cultural / Historical Context:** Minority underrepresentation in oncology trials
 - **Citations:** @loree2021_trials_underrepresentation
 - **Narrative Function:** Future-therapy exclusion evidence
@@ -581,6 +599,7 @@ Version: 1.0
 
 
 - **Asset Type:** Place
+- **Aliases:** states
 - **Cultural / Historical Context:** U.S. epidemiology references
 - **Narrative Function:** National scope
 - **Reuse Hook:** Chapter 06
@@ -595,6 +614,7 @@ Version: 1.0
 
 
 - **Asset Type:** Character
+- **Aliases:** daughters
 - **Status:** Living
 - **Cultural / National Identity:** Trinidadian and Spanish Moroccan lineage
 - **Cultural / Historical Context:** Personal stakes in mortality gaps
@@ -639,6 +659,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** Deaths
 - **Cultural / Historical Context:** Mortality disparities track dataset inclusion
 - **Narrative Function:** Core thesis for Part I closure
 - **Reuse Hook:** Chapter 04
@@ -653,6 +674,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** Mortality
 - **Cultural / Historical Context:** Death as final accountability metric
 - **Narrative Function:** Ground the chapter’s evidentiary frame
 - **Reuse Hook:** Chapter 04
@@ -667,6 +689,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** mortality gap
 - **Cultural / Historical Context:** 40% higher Black breast cancer mortality
 - **Narrative Function:** Disparity shorthand
 - **Reuse Hook:** Chapter 04
@@ -681,6 +704,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** extraction
 - **Cultural / Historical Context:** Value captured upstream while harm is distributed downstream
 - **Narrative Function:** Bridge to Henrietta Lacks and the origin of the system
 - **Reuse Hook:** Chapter 04
@@ -752,6 +776,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** comorbidity
 - **Cultural / Historical Context:** Multiple conditions in the same body
 - **Narrative Function:** Break the single-disease model assumption
 - **Reuse Hook:** Chapter 06
@@ -794,6 +819,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** preterm birth
 - **Cultural / Historical Context:** Maternal inequity
 - **Narrative Function:** Disparity evidence anchor
 - **Reuse Hook:** Chapter 06
@@ -878,6 +904,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** polygenic scores
 - **Cultural / Historical Context:** Risk models from biased data
 - **Narrative Function:** Single-disease model critique
 - **Reuse Hook:** Chapter 06
@@ -892,6 +919,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** learning prognostics
 - **Cultural / Historical Context:** Predictive models in care
 - **Narrative Function:** Automation risk example
 - **Reuse Hook:** Chapter 07
@@ -934,6 +962,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** mammography
 - **Cultural / Historical Context:** Delay increases mortality risk
 - **Citations:** @fedewa2020_mammography_delay
 - **Narrative Function:** Care-timing consequence
@@ -1006,6 +1035,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** metaverse of medical data
 - **Cultural / Historical Context:** Digital abstraction layer in care
 - **Narrative Function:** Cue for later data custody chapters
 - **Reuse Hook:** Chapter 07
@@ -1020,6 +1050,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** NCT05384912
 - **Cultural / Historical Context:** UCF COVID imaging trial
 - **Citations:** @hadley2022_covid_imaging_trial
 - **Narrative Function:** Recruitment cost gap anchor
@@ -1094,6 +1125,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** underrepresented ancestry
 - **Cultural / Historical Context:** Group exclusion from models
 - **Narrative Function:** Equity framing
 - **Reuse Hook:** Chapter 06

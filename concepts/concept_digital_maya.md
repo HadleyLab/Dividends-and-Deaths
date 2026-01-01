@@ -6,6 +6,9 @@ Keep Digital Māyā present without repeating its definition.
 ## Scope
 Applies to all chapters after the initial definition in Chapter 1.
 
+## Category
+Lens
+
 ## Canonical Definition
 Digital Māyā is representation mistaken for reality: the institutional shadow of a person that systems act on first.
 It is structural illusion produced by scalable systems, and it becomes operative when representation governs action without custody.

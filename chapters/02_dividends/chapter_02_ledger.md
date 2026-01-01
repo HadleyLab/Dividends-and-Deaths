@@ -5,6 +5,7 @@ Version: 1.0
 - **Chapter Question:** How did the precision-medicine economy learn to monetize data long before it learned to represent the people who generate it?
 - **Chapter Claim:** Every major discovery pipeline—from Penn to CHOP to Stanford to UCSF to the University of Central Florida (UCF)—was engineered to reward coded volume, not demographic accuracy, so the dividends naturally flowed upward to those already legible.
 - **Exit Handoff:** Having followed the money through these systems, Chapter Three traces the deaths that accumulate wherever the data disappears.
+- **Interrogated Engines:** Discovery, Information
 
 ## Assets
 
@@ -147,6 +148,7 @@ Version: 1.0
 
 
 - **Asset Type:** Ritual
+- **Aliases:** systems engineering
 - **Cultural / Historical Context:** Cohort-level language gatekeeping
 - **Narrative Function:** Show legibility as early dividend
 - **Reuse Hook:** Chapter 01 callbacks
@@ -193,7 +195,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
-- **Aliases:** conservation
+- **Aliases:** conservation; evolutionary
 - **Cultural / Historical Context:** Cross-species signal logic
 - **Narrative Function:** Early pipeline mechanic
 - **Reuse Hook:** Chapter 03
@@ -364,7 +366,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
-- **Aliases:** presynaptic neural gene conservation
+- **Aliases:** presynaptic neural gene conservation; neural gene
 - **Cultural / Historical Context:** Autism genomics research
 - **Narrative Function:** Show early pipeline mechanics and dataset bias
 - **Reuse Hook:** Chapter 03 references
@@ -409,6 +411,7 @@ Version: 1.0
 
 
 - **Asset Type:** Organization
+- **Aliases:** Genome Project
 - **Cultural / Historical Context:** Large-scale autism genomics cohort
 - **Narrative Function:** Representation gap example
 - **Reuse Hook:** Chapter 03
@@ -454,6 +457,7 @@ Version: 1.0
 
 
 - **Asset Type:** Ritual
+- **Aliases:** West Indies Test cricket
 - **Cultural / Historical Context:** Commonwealth cricket framing for systems vs improvisation
 - **Narrative Function:** Cultural translation for legibility and dominance
 - **Reuse Hook:** Chapter 03
@@ -468,6 +472,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** population genetics
 - **Cultural / Historical Context:** Systems lens for cohorts
 - **Narrative Function:** Method framing
 - **Reuse Hook:** Chapter 03
@@ -541,6 +546,7 @@ Version: 1.0
 
 
 - **Asset Type:** Object
+- **Aliases:** recruitment letters
 - **Cultural / Historical Context:** Autism cohort outreach
 - **Narrative Function:** Consent and hope framing
 - **Reuse Hook:** Chapter 03
@@ -802,7 +808,7 @@ Version: 1.0
 
 
 - **Asset Type:** Economic
-- **Aliases:** representation cost gap
+- **Aliases:** representation cost gap; recruitment
 - **Cultural / Historical Context:** Hundreds of dollars for White women vs thousands for Black women
 - **Narrative Function:** Quantify equity as priced scarcity
 - **Reuse Hook:** Chapter 03
@@ -873,6 +879,7 @@ Version: 1.0
 
 
 - **Asset Type:** Phrase
+- **Aliases:** software is eating the world
 - **Cultural / Historical Context:** Platform economy framing
 - **Narrative Function:** Infrastructure analogy
 - **Reuse Hook:** Chapter 03
@@ -946,6 +953,7 @@ Version: 1.0
 
 
 - **Asset Type:** Character
+- **Aliases:** engineering
 - **Status:** Abstract
 - **Cultural / National Identity:** Chinese
 - **Cultural / Historical Context:** Systems engineering peer group at Penn
@@ -962,6 +970,7 @@ Version: 1.0
 
 
 - **Asset Type:** Character
+- **Aliases:** engineering
 - **Status:** Living
 - **Cultural / National Identity:** Black
 - **Cultural / Historical Context:** Only other native English speaker in cohort
@@ -994,6 +1003,7 @@ Version: 1.0
 
 
 - **Asset Type:** Character
+- **Aliases:** Darwin
 - **Status:** Public Figure
 - **Cultural / National Identity:** British; British
 - **Cultural / Historical Context:** Popular evolution framing
@@ -1070,6 +1080,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** neuropsychiatry
 - **Cultural / Historical Context:** NeuroFix focus area
 - **Narrative Function:** Precision-medicine use case
 - **Reuse Hook:** Chapter 03
@@ -1127,6 +1138,7 @@ Version: 1.0
 
 
 - **Asset Type:** Character
+- **Aliases:** resident
 - **Status:** Living
 - **Cultural / National Identity:** Israeli
 - **Cultural / Historical Context:** CP-year peer at Stanford
@@ -1188,6 +1200,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** neglected tropical diseases
 - **Cultural / Historical Context:** WHO disease category
 - **Narrative Function:** Funding priority contrast
 - **Reuse Hook:** Chapter 03
@@ -1231,6 +1244,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** deep learning
 - **Cultural / Historical Context:** AI acceleration context
 - **Narrative Function:** Infrastructure shift marker
 - **Reuse Hook:** Chapter 03
@@ -1290,7 +1304,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
-- **Aliases:** liquidity
+- **Aliases:** liquidity; Liquidity
 - **Cultural / Historical Context:** Public data routed into private pipelines
 - **Narrative Function:** Define the economic mechanism of reuse
 - **Reuse Hook:** Part III
@@ -1334,6 +1348,7 @@ Version: 1.0
 
 
 - **Asset Type:** Historical case
+- **Aliases:** COVID
 - **Cultural / Historical Context:** Pandemic-era imaging trials
 - **Narrative Function:** Equity cost exposure
 - **Reuse Hook:** Chapter 03
@@ -1348,6 +1363,7 @@ Version: 1.0
 
 
 - **Asset Type:** Evidence
+- **Aliases:** Medicare Advantage
 - **Cultural / Historical Context:** Risk scoring, denials, and payment inflation
 - **Narrative Function:** Show insurance dividend mechanics
 - **Reuse Hook:** Part III
@@ -1405,7 +1421,7 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
-- **Aliases:** billing for invisibility
+- **Aliases:** billing for invisibility; system
 - **Cultural / Historical Context:** Algorithmic ad pricing
 - **Narrative Function:** Summarize dividend logic in one line
 - **Reuse Hook:** Chapter 03

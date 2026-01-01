@@ -6,6 +6,9 @@ Keep Ma’at structurally present without turning it into philosophy or moral in
 ## Scope
 Applies to chapters once systems are shown to function without accountability.
 
+## Category
+Governance Construct
+
 ## Canonical Definition
 Ma’at is the governance condition required to align representation with consequence: order, balance, and accountable accounting between value, power, and responsibility.
 In this book, Ma’at is structural, not spiritual, and it appears only when failure can kill at scale.

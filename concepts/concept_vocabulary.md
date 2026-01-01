@@ -6,6 +6,9 @@ Define non-negotiable meanings, terms, and phrases used throughout the book.
 ## Scope
 Applies to all chapters and protocols.
 
+## Category
+Vocabulary
+
 ## Canonical Definition
 This file is the authoritative vocabulary for the book’s core concepts, terms, and phrases. It constrains meaning so the manuscript can scale without drift.
 
@@ -143,6 +146,11 @@ Reference this file whenever a core term appears in prose or a ledger.
 
 ## Relationship to Canonical Concepts
 This vocabulary binds all canonical concepts, protocols, and chapters by fixing shared terms and mandated phrases. It is the language layer that makes governance enforceable.
+
+- **Three Engines (Discovery / Care / Information):** fixes engine names and failure phrasing so ledger mapping stays stable.
+- **Geometry of Medicine:** locks the geometric framing and its canonical reuse lines.
+- **Digital Māyā:** preserves the definition and mandated reuse language.
+- **Ma’at:** fixes governance language and prevents drift into moralizing.
 
 ## Reusable Phrase (Canonical)
 “Vocabulary is governance: reuse canonical terms verbatim.”

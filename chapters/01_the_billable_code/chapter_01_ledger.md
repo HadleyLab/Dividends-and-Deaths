@@ -5,6 +5,7 @@ Version: 1.0
 - **Chapter Question:** How did a single codebook become the machinery that turns care into currency?
 - **Chapter Claim:** The Billable Code is the fundamental economic unit of American healthcare; it translates personhood into legibility and makes extraction inevitable long before genomics or AI arrive.
 - **Exit Handoff:** If codes create the economy, the next part must trace where those dividends flow and where the deaths accumulate.
+- **Interrogated Engines:** Care, Information
 
 ## Assets
 
@@ -123,22 +124,6 @@ Version: 1.0
 
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
-
-### 10. 01-CHAR-01 — Neighborhood friend (unnamed)
-
-
-
-
-
-- **Asset Type:** Character
-- **Status:** Living
-- **Cultural / National Identity:** Trinidadian; Chinese and Spanish ancestry
-- **Cultural / Historical Context:** Childhood friend and cultural contrast
-- **Narrative Function:** Mirror for systems exposure and emigration fork
-- **Reuse Hook:** Chapter 01 only
-
-- **Introduced In:** Where Story Becomes Fate
-- **Engine Link:** Care
 
 ### 13. 01-RIT-02 — Sabbath worship and Lord’s Prayer
 
@@ -345,6 +330,204 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
+### 34. 01-CHAR-04 — Father - Leonard Kempthorne
+
+
+
+
+
+- **Asset Type:** Character
+- **Aliases:** Father; father
+- **Status:** Deceased
+- **Cultural / National Identity:** Black Tobagonian, Seventh-day Adventist; Tobagonian (Trinidad and Tobago)
+- **Cultural / Historical Context:** Scripture discipline and DIY experiments
+- **Narrative Function:** Ethical and systems grounding
+- **Reuse Hook:** Chapters 03, 07, Epilogue
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
+
+### 61. 01-PLACE-13 — Rome
+
+
+
+
+
+- **Asset Type:** Place
+- **Cultural / Historical Context:** European canon scene
+- **Narrative Function:** Curation contrast
+- **Reuse Hook:** Chapter 04
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
+
+### 69. 01-PLACE-16 — India
+
+
+
+
+
+- **Asset Type:** Place
+- **Cultural / Historical Context:** Origin of zero and Māyā
+- **Narrative Function:** Systems lineage anchor
+- **Reuse Hook:** Chapter 04
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
+
+### 71. 01-PLACE-18 — Africa
+
+
+
+
+
+- **Asset Type:** Place
+- **Cultural / Historical Context:** Lineage and civilizational breadth
+- **Narrative Function:** Universality framing
+- **Reuse Hook:** Chapter 04
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
+
+### 1. 01-PHRASE-01 — Where Story Becomes Fate
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Thesis framing
+- **Reuse Hook:** Chapter 01 only
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
+
+### 11. 01-CHAR-02 — Aunty Janice
+
+
+
+
+
+- **Asset Type:** Character
+- **Aliases:** Aunty Janice's; Aunty Janice’s
+- **Status:** Deceased
+- **Cultural / National Identity:** Trinidadian, Chinese ancestry
+- **Cultural / Historical Context:** Single mother, salon, Queen of the Band
+- **Narrative Function:** Contrast household systems and visibility
+- **Reuse Hook:** Chapter 01 only
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
+
+### 12. 01-PHRASE-03 — Queen of the Band
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Carnival prestige role
+- **Narrative Function:** Visibility and spectacle marker
+- **Reuse Hook:** Chapter 01 only
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
+
+### 15. 01-OBJ-02 — TRS-80 (and early home computing)
+
+
+
+
+
+- **Asset Type:** Object
+- **Aliases:** TRS-80
+- **Cultural / Historical Context:** First exposure to code as rules
+- **Narrative Function:** Establish systems logic and legibility lesson
+- **Reuse Hook:** Chapter 01, callbacks in Chapter 02
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
+
+### 30. 01-CONCEPT-02 — Billable Code as economic unit
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** Billable Code
+- **Cultural / Historical Context:** Insurance-driven translation of care into payment
+- **Narrative Function:** Establish the core economic mechanism of the book
+- **Reuse Hook:** Chapters 02-10
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
+
+### 60. 01-PLACE-12 — Europe
+
+
+
+
+
+- **Asset Type:** Place
+- **Aliases:** Europe’s
+- **Cultural / Historical Context:** Curated canon and institutional memory
+- **Narrative Function:** Curation contrast
+- **Reuse Hook:** Chapter 04
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
+
+### 94. 01-CHAR-12 — Aunty Betty
+
+
+
+
+
+- **Asset Type:** Character
+- **Aliases:** Aunt Betty; Aunty
+- **Status:** Deceased
+- **Cultural / National Identity:** Black Tobagonian; Tobagonian (Trinidad and Tobago)
+- **Cultural / Historical Context:** England gift of IBM 286 clone
+- **Narrative Function:** Technology inflection point
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
+
+### 95. 01-CONCEPT-28 — Seventh-day Adventism
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** Seventh-day Adventist; SDA
+- **Cultural / Historical Context:** Household faith environment
+- **Narrative Function:** Cultural constraint and cadence
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
+
+### 10. 01-CHAR-01 — Neighborhood friend (unnamed)
+
+
+
+
+
+- **Asset Type:** Character
+- **Aliases:** neighborhood friend
+- **Status:** Living
+- **Cultural / National Identity:** Trinidadian; Chinese and Spanish ancestry
+- **Cultural / Historical Context:** Childhood friend and cultural contrast
+- **Narrative Function:** Mirror for systems exposure and emigration fork
+- **Reuse Hook:** Chapter 01 only
+
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
+
 ### 28. 01-PHRASE-04 — Why We Have Codes at All
 
 
@@ -374,6 +557,20 @@ Version: 1.0
 - **Introduced In:** Why We Have Codes at All
 - **Engine Link:** Information
 
+### 58. 01-CONCEPT-14 — Precision Medicine Economy
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Systemic extraction structure
+- **Narrative Function:** Economic framing for the book
+- **Reuse Hook:** Chapters 02-10
+
+- **Introduced In:** Why We Have Codes at All
+- **Engine Link:** Care
+
 ### 32. 01-CONCEPT-03 — Date of birth as primary key
 
 
@@ -386,7 +583,7 @@ Version: 1.0
 - **Narrative Function:** Show the first code and its power
 - **Reuse Hook:** Chapters 03-04
 
-- **Introduced In:** Why We Have Codes at All
+- **Introduced In:** The First Code
 - **Engine Link:** Information
 
 ### 31. 01-PHRASE-05 — The First Code
@@ -399,40 +596,6 @@ Version: 1.0
 - **Cultural / Historical Context:** Chapter section title
 - **Narrative Function:** Identity-as-key framing
 - **Reuse Hook:** Chapter 01 only
-
-- **Introduced In:** The First Code
-- **Engine Link:** Information
-
-### 38. 01-CHAR-05 — Mother - Pearl Surajee
-
-
-
-
-
-- **Asset Type:** Character
-- **Aliases:** Surajee Ramdin; Polly; Pearl; Ramdin; Ramdeen; Ramdhan; Ramdan
-- **Status:** Living
-- **Cultural / National Identity:** Indo-Trinidadian, Hindu upbringing, later Seventh-day Adventist; Trinidadian
-- **Cultural / Historical Context:** Renaming and legibility in institutional systems
-- **Narrative Function:** Personhood versus institutional keys
-- **Reuse Hook:** Chapters 03, 09
-
-- **Introduced In:** The First Code
-- **Engine Link:** Information
-
-### 34. 01-CHAR-04 — Father - Leonard Kempthorne
-
-
-
-
-
-- **Asset Type:** Character
-- **Aliases:** Father
-- **Status:** Deceased
-- **Cultural / National Identity:** Black Tobagonian, Seventh-day Adventist; Tobagonian (Trinidad and Tobago)
-- **Cultural / Historical Context:** Scripture discipline and DIY experiments
-- **Narrative Function:** Ethical and systems grounding
-- **Reuse Hook:** Chapters 03, 07, Epilogue
 
 - **Introduced In:** The First Code
 - **Engine Link:** Information
@@ -458,11 +621,29 @@ Version: 1.0
 
 
 - **Asset Type:** Historical case
+- **Aliases:** Red House
 - **Cultural / Historical Context:** Lost birth records in Trinidad
 - **Narrative Function:** Personhood without institutional archive
 - **Reuse Hook:** Chapter 04
 
 - **Introduced In:** Mama’s Code Was a Story
+- **Engine Link:** Information
+
+### 38. 01-CHAR-05 — Mother - Pearl Surajee
+
+
+
+
+
+- **Asset Type:** Character
+- **Aliases:** Surajee Ramdin; Polly; Pearl; Ramdin; Ramdeen; Ramdhan; Ramdan
+- **Status:** Living
+- **Cultural / National Identity:** Indo-Trinidadian, Hindu upbringing, later Seventh-day Adventist; Trinidadian
+- **Cultural / Historical Context:** Renaming and legibility in institutional systems
+- **Narrative Function:** Personhood versus institutional keys
+- **Reuse Hook:** Chapters 03, 09
+
+- **Introduced In:** My Mother’s Name Was a Code Too
 - **Engine Link:** Information
 
 ### 37. 01-PHRASE-07 — My Mother’s Name Was a Code Too
@@ -486,6 +667,7 @@ Version: 1.0
 
 
 - **Asset Type:** Symbol
+- **Aliases:** Hadley
 - **Cultural / Historical Context:** Colonial lineage preserved in the archive
 - **Narrative Function:** Contrast between mutable and fixed identities
 - **Reuse Hook:** Chapter 01 only
@@ -507,6 +689,21 @@ Version: 1.0
 - **Introduced In:** Penn and the Operating Room
 - **Engine Link:** Care
 
+### 41. 01-PLACE-10 — Penn operating room
+
+
+
+
+
+- **Asset Type:** Place
+- **Aliases:** Penn
+- **Cultural / Historical Context:** Codes running alongside the body
+- **Narrative Function:** Show the hospital as machine
+- **Reuse Hook:** Chapter 02 references
+
+- **Introduced In:** Penn and the Operating Room
+- **Engine Link:** Information
+
 ### 42. 01-CONCEPT-04 — Surgery
 
 
@@ -518,7 +715,7 @@ Version: 1.0
 - **Narrative Function:** Spotlight-versus-system contrast
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** Penn and the Operating Room
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Care
 
 ### 43. 01-CONCEPT-05 — ICD
@@ -532,7 +729,7 @@ Version: 1.0
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** Penn and the Operating Room
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
 ### 44. 01-CONCEPT-06 — CPT
@@ -546,7 +743,7 @@ Version: 1.0
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** Penn and the Operating Room
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
 ### 45. 01-PHRASE-09 — Stanford, the Basement, and the Constitution of Medicine
@@ -595,6 +792,78 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
+### 46. 01-PLACE-11 — Stanford pathology basements
+
+
+
+
+
+- **Asset Type:** Place
+- **Aliases:** Stanford; Stanford’s
+- **Cultural / Historical Context:** Code vocabularies (LOINC, RxNorm, SNOMED, ICD, CPT, UMLS)
+- **Narrative Function:** Show the constitution of medicine as code
+- **Reuse Hook:** Chapters 02-03
+
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
+- **Engine Link:** Information
+
+### 47. 01-CONCEPT-07 — Clinical Pathology and Laboratory Medicine
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** Clinical Pathology; Pathology; Laboratory Medicine
+- **Cultural / Historical Context:** Specialty framing for Stanford training
+- **Narrative Function:** Code-infrastructure grounding
+- **Reuse Hook:** Chapter 02
+
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
+- **Engine Link:** Information
+
+### 48. 01-CONCEPT-08 — LOINC
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Lab observation coding system
+- **Narrative Function:** Medical code infrastructure
+- **Reuse Hook:** Chapter 02
+
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
+- **Engine Link:** Information
+
+### 49. 01-CONCEPT-09 — RxNorm
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Medication normalization system
+- **Narrative Function:** Medical code infrastructure
+- **Reuse Hook:** Chapter 02
+
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
+- **Engine Link:** Information
+
+### 50. 01-CONCEPT-10 — SNOMED CT
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Clinical terminology system
+- **Narrative Function:** Medical code infrastructure
+- **Reuse Hook:** Chapter 02
+
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
+- **Engine Link:** Information
+
 ### 53. 01-PHRASE-10 — When Story Became Fate
 
 
@@ -623,30 +892,17 @@ Version: 1.0
 - **Introduced In:** The Insurance Engine
 - **Engine Link:** Care
 
-### 58. 01-CONCEPT-14 — Precision Medicine Economy
+### 54. 01-SYMBOL-02 — Pacemaker serial number missing at bedside
 
 
 
 
 
-- **Asset Type:** Concept
-- **Cultural / Historical Context:** Systemic extraction structure
-- **Narrative Function:** Economic framing for the book
-- **Reuse Hook:** Chapters 02-10
-
-- **Introduced In:** The Insurance Engine
-- **Engine Link:** Care
-
-### 57. 01-CONCEPT-13 — Access
-
-
-
-
-
-- **Asset Type:** Concept
-- **Cultural / Historical Context:** Care availability after coverage
-- **Narrative Function:** Compression step in Digital Māyā sequence
-- **Reuse Hook:** Chapter 02
+- **Asset Type:** Symbol
+- **Aliases:** pacemaker serial number
+- **Cultural / Historical Context:** Code exists for reimbursement but not care
+- **Narrative Function:** Show how code outranks human need
+- **Reuse Hook:** Chapter 03
 
 - **Introduced In:** The Insurance Engine
 - **Engine Link:** Information
@@ -661,20 +917,6 @@ Version: 1.0
 - **Cultural / Historical Context:** Chapter section title
 - **Narrative Function:** Canon critique framing
 - **Reuse Hook:** Chapter 01 only
-
-- **Introduced In:** Europe, Curation, and the Long Memory of Power
-- **Engine Link:** Care
-
-### 61. 01-PLACE-13 — Rome
-
-
-
-
-
-- **Asset Type:** Place
-- **Cultural / Historical Context:** European canon scene
-- **Narrative Function:** Curation contrast
-- **Reuse Hook:** Chapter 04
 
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
 - **Engine Link:** Care
@@ -708,22 +950,6 @@ Version: 1.0
 - **Engine Link:** Care
 
 ### 64. 01-CHAR-07 — Michelangelo
-
-
-
-
-
-- **Asset Type:** Character
-- **Status:** Public Figure
-- **Cultural / National Identity:** Italian; Italian
-- **Cultural / Historical Context:** Canonized European lineage
-- **Narrative Function:** Curation contrast in Europe section
-- **Reuse Hook:** Chapter 04
-
-- **Introduced In:** Europe, Curation, and the Long Memory of Power
-- **Engine Link:** Care
-
-### 65. 01-CHAR-08 — Leonardo da Vinci
 
 
 
@@ -783,43 +1009,18 @@ Version: 1.0
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
 - **Engine Link:** Information
 
-### 69. 01-PLACE-16 — India
+### 65. 01-CHAR-08 — Leonardo da Vinci
 
 
 
 
 
-- **Asset Type:** Place
-- **Cultural / Historical Context:** Origin of zero and Māyā
-- **Narrative Function:** Systems lineage anchor
-- **Reuse Hook:** Chapter 04
-
-- **Introduced In:** Europe, Curation, and the Long Memory of Power
-- **Engine Link:** Care
-
-### 70. 01-PLACE-17 — Arab world
-
-
-
-
-
-- **Asset Type:** Place
-- **Cultural / Historical Context:** Transmission path for algebra and algorithms
-- **Narrative Function:** Systems lineage bridge
-- **Reuse Hook:** Chapter 04
-
-- **Introduced In:** Europe, Curation, and the Long Memory of Power
-- **Engine Link:** Information
-
-### 71. 01-PLACE-18 — Africa
-
-
-
-
-
-- **Asset Type:** Place
-- **Cultural / Historical Context:** Lineage and civilizational breadth
-- **Narrative Function:** Universality framing
+- **Asset Type:** Character
+- **Aliases:** Da Vinci
+- **Status:** Public Figure
+- **Cultural / National Identity:** Italian; Italian
+- **Cultural / Historical Context:** Canonized European lineage
+- **Narrative Function:** Curation contrast in Europe section
 - **Reuse Hook:** Chapter 04
 
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
@@ -832,6 +1033,7 @@ Version: 1.0
 
 
 - **Asset Type:** Character
+- **Aliases:** wife
 - **Status:** Living
 - **Cultural / National Identity:** Spanish Moroccan, Muslim; Spanish Moroccan
 - **Cultural / Historical Context:** Lineage and contemporary inheritance
@@ -839,6 +1041,20 @@ Version: 1.0
 - **Reuse Hook:** Parts IV-V
 
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Information
+
+### 70. 01-PLACE-17 — Arab world
+
+
+
+
+
+- **Asset Type:** Place
+- **Cultural / Historical Context:** Transmission path for algebra and algorithms
+- **Narrative Function:** Systems lineage bridge
+- **Reuse Hook:** Chapter 04
+
+- **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
 - **Engine Link:** Information
 
 ### 73. 01-PHRASE-13 — Zero, Algebra, and the Systems Europe Inherited
@@ -876,12 +1092,59 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** binary
 - **Cultural / Historical Context:** Computational alphabet
 - **Narrative Function:** Systems inheritance proof
 - **Reuse Hook:** Chapter 04
 
 - **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
 - **Engine Link:** Care
+
+### 76. 01-CONCEPT-19 — Algebra
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** al-jabr
+- **Cultural / Historical Context:** Mathematical system inheritance
+- **Narrative Function:** Non-European lineage proof
+- **Reuse Hook:** Chapter 04
+
+- **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
+- **Engine Link:** Care
+
+### 77. 01-CONCEPT-20 — Algorithm
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** algorithm
+- **Cultural / Historical Context:** Procedural method lineage
+- **Narrative Function:** Systems inheritance proof
+- **Reuse Hook:** Chapter 04
+
+- **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
+- **Engine Link:** Information
+
+### 78. 01-CHAR-11 — al-Khwarizmi
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Public Figure
+- **Cultural / National Identity:** Not stated; Not stated
+- **Cultural / Historical Context:** Algorithmic lineage origin
+- **Narrative Function:** Non-European systems inheritance evidence
+- **Reuse Hook:** Chapter 04
+
+- **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
+- **Engine Link:** Information
 
 ### 79. 01-PHRASE-14 — The Moors, and the Proof of a Larger Lineage
 
@@ -991,12 +1254,28 @@ Version: 1.0
 
 
 - **Asset Type:** Concept
+- **Aliases:** prophets of Islam
 - **Cultural / Historical Context:** Naming lineage for sons
 - **Narrative Function:** Prophetic naming motif
 - **Reuse Hook:** Part V
 
 - **Introduced In:** Names as Prophecy
 - **Engine Link:** Care
+
+### 87. 01-CONCEPT-24 — Data science
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** data science
+- **Cultural / Historical Context:** Prediction and pattern recognition framing
+- **Narrative Function:** Systems prophecy analogy
+- **Reuse Hook:** Chapter 04
+
+- **Introduced In:** Names as Prophecy
+- **Engine Link:** Information
 
 ### 89. 01-PHRASE-16 — Code Is Not Software — It Is Power
 
@@ -1023,316 +1302,7 @@ Version: 1.0
 - **Narrative Function:** System abstraction framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** Digital Māyā
-- **Engine Link:** Information
-
-### 93. 01-PHRASE-18 — The Counterattack
-
-
-
-
-
-- **Asset Type:** Phrase
-- **Cultural / Historical Context:** Chapter section title
-- **Narrative Function:** Closing pivot framing
-- **Reuse Hook:** Chapter 01 only
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Care
-
-### 1. 01-PHRASE-01 — Where Story Becomes Fate
-
-
-
-
-
-- **Asset Type:** Phrase
-- **Cultural / Historical Context:** Chapter section title
-- **Narrative Function:** Thesis framing
-- **Reuse Hook:** Chapter 01 only
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Care
-
-### 11. 01-CHAR-02 — Aunty Janice
-
-
-
-
-
-- **Asset Type:** Character
-- **Aliases:** Aunty Janice's; Aunty Janice’s
-- **Status:** Deceased
-- **Cultural / National Identity:** Trinidadian, Chinese ancestry
-- **Cultural / Historical Context:** Single mother, salon, Queen of the Band
-- **Narrative Function:** Contrast household systems and visibility
-- **Reuse Hook:** Chapter 01 only
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Care
-
-### 12. 01-PHRASE-03 — Queen of the Band
-
-
-
-
-
-- **Asset Type:** Phrase
-- **Cultural / Historical Context:** Carnival prestige role
-- **Narrative Function:** Visibility and spectacle marker
-- **Reuse Hook:** Chapter 01 only
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Care
-
-### 15. 01-OBJ-02 — TRS-80 (and early home computing)
-
-
-
-
-
-- **Asset Type:** Object
-- **Aliases:** TRS-80
-- **Cultural / Historical Context:** First exposure to code as rules
-- **Narrative Function:** Establish systems logic and legibility lesson
-- **Reuse Hook:** Chapter 01, callbacks in Chapter 02
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 30. 01-CONCEPT-02 — Billable Code as economic unit
-
-
-
-
-
-- **Asset Type:** Concept
-- **Aliases:** Billable Code
-- **Cultural / Historical Context:** Insurance-driven translation of care into payment
-- **Narrative Function:** Establish the core economic mechanism of the book
-- **Reuse Hook:** Chapters 02-10
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 33. 01-CHAR-03 — Mama (maternal grandmother)
-
-
-
-
-
-- **Asset Type:** Character
-- **Status:** Deceased
-- **Cultural / National Identity:** Hindu matriarch; Trinidadian
-- **Cultural / Historical Context:** Relational personhood without institutional indexing
-- **Narrative Function:** Counterpoint to code-based identity
-- **Reuse Hook:** Chapters 02-04
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 41. 01-PLACE-10 — Penn operating room
-
-
-
-
-
-- **Asset Type:** Place
-- **Aliases:** Penn
-- **Cultural / Historical Context:** Codes running alongside the body
-- **Narrative Function:** Show the hospital as machine
-- **Reuse Hook:** Chapter 02 references
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 46. 01-PLACE-11 — Stanford pathology basements
-
-
-
-
-
-- **Asset Type:** Place
-- **Aliases:** Stanford; Stanford’s
-- **Cultural / Historical Context:** Code vocabularies (LOINC, RxNorm, SNOMED, ICD, CPT, UMLS)
-- **Narrative Function:** Show the constitution of medicine as code
-- **Reuse Hook:** Chapters 02-03
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 47. 01-CONCEPT-07 — Clinical Pathology and Laboratory Medicine
-
-
-
-
-
-- **Asset Type:** Concept
-- **Aliases:** Clinical Pathology; Pathology; Laboratory Medicine
-- **Cultural / Historical Context:** Specialty framing for Stanford training
-- **Narrative Function:** Code-infrastructure grounding
-- **Reuse Hook:** Chapter 02
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 48. 01-CONCEPT-08 — LOINC
-
-
-
-
-
-- **Asset Type:** Concept
-- **Cultural / Historical Context:** Lab observation coding system
-- **Narrative Function:** Medical code infrastructure
-- **Reuse Hook:** Chapter 02
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 49. 01-CONCEPT-09 — RxNorm
-
-
-
-
-
-- **Asset Type:** Concept
-- **Cultural / Historical Context:** Medication normalization system
-- **Narrative Function:** Medical code infrastructure
-- **Reuse Hook:** Chapter 02
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 50. 01-CONCEPT-10 — SNOMED CT
-
-
-
-
-
-- **Asset Type:** Concept
-- **Cultural / Historical Context:** Clinical terminology system
-- **Narrative Function:** Medical code infrastructure
-- **Reuse Hook:** Chapter 02
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 54. 01-SYMBOL-02 — Pacemaker serial number missing at bedside
-
-
-
-
-
-- **Asset Type:** Symbol
-- **Aliases:** pacemaker serial number
-- **Cultural / Historical Context:** Code exists for reimbursement but not care
-- **Narrative Function:** Show how code outranks human need
-- **Reuse Hook:** Chapter 03
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 56. 01-CONCEPT-12 — Coverage
-
-
-
-
-
-- **Asset Type:** Concept
-- **Cultural / Historical Context:** Insurance authorization layer
-- **Narrative Function:** Compression step in Digital Māyā sequence
-- **Reuse Hook:** Chapter 02
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 60. 01-PLACE-12 — Europe
-
-
-
-
-
-- **Asset Type:** Place
-- **Aliases:** Europe’s
-- **Cultural / Historical Context:** Curated canon and institutional memory
-- **Narrative Function:** Curation contrast
-- **Reuse Hook:** Chapter 04
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Care
-
-### 76. 01-CONCEPT-19 — Algebra
-
-
-
-
-
-- **Asset Type:** Concept
-- **Aliases:** al-jabr
-- **Cultural / Historical Context:** Mathematical system inheritance
-- **Narrative Function:** Non-European lineage proof
-- **Reuse Hook:** Chapter 04
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Care
-
-### 77. 01-CONCEPT-20 — Algorithm
-
-
-
-
-
-- **Asset Type:** Concept
-- **Cultural / Historical Context:** Procedural method lineage
-- **Narrative Function:** Systems inheritance proof
-- **Reuse Hook:** Chapter 04
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 78. 01-CHAR-11 — al-Khwarizmi
-
-
-
-
-
-- **Asset Type:** Character
-- **Status:** Public Figure
-- **Cultural / National Identity:** Not stated; Not stated
-- **Cultural / Historical Context:** Algorithmic lineage origin
-- **Narrative Function:** Non-European systems inheritance evidence
-- **Reuse Hook:** Chapter 04
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 87. 01-CONCEPT-24 — Data science
-
-
-
-
-
-- **Asset Type:** Concept
-- **Cultural / Historical Context:** Prediction and pattern recognition framing
-- **Narrative Function:** Systems prophecy analogy
-- **Reuse Hook:** Chapter 04
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Information
-
-### 88. 01-CONCEPT-25 — Prediction and pattern recognition
-
-
-
-
-
-- **Asset Type:** Concept
-- **Cultural / Historical Context:** Data science definition
-- **Narrative Function:** Prophecy analogy
-- **Reuse Hook:** Chapter 04
-
-- **Introduced In:** The Counterattack
+- **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
 ### 91. 01-CONCEPT-26 — Digital Māyā
@@ -1347,7 +1317,7 @@ Version: 1.0
 - **Narrative Function:** Introduce the named concept and custody question
 - **Reuse Hook:** Mid-book callbacks and epilogue
 
-- **Introduced In:** The Counterattack
+- **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
 ### 92. 01-CONCEPT-27 — Māyā (Hindu concept)
@@ -1362,39 +1332,36 @@ Version: 1.0
 - **Narrative Function:** Philosophical basis for Digital Māyā
 - **Reuse Hook:** Chapter 04, Epilogue
 
-- **Introduced In:** The Counterattack
+- **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
-### 94. 01-CHAR-12 — Aunty Betty
-
-
-
-
-
-- **Asset Type:** Character
-- **Aliases:** Aunt Betty
-- **Status:** Deceased
-- **Cultural / National Identity:** Black Tobagonian; Tobagonian (Trinidad and Tobago)
-- **Cultural / Historical Context:** England gift of IBM 286 clone
-- **Narrative Function:** Technology inflection point
-- **Reuse Hook:** Chapter 03
-
-- **Introduced In:** The Counterattack
-- **Engine Link:** Care
-
-### 95. 01-CONCEPT-28 — Seventh-day Adventism
+### 57. 01-CONCEPT-13 — Access
 
 
 
 
 
 - **Asset Type:** Concept
-- **Aliases:** Seventh-day Adventist; SDA
-- **Cultural / Historical Context:** Household faith environment
-- **Narrative Function:** Cultural constraint and cadence
-- **Reuse Hook:** Chapter 03
+- **Aliases:** access
+- **Cultural / Historical Context:** Care availability after coverage
+- **Narrative Function:** Compression step in Digital Māyā sequence
+- **Reuse Hook:** Chapter 02
 
-- **Introduced In:** The Counterattack
+- **Introduced In:** Digital Māyā
+- **Engine Link:** Information
+
+### 56. 01-CONCEPT-12 — Coverage
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Insurance authorization layer
+- **Narrative Function:** Compression step in Digital Māyā sequence
+- **Reuse Hook:** Chapter 02
+
+- **Introduced In:** Digital Māyā
 - **Engine Link:** Information
 
 ### 96. 01-CONCEPT-29 — Hinduism
@@ -1409,5 +1376,50 @@ Version: 1.0
 - **Narrative Function:** Philosophical anchor
 - **Reuse Hook:** Chapter 04
 
+- **Introduced In:** Digital Māyā
+- **Engine Link:** Care
+### 93. 01-PHRASE-18 — The Counterattack
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Closing pivot framing
+- **Reuse Hook:** Chapter 01 only
+
 - **Introduced In:** The Counterattack
 - **Engine Link:** Care
+
+### 33. 01-CHAR-03 — Mama (maternal grandmother)
+
+
+
+
+
+- **Asset Type:** Character
+- **Aliases:** Mama
+- **Status:** Deceased
+- **Cultural / National Identity:** Hindu matriarch; Trinidadian
+- **Cultural / Historical Context:** Relational personhood without institutional indexing
+- **Narrative Function:** Counterpoint to code-based identity
+- **Reuse Hook:** Chapters 02-04
+
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
+
+### 88. 01-CONCEPT-25 — Prediction and pattern recognition
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** pattern recognition
+- **Cultural / Historical Context:** Data science definition
+- **Narrative Function:** Prophecy analogy
+- **Reuse Hook:** Chapter 04
+
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information

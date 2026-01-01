@@ -42,6 +42,11 @@ Reader must feel: Shocked, implicated, oriented
 - Dividends vs deaths introduced as twin currencies
 - Emotional authority is earned here; it will not be re-litigated later
 
+Prologue Contract
+- Chapter Question: What does extraction without consent produce when scaled into a medical economy?
+- Chapter Claim: Henrietta Lacks proves that representation can generate dividends without custody and deaths without accountability.
+- Exit Handoff: The reader must be ready to see the economy as designed, not accidental, and to follow the system’s machinery.
+
 ### PART I - The Economy We Inherited
 Reader must understand: This system was designed, not accidental
 

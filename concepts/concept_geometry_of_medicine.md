@@ -6,6 +6,9 @@ Formalize the book's technical claim that modern medicine operates as geometry: 
 ## Scope
 Applies to chapters that explain how representations, decision boundaries, or similarity metrics shape care.
 
+## Category
+System Primitive
+
 ## Canonical Definition
 The Geometry of Medicine is the representational regime where:
 - people become vectors, codes, and features,

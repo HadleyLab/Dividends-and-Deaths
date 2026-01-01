@@ -6,8 +6,22 @@ Lock the book’s meaning layer so it can scale without drift.
 ## Scope
 Applies to all chapters, protocols, figures, captions, and editorial passes.
 
-If a term does conceptual work in prose, it must be defined here.
+If a term does conceptual work in prose, it must be defined here and admitted via protocol.
 Nothing in this directory is illustrative.
+
+## Canonical Status (Current)
+Admitted concepts:
+- `concept_vocabulary.md` — canonical terms and mandated reuse phrases
+- `concept_geometry_of_medicine.md` — representational geometry and boundary logic
+- `concept_three_engines.md` — discovery, care, information engine definitions
+- `concept_digital_maya.md` — representation mistaken for reality
+
+Draft concepts (not yet admitted):
+- `concept_maat.md` — governance as enforceable alignment
+- `concept_healthcare_data_laws.md` — policy guardrails as mortality governance
+
+Do not treat draft concepts as authoritative in prose until admitted via
+`protocols/protocol_concept_admission.md`.
 
 ## Related Documents
 - Root context and directory map: `README.md`
@@ -19,7 +33,7 @@ Nothing in this directory is illustrative.
 
 ## Non-Negotiables
 
-- Concepts override prose when conflicts arise.
+- Admitted concepts override prose when conflicts arise.
 - Concepts may not be redefined casually or implicitly.
 - Closed sets remain closed unless governance changes.
 - Any concept that touches harm must remain death-bound.
@@ -91,13 +105,15 @@ Any concept that touches harm, exclusion, disparity, error, automation, or scale
 
 ## Canonical Index (Authoritative)
 
-Authoritative definitions:
-- `concept_vocabulary.md`
-- `concept_geometry_of_medicine.md`
-- `concept_three_engines.md`
-- `concept_digital_maya.md`
-- `concept_maat.md`
-- `concept_healthcare_data_laws.md`
+Admitted:
+- `concept_vocabulary.md` — canonical terms and mandated reuse phrases
+- `concept_geometry_of_medicine.md` — representational geometry and boundary logic
+- `concept_three_engines.md` — discovery, care, information engine definitions
+- `concept_digital_maya.md` — representation mistaken for reality
+
+Draft (not admitted):
+- `concept_maat.md` — governance as enforceable alignment
+- `concept_healthcare_data_laws.md` — policy guardrails as mortality governance
 
 Closed sets remain closed unless book governance is explicitly revised.
 

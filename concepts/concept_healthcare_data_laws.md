@@ -6,6 +6,9 @@ Summarize the U.S. policy decisions that shaped how health data is collected, co
 ## Scope
 Applies to chapters that discuss data rights, provenance, or governance.
 
+## Category
+Policy Context
+
 ## Canonical Definition
 Healthcare data laws are the U.S. policy decisions that determine how health data is collected, controlled, and monetized. In this book, they function as mortality governance: the rules that decide whether failures in Discovery, Care, and Information can be corrected before harm becomes fatal.
 
