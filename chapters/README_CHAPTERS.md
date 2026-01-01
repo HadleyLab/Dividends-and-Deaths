@@ -14,6 +14,36 @@ No prose is considered canonical unless it lives inside a compliant chapter bund
 
 ---
 
+## Related Documents
+
+- Root context and directory map: `README.md`
+- Governance invariants: `book/README_BOOK.md`
+- Canonical ontology: `concepts/README_CONCEPTS.md`
+- Execution protocols: `protocols/README_PROTOCOLS.md`
+
+---
+
+## Non-Negotiables
+
+- Ledger precedes prose.
+- Governance overrides style.
+- Concepts override narrative when conflicts arise.
+- Death is always treated as a systems outcome.
+
+If a chapter feels "right" but violates these rules, the chapter is wrong.
+
+---
+
+## Update Triggers
+
+Update this README when:
+- the chapter bundle structure changes
+- global ledger rules change
+- status tags change
+- chapter workflow steps change
+
+---
+
 ## Chapter Bundle Structure (Non-Negotiable)
 
 Each chapter lives in its own directory:
@@ -62,7 +92,7 @@ This repository enforces a **single global index** of narrative assets to preven
 **Location:**
 
 ```
-chapters/global_ledger.md
+chapters/GLOBAL_LEDGER.md
 ```
 
 ### Index Rules
@@ -77,7 +107,7 @@ chapters/global_ledger.md
 Use this to normalize existing chapters into the global ledger:
 
 1. For each existing `chapters/NN_*` bundle, list all assets in `chapter_NN_ledger.md`.
-2. For each asset, create a row in `chapters/global_ledger.md` with:
+2. For each asset, create a row in `chapters/GLOBAL_LEDGER.md` with:
    - Asset ID
    - Canonical Name
    - Type
@@ -92,7 +122,7 @@ Use this to normalize existing chapters into the global ledger:
 4. Verify every asset referenced in every `chapter_NN_scene.md` exists in the global ledger.
 
 After bootstrap:
-- `chapters/global_ledger.md` is mandatory and authoritative.
+- `chapters/GLOBAL_LEDGER.md` is mandatory and authoritative.
 - No new asset appears in prose unless it is registered globally first.
 
 ### Production Reindex (When Prose Order Changes)
@@ -102,7 +132,7 @@ Reindexing is required when `chapter_NN_prose.md` headings or scene order change
 Steps:
 1. Ensure `chapter_NN_scene.md` matches `chapter_NN_prose.md` heading order.
 2. Reassign asset IDs in `chapter_NN_ledger.md` by **type**, in the order assets appear across scenes.
-3. Update all references in `chapter_NN_prose.md`, `chapter_NN_scene.md`, and `chapters/global_ledger.md`.
+3. Update all references in `chapter_NN_prose.md`, `chapter_NN_scene.md`, and `chapters/GLOBAL_LEDGER.md`.
 4. Rebuild the global ledger from chapter ledgers in their new order.
 
 IDs are defined by **prose order**, not by convenience.
@@ -129,10 +159,10 @@ If an asset’s **Type** changes, reindex the chapter and update all references.
    If it is not in the ledger, it may not appear in prose.
 
 3. **Register Narrative Assets**  
-   Run `protocols/protocol_narrative_asset_registration.md` for any episode, case, person, or place.
+   Run `protocols/protocol_asset_registration.md` for any episode, case, person, or place.
 
 4. **Update the Global Ledger**  
-   Register or update all assets in `chapters/global_ledger.md`.
+   Register or update all assets in `chapters/GLOBAL_LEDGER.md`.
 
 5. **Check Compliance Early**  
    Run `protocols/protocol_canon_compliance.md` before drafting prose.
@@ -172,7 +202,7 @@ Chapters **may not include**:
 
 When discrepancies appear:
 
-1. `chapters/global_ledger.md` (global IDs and asset truth)
+1. `chapters/GLOBAL_LEDGER.md` (global IDs and asset truth)
 2. `chapters/NN_chapter_name/chapter_NN_ledger.md` (chapter asset authority)
 3. `chapters/NN_chapter_name/chapter_NN_scene.md` (scene mapping)
 4. `chapters/NN_chapter_name/chapter_NN_prose.md` (prose)
@@ -180,31 +210,3 @@ When discrepancies appear:
 Fix inputs upstream; never patch prose to bypass the ledger.
 
 ---
-
-## Related Documents
-
-- Root context and directory map: `README.md`
-- Governance invariants: `book/README_BOOK.md`
-- Canonical ontology: `concepts/README_CONCEPTS.md`
-- Execution protocols: `protocols/README_PROTOCOLS.md`
-
----
-
-## Non-Negotiables
-
-- Ledger precedes prose.
-- Governance overrides style.
-- Concepts override narrative when conflicts arise.
-- Death is always treated as a systems outcome.
-
-If a chapter feels "right" but violates these rules, the chapter is wrong.
-
----
-
-## Update Triggers
-
-Update this README when:
-- the chapter bundle structure changes
-- global ledger rules change
-- status tags change
-- chapter workflow steps change

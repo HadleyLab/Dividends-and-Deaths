@@ -9,6 +9,31 @@ Applies to all chapters, protocols, figures, captions, and editorial passes.
 If a term does conceptual work in prose, it must be defined here and admitted via protocol.
 Nothing in this directory is illustrative.
 
+## Related Documents
+- Root context and directory map: `README.md`
+- Governance invariants: `book/README_BOOK.md`
+- Execution protocols: `protocols/README_PROTOCOLS.md`
+- Governed prose bundles: `chapters/README_CHAPTERS.md`
+
+---
+
+## Non-Negotiables
+
+- Admitted concepts override prose when conflicts arise.
+- Concepts may not be redefined casually or implicitly.
+- Closed sets remain closed unless governance changes.
+- Any concept that touches harm must remain death-bound.
+
+If a passage violates a concept definition, the passage is wrong.
+
+## Update Triggers
+
+- a concept category changes
+- the required concept file structure changes
+- a concept is added to or removed from the canonical index
+
+---
+
 ## Canonical Status (Current)
 Admitted concepts:
 - `concept_vocabulary.md` — canonical terms and mandated reuse phrases
@@ -48,29 +73,6 @@ Draft concepts (not yet admitted):
 
 Do not treat draft concepts as authoritative in prose until admitted via
 `protocols/protocol_concept_admission.md`.
-
-## Related Documents
-- Root context and directory map: `README.md`
-- Governance invariants: `book/README_BOOK.md`
-- Execution protocols: `protocols/README_PROTOCOLS.md`
-- Governed prose bundles: `chapters/README_CHAPTERS.md`
-
----
-
-## Non-Negotiables
-
-- Admitted concepts override prose when conflicts arise.
-- Concepts may not be redefined casually or implicitly.
-- Closed sets remain closed unless governance changes.
-- Any concept that touches harm must remain death-bound.
-
-If a passage violates a concept definition, the passage is wrong.
-
-## Update Triggers
-
-- a concept category changes
-- the required concept file structure changes
-- a concept is added to or removed from the canonical index
 
 ---
 
