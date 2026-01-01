@@ -14,13 +14,13 @@ This repository is a governed publication workspace for writing a nonfiction boo
 ## Authoring Workflow (Follow in Order)
 1. **Start with Governance:**
    - Read `AUTHORING_PLAN.md` for lifecycle, roles, and invariants.
-   - Use `book/README_book.md` for governance rules and authority map.
-   - Reference `concepts/README_concepts.md` for canonical terms and definitions.
-   - Use `protocols/README_protocols.md` for execution steps and compliance checks.
-   - Use `chapters/README_chapters.md` for chapter bundle rules and status tags.
+   - Use `book/README_BOOK.md` for governance rules and authority map.
+   - Reference `concepts/README_CONCEPTS.md` for canonical terms and definitions.
+   - Use `protocols/README_PROTOCOLS.md` for execution steps and compliance checks.
+   - Use `chapters/README_CHAPTERS.md` for chapter bundle rules and status tags.
 2. **Ledger First:**
    - All episodes, cases, and assets must be ledgered in `chapter_NN_ledger.md` before appearing in prose.
-   - Register assets globally in `chapters/global_ledger.md`.
+   - Register assets globally in `chapters/GLOBAL_LEDGER.md`.
 3. **Scene Mapping:**
    - Every scene in `chapter_NN_scene.md` must map to asset IDs in the global ledger.
    - Scene order must match prose headings.
@@ -30,7 +30,7 @@ This repository is a governed publication workspace for writing a nonfiction boo
 5. **Compliance & Audit:**
    - Run protocol checks before elevating draft status.
    - Tag each chapter with one status: `Status: OUTLINE`, `Status: DRAFT`, `Status: STRUCTURE PASS`, or `Status: POLISH`.
-   - Use the checklist in `chapters/README_chapters.md` before advancing status.
+   - Use the checklist in `chapters/README_CHAPTERS.md` before advancing status.
 
 ## Conventions & Non-Negotiables
 - **Ledger precedes prose.**
@@ -73,9 +73,9 @@ Update these instructions when:
 
 ## Quick Reference
 - `AUTHORING_PLAN.md` — Authoring lifecycle and rules
-- `book/README_book.md` — Governance invariants and authority map
-- `concepts/README_concepts.md` — Canonical ontology and closed sets
-- `protocols/README_protocols.md` — Execution rules and compliance
-- `chapters/README_chapters.md` — Chapter bundle and status workflow
+- `book/README_BOOK.md` — Governance invariants and authority map
+- `concepts/README_CONCEPTS.md` — Canonical ontology and closed sets
+- `protocols/README_PROTOCOLS.md` — Execution rules and compliance
+- `chapters/README_CHAPTERS.md` — Chapter bundle and status workflow
 
 For details, always start with the root `README.md` and follow the production order. When in doubt, governance wins.

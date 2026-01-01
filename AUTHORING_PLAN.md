@@ -192,7 +192,7 @@ When prose order changes, reindex IDs to match the new sequence.
 Steps:
 - Ensure `chapter_NN_scene.md` follows `chapter_NN_prose.md` heading order.
 - Reassign IDs in `chapter_NN_ledger.md` by **type**, in scene order.
-- Update all references in `chapter_NN_prose.md`, `chapter_NN_scene.md`, and `chapters/global_ledger.md`.
+- Update all references in `chapter_NN_prose.md`, `chapter_NN_scene.md`, and `chapters/GLOBAL_LEDGER.md`.
 - Rebuild the global ledger from the updated chapter ledgers.
 
 IDs are append-only within a given index pass, but the index itself is **prose-derived**.
@@ -250,7 +250,7 @@ Use this checklist to scale work across collaborators.
 ### Phase 2 — Ledger an Episode
 - **Outputs:**
   - `chapters/NN_chapter_name/chapter_NN_ledger.md` entry
-  - `chapters/global_ledger.md` row
+  - `chapters/GLOBAL_LEDGER.md` row
 - **Done when:** asset has a canonical ID, engine link, and reuse hook
 
 ### Phase 3 — Scene Mapping
@@ -298,7 +298,7 @@ When requesting AI review or assistance, provide:
 - **Required outputs:** checklist or specific edits
 
 Example:
-\"Validate that `chapters/02_dividends/chapter_02_prose.md` only references assets listed in `chapters/02_dividends/chapter_02_ledger.md` and `chapters/global_ledger.md`. Flag missing IDs and mismatches. Do not rewrite prose.\"
+\"Validate that `chapters/02_dividends/chapter_02_prose.md` only references assets listed in `chapters/02_dividends/chapter_02_ledger.md` and `chapters/GLOBAL_LEDGER.md`. Flag missing IDs and mismatches. Do not rewrite prose.\"
 AI outputs must be actionable lists or diff-ready edits.
 
 ---
