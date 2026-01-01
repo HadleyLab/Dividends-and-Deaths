@@ -455,7 +455,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Phrase
 - **Aliases:** Billable Code
 - **Cultural / Historical Context:** Insurance-driven translation of care into payment
 - **Narrative Function:** Establish the core economic mechanism of the book
@@ -502,7 +502,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Seventh-day Adventist; SDA
 - **Cultural / Historical Context:** Household faith environment
 - **Narrative Function:** Cultural constraint and cadence
@@ -710,7 +710,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Visible clinical craft contrasted with infrastructure
 - **Narrative Function:** Spotlight-versus-system contrast
 - **Reuse Hook:** Chapter 02
@@ -724,7 +724,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Diagnosis coding system
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
@@ -738,7 +738,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Procedure coding system
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
@@ -766,7 +766,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** UMLS; Unified Medical Language System
 - **Cultural / Historical Context:** Vocabulary stitching layer
 - **Narrative Function:** Code interoperability anchor
@@ -813,7 +813,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Organization
 - **Aliases:** Clinical Pathology; Pathology; Laboratory Medicine
 - **Cultural / Historical Context:** Specialty framing for Stanford training
 - **Narrative Function:** Code-infrastructure grounding
@@ -828,7 +828,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Lab observation coding system
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
@@ -842,7 +842,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Medication normalization system
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
@@ -856,7 +856,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Clinical terminology system
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
@@ -987,7 +987,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Curated canon framing
 - **Narrative Function:** Curation contrast
 - **Reuse Hook:** Chapter 04
@@ -1001,7 +1001,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** European rebirth narrative
 - **Narrative Function:** Curation contrast
 - **Reuse Hook:** Chapter 04
@@ -1077,7 +1077,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Place-value breakthrough
 - **Narrative Function:** Systems inheritance proof
 - **Reuse Hook:** Chapter 04
@@ -1091,7 +1091,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** binary
 - **Cultural / Historical Context:** Computational alphabet
 - **Narrative Function:** Systems inheritance proof
@@ -1106,7 +1106,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** al-jabr
 - **Cultural / Historical Context:** Mathematical system inheritance
 - **Narrative Function:** Non-European lineage proof
@@ -1121,7 +1121,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** algorithm
 - **Cultural / Historical Context:** Procedural method lineage
 - **Narrative Function:** Systems inheritance proof
@@ -1166,7 +1166,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Moorish; Moors
 - **Cultural / Historical Context:** Spain and Morocco braided inheritance
 - **Narrative Function:** Lineage proof
@@ -1181,7 +1181,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Muslim
 - **Cultural / Historical Context:** Prophetic naming lineage
 - **Narrative Function:** Moral seriousness and inheritance
@@ -1253,7 +1253,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** prophets of Islam
 - **Cultural / Historical Context:** Naming lineage for sons
 - **Narrative Function:** Prophetic naming motif
@@ -1268,7 +1268,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** data science
 - **Cultural / Historical Context:** Prediction and pattern recognition framing
 - **Narrative Function:** Systems prophecy analogy
@@ -1370,7 +1370,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Hindu
 - **Cultural / Historical Context:** Māyā and maternal lineage
 - **Narrative Function:** Philosophical anchor
@@ -1415,7 +1415,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** pattern recognition
 - **Cultural / Historical Context:** Data science definition
 - **Narrative Function:** Prophecy analogy

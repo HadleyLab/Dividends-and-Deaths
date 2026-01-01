@@ -318,7 +318,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** Precision Medicine
 - **Cultural / Historical Context:** Core system being critiqued
 - **Narrative Function:** Central thematic anchor
@@ -508,7 +508,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Phrase
 - **Aliases:** Universal Men
 - **Cultural / Historical Context:** Lineage philosophy
 - **Narrative Function:** Identity and inclusion frame
@@ -581,7 +581,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** personalized medicine
 - **Cultural / Historical Context:** Early framing for precision efforts
 - **Narrative Function:** Terminology shift setup
@@ -713,7 +713,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Organization
 - **Cultural / Historical Context:** University of Pennsylvania framing
 - **Narrative Function:** Institutional status reference
 - **Reuse Hook:** Chapter 02
@@ -787,7 +787,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Organization
 - **Cultural / Historical Context:** MD/PhD program focus
 - **Narrative Function:** Training pathway
 - **Reuse Hook:** Chapter 02
@@ -829,7 +829,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Procedure code system
 - **Narrative Function:** Billing infrastructure example
 - **Reuse Hook:** Chapter 02
@@ -944,7 +944,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Organization
 - **Cultural / Historical Context:** Residency specialty
 - **Narrative Function:** Coding infrastructure entry point
 - **Reuse Hook:** Chapter 02
@@ -1001,7 +1001,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Organization
 - **Cultural / Historical Context:** Stanford leadership role
 - **Narrative Function:** Pipeline pivot framing
 - **Reuse Hook:** Chapter 02
@@ -1015,7 +1015,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** polio vaccine
 - **Cultural / Historical Context:** Biomedical milestone enabled by HeLa cells
 - **Narrative Function:** Impact evidence
@@ -1030,7 +1030,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Policy
 - **Cultural / Historical Context:** Florida policy restriction
 - **Narrative Function:** Equity language constraint
 - **Reuse Hook:** Chapter 07
@@ -1044,7 +1044,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Aliases:** dialysis
 - **Cultural / Historical Context:** Father’s treatment
 - **Narrative Function:** System dependency marker
@@ -1118,7 +1118,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Wife’s language
 - **Narrative Function:** Cultural competence expectation
 - **Reuse Hook:** Part V
@@ -1132,7 +1132,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Wife’s language
 - **Narrative Function:** Cultural competence expectation
 - **Reuse Hook:** Part V
@@ -1146,7 +1146,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Lingua franca in U.S. care
 - **Narrative Function:** Language contrast
 - **Reuse Hook:** Part V
@@ -1190,7 +1190,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Phrase
 - **Aliases:** and deaths
 - **Cultural / Historical Context:** Precision medicine economy
 - **Narrative Function:** Moral anchor for the book
@@ -1206,7 +1206,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Phrase
 - **Aliases:** Billable Code
 - **Cultural / Historical Context:** Prologue-to-Chapter 01 transition
 - **Narrative Function:** Bridge to system mechanics
@@ -1221,7 +1221,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Phrase
 - **Aliases:** Prologue
 - **Cultural / Historical Context:** Transition to Chapter 01
 - **Narrative Function:** Move from narrative cost to system mechanics
@@ -1480,7 +1480,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Early programming language
 - **Narrative Function:** Code-origin detail
 - **Reuse Hook:** Chapter 01
@@ -1494,7 +1494,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Phrase
 - **Aliases:** migration
 - **Cultural / Historical Context:** Separation, aging alone, starting over
 - **Narrative Function:** Undercut meritocracy myth
@@ -1582,7 +1582,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Genomic association era
 - **Narrative Function:** Precision-era framing
 - **Reuse Hook:** Chapter 02
@@ -1612,7 +1612,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Clinical terminology system
 - **Narrative Function:** Coding infrastructure example
 - **Reuse Hook:** Chapter 02
@@ -1626,7 +1626,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Diagnosis code system
 - **Narrative Function:** Coding infrastructure example
 - **Reuse Hook:** Chapter 02
@@ -1640,7 +1640,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Cultural / Historical Context:** NeuroFix focus area
 - **Narrative Function:** Precision-medicine use case
 - **Reuse Hook:** Chapter 02
@@ -1729,7 +1729,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Cultural / Historical Context:** Family and model backdrop
 - **Narrative Function:** Personal-system tension
 - **Reuse Hook:** Chapter 07
@@ -1743,7 +1743,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Phrase
 - **Aliases:** profit from
 - **Cultural / Historical Context:** Revenue structure that rewards readmissions and chronic decline
 - **Narrative Function:** System incentive exposure
@@ -1873,7 +1873,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Aliases:** hypertension
 - **Cultural / Historical Context:** Father’s comorbidity
 - **Narrative Function:** Chronic disease burden
@@ -1888,7 +1888,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Aliases:** diabetes
 - **Cultural / Historical Context:** Father’s comorbidity
 - **Narrative Function:** Chronic disease burden
@@ -1903,7 +1903,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Aliases:** stage kidney disease
 - **Cultural / Historical Context:** Father’s renal failure
 - **Narrative Function:** System cost and dependency
@@ -1933,7 +1933,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Muslim
 - **Cultural / Historical Context:** Wife’s faith environment
 - **Narrative Function:** Cultural expectation anchor
@@ -1993,7 +1993,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Lab code system
 - **Narrative Function:** Coding infrastructure example
 - **Reuse Hook:** Chapter 02
@@ -2007,7 +2007,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Seventh
 - **Cultural / Historical Context:** Family faith environment
 - **Narrative Function:** Faith layering and migration bridge
@@ -2022,7 +2022,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Hindu
 - **Cultural / Historical Context:** Maternal lineage faith environment
 - **Narrative Function:** Cultural anchor and ritual context
@@ -2037,7 +2037,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Catholic
 - **Cultural / Historical Context:** Schooling environment
 - **Narrative Function:** Faith layering backdrop
@@ -2052,7 +2052,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Christian
 - **Cultural / Historical Context:** Village faith environment
 - **Narrative Function:** Faith-bridge context
@@ -2067,7 +2067,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Mama’s prayers and bhajans
 - **Narrative Function:** Ritual and language marker
 - **Reuse Hook:** Chapter 03
@@ -2081,7 +2081,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Fatima College coursework
 - **Narrative Function:** Classical education marker
 - **Reuse Hook:** Chapter 01
@@ -2095,7 +2095,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Hospital database querying
 - **Narrative Function:** Data access contrast
 - **Reuse Hook:** Chapter 07
@@ -2109,7 +2109,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Precision medicine infrastructure and roles
 - **Narrative Function:** Technical framing
 - **Reuse Hook:** Across book
@@ -2123,7 +2123,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Precision medicine premise
 - **Narrative Function:** Scientific substrate
 - **Reuse Hook:** Chapter 02
@@ -2137,7 +2137,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Cultural / Historical Context:** Nurse migration demand and drug development
 - **Narrative Function:** Epidemiologic pressure point
 - **Reuse Hook:** Chapter 03
@@ -2151,7 +2151,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Cultural / Historical Context:** Vaccine development reference
 - **Narrative Function:** Biomedical impact marker
 - **Reuse Hook:** Chapter 02
@@ -2165,7 +2165,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Place
 - **Cultural / Historical Context:** Hospital revenue example
 - **Narrative Function:** Economic pressure illustration
 - **Reuse Hook:** Chapter 07
@@ -2179,7 +2179,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Middle name origin reference
 - **Narrative Function:** Cultural lineage marker
 - **Reuse Hook:** Chapter 03
@@ -2193,7 +2193,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Extraction and naming pressure
 - **Narrative Function:** Structural framing
 - **Reuse Hook:** Across book
@@ -2207,7 +2207,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** God's; God’s
 - **Cultural / Historical Context:** Faith and sacrifice language
 - **Narrative Function:** Spiritual framing
@@ -2222,7 +2222,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Exclusion from research participation
 - **Narrative Function:** Representation gap marker
 - **Reuse Hook:** Chapter 07
@@ -2236,7 +2236,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Screening shutdown during COVID-19
 - **Narrative Function:** Care disruption marker
 - **Reuse Hook:** Chapter 07
@@ -2250,7 +2250,7 @@ Version: 1.3
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** European; Eurocentric
 - **Cultural / Historical Context:** Reference genome bias
 - **Narrative Function:** Data representativeness gap

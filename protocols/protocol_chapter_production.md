@@ -12,7 +12,8 @@ Applies to **every chapter bundle**, including the Prologue and Epilogue.
 - `concepts/README_CONCEPTS.md`
 - `concepts/concept_vocabulary.md`
 - `concepts/concept_digital_maya.md`
-- `concepts/concept_maat.md`
+- `concepts/concept_maat_egyptian.md`
+- `concepts/concept_digital_maat.md`
 - `protocols/protocol_canon_compliance.md`
 - `protocols/protocol_asset_registration.md`
 - `chapters/NN_chapter_name/chapter_NN_ledger.md`

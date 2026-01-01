@@ -45,7 +45,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Phrase
 - **Aliases:** dividends; volume and legibility
 - **Cultural / Historical Context:** Discovery pipelines and reimbursement
 - **Narrative Function:** Explain why money flows upward
@@ -194,7 +194,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** conservation; evolutionary
 - **Cultural / Historical Context:** Cross-species signal logic
 - **Narrative Function:** Early pipeline mechanic
@@ -223,7 +223,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** DNA instruction set
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
@@ -237,7 +237,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Genome-scale study
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
@@ -251,7 +251,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** DNA letters at specific positions
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
@@ -265,7 +265,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** DNA difference between people
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
@@ -279,7 +279,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Genotyping scale at CAG
 - **Narrative Function:** Volume logic detail
 - **Reuse Hook:** Chapter 03
@@ -293,7 +293,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Study group definition
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
@@ -307,7 +307,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Signal detection capacity
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
@@ -321,7 +321,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** bias
 - **Cultural / Historical Context:** Systematic skew in collection
 - **Narrative Function:** Jargon primer
@@ -336,7 +336,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** DNA-letter
 - **Cultural / Historical Context:** Genotype definition
 - **Narrative Function:** Jargon primer
@@ -471,7 +471,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** population genetics
 - **Cultural / Historical Context:** Systems lens for cohorts
 - **Narrative Function:** Method framing
@@ -486,7 +486,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** Kimura’s neutral theory
 - **Cultural / Historical Context:** Evolutionary drift framing
 - **Narrative Function:** Volume logic foundation
@@ -501,7 +501,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Pivot table analysis
 - **Narrative Function:** Low-tech data audit tool
 - **Reuse Hook:** Chapter 03
@@ -515,7 +515,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** noise
 - **Cultural / Historical Context:** Small-sample instability
 - **Narrative Function:** Volume logic explanation
@@ -530,7 +530,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** signal
 - **Cultural / Historical Context:** Replicable effect size
 - **Narrative Function:** Volume logic explanation
@@ -574,7 +574,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** African-ancestry; African
 - **Cultural / Historical Context:** Deep lineage with low sample counts
 - **Narrative Function:** Representation gap framing
@@ -589,7 +589,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** European
 - **Cultural / Historical Context:** Shallow lineage with high sample counts
 - **Narrative Function:** Representation gap framing
@@ -678,7 +678,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Lab code system in the billing language stack
 - **Narrative Function:** Infrastructure example for coded medicine
 - **Reuse Hook:** Chapter 03
@@ -692,7 +692,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** SNOMED
 - **Cultural / Historical Context:** Clinical terminology system in the billing language stack
 - **Narrative Function:** Infrastructure example for coded medicine
@@ -707,7 +707,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Diagnosis code system in the billing language stack
 - **Narrative Function:** Infrastructure example for coded medicine
 - **Reuse Hook:** Chapter 03
@@ -721,7 +721,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Procedure code system in the billing language stack
 - **Narrative Function:** Infrastructure example for coded medicine
 - **Reuse Hook:** Chapter 03
@@ -909,7 +909,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** precision medicine economy; Precision Medicine Economy; Precision-Medicine
 - **Cultural / Historical Context:** Data monetization system
 - **Narrative Function:** Core system definition
@@ -1065,7 +1065,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Pediatric pipeline infrastructure
 - **Narrative Function:** Volume engine
 - **Reuse Hook:** Chapter 03
@@ -1079,7 +1079,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Organization
 - **Aliases:** neuropsychiatry
 - **Cultural / Historical Context:** NeuroFix focus area
 - **Narrative Function:** Precision-medicine use case
@@ -1094,7 +1094,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Representation gap framing
 - **Narrative Function:** Equity contrast
 - **Reuse Hook:** Part II
@@ -1108,7 +1108,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Representation gap framing
 - **Narrative Function:** Equity contrast
 - **Reuse Hook:** Part II
@@ -1185,7 +1185,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Cultural / Historical Context:** Prognostic validation project
 - **Narrative Function:** Market allocation example
 - **Reuse Hook:** Chapter 03
@@ -1199,7 +1199,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Policy
 - **Aliases:** neglected tropical diseases
 - **Cultural / Historical Context:** WHO disease category
 - **Narrative Function:** Funding priority contrast
@@ -1229,7 +1229,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Tech-era convergence signal
 - **Narrative Function:** Infrastructure shift marker
 - **Reuse Hook:** Chapter 03
@@ -1243,7 +1243,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** deep learning
 - **Cultural / Historical Context:** AI acceleration context
 - **Narrative Function:** Infrastructure shift marker
@@ -1258,7 +1258,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Computational engine for model scaling
 - **Narrative Function:** Infrastructure shift marker
 - **Reuse Hook:** Chapter 03
@@ -1303,7 +1303,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Phrase
 - **Aliases:** liquidity; Liquidity
 - **Cultural / Historical Context:** Public data routed into private pipelines
 - **Narrative Function:** Define the economic mechanism of reuse
@@ -1318,7 +1318,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Public data reuse economics
 - **Narrative Function:** Liquidity mechanism
 - **Reuse Hook:** Part III
@@ -1332,7 +1332,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** AI
 - **Cultural / Historical Context:** Downstream extraction layer
 - **Narrative Function:** Reuse dividend pathway
@@ -1435,7 +1435,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** EHR
 - **Cultural / Historical Context:** Platform dividend infrastructure
 - **Narrative Function:** Reuse pathway for data

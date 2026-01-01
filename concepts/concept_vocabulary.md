@@ -55,6 +55,58 @@ This file is the authoritative vocabulary for the book’s core concepts, terms,
 - Legibility enables action but can erase context.
 - Never equated with personhood.
 
+#### Legibility vs Personhood
+- The tension between what a system can represent and what a person is.
+- Systems act on legibility; people live in personhood.
+
+#### Date of Birth as Primary Key
+- The system practice of using birthdate as a core identifier for records.
+- Identity is indexed, not remembered.
+
+#### Data Completeness
+- The degree to which a record captures the clinical and social context needed for accurate action.
+- Missingness is structural, not random.
+
+#### Recruitment Cost Differential
+- The price gap that makes representation economically penalized.
+- Recruitment incentives bias who becomes evidence.
+
+### Access and Social Context
+
+#### Access
+- The condition that allows a person to enter the system and receive care.
+- Shaped by coverage, geography, time, language, and institutional rules.
+
+#### Coverage
+- The eligibility gate that determines whether care is paid for.
+- Coverage enables access but does not guarantee it.
+
+#### Social Determinants of Health
+- The material and social conditions that shape risk, illness, and recovery.
+- Treated as causal, not ancillary.
+
+#### Redlining
+- Policy encoded in geography that denies investment and services.
+- Its effects persist in health infrastructure and outcomes.
+
+#### System Billing for Invisibility
+- Institutions capture value even when people are unseen or misrepresented.
+- Revenue survives missingness and misclassification.
+
+#### Multiplicative Risk
+- Risk compounds through interaction, not addition.
+- Underestimation produces downstream harm.
+
+### Governance Constructs
+
+#### Equitable Governance Layer
+- The enforceable structure that binds representation to accountability.
+- Aligns value and harm to responsible actors.
+
+#### Open Provenance Token System
+- Infrastructure that encodes lineage, consent, and value flow.
+- Provenance becomes enforceable only when it is structural.
+
 ### Technical and Infrastructure Terms
 
 #### mCODE
@@ -78,11 +130,31 @@ This file is the authoritative vocabulary for the book’s core concepts, terms,
 
 ### Narrative and Philosophical Anchors
 
+#### Māyā (Hindu Concept)
+- The philosophical concept of appearance mistaken for reality.
+- In this book, it frames how representation eclipses the lives it depicts.
+
 #### Dividends and Deaths
 - The book’s central accounting framework.
 - Dividends flow upward to institutions.
 - Deaths fall downward on those excluded from datasets.
 - Always paired; never referenced independently.
+
+#### Mortality as Ledger
+- Mortality is the final audit of whether representation was faithful.
+- Mortality gaps are the ledger’s imbalance.
+
+#### Mortality Gap
+- The measurable difference in death outcomes between populations with similar incidence.
+- Always tied to representation, access, and custody.
+
+#### Comorbidity
+- The presence of multiple concurrent conditions that interact to reshape risk.
+- Single-disease models fail where comorbidity is common.
+
+#### Underrepresentation in Trials
+- Structural exclusion from clinical research that shapes future care.
+- A discovery failure that becomes downstream mortality.
 
 #### Digital Māyā
 - Representation mistaken for reality: the institutional shadow of a person that systems act on first.
@@ -96,19 +168,23 @@ This file is the authoritative vocabulary for the book’s core concepts, terms,
 - The math-native sibling of Digital Māyā: the system's shape, not the illusion itself.
 - When the geometry is wrong or incomplete, dividends rise and deaths fall.
 
-#### Ma’at
-- The principle of order, balance, truth, and rightful accounting.
-- Represents alignment between representation and reality, action and consequence, value and responsibility.
-- In this book, Ma’at names the governance logic required to constrain power.
-- Where Ma’at is absent, imbalance becomes institutionalized.
-- Where Ma’at is violated, systems appear functional while producing harm.
-- Never framed as spirituality or mysticism; always as structural accountability.
+#### Ma’at (Egyptian Concept)
+- The ancient Egyptian principle of order, balance, truth, and rightful accounting.
+- In this book, it anchors the governance logic without spiritual framing.
+
+#### Digital Ma’at
+- Governance rendered operational: enforceable alignment between representation and consequence.
+- Structural accountability, not ethical sentiment.
 
 #### Māyā–Ma’at Asymmetry
 - Modern systems are optimized for Māyā (scalable representation) without Ma’at (accountable order).
 - This asymmetry produces profit without responsibility and scale without justice.
 - The precision medicine economy is a Māyā-maximized, Ma’at-deficient system.
 - Restoring Ma’at requires custody reassignment, not better models.
+
+#### Dougla
+- A Caribbean term for mixed African and Indian ancestry.
+- Used as a lived social category, not a biological taxonomy.
 
 #### Community as Infrastructure
 - Patient communities are active discovery engines, not support groups.

@@ -86,7 +86,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Aliases:** CKD
 - **Cultural / Historical Context:** Kidney disease risk
 - **Narrative Function:** APOL1 impact anchor
@@ -133,7 +133,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Cultural / Historical Context:** Chronic disease inequity
 - **Narrative Function:** Risk model bias example
 - **Reuse Hook:** Chapter 06
@@ -147,7 +147,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** GWAS; genome-wide association study
 - **Cultural / Historical Context:** Eurocentric dataset bias
 - **Narrative Function:** Representation failure mechanism
@@ -207,7 +207,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** genomic recurrence scoring
 - **Cultural / Historical Context:** Eligibility tied to coded history
 - **Narrative Function:** Precision access filter
@@ -301,7 +301,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Diabetes threshold and risk scoring
 - **Narrative Function:** Algorithmic bias anchor
 - **Reuse Hook:** Chapter 06
@@ -315,7 +315,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** EHR; electronic health records
 - **Cultural / Historical Context:** Data substrate for algorithmic models
 - **Narrative Function:** Clarify data dependence in prediction tools
@@ -469,7 +469,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** GWAS dominance
 - **Narrative Function:** Ancestry framing
 - **Reuse Hook:** Chapter 05
@@ -483,7 +483,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Indigenous communities
 - **Cultural / Historical Context:** Trial underrepresentation
 - **Narrative Function:** Identity framing
@@ -498,7 +498,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Trial underrepresentation
 - **Narrative Function:** Identity framing
 - **Reuse Hook:** Chapter 06
@@ -658,7 +658,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Phrase
 - **Aliases:** Deaths
 - **Cultural / Historical Context:** Mortality disparities track dataset inclusion
 - **Narrative Function:** Core thesis for Part I closure
@@ -718,7 +718,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Cultural / Historical Context:** Mortality disparity example
 - **Narrative Function:** Anchor disease in the chapter
 - **Reuse Hook:** Chapter 04
@@ -732,7 +732,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** System under critique
 - **Narrative Function:** Thematic anchor
 - **Reuse Hook:** Across book
@@ -790,7 +790,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Cultural / Historical Context:** Multimorbidity evidence
 - **Narrative Function:** Chronic disease example
 - **Reuse Hook:** Chapter 06
@@ -804,7 +804,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Cultural / Historical Context:** Chronic disease inequity
 - **Narrative Function:** Risk model bias example
 - **Reuse Hook:** Chapter 06
@@ -818,7 +818,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Aliases:** preterm birth
 - **Cultural / Historical Context:** Maternal inequity
 - **Narrative Function:** Disparity evidence anchor
@@ -833,7 +833,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Asthma prevalence example
 - **Narrative Function:** Identity framing
 - **Reuse Hook:** Chapter 06
@@ -847,7 +847,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Asthma severity and APOL1 risk
 - **Narrative Function:** Ancestry framing
 - **Reuse Hook:** Chapter 06
@@ -861,7 +861,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Kidney disease risk variants in African ancestry
 - **Narrative Function:** Representation delay example
 - **Reuse Hook:** Chapter 06
@@ -903,7 +903,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** polygenic scores
 - **Cultural / Historical Context:** Risk models from biased data
 - **Narrative Function:** Single-disease model critique
@@ -918,7 +918,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** learning prognostics
 - **Cultural / Historical Context:** Predictive models in care
 - **Narrative Function:** Automation risk example
@@ -933,7 +933,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Cultural / Historical Context:** Code-driven prediction tools
 - **Narrative Function:** Data completeness dependency
 - **Reuse Hook:** Chapter 07
@@ -977,7 +977,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Latino Americans
 - **Cultural / Historical Context:** Mortality and trial underrepresentation
 - **Narrative Function:** Identity framing
@@ -992,7 +992,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Cultural / Historical Context:** Trial underrepresentation
 - **Narrative Function:** Identity framing
 - **Reuse Hook:** Chapter 06
@@ -1020,7 +1020,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Historical case
 - **Cultural / Historical Context:** Pandemic inequity
 - **Narrative Function:** Exposure event anchor
 - **Reuse Hook:** Chapter 07
@@ -1034,7 +1034,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** metaverse of medical data
 - **Cultural / Historical Context:** Digital abstraction layer in care
 - **Narrative Function:** Cue for later data custody chapters
@@ -1065,7 +1065,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Black Americans
 - **Cultural / Historical Context:** Mortality and trial underrepresentation
 - **Narrative Function:** Identity framing
@@ -1080,7 +1080,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** White Americans
 - **Cultural / Historical Context:** Comparator in mortality statistics
 - **Narrative Function:** Identity framing
@@ -1095,7 +1095,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** Native communities
 - **Cultural / Historical Context:** COVID mortality disparity
 - **Narrative Function:** Identity framing
@@ -1124,7 +1124,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Symbol
 - **Aliases:** underrepresented ancestry
 - **Cultural / Historical Context:** Group exclusion from models
 - **Narrative Function:** Equity framing
@@ -1139,7 +1139,7 @@ Version: 1.0
 
 
 
-- **Asset Type:** Concept
+- **Asset Type:** Object
 - **Aliases:** AI
 - **Cultural / Historical Context:** Innovation metric in precision medicine
 - **Narrative Function:** Contrast with mortality
