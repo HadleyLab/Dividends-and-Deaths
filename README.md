@@ -1,11 +1,16 @@
 # Dividends & Deaths — Canonical Workspace
 
 ## Purpose
-Provide a governed, system-first workspace for writing *Dividends & Deaths* without meaning drift.
+This repository is an AI‑first, human‑led system for writing *Dividends & Deaths*. It exists because the book’s subject—representation, custody, and mortality—demands the same rigor in its construction. The system operationalizes Ma’at (accountable order) and names Māyā (representation mistaken for reality) so the writing does not drift into abstraction or sentiment. The result is narrative that can scale without losing moral traceability: every claim, scene, and death can be mapped back to governed assets and concepts.
+
+## What “Canonical” Means
+Canonical means enforceable. In software engineering you have unit tests; here you have canon.
+If it is canonical, it must be ledgered, registered, and protocol‑complete.
+Prose is not canonical unless it can be traced back to its assets and concepts.
 
 ## Scope
 Applies to all canonical governance, concepts, protocols, chapters, and ledgers in this repository.
-Drafts are explicitly non-canonical.
+Drafts are explicitly non‑canonical.
 
 ## Related Documents
 - `QUICKSTART.md` — fast path into the system
@@ -14,7 +19,7 @@ Drafts are explicitly non-canonical.
 - `concepts/README_CONCEPTS.md` — canonical ontology and concept rules
 - `protocols/README_PROTOCOLS.md` — execution protocols and checks
 - `chapters/README_CHAPTERS.md` — governed chapter bundle rules
-- `drafts/README_DRAFTS.md` — non-canonical exploration space
+- `drafts/README_DRAFTS.md` — non‑canonical exploration space
 
 ## Non-Negotiables
 - Governance overrides prose.
@@ -41,22 +46,25 @@ If the system blocks progress, fix the input—do not bypass the system.
 
 ---
 
+## Canonical Workflow (Short Form)
+Episodes / Cases ↔ Concepts → Ledgered Assets → Chapter Bundle → Book Enforcement
+
+This is the core innovation: disciplined collaboration between human judgment and governed structure. The system does not replace authorship—it keeps it honest at scale.
+
+---
+
 ## Directory Map
 - `book/` — governance and authority
 - `concepts/` — canonical ontology
 - `protocols/` — execution rules and checks
 - `chapters/` — governed prose bundles + global ledger
-- `drafts/` — exploratory, non-canonical work
+- `drafts/` — exploratory, non‑canonical work
 
 ---
 
-## Canonical Workflow (Short Form)
-Episodes / Cases ↔ Concepts → Ledgered Assets → Chapter Bundle → Book Enforcement
-
-Core invariants:
-- Ledger precedes prose
-- Concepts precede reuse
-- Governance overrides style
+## Documentation System (Required)
+Every canonical directory must include a README that qualifies its contents.
+This is enforced by `protocols/protocol_documentation_system.md` and ensures each folder declares purpose, scope, and authority.
 
 ---
 

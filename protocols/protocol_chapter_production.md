@@ -92,7 +92,13 @@ For every death, near-death, or lethal disparity:
 - Ensure the final section fulfills the Exit Handoff.
 - Leave the reader with increased structural clarity, not just affect.
 
-### Step 12 — Status Update
+### Step 12 — Index Freshness Gate
+- Ensure `chapter_NN_scene.md` matches `chapter_NN_prose.md` headings.
+- Ensure `chapter_NN_ledger.md` follows scene order.
+- Ensure all assets are registered in `chapters/GLOBAL_LEDGER.md`.
+- If prose order changed, reindex and update all references before advancing status.
+
+### Step 13 — Status Update
 - Update the status line in `chapter_NN_prose.md` to reflect governance maturity.
 
 ---
@@ -106,6 +112,7 @@ For every death, near-death, or lethal disparity:
 - [ ] Emotional arc respected
 - [ ] Scene-to-asset mapping complete
 - [ ] Language reuse enforced
+- [ ] Indices fresh (scene order, ledger order, global ledger sync)
 
 Failure on any check means the chapter is **not publication-ready**.
 
