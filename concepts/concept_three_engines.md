@@ -39,13 +39,19 @@ The precision medicine economy has **exactly three engines**: **Discovery**, **C
 
 Everything else is a **gear** that torques these engines.
 
-### Mortality Instantiation Test
-A proposed “engine” must independently do all three:
+### Engine Separation Test
+A proposed “engine” must **own exactly one** of these concerns:
 1. **Create** new medical knowledge (Discovery work)
 2. **Act** on a patient (Care work)
 3. **Persist/transfer/compound** representations (Information work)
 
-If it fails any one, it is a **gear**, not an engine.
+If it overlaps multiple concerns, it is a **gear** or a **system**, not an engine.
+
+### System Mortality Test
+Structural mortality emerges when the **three engines are coupled** and governance fails:
+- Discovery excludes
+- Care misacts
+- Information locks errors in place
 
 ### What Actually Kills Patients (Structural)
 Patients die when one (or more) of the following occurs:

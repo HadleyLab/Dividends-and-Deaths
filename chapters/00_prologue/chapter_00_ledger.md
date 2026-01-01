@@ -20,8 +20,8 @@ Version: 1.3
 - **Narrative Function:** Frame-setting invocation for Henrietta Lacks
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Mother of Precision Medicine
+- **Engine Link:** Care
 
 ### 2. 00-HIST-01 — Henrietta Lacks
 
@@ -36,8 +36,8 @@ Version: 1.3
 - **Narrative Function:** Prototype of extraction without equity
 - **Reuse Hook:** Chapters 01-03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Mother of Precision Medicine
+- **Engine Link:** Information
 
 ### 3. 00-OBJ-01 — HeLa cell line
 
@@ -50,8 +50,8 @@ Version: 1.3
 - **Narrative Function:** Tangible engine of extraction
 - **Reuse Hook:** Chapters 01-03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Mother of Precision Medicine
+- **Engine Link:** Care
 
 ### 4. 00-PLACE-01 — Johns Hopkins segregated ward
 
@@ -64,8 +64,8 @@ Version: 1.3
 - **Narrative Function:** Origin scene for extraction
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Mother of Precision Medicine
+- **Engine Link:** Care
 
 ### 5. 00-SYMBOL-01 — Hospital freezer
 
@@ -78,8 +78,8 @@ Version: 1.3
 - **Narrative Function:** Concrete image for commodification
 - **Reuse Hook:** Chapters 02-03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Mother of Precision Medicine
+- **Engine Link:** Discovery
 
 ### 82. 00-CONCEPT-12 — CPT
 
@@ -92,8 +92,8 @@ Version: 1.3
 - **Narrative Function:** Billing infrastructure example
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Mother of Precision Medicine
+- **Engine Link:** Information
 
 ### 48. 00-CONCEPT-05 — Universal men
 
@@ -106,8 +106,8 @@ Version: 1.3
 - **Narrative Function:** Identity and inclusion frame
 - **Reuse Hook:** Chapter 15, Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Mother of Precision Medicine
+- **Engine Link:** Care
 
 ### 9. 00-PHRASE-02 — Behind God’s Back
 
@@ -120,8 +120,8 @@ Version: 1.3
 - **Narrative Function:** Geographical isolation framing
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Behind God’s Back
+- **Engine Link:** Care
 
 ### 10. 00-CHAR-01 — Father - Leonard Kempthorne
 
@@ -136,8 +136,8 @@ Version: 1.3
 - **Narrative Function:** Human cost behind systems
 - **Reuse Hook:** Chapters 01, 03, 07, Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Behind God’s Back
+- **Engine Link:** Care
 
 ### 11. 00-CHAR-02 — Granny Veronica
 
@@ -152,8 +152,8 @@ Version: 1.3
 - **Narrative Function:** Craft-to-code metaphor; sacrifice line
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Behind God’s Back
+- **Engine Link:** Information
 
 ### 12. 00-CHAR-03 — Aunty Betty
 
@@ -168,8 +168,8 @@ Version: 1.3
 - **Narrative Function:** Commonwealth migration thread
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Behind God’s Back
+- **Engine Link:** Care
 
 ### 27. 00-CHAR-07 — Grandma Anita
 
@@ -184,8 +184,8 @@ Version: 1.3
 - **Narrative Function:** Colonial lineage continuity
 - **Reuse Hook:** Chapters 01, 08
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Behind God’s Back
+- **Engine Link:** Care
 
 ### 14. 00-PLACE-02 — Charlotteville, Tobago
 
@@ -198,8 +198,8 @@ Version: 1.3
 - **Narrative Function:** Origin of father and extraction line
 - **Reuse Hook:** Chapters 01, Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Behind God’s Back
+- **Engine Link:** Care
 
 ### 15. 00-PLACE-03 — Englishman's Bay
 
@@ -213,8 +213,8 @@ Version: 1.3
 - **Narrative Function:** Generational loop closure
 - **Reuse Hook:** Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Behind God’s Back
+- **Engine Link:** Care
 
 ### 17. 00-PLACE-05 — Caribbean Union College
 
@@ -227,8 +227,8 @@ Version: 1.3
 - **Narrative Function:** Faith and mobility bridge
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Behind God’s Back
+- **Engine Link:** Information
 
 ### 18. 00-PHRASE-03 — The Rose from Gasparillo
 
@@ -241,8 +241,8 @@ Version: 1.3
 - **Narrative Function:** Maternal lineage anchor
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Rose from Gasparillo
+- **Engine Link:** Care
 
 ### 20. 00-ORG-01 — National Health Service (NHS)
 
@@ -255,8 +255,8 @@ Version: 1.3
 - **Narrative Function:** Colonial care pipeline marker
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Rose from Gasparillo
+- **Engine Link:** Information
 
 ### 155. 00-ORG-17 — Harvard University
 
@@ -269,8 +269,8 @@ Version: 1.3
 - **Narrative Function:** Status benchmark metaphor
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Rose from Gasparillo
+- **Engine Link:** Discovery
 
 ### 23. 00-PLACE-07 — Andrews University
 
@@ -283,8 +283,8 @@ Version: 1.3
 - **Narrative Function:** Father return as administrator
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Rose from Gasparillo
+- **Engine Link:** Discovery
 
 ### 62. 00-PLACE-16 — University of Pennsylvania
 
@@ -298,8 +298,8 @@ Version: 1.3
 - **Narrative Function:** Precision medicine origin in the author’s arc
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Rose from Gasparillo
+- **Engine Link:** Information
 
 ### 25. 00-PHRASE-04 — Malta, Mangoes, and Mauby
 
@@ -312,8 +312,8 @@ Version: 1.3
 - **Narrative Function:** Sensory lineage and care ledger anchor
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Care
 
 ### 72. 00-CHAR-12 — Hakon Hakonarson
 
@@ -328,8 +328,8 @@ Version: 1.3
 - **Narrative Function:** Industrial genomics scale signal
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Discovery
 
 ### 140. 00-CONCEPT-40 — Precision medicine
 
@@ -342,8 +342,8 @@ Version: 1.3
 - **Narrative Function:** Central thematic anchor
 - **Reuse Hook:** Across book
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Care
 
 ### 31. 00-RIT-01 — Malta bottle ritual
 
@@ -356,8 +356,8 @@ Version: 1.3
 - **Narrative Function:** Quiet inheritance and care ledger
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Care
 
 ### 32. 00-OBJ-02 — Mauby drink
 
@@ -370,8 +370,8 @@ Version: 1.3
 - **Narrative Function:** Sensory lineage anchor
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Care
 
 ### 52. 00-OBJ-05 — IBM 286 clone
 
@@ -384,8 +384,8 @@ Version: 1.3
 - **Narrative Function:** Code-before-medicine foreshadow
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Information
 
 ### 34. 00-RIT-02 — Divali bamboo by the river
 
@@ -398,8 +398,8 @@ Version: 1.3
 - **Narrative Function:** Cultural rhythm and community care
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Care
 
 ### 35. 00-RIT-03 — Boxing Day
 
@@ -412,8 +412,8 @@ Version: 1.3
 - **Narrative Function:** Family ritual cadence
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Care
 
 ### 36. 00-RIT-04 — Christmas
 
@@ -426,8 +426,8 @@ Version: 1.3
 - **Narrative Function:** Temporal anchor
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Care
 
 ### 37. 00-RIT-05 — Sabbath
 
@@ -441,8 +441,8 @@ Version: 1.3
 - **Narrative Function:** Faith rhythm marker
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Information
 
 ### 38. 00-RIT-06 — Pooja and bhajan prayers
 
@@ -455,8 +455,8 @@ Version: 1.3
 - **Narrative Function:** Faith rhythm in Gasparillo
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Information
 
 ### 39. 00-RIT-07 — Hindu cremation pyre by the village creek
 
@@ -469,8 +469,8 @@ Version: 1.3
 - **Narrative Function:** Care honored outside formal institutions
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Care
 
 ### 40. 00-HIST-02 — Red House fire of 1903
 
@@ -483,8 +483,8 @@ Version: 1.3
 - **Narrative Function:** Bureaucracy versus memory tension
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Information
 
 ### 45. 00-SYMBOL-02 — Fatima naming lineage
 
@@ -497,8 +497,8 @@ Version: 1.3
 - **Narrative Function:** Hidden continuity across systems
 - **Reuse Hook:** Chapters 01, 08
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Care
 
 ### 46. 00-SYMBOL-03 — Virgin Mary
 
@@ -511,8 +511,8 @@ Version: 1.3
 - **Narrative Function:** Faith layering visual
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Malta, Mangoes, and Mauby
+- **Engine Link:** Information
 
 ### 47. 00-PHRASE-05 — A Long Line of Universal Men
 
@@ -525,8 +525,8 @@ Version: 1.3
 - **Narrative Function:** Lineage philosophy anchor
 - **Reuse Hook:** Chapter 15
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Long Line of Universal Men
+- **Engine Link:** Care
 
 ### 49. 00-ORG-03 — Commonwealth of Nations
 
@@ -539,8 +539,8 @@ Version: 1.3
 - **Narrative Function:** Colonial governance constraint
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Long Line of Universal Men
+- **Engine Link:** Information
 
 ### 50. 00-PHRASE-06 — Code and Calling
 
@@ -553,8 +553,8 @@ Version: 1.3
 - **Narrative Function:** Career synthesis framing
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Code and Calling
+- **Engine Link:** Information
 
 ### 53. 00-FORESHADOW-01 — Code before medicine
 
@@ -567,8 +567,8 @@ Version: 1.3
 - **Narrative Function:** Bridge to Chapter 01
 - **Reuse Hook:** Chapters 01-02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Code and Calling
+- **Engine Link:** Information
 
 ### 139. 00-CONCEPT-39 — Personalized medicine
 
@@ -581,8 +581,8 @@ Version: 1.3
 - **Narrative Function:** Terminology shift setup
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Code and Calling
+- **Engine Link:** Information
 
 ### 55. 00-PHRASE-07 — Migration and the Cost of Opportunity
 
@@ -595,8 +595,8 @@ Version: 1.3
 - **Narrative Function:** Migration cost framing
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Migration and the Cost of Opportunity
+- **Engine Link:** Care
 
 ### 57. 00-PLACE-13 — Orlando, Florida
 
@@ -609,8 +609,8 @@ Version: 1.3
 - **Narrative Function:** Migration cost anchor
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Migration and the Cost of Opportunity
+- **Engine Link:** Care
 
 ### 159. 00-PLACE-24 — Spain
 
@@ -623,8 +623,8 @@ Version: 1.3
 - **Narrative Function:** Cultural expectation anchor
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Migration and the Cost of Opportunity
+- **Engine Link:** Information
 
 ### 59. 00-PLACE-15 — United States
 
@@ -637,8 +637,8 @@ Version: 1.3
 - **Narrative Function:** System scale backdrop
 - **Reuse Hook:** Across book
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Migration and the Cost of Opportunity
+- **Engine Link:** Care
 
 ### 60. 00-HIST-03 — HIV epidemic
 
@@ -651,8 +651,8 @@ Version: 1.3
 - **Narrative Function:** U.S. staffing pipeline catalyst
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Migration and the Cost of Opportunity
+- **Engine Link:** Information
 
 ### 61. 00-PHRASE-08 — Franklin’s University and the Promise of Precision
 
@@ -665,8 +665,8 @@ Version: 1.3
 - **Narrative Function:** Institutional and methodological framing
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Franklin’s University and the Promise of Precision
+- **Engine Link:** Discovery
 
 ### 63. 00-CHAR-10 — Benjamin Franklin
 
@@ -682,8 +682,8 @@ Version: 1.3
 - **Narrative Function:** Institutional ethos contrast
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Franklin’s University and the Promise of Precision
+- **Engine Link:** Discovery
 
 ### 64. 00-ORG-04 — Quakers (Religious Society of Friends)
 
@@ -696,8 +696,8 @@ Version: 1.3
 - **Narrative Function:** Ethos backdrop for institutional values
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Franklin’s University and the Promise of Precision
+- **Engine Link:** Discovery
 
 ### 65. 00-CONCEPT-08 — Ivy League
 
@@ -710,8 +710,8 @@ Version: 1.3
 - **Narrative Function:** Institutional status reference
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Franklin’s University and the Promise of Precision
+- **Engine Link:** Discovery
 
 ### 114. 00-CHAR-16 — Wife (Spanish Moroccan)
 
@@ -726,8 +726,8 @@ Version: 1.3
 - **Narrative Function:** Patient-centered future contrast
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Franklin’s University and the Promise of Precision
+- **Engine Link:** Discovery
 
 ### 68. 00-POLICY-01 — Precision Medicine Initiative
 
@@ -740,8 +740,8 @@ Version: 1.3
 - **Narrative Function:** Policy branding anchor
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Franklin’s University and the Promise of Precision
+- **Engine Link:** Discovery
 
 ### 69. 00-ORG-05 — Children’s Hospital of Philadelphia (CHOP)
 
@@ -755,8 +755,8 @@ Version: 1.3
 - **Narrative Function:** Geographic-ethical contrast for dataset bias
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Franklin’s University and the Promise of Precision
+- **Engine Link:** Information
 
 ### 70. 00-PLACE-17 — West Philadelphia
 
@@ -769,8 +769,8 @@ Version: 1.3
 - **Narrative Function:** Access and exclusion contrast
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Franklin’s University and the Promise of Precision
+- **Engine Link:** Discovery
 
 ### 141. 00-CONCEPT-41 — Genomics and Computational Biology
 
@@ -783,8 +783,8 @@ Version: 1.3
 - **Narrative Function:** Training pathway
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Franklin’s University and the Promise of Precision
+- **Engine Link:** Information
 
 ### 75. 00-PHRASE-09 — The Transitional Year and the Decision Not to Cut
 
@@ -797,8 +797,8 @@ Version: 1.3
 - **Narrative Function:** Clinical pivot framing
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Transitional Year and the Decision Not to Cut
+- **Engine Link:** Care
 
 ### 76. 00-ORG-07 — Hospital of the University of Pennsylvania
 
@@ -811,8 +811,8 @@ Version: 1.3
 - **Narrative Function:** Clinical turning point
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Transitional Year and the Decision Not to Cut
+- **Engine Link:** Discovery
 
 ### 77. 00-PHRASE-10 — Stanford, Ontologies, and the Skeleton of the System
 
@@ -825,8 +825,8 @@ Version: 1.3
 - **Narrative Function:** Code-infrastructure framing
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Stanford, Ontologies, and the Skeleton of the System
+- **Engine Link:** Information
 
 ### 78. 00-ORG-08 — Stanford University
 
@@ -839,8 +839,8 @@ Version: 1.3
 - **Narrative Function:** Institutional training anchor
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Stanford, Ontologies, and the Skeleton of the System
+- **Engine Link:** Information
 
 ### 85. 00-PHRASE-11 — UCSF, Eighty Million Lives, and the Profit of Failure
 
@@ -853,8 +853,8 @@ Version: 1.3
 - **Narrative Function:** System-scale critique framing
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
+- **Engine Link:** Information
 
 ### 86. 00-PLACE-19 — California
 
@@ -868,8 +868,8 @@ Version: 1.3
 - **Narrative Function:** Regional system contrast
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
+- **Engine Link:** Information
 
 ### 90. 00-ORG-10 — University of California health system
 
@@ -882,8 +882,8 @@ Version: 1.3
 - **Narrative Function:** Scale reference for data aggregation
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
+- **Engine Link:** Information
 
 ### 91. 00-EVID-01 — Gene Expression Omnibus
 
@@ -896,8 +896,8 @@ Version: 1.3
 - **Narrative Function:** Data provenance backdrop
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
+- **Engine Link:** Information
 
 ### 121. 00-OBJ-08 — Urn and ashes at Englishman's Bay
 
@@ -910,8 +910,8 @@ Version: 1.3
 - **Narrative Function:** Moral closure and continuity
 - **Reuse Hook:** Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
+- **Engine Link:** Information
 
 ### 142. 00-CONCEPT-42 — Clinical Pathology and Laboratory Medicine
 
@@ -924,8 +924,8 @@ Version: 1.3
 - **Narrative Function:** Coding infrastructure entry point
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
+- **Engine Link:** Information
 
 ### 95. 00-PHRASE-12 — Florida, DEI, and a Pacemaker Serial Number
 
@@ -938,8 +938,8 @@ Version: 1.3
 - **Narrative Function:** Equity and fragmentation framing
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
+- **Engine Link:** Care
 
 ### 97. 00-ORG-11 — University of Central Florida
 
@@ -953,8 +953,8 @@ Version: 1.3
 - **Narrative Function:** Florida system context
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
+- **Engine Link:** Discovery
 
 ### 104. 00-POLICY-03 — Casey DeSantis Breast Cancer Research grant
 
@@ -967,8 +967,8 @@ Version: 1.3
 - **Narrative Function:** Policy funding contradiction
 - **Reuse Hook:** Chapter 15
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
+- **Engine Link:** Discovery
 
 ### 143. 00-CONCEPT-43 — Systems Medicine
 
@@ -981,8 +981,8 @@ Version: 1.3
 - **Narrative Function:** Pipeline pivot framing
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
+- **Engine Link:** Information
 
 ### 138. 00-CONCEPT-38 — Polio vaccine
 
@@ -995,8 +995,8 @@ Version: 1.3
 - **Narrative Function:** Impact evidence
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
+- **Engine Link:** Care
 
 ### 144. 00-CONCEPT-44 — DEI
 
@@ -1009,8 +1009,8 @@ Version: 1.3
 - **Narrative Function:** Equity language constraint
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
+- **Engine Link:** Information
 
 ### 109. 00-CONCEPT-19 — Dialysis
 
@@ -1023,8 +1023,8 @@ Version: 1.3
 - **Narrative Function:** System dependency marker
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
+- **Engine Link:** Care
 
 ### 111. 00-PLACE-22 — Nursing home
 
@@ -1037,8 +1037,8 @@ Version: 1.3
 - **Narrative Function:** Custody gap setting
 - **Reuse Hook:** Chapter 03, Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
+- **Engine Link:** Information
 
 ### 112. 00-PHRASE-13 — Alzheimer’s, Culture, and COVID
 
@@ -1051,8 +1051,8 @@ Version: 1.3
 - **Narrative Function:** Family and pandemic framing
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Alzheimer’s, Culture, and COVID
+- **Engine Link:** Care
 
 ### 113. 00-PHRASE-14 — A Universal Future
 
@@ -1065,8 +1065,8 @@ Version: 1.3
 - **Narrative Function:** Future-facing inclusion framing
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Universal Future
+- **Engine Link:** Care
 
 ### 115. 00-CHAR-17 — Children (author’s)
 
@@ -1081,8 +1081,8 @@ Version: 1.3
 - **Narrative Function:** Stakes for system redesign
 - **Reuse Hook:** Part V, Part VI
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Universal Future
+- **Engine Link:** Care
 
 ### 117. 00-CONCEPT-21 — Spanish
 
@@ -1095,8 +1095,8 @@ Version: 1.3
 - **Narrative Function:** Cultural competence expectation
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Universal Future
+- **Engine Link:** Care
 
 ### 118. 00-CONCEPT-22 — Arabic
 
@@ -1109,8 +1109,8 @@ Version: 1.3
 - **Narrative Function:** Cultural competence expectation
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Universal Future
+- **Engine Link:** Care
 
 ### 119. 00-CONCEPT-23 — English
 
@@ -1123,8 +1123,8 @@ Version: 1.3
 - **Narrative Function:** Language contrast
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Universal Future
+- **Engine Link:** Care
 
 ### 120. 00-PHRASE-15 — Dividends & Deaths
 
@@ -1137,8 +1137,8 @@ Version: 1.3
 - **Narrative Function:** Thesis and title anchor
 - **Reuse Hook:** Across book
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 122. 00-CHAR-18 — Seventh-day Adventist pastor
 
@@ -1153,8 +1153,8 @@ Version: 1.3
 - **Narrative Function:** Ritual witness
 - **Reuse Hook:** Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 6. 00-CONCEPT-01 — Dividends and deaths frame
 
@@ -1168,8 +1168,8 @@ Version: 1.3
 - **Reuse Hook:** Chapters 01-10, Epilogue
 - **Canonical phrase:** "Dividends rise. Deaths fall."
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 7. 00-CONCEPT-02 — Billable Code (named as currency)
 
@@ -1182,8 +1182,8 @@ Version: 1.3
 - **Narrative Function:** Bridge to system mechanics
 - **Reuse Hook:** Chapters 01-02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 8. 00-CONCEPT-03 — Prologue exit hook
 
@@ -1196,8 +1196,8 @@ Version: 1.3
 - **Narrative Function:** Move from narrative cost to system mechanics
 - **Canonical transition:** "In Chapter One, I give that currency its formal name."
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 13. 00-CHAR-04 — Major Francis Hadley
 
@@ -1213,8 +1213,8 @@ Version: 1.3
 - **Narrative Function:** Colonial extraction backdrop
 - **Reuse Hook:** Chapters 01, 08
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 16. 00-PLACE-04 — Trinidad and Tobago
 
@@ -1228,8 +1228,8 @@ Version: 1.3
 - **Narrative Function:** Cultural operating system contrast
 - **Reuse Hook:** Across book
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 19. 00-CHAR-05 — Pearl Surajee
 
@@ -1244,8 +1244,8 @@ Version: 1.3
 - **Narrative Function:** Care labor and unpaid system contribution
 - **Reuse Hook:** Chapters 03, 06, 09, Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 21. 00-ORG-02 — Seventh-day Adventist community hospital (Trinidad)
 
@@ -1258,8 +1258,8 @@ Version: 1.3
 - **Narrative Function:** Faith-to-care bridge
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 22. 00-PLACE-06 — Gasparillo, Trinidad
 
@@ -1272,8 +1272,8 @@ Version: 1.3
 - **Narrative Function:** Mother lineage anchor
 - **Reuse Hook:** Chapters 01, 08
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 24. 00-PLACE-08 — Michigan
 
@@ -1286,8 +1286,8 @@ Version: 1.3
 - **Narrative Function:** Mobility and education geography
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Discovery
 
 ### 26. 00-CHAR-06 — Mama
 
@@ -1303,8 +1303,8 @@ Version: 1.3
 - **Narrative Function:** Memory vs bureaucracy; lineage anchor
 - **Reuse Hook:** Chapters 01, 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 28. 00-CHAR-08 — Grandpa Frank
 
@@ -1319,8 +1319,8 @@ Version: 1.3
 - **Narrative Function:** Colonial lineage thread
 - **Reuse Hook:** Chapters 01, 08
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 29. 00-CHAR-09 — Brother (author’s)
 
@@ -1335,8 +1335,8 @@ Version: 1.3
 - **Narrative Function:** Shared lineage witness
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 30. 00-CONCEPT-04 — Dougla
 
@@ -1349,8 +1349,8 @@ Version: 1.3
 - **Narrative Function:** Identity framing for the author
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 33. 00-OBJ-03 — Oorni (Hindu headpiece)
 
@@ -1363,8 +1363,8 @@ Version: 1.3
 - **Narrative Function:** Visual anchor of Hindu lineage
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 41. 00-PLACE-09 — St. James, Port of Spain
 
@@ -1377,8 +1377,8 @@ Version: 1.3
 - **Narrative Function:** Anchor for childhood scenes
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 42. 00-PLACE-10 — River Estate
 
@@ -1391,8 +1391,8 @@ Version: 1.3
 - **Narrative Function:** Care labor and inheritance scene
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Discovery
 
 ### 43. 00-PLACE-11 — Barataria
 
@@ -1405,8 +1405,8 @@ Version: 1.3
 - **Narrative Function:** Colonial lineage continuity
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 44. 00-PLACE-12 — Fatima College
 
@@ -1419,8 +1419,8 @@ Version: 1.3
 - **Narrative Function:** Faith layering and education drive
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 51. 00-OBJ-04 — Tandy TRS-80
 
@@ -1433,8 +1433,8 @@ Version: 1.3
 - **Narrative Function:** Code-before-medicine foreshadow
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 54. 00-CONCEPT-06 — BASIC
 
@@ -1447,8 +1447,8 @@ Version: 1.3
 - **Narrative Function:** Code-origin detail
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 56. 00-CONCEPT-07 — Migration as cost
 
@@ -1461,8 +1461,8 @@ Version: 1.3
 - **Narrative Function:** Undercut meritocracy myth
 - **Reuse Hook:** Chapters 02, 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 58. 00-PLACE-14 — England
 
@@ -1475,8 +1475,8 @@ Version: 1.3
 - **Narrative Function:** Colonial care pipeline context
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 66. 00-HIST-04 — Human Genome Project
 
@@ -1489,8 +1489,8 @@ Version: 1.3
 - **Narrative Function:** Precision framing and bias setup
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Discovery
 
 ### 67. 00-CHAR-11 — Barack Obama
 
@@ -1505,8 +1505,8 @@ Version: 1.3
 - **Narrative Function:** Policy-era naming shift
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 71. 00-PLACE-18 — CHOP Center for Applied Genomics (CAG)
 
@@ -1520,8 +1520,8 @@ Version: 1.3
 - **Narrative Function:** Precision pipeline prelude
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 73. 00-ORG-06 — NeuroFix Therapeutics
 
@@ -1534,8 +1534,8 @@ Version: 1.3
 - **Narrative Function:** Dividend conversion example
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 74. 00-CONCEPT-09 — GWAS
 
@@ -1548,8 +1548,8 @@ Version: 1.3
 - **Narrative Function:** Precision-era framing
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Discovery
 
 ### 79. 00-CHAR-13 — Mark Musen
 
@@ -1564,8 +1564,8 @@ Version: 1.3
 - **Narrative Function:** System codification backdrop
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 80. 00-CONCEPT-10 — SNOMED
 
@@ -1578,8 +1578,8 @@ Version: 1.3
 - **Narrative Function:** Coding infrastructure example
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 81. 00-CONCEPT-11 — ICD
 
@@ -1592,8 +1592,8 @@ Version: 1.3
 - **Narrative Function:** Coding infrastructure example
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 83. 00-CONCEPT-13 — ADHD
 
@@ -1606,8 +1606,8 @@ Version: 1.3
 - **Narrative Function:** Precision-medicine use case
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 84. 00-CHAR-14 — Atul Butte
 
@@ -1622,8 +1622,8 @@ Version: 1.3
 - **Narrative Function:** Pivot from bedside to pipelines
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 87. 00-PLACE-20 — UCSF and Bakar Institute
 
@@ -1636,8 +1636,8 @@ Version: 1.3
 - **Narrative Function:** Circular data economy prelude
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 88. 00-ORG-09 — Bakar Institute for Computational Health Sciences
 
@@ -1650,8 +1650,8 @@ Version: 1.3
 - **Narrative Function:** Data-scale platform reference
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 89. 00-CHAR-15 — Mark Zuckerberg
 
@@ -1666,8 +1666,8 @@ Version: 1.3
 - **Narrative Function:** Platform capital example
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 92. 00-OBJ-06 — FDG-PET scans
 
@@ -1680,8 +1680,8 @@ Version: 1.3
 - **Narrative Function:** Precision claim grounding
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 93. 00-CONCEPT-14 — Alzheimer’s disease
 
@@ -1694,8 +1694,8 @@ Version: 1.3
 - **Narrative Function:** Personal-system tension
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 94. 00-CONCEPT-15 — Profit from failure
 
@@ -1708,8 +1708,8 @@ Version: 1.3
 - **Narrative Function:** System incentive exposure
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 96. 00-PLACE-21 — Florida and UCF
 
@@ -1722,8 +1722,8 @@ Version: 1.3
 - **Narrative Function:** Representation cost setup
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 98. 00-ORG-12 — HCA
 
@@ -1736,8 +1736,8 @@ Version: 1.3
 - **Narrative Function:** Data fragmentation backdrop
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 99. 00-ORG-13 — AdventHealth
 
@@ -1750,8 +1750,8 @@ Version: 1.3
 - **Narrative Function:** Data fragmentation backdrop
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 100. 00-HIST-05 — COVID-19
 
@@ -1764,8 +1764,8 @@ Version: 1.3
 - **Narrative Function:** Stress test for system equity
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Discovery
 
 ### 101. 00-EVID-02 — NCT05384912 decentralized imaging trial
 
@@ -1778,8 +1778,8 @@ Version: 1.3
 - **Narrative Function:** Representation cost evidence
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 102. 00-ORG-14 — Facebook
 
@@ -1792,8 +1792,8 @@ Version: 1.3
 - **Narrative Function:** Platform-mediated access cost
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 103. 00-POLICY-02 — SB 266 (Florida)
 
@@ -1807,8 +1807,8 @@ Version: 1.3
 - **Narrative Function:** Language constraint on equity
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 105. 00-ORG-15 — MammoChat
 
@@ -1821,8 +1821,8 @@ Version: 1.3
 - **Narrative Function:** Equity infrastructure example
 - **Reuse Hook:** Chapter 15
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 106. 00-CONCEPT-16 — Hypertension
 
@@ -1835,8 +1835,8 @@ Version: 1.3
 - **Narrative Function:** Chronic disease burden
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 107. 00-CONCEPT-17 — Diabetes
 
@@ -1849,8 +1849,8 @@ Version: 1.3
 - **Narrative Function:** Chronic disease burden
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 108. 00-CONCEPT-18 — End-stage kidney disease
 
@@ -1863,8 +1863,8 @@ Version: 1.3
 - **Narrative Function:** System cost and dependency
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 110. 00-OBJ-07 — Pacemaker serial number
 
@@ -1878,8 +1878,8 @@ Version: 1.3
 - **Narrative Function:** Custody failure illustration
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 116. 00-CONCEPT-20 — Islam
 
@@ -1893,8 +1893,8 @@ Version: 1.3
 - **Narrative Function:** Cultural expectation anchor
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 123. 00-CONCEPT-24 — Open Provenance Token System
 
@@ -1907,8 +1907,8 @@ Version: 1.3
 - **Narrative Function:** Future governance bridge
 - **Reuse Hook:** Chapter 15, Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 124. 00-CONCEPT-25 — Equitable governance layer
 
@@ -1921,8 +1921,8 @@ Version: 1.3
 - **Narrative Function:** Future governance bridge
 - **Reuse Hook:** Chapter 15, Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 125. 00-CHAR-19 — Casey DeSantis
 
@@ -1937,8 +1937,8 @@ Version: 1.3
 - **Narrative Function:** Policy funding contrast
 - **Reuse Hook:** Chapter 15
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Discovery
 
 ### 126. 00-CONCEPT-26 — LOINC
 
@@ -1951,8 +1951,8 @@ Version: 1.3
 - **Narrative Function:** Coding infrastructure example
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 127. 00-CONCEPT-27 — Seventh-day Adventism
 
@@ -1965,8 +1965,8 @@ Version: 1.3
 - **Narrative Function:** Faith layering and migration bridge
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 128. 00-CONCEPT-28 — Hinduism
 
@@ -1980,8 +1980,8 @@ Version: 1.3
 - **Narrative Function:** Cultural anchor and ritual context
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 129. 00-CONCEPT-29 — Catholicism
 
@@ -1995,8 +1995,8 @@ Version: 1.3
 - **Narrative Function:** Faith layering backdrop
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 130. 00-CONCEPT-30 — Christianity
 
@@ -2010,8 +2010,8 @@ Version: 1.3
 - **Narrative Function:** Faith-bridge context
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 131. 00-CONCEPT-31 — Hindi
 
@@ -2024,8 +2024,8 @@ Version: 1.3
 - **Narrative Function:** Ritual and language marker
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 132. 00-CONCEPT-32 — Latin
 
@@ -2038,8 +2038,8 @@ Version: 1.3
 - **Narrative Function:** Classical education marker
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 133. 00-CONCEPT-33 — SQL
 
@@ -2052,8 +2052,8 @@ Version: 1.3
 - **Narrative Function:** Data access contrast
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 134. 00-CONCEPT-34 — AI
 
@@ -2066,8 +2066,8 @@ Version: 1.3
 - **Narrative Function:** Technical framing
 - **Reuse Hook:** Across book
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 135. 00-CONCEPT-35 — DNA
 
@@ -2080,8 +2080,8 @@ Version: 1.3
 - **Narrative Function:** Scientific substrate
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 136. 00-CONCEPT-36 — HIV
 
@@ -2094,8 +2094,8 @@ Version: 1.3
 - **Narrative Function:** Epidemiologic pressure point
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 137. 00-CONCEPT-37 — HPV
 
@@ -2108,8 +2108,8 @@ Version: 1.3
 - **Narrative Function:** Biomedical impact marker
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 145. 00-CONCEPT-45 — ICU
 
@@ -2122,8 +2122,8 @@ Version: 1.3
 - **Narrative Function:** Economic pressure illustration
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 146. 00-CONCEPT-46 — Bollywood
 
@@ -2136,8 +2136,8 @@ Version: 1.3
 - **Narrative Function:** Cultural lineage marker
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 147. 00-CONCEPT-47 — Colonialism
 
@@ -2150,8 +2150,8 @@ Version: 1.3
 - **Narrative Function:** Structural framing
 - **Reuse Hook:** Across book
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 148. 00-CONCEPT-48 — God
 
@@ -2165,8 +2165,8 @@ Version: 1.3
 - **Narrative Function:** Spiritual framing
 - **Reuse Hook:** Chapter 01
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 149. 00-CONCEPT-49 — Latina
 
@@ -2179,8 +2179,8 @@ Version: 1.3
 - **Narrative Function:** Representation gap marker
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 150. 00-CONCEPT-50 — Mammography
 
@@ -2193,8 +2193,8 @@ Version: 1.3
 - **Narrative Function:** Care disruption marker
 - **Reuse Hook:** Chapter 07
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Discovery
 
 ### 151. 00-CONCEPT-51 — European ancestry
 
@@ -2208,8 +2208,8 @@ Version: 1.3
 - **Narrative Function:** Data representativeness gap
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 152. 00-METAPHOR-01 — Unpaid labor ledger
 
@@ -2222,8 +2222,8 @@ Version: 1.3
 - **Narrative Function:** Sets dividends vs deaths accounting logic
 - **Reuse Hook:** Chapters 02-10
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 153. 00-OBJ-09 — Imaging uploads
 
@@ -2237,8 +2237,8 @@ Version: 1.3
 - **Narrative Function:** Evidence medium
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Discovery
 
 ### 154. 00-ORG-16 — National Institutes of Health (NIH)
 
@@ -2251,8 +2251,8 @@ Version: 1.3
 - **Narrative Function:** Research funding backdrop
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 156. 00-ORG-18 — Office of the First Lady of Florida
 
@@ -2266,8 +2266,8 @@ Version: 1.3
 - **Narrative Function:** Policy funding pathway
 - **Reuse Hook:** Chapter 15
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Discovery
 
 ### 157. 00-PHRASE-16 — Devanand
 
@@ -2280,8 +2280,8 @@ Version: 1.3
 - **Narrative Function:** Lineage and identity marker
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Care
 
 ### 158. 00-PLACE-23 — Stanford pathology residency
 
@@ -2294,8 +2294,8 @@ Version: 1.3
 - **Narrative Function:** Billable code formalization
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 160. 00-PLACE-25 — Latin America
 
@@ -2308,8 +2308,8 @@ Version: 1.3
 - **Narrative Function:** Cultural clarification
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information
 
 ### 161. 00-RIT-08 — Faith coexistence
 
@@ -2322,5 +2322,5 @@ Version: 1.3
 - **Narrative Function:** Plural systems outlast purist ones
 - **Reuse Hook:** Digital Maya, governance chapters
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividends & Deaths
+- **Engine Link:** Information

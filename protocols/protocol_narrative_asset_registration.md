@@ -94,7 +94,7 @@ Required fields:
 - **Cultural / Historical Context**
 - **Introduced In**
 - **Narrative Function** (what structural work this asset does)
-- **Engine Link** — which engine failure(s) this asset illuminates
+- **Engine Link** — which single engine failure this asset illuminates
 - **Reuse Hook** — where and why it may reappear
 
 Interior emotional states are not logged unless analytically required.
@@ -115,7 +115,7 @@ If a duplicate exists, mark the duplicate **DEPRECATED** and redirect to the can
 
 ### Step 5 — Death-Bound Declaration
 If the asset involves harm, disparity, or death:
-- Explicitly declare which **engine failure(s)** are implicated.
+- Explicitly declare which **engine failure** is implicated.
 - State whether the failure is **exclusion**, **misaction**, or **lock-in**.
 
 Assets that touch death without mechanism are non-compliant.
@@ -175,7 +175,7 @@ Journal names and author initials in reference sections are treated as part of t
 - **Aliases:** (optional variants, possessives, plurals, abbreviations)
 - **Introduced In:** (scene or section)
 - **Narrative Function:** (what work this asset does in this chapter)
-- **Engine Link:** (Discovery / Care / Information + failure mode)
+- **Engine Link:** (single engine: Discovery / Care / Information + failure mode)
 - **Reuse Hook:** (where and how it will reappear later)
 
 ### Global Ledger Row

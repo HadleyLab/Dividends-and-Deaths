@@ -124,7 +124,7 @@ If an asset’s **Type** changes, reindex the chapter and update all references.
    - all narrative assets (episodes, people, places, figures)
    - all concepts referenced
    - every death, disparity, or harm
-   - the implicated engine failure(s)
+   - the implicated engine failure
 
    If it is not in the ledger, it may not appear in prose.
 

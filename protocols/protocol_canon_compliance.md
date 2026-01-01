@@ -139,7 +139,7 @@ Each asset must include:
 - **Narrative Function**
 - **Reuse Hook**
 - **Aliases** (optional variants, possessives, plurals, abbreviations)
-- **Engine Link** — which canonical engine failure (Discovery, Care, Information) the asset illuminates, if applicable
+- **Engine Link** — which single canonical engine failure (Discovery, Care, Information) the asset illuminates, if applicable
 
 Character assets must also include:
 - **Cultural/National Identity**

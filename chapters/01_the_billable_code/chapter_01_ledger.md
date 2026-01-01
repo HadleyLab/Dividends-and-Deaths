@@ -19,8 +19,8 @@ Version: 1.0
 - **Narrative Function:** Cultural scale marker
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 2. 01-PLACE-01 — St. James, Trinidad (Agra Street)
 
@@ -34,8 +34,8 @@ Version: 1.0
 - **Narrative Function:** Show coexistence before institutional legibility
 - **Reuse Hook:** Chapter 00 callbacks and later cultural contrast
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 3. 01-PLACE-02 — Agra, India
 
@@ -49,8 +49,8 @@ Version: 1.0
 - **Narrative Function:** Colonial naming contrast
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 4. 01-PLACE-03 — Taj Mahal
 
@@ -63,8 +63,8 @@ Version: 1.0
 - **Narrative Function:** Cultural reference for naming contrast
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 5. 01-PLACE-04 — Spain
 
@@ -78,8 +78,8 @@ Version: 1.0
 - **Narrative Function:** Coexistence context
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
 
 ### 6. 01-PLACE-05 — Caribbean
 
@@ -92,8 +92,8 @@ Version: 1.0
 - **Narrative Function:** Counterpoint to European framing
 - **Reuse Hook:** Across book
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 7. 01-PLACE-06 — Coolie Town
 
@@ -106,8 +106,8 @@ Version: 1.0
 - **Narrative Function:** Colonial sorting backdrop
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Discovery
 
 ### 8. 01-RIT-01 — Carnival and Ash Wednesday
 
@@ -121,8 +121,8 @@ Version: 1.0
 - **Narrative Function:** Model coexistence without resolution
 - **Reuse Hook:** Part I tonal anchor
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
 
 ### 10. 01-CHAR-01 — Neighborhood friend (unnamed)
 
@@ -137,8 +137,8 @@ Version: 1.0
 - **Narrative Function:** Mirror for systems exposure and emigration fork
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 13. 01-RIT-02 — Sabbath worship and Lord’s Prayer
 
@@ -152,8 +152,8 @@ Version: 1.0
 - **Narrative Function:** Household rhythm contrast
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
 
 ### 14. 01-OBJ-01 — VCR and cassette-era media
 
@@ -167,8 +167,8 @@ Version: 1.0
 - **Narrative Function:** Contrast control vs access
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 16. 01-OBJ-03 — Bottle rockets and rum factory caps
 
@@ -182,8 +182,8 @@ Version: 1.0
 - **Narrative Function:** Empirical cause and effect lesson
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 17. 01-OBJ-04 — IBM 286 clone
 
@@ -196,8 +196,8 @@ Version: 1.0
 - **Narrative Function:** Code apprenticeship expansion
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
 
 ### 18. 01-OBJ-05 — Nintendo console
 
@@ -211,8 +211,8 @@ Version: 1.0
 - **Narrative Function:** Contrast between consumption and creation
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
 
 ### 19. 01-OBJ-06 — Nintendo games (Mario, Zelda)
 
@@ -226,8 +226,8 @@ Version: 1.0
 - **Narrative Function:** Contrast for systems attention
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 20. 01-OBJ-07 — James Bond films
 
@@ -241,8 +241,8 @@ Version: 1.0
 - **Narrative Function:** Cultural access marker
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 21. 01-OBJ-08 — Bruce Lee films
 
@@ -256,8 +256,8 @@ Version: 1.0
 - **Narrative Function:** Cultural access marker
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 22. 01-OBJ-09 — Microsoft Flight Simulator
 
@@ -270,8 +270,8 @@ Version: 1.0
 - **Narrative Function:** Imagination of unseen systems
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 23. 01-OBJ-10 — Hercules monochrome graphics
 
@@ -284,8 +284,8 @@ Version: 1.0
 - **Narrative Function:** Constraint as systems lesson
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
 
 ### 24. 01-PLACE-07 — Maracas Beach
 
@@ -298,8 +298,8 @@ Version: 1.0
 - **Narrative Function:** Horizon and permission metaphor
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 25. 01-PLACE-08 — Canada
 
@@ -312,8 +312,8 @@ Version: 1.0
 - **Narrative Function:** Migration fork
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 26. 01-PLACE-09 — United States
 
@@ -327,8 +327,8 @@ Version: 1.0
 - **Narrative Function:** System entry point
 - **Reuse Hook:** Across book
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Care
 
 ### 27. 01-CONCEPT-01 — Legibility vs personhood
 
@@ -342,8 +342,8 @@ Version: 1.0
 - **Narrative Function:** Moral engine of the chapter
 - **Reuse Hook:** Chapters 02-10
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where Story Becomes Fate
+- **Engine Link:** Information
 
 ### 28. 01-PHRASE-04 — Why We Have Codes at All
 
@@ -356,8 +356,8 @@ Version: 1.0
 - **Narrative Function:** Systems origin framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Why We Have Codes at All
+- **Engine Link:** Information
 
 ### 29. 01-ECON-01 — Insurance engine
 
@@ -371,8 +371,8 @@ Version: 1.0
 - **Narrative Function:** Explain why codes exist and how extraction begins
 - **Reuse Hook:** Chapters 02-03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Why We Have Codes at All
+- **Engine Link:** Information
 
 ### 32. 01-CONCEPT-03 — Date of birth as primary key
 
@@ -386,8 +386,8 @@ Version: 1.0
 - **Narrative Function:** Show the first code and its power
 - **Reuse Hook:** Chapters 03-04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Why We Have Codes at All
+- **Engine Link:** Information
 
 ### 31. 01-PHRASE-05 — The First Code
 
@@ -400,8 +400,8 @@ Version: 1.0
 - **Narrative Function:** Identity-as-key framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The First Code
+- **Engine Link:** Information
 
 ### 38. 01-CHAR-05 — Mother - Pearl Surajee
 
@@ -417,8 +417,8 @@ Version: 1.0
 - **Narrative Function:** Personhood versus institutional keys
 - **Reuse Hook:** Chapters 03, 09
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The First Code
+- **Engine Link:** Information
 
 ### 34. 01-CHAR-04 — Father - Leonard Kempthorne
 
@@ -434,8 +434,8 @@ Version: 1.0
 - **Narrative Function:** Ethical and systems grounding
 - **Reuse Hook:** Chapters 03, 07, Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The First Code
+- **Engine Link:** Information
 
 ### 35. 01-PHRASE-06 — Mama’s Code Was a Story
 
@@ -448,8 +448,8 @@ Version: 1.0
 - **Narrative Function:** Community legibility framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Mama’s Code Was a Story
+- **Engine Link:** Information
 
 ### 36. 01-HIST-01 — Red House fire of 1903
 
@@ -462,8 +462,8 @@ Version: 1.0
 - **Narrative Function:** Personhood without institutional archive
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Mama’s Code Was a Story
+- **Engine Link:** Information
 
 ### 37. 01-PHRASE-07 — My Mother’s Name Was a Code Too
 
@@ -476,8 +476,8 @@ Version: 1.0
 - **Narrative Function:** Renaming and legibility framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** My Mother’s Name Was a Code Too
+- **Engine Link:** Information
 
 ### 39. 01-SYMBOL-01 — Hadley surname
 
@@ -490,8 +490,8 @@ Version: 1.0
 - **Narrative Function:** Contrast between mutable and fixed identities
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** My Mother’s Name Was a Code Too
+- **Engine Link:** Information
 
 ### 40. 01-PHRASE-08 — Penn and the Operating Room
 
@@ -504,8 +504,8 @@ Version: 1.0
 - **Narrative Function:** Machine-as-hospital framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Penn and the Operating Room
+- **Engine Link:** Care
 
 ### 42. 01-CONCEPT-04 — Surgery
 
@@ -518,8 +518,8 @@ Version: 1.0
 - **Narrative Function:** Spotlight-versus-system contrast
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Penn and the Operating Room
+- **Engine Link:** Care
 
 ### 43. 01-CONCEPT-05 — ICD
 
@@ -532,8 +532,8 @@ Version: 1.0
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Penn and the Operating Room
+- **Engine Link:** Information
 
 ### 44. 01-CONCEPT-06 — CPT
 
@@ -546,8 +546,8 @@ Version: 1.0
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Penn and the Operating Room
+- **Engine Link:** Information
 
 ### 45. 01-PHRASE-09 — Stanford, the Basement, and the Constitution of Medicine
 
@@ -560,8 +560,8 @@ Version: 1.0
 - **Narrative Function:** Code-infrastructure framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
+- **Engine Link:** Information
 
 ### 51. 01-CONCEPT-11 — UMLS (Unified Medical Language System)
 
@@ -575,8 +575,8 @@ Version: 1.0
 - **Narrative Function:** Code interoperability anchor
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
+- **Engine Link:** Information
 
 ### 52. 01-CHAR-06 — Mark Musen
 
@@ -592,8 +592,8 @@ Version: 1.0
 - **Narrative Function:** Code ontology backdrop
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
+- **Engine Link:** Information
 
 ### 53. 01-PHRASE-10 — When Story Became Fate
 
@@ -606,8 +606,8 @@ Version: 1.0
 - **Narrative Function:** Pivot from narrative to system
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** When Story Became Fate
+- **Engine Link:** Care
 
 ### 55. 01-PHRASE-11 — The Insurance Engine
 
@@ -620,8 +620,8 @@ Version: 1.0
 - **Narrative Function:** Incentive framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Insurance Engine
+- **Engine Link:** Care
 
 ### 58. 01-CONCEPT-14 — Precision Medicine Economy
 
@@ -634,8 +634,8 @@ Version: 1.0
 - **Narrative Function:** Economic framing for the book
 - **Reuse Hook:** Chapters 02-10
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Insurance Engine
+- **Engine Link:** Care
 
 ### 57. 01-CONCEPT-13 — Access
 
@@ -648,8 +648,8 @@ Version: 1.0
 - **Narrative Function:** Compression step in Digital Maya sequence
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Insurance Engine
+- **Engine Link:** Information
 
 ### 59. 01-PHRASE-12 — Europe, Curation, and the Long Memory of Power
 
@@ -662,8 +662,8 @@ Version: 1.0
 - **Narrative Function:** Canon critique framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Care
 
 ### 61. 01-PLACE-13 — Rome
 
@@ -676,8 +676,8 @@ Version: 1.0
 - **Narrative Function:** Curation contrast
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Care
 
 ### 62. 01-PLACE-14 — Vatican
 
@@ -690,8 +690,8 @@ Version: 1.0
 - **Narrative Function:** Curation contrast
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Care
 
 ### 63. 01-PLACE-15 — Sistine Chapel
 
@@ -704,8 +704,8 @@ Version: 1.0
 - **Narrative Function:** Curation contrast
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Care
 
 ### 64. 01-CHAR-07 — Michelangelo
 
@@ -720,8 +720,8 @@ Version: 1.0
 - **Narrative Function:** Curation contrast in Europe section
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Care
 
 ### 65. 01-CHAR-08 — Leonardo da Vinci
 
@@ -736,8 +736,8 @@ Version: 1.0
 - **Narrative Function:** Curation contrast in Europe section
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Care
 
 ### 66. 01-CHAR-09 — Raphael
 
@@ -752,8 +752,8 @@ Version: 1.0
 - **Narrative Function:** Curation contrast in Europe section
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Care
 
 ### 67. 01-CONCEPT-15 — Western civilization
 
@@ -766,8 +766,8 @@ Version: 1.0
 - **Narrative Function:** Curation contrast
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Care
 
 ### 68. 01-CONCEPT-16 — Renaissance
 
@@ -780,8 +780,8 @@ Version: 1.0
 - **Narrative Function:** Curation contrast
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Information
 
 ### 69. 01-PLACE-16 — India
 
@@ -794,8 +794,8 @@ Version: 1.0
 - **Narrative Function:** Systems lineage anchor
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Care
 
 ### 70. 01-PLACE-17 — Arab world
 
@@ -808,8 +808,8 @@ Version: 1.0
 - **Narrative Function:** Systems lineage bridge
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Information
 
 ### 71. 01-PLACE-18 — Africa
 
@@ -822,8 +822,8 @@ Version: 1.0
 - **Narrative Function:** Universality framing
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Care
 
 ### 72. 01-CHAR-10 — Wife (Spanish Moroccan)
 
@@ -838,8 +838,8 @@ Version: 1.0
 - **Narrative Function:** Evidence of braided civilizations
 - **Reuse Hook:** Parts IV-V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Europe, Curation, and the Long Memory of Power
+- **Engine Link:** Information
 
 ### 73. 01-PHRASE-13 — Zero, Algebra, and the Systems Europe Inherited
 
@@ -852,8 +852,8 @@ Version: 1.0
 - **Narrative Function:** Systems lineage framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
+- **Engine Link:** Care
 
 ### 74. 01-CONCEPT-17 — Zero
 
@@ -866,8 +866,8 @@ Version: 1.0
 - **Narrative Function:** Systems inheritance proof
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
+- **Engine Link:** Care
 
 ### 75. 01-CONCEPT-18 — Binary
 
@@ -880,8 +880,8 @@ Version: 1.0
 - **Narrative Function:** Systems inheritance proof
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
+- **Engine Link:** Care
 
 ### 79. 01-PHRASE-14 — The Moors, and the Proof of a Larger Lineage
 
@@ -894,8 +894,8 @@ Version: 1.0
 - **Narrative Function:** Lineage evidence framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Moors, and the Proof of a Larger Lineage
+- **Engine Link:** Care
 
 ### 80. 01-CONCEPT-21 — Moorish lineage
 
@@ -909,8 +909,8 @@ Version: 1.0
 - **Narrative Function:** Lineage proof
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Moors, and the Proof of a Larger Lineage
+- **Engine Link:** Information
 
 ### 81. 01-CONCEPT-22 — Islam
 
@@ -924,8 +924,8 @@ Version: 1.0
 - **Narrative Function:** Moral seriousness and inheritance
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Moors, and the Proof of a Larger Lineage
+- **Engine Link:** Care
 
 ### 82. 01-PLACE-19 — Al-Andalus (Islamic Spain)
 
@@ -939,8 +939,8 @@ Version: 1.0
 - **Narrative Function:** Proof of non-European inheritance
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Moors, and the Proof of a Larger Lineage
+- **Engine Link:** Information
 
 ### 83. 01-PLACE-20 — Alhambra
 
@@ -953,8 +953,8 @@ Version: 1.0
 - **Narrative Function:** Thesis image for transmission
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Moors, and the Proof of a Larger Lineage
+- **Engine Link:** Information
 
 ### 84. 01-PLACE-21 — Morocco
 
@@ -967,8 +967,8 @@ Version: 1.0
 - **Narrative Function:** Lineage proof
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Moors, and the Proof of a Larger Lineage
+- **Engine Link:** Care
 
 ### 85. 01-PHRASE-15 — Names as Prophecy
 
@@ -981,8 +981,8 @@ Version: 1.0
 - **Narrative Function:** Naming-as-system framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Names as Prophecy
+- **Engine Link:** Care
 
 ### 86. 01-CONCEPT-23 — Prophets of Islam
 
@@ -995,8 +995,8 @@ Version: 1.0
 - **Narrative Function:** Prophetic naming motif
 - **Reuse Hook:** Part V
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Names as Prophecy
+- **Engine Link:** Care
 
 ### 89. 01-PHRASE-16 — Code Is Not Software — It Is Power
 
@@ -1009,8 +1009,8 @@ Version: 1.0
 - **Narrative Function:** Power thesis framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Code Is Not Software — It Is Power
+- **Engine Link:** Information
 
 ### 90. 01-PHRASE-17 — Digital Maya
 
@@ -1023,8 +1023,8 @@ Version: 1.0
 - **Narrative Function:** System abstraction framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Digital Maya
+- **Engine Link:** Information
 
 ### 93. 01-PHRASE-18 — The Counterattack
 
@@ -1037,8 +1037,8 @@ Version: 1.0
 - **Narrative Function:** Closing pivot framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Care
 
 ### 1. 01-PHRASE-01 — Where Story Becomes Fate
 
@@ -1051,8 +1051,8 @@ Version: 1.0
 - **Narrative Function:** Thesis framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Care
 
 ### 11. 01-CHAR-02 — Aunty Janice
 
@@ -1068,8 +1068,8 @@ Version: 1.0
 - **Narrative Function:** Contrast household systems and visibility
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Care
 
 ### 12. 01-PHRASE-03 — Queen of the Band
 
@@ -1082,8 +1082,8 @@ Version: 1.0
 - **Narrative Function:** Visibility and spectacle marker
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Care
 
 ### 15. 01-OBJ-02 — TRS-80 (and early home computing)
 
@@ -1097,8 +1097,8 @@ Version: 1.0
 - **Narrative Function:** Establish systems logic and legibility lesson
 - **Reuse Hook:** Chapter 01, callbacks in Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 30. 01-CONCEPT-02 — Billable Code as economic unit
 
@@ -1112,8 +1112,8 @@ Version: 1.0
 - **Narrative Function:** Establish the core economic mechanism of the book
 - **Reuse Hook:** Chapters 02-10
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 33. 01-CHAR-03 — Mama (maternal grandmother)
 
@@ -1128,8 +1128,8 @@ Version: 1.0
 - **Narrative Function:** Counterpoint to code-based identity
 - **Reuse Hook:** Chapters 02-04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 41. 01-PLACE-10 — Penn operating room
 
@@ -1143,8 +1143,8 @@ Version: 1.0
 - **Narrative Function:** Show the hospital as machine
 - **Reuse Hook:** Chapter 02 references
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 46. 01-PLACE-11 — Stanford pathology basements
 
@@ -1158,8 +1158,8 @@ Version: 1.0
 - **Narrative Function:** Show the constitution of medicine as code
 - **Reuse Hook:** Chapters 02-03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 47. 01-CONCEPT-07 — Clinical Pathology and Laboratory Medicine
 
@@ -1173,8 +1173,8 @@ Version: 1.0
 - **Narrative Function:** Code-infrastructure grounding
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 48. 01-CONCEPT-08 — LOINC
 
@@ -1187,8 +1187,8 @@ Version: 1.0
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 49. 01-CONCEPT-09 — RxNorm
 
@@ -1201,8 +1201,8 @@ Version: 1.0
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 50. 01-CONCEPT-10 — SNOMED CT
 
@@ -1215,8 +1215,8 @@ Version: 1.0
 - **Narrative Function:** Medical code infrastructure
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 54. 01-SYMBOL-02 — Pacemaker serial number missing at bedside
 
@@ -1230,8 +1230,8 @@ Version: 1.0
 - **Narrative Function:** Show how code outranks human need
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 56. 01-CONCEPT-12 — Coverage
 
@@ -1244,8 +1244,8 @@ Version: 1.0
 - **Narrative Function:** Compression step in Digital Maya sequence
 - **Reuse Hook:** Chapter 02
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 60. 01-PLACE-12 — Europe
 
@@ -1259,8 +1259,8 @@ Version: 1.0
 - **Narrative Function:** Curation contrast
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Care
 
 ### 76. 01-CONCEPT-19 — Algebra
 
@@ -1274,8 +1274,8 @@ Version: 1.0
 - **Narrative Function:** Non-European lineage proof
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Care
 
 ### 77. 01-CONCEPT-20 — Algorithm
 
@@ -1288,8 +1288,8 @@ Version: 1.0
 - **Narrative Function:** Systems inheritance proof
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 78. 01-CHAR-11 — al-Khwarizmi
 
@@ -1304,8 +1304,8 @@ Version: 1.0
 - **Narrative Function:** Non-European systems inheritance evidence
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 87. 01-CONCEPT-24 — Data science
 
@@ -1318,8 +1318,8 @@ Version: 1.0
 - **Narrative Function:** Systems prophecy analogy
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 88. 01-CONCEPT-25 — Prediction and pattern recognition
 
@@ -1332,8 +1332,8 @@ Version: 1.0
 - **Narrative Function:** Prophecy analogy
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 91. 01-CONCEPT-26 — Digital Maya
 
@@ -1347,8 +1347,8 @@ Version: 1.0
 - **Narrative Function:** Introduce the named concept and custody question
 - **Reuse Hook:** Mid-book callbacks and epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 92. 01-CONCEPT-27 — Maya (Hindu concept)
 
@@ -1362,8 +1362,8 @@ Version: 1.0
 - **Narrative Function:** Philosophical basis for Digital Maya
 - **Reuse Hook:** Chapter 04, Epilogue
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 94. 01-CHAR-12 — Aunty Betty
 
@@ -1379,8 +1379,8 @@ Version: 1.0
 - **Narrative Function:** Technology inflection point
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Care
 
 ### 95. 01-CONCEPT-28 — Seventh-day Adventism
 
@@ -1394,8 +1394,8 @@ Version: 1.0
 - **Narrative Function:** Cultural constraint and cadence
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Information
 
 ### 96. 01-CONCEPT-29 — Hinduism
 
@@ -1409,5 +1409,5 @@ Version: 1.0
 - **Narrative Function:** Philosophical anchor
 - **Reuse Hook:** Chapter 04
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Counterattack
+- **Engine Link:** Care

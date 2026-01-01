@@ -19,8 +19,8 @@ Version: 1.0
 - **Narrative Function:** Entry framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where the Money Goes
+- **Engine Link:** Care
 
 ### 35. 02-CHAR-07 — Warren Ewens
 
@@ -35,8 +35,8 @@ Version: 1.0
 - **Narrative Function:** Establish standards and accountability
 - **Reuse Hook:** Part II
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where the Money Goes
+- **Engine Link:** Care
 
 ### 5. 02-CONCEPT-02 — Dividends follow volume and legibility
 
@@ -50,8 +50,8 @@ Version: 1.0
 - **Narrative Function:** Explain why money flows upward
 - **Reuse Hook:** Chapter 03 and Part II
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Where the Money Goes
+- **Engine Link:** Information
 
 ### 6. 02-PHRASE-03 — Dividend One: Training the Eye to See Value
 
@@ -64,8 +64,8 @@ Version: 1.0
 - **Narrative Function:** Training and perception framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend One: Training the Eye to See Value
+- **Engine Link:** Information
 
 ### 7. 02-PLACE-01 — Penn MD/PhD Genomics and Computational Biology
 
@@ -79,8 +79,8 @@ Version: 1.0
 - **Narrative Function:** Origin point for volume logic
 - **Reuse Hook:** Chapter 01 callbacks
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend One: Training the Eye to See Value
+- **Engine Link:** Information
 
 ### 50. 02-ORG-05 — Children’s Hospital of Philadelphia (CHOP)
 
@@ -94,8 +94,8 @@ Version: 1.0
 - **Narrative Function:** Institutional scale reference
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend One: Training the Eye to See Value
+- **Engine Link:** Information
 
 ### 9. 02-ORG-02 — Perelman School of Medicine
 
@@ -108,8 +108,8 @@ Version: 1.0
 - **Narrative Function:** Institutional gravity anchor
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend One: Training the Eye to See Value
+- **Engine Link:** Information
 
 ### 85. 02-PLACE-09 — UCF decentralized imaging trial (NCT05384912)
 
@@ -123,8 +123,8 @@ Version: 1.0
 - **Narrative Function:** Show cost of representation
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend One: Training the Eye to See Value
+- **Engine Link:** Information
 
 ### 11. 02-HIST-01 — Human Genome Project
 
@@ -137,8 +137,8 @@ Version: 1.0
 - **Narrative Function:** Precision pipeline origin
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend One: Training the Eye to See Value
+- **Engine Link:** Information
 
 ### 12. 02-RIT-01 — Systems engineering study groups
 
@@ -151,8 +151,8 @@ Version: 1.0
 - **Narrative Function:** Show legibility as early dividend
 - **Reuse Hook:** Chapter 01 callbacks
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend One: Training the Eye to See Value
+- **Engine Link:** Information
 
 ### 33. 02-CHAR-05 — Motoo Kimura
 
@@ -167,8 +167,8 @@ Version: 1.0
 - **Narrative Function:** Ground volume logic in evolutionary math
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend One: Training the Eye to See Value
+- **Engine Link:** Information
 
 ### 34. 02-CHAR-06 — Maja Bucan
 
@@ -183,8 +183,8 @@ Version: 1.0
 - **Narrative Function:** Anchor abstraction in physical practice
 - **Reuse Hook:** Part II
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend One: Training the Eye to See Value
+- **Engine Link:** Information
 
 ### 15. 02-CONCEPT-03 — Evolutionary conservation
 
@@ -198,8 +198,8 @@ Version: 1.0
 - **Narrative Function:** Early pipeline mechanic
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend One: Training the Eye to See Value
+- **Engine Link:** Information
 
 ### 16. 02-PHRASE-04 — A Quick Inventory of the Jargon You’re About to See
 
@@ -212,8 +212,8 @@ Version: 1.0
 - **Narrative Function:** Jargon framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Quick Inventory of the Jargon You’re About to See
+- **Engine Link:** Care
 
 ### 17. 02-CONCEPT-04 — Genome
 
@@ -226,8 +226,8 @@ Version: 1.0
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Quick Inventory of the Jargon You’re About to See
+- **Engine Link:** Discovery
 
 ### 18. 02-CONCEPT-05 — Genomics
 
@@ -240,8 +240,8 @@ Version: 1.0
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Quick Inventory of the Jargon You’re About to See
+- **Engine Link:** Discovery
 
 ### 19. 02-CONCEPT-06 — Genotype
 
@@ -254,8 +254,8 @@ Version: 1.0
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Quick Inventory of the Jargon You’re About to See
+- **Engine Link:** Care
 
 ### 20. 02-CONCEPT-07 — Variant
 
@@ -268,8 +268,8 @@ Version: 1.0
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Quick Inventory of the Jargon You’re About to See
+- **Engine Link:** Care
 
 ### 21. 02-CONCEPT-08 — SNPs
 
@@ -282,8 +282,8 @@ Version: 1.0
 - **Narrative Function:** Volume logic detail
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Quick Inventory of the Jargon You’re About to See
+- **Engine Link:** Information
 
 ### 22. 02-CONCEPT-09 — Cohort
 
@@ -296,8 +296,8 @@ Version: 1.0
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Quick Inventory of the Jargon You’re About to See
+- **Engine Link:** Discovery
 
 ### 23. 02-CONCEPT-10 — Statistical power
 
@@ -310,8 +310,8 @@ Version: 1.0
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Quick Inventory of the Jargon You’re About to See
+- **Engine Link:** Care
 
 ### 24. 02-CONCEPT-11 — Bias (data)
 
@@ -325,8 +325,8 @@ Version: 1.0
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Quick Inventory of the Jargon You’re About to See
+- **Engine Link:** Information
 
 ### 25. 02-CONCEPT-12 — DNA letter
 
@@ -340,8 +340,8 @@ Version: 1.0
 - **Narrative Function:** Jargon primer
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** A Quick Inventory of the Jargon You’re About to See
+- **Engine Link:** Care
 
 ### 26. 02-PHRASE-05 — Dividend Two: Volume
 
@@ -354,8 +354,8 @@ Version: 1.0
 - **Narrative Function:** Volume dividend framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Care
 
 ### 27. 02-EVID-01 — Presynaptic neural gene conservation study
 
@@ -369,8 +369,8 @@ Version: 1.0
 - **Narrative Function:** Show early pipeline mechanics and dataset bias
 - **Reuse Hook:** Chapter 03 references
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Information
 
 ### 28. 02-EVID-02 — Autism cohorts (AGRE, Autism Genome Project)
 
@@ -384,8 +384,8 @@ Version: 1.0
 - **Narrative Function:** Establish representation gaps
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Information
 
 ### 29. 02-ORG-03 — Autism Genetics Resource Exchange
 
@@ -399,8 +399,8 @@ Version: 1.0
 - **Narrative Function:** Early pipeline volume source
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Information
 
 ### 30. 02-ORG-04 — Autism Genome Project
 
@@ -413,8 +413,8 @@ Version: 1.0
 - **Narrative Function:** Representation gap example
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Information
 
 ### 31. 02-EVID-03 — Pivot table ancestry check
 
@@ -428,8 +428,8 @@ Version: 1.0
 - **Narrative Function:** Reveal demographic collapse in data
 - **Reuse Hook:** Chapter 03 framing
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Information
 
 ### 38. 02-CHAR-09 — Brian Lara
 
@@ -444,8 +444,8 @@ Version: 1.0
 - **Narrative Function:** Anchor West Indies excellence and authorial lens
 - **Reuse Hook:** Part II
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Care
 
 ### 37. 02-RIT-02 — Australia vs West Indies Test cricket contrast
 
@@ -458,8 +458,8 @@ Version: 1.0
 - **Narrative Function:** Cultural translation for legibility and dominance
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Care
 
 ### 39. 02-CONCEPT-13 — Population genetics
 
@@ -472,8 +472,8 @@ Version: 1.0
 - **Narrative Function:** Method framing
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Discovery
 
 ### 40. 02-CONCEPT-14 — Neutral theory
 
@@ -487,8 +487,8 @@ Version: 1.0
 - **Narrative Function:** Volume logic foundation
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Care
 
 ### 41. 02-CONCEPT-15 — Excel
 
@@ -501,8 +501,8 @@ Version: 1.0
 - **Narrative Function:** Low-tech data audit tool
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Information
 
 ### 42. 02-CONCEPT-16 — Statistical noise
 
@@ -516,8 +516,8 @@ Version: 1.0
 - **Narrative Function:** Volume logic explanation
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Discovery
 
 ### 43. 02-CONCEPT-17 — Statistical signal
 
@@ -531,8 +531,8 @@ Version: 1.0
 - **Narrative Function:** Volume logic explanation
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Care
 
 ### 44. 02-OBJ-01 — Recruitment letters
 
@@ -545,8 +545,8 @@ Version: 1.0
 - **Narrative Function:** Consent and hope framing
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Two: Volume
+- **Engine Link:** Information
 
 ### 45. 02-PHRASE-06 — Dividend Three: The Basement Tree
 
@@ -559,8 +559,8 @@ Version: 1.0
 - **Narrative Function:** Ancestry-tree framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Three: The Basement Tree
+- **Engine Link:** Care
 
 ### 47. 02-CONCEPT-18 — African ancestry
 
@@ -574,8 +574,8 @@ Version: 1.0
 - **Narrative Function:** Representation gap framing
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Three: The Basement Tree
+- **Engine Link:** Information
 
 ### 48. 02-CONCEPT-19 — European ancestry
 
@@ -589,8 +589,8 @@ Version: 1.0
 - **Narrative Function:** Representation gap framing
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Three: The Basement Tree
+- **Engine Link:** Information
 
 ### 49. 02-PHRASE-07 — Dividend Four: The Cathedral at CHOP
 
@@ -603,8 +603,8 @@ Version: 1.0
 - **Narrative Function:** Institutional scale framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Four: The Cathedral at CHOP
+- **Engine Link:** Care
 
 ### 52. 02-PLACE-04 — West Philadelphia (CHOP across the street)
 
@@ -618,8 +618,8 @@ Version: 1.0
 - **Narrative Function:** Ground exclusion in geographic proximity
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Four: The Cathedral at CHOP
+- **Engine Link:** Information
 
 ### 54. 02-ORG-06 — NeuroFix Therapeutics
 
@@ -633,8 +633,8 @@ Version: 1.0
 - **Narrative Function:** Show dividend conversion from data to enterprise
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Four: The Cathedral at CHOP
+- **Engine Link:** Information
 
 ### 59. 02-FIG-01 — Figure 2.1 - From Data to Dividends pipeline
 
@@ -649,8 +649,8 @@ Version: 1.0
 - **Reuse Hook:** Chapter 03
 - **Notes:** Figure guidance — “How the Precision-Medicine Economy Extracts Value.” Single-page figure with four vertical layers: Data Generation (Patients, Biospecimens, Imaging, Genotypes); Translation Layer (Codes) (ICD/CPT, LOINC/SNOMED, Genotype arrays, Ancestry labels); Monetization Pipelines (Grants—NIH/R01s, Publications, Consortia—AGRE/CAG/GEO, Reimbursement, Venture-backed startups); Dividend Flow (Institutions, Vendors, Pharma, Insurers, AI companies). Side elements, visually faded/fragmented: Underrepresented populations; “Dropped for power”; “Statistically insignificant”; “Too costly to recruit.” Key insight: Value flows upward smoothly; representation leaks downward.
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Four: The Cathedral at CHOP
+- **Engine Link:** Information
 
 ### 60. 02-PHRASE-08 — Dividend Five: Stanford and the Rule That Governs Everything
 
@@ -663,8 +663,8 @@ Version: 1.0
 - **Narrative Function:** Code rule framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Five: Stanford and the Rule That Governs Everything
+- **Engine Link:** Information
 
 ### 62. 02-CONCEPT-24 — LOINC
 
@@ -677,8 +677,8 @@ Version: 1.0
 - **Narrative Function:** Infrastructure example for coded medicine
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Five: Stanford and the Rule That Governs Everything
+- **Engine Link:** Information
 
 ### 63. 02-CONCEPT-25 — SNOMED CT
 
@@ -692,8 +692,8 @@ Version: 1.0
 - **Narrative Function:** Infrastructure example for coded medicine
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Five: Stanford and the Rule That Governs Everything
+- **Engine Link:** Information
 
 ### 64. 02-CONCEPT-26 — ICD
 
@@ -706,8 +706,8 @@ Version: 1.0
 - **Narrative Function:** Infrastructure example for coded medicine
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Five: Stanford and the Rule That Governs Everything
+- **Engine Link:** Information
 
 ### 65. 02-CONCEPT-27 — CPT
 
@@ -720,8 +720,8 @@ Version: 1.0
 - **Narrative Function:** Infrastructure example for coded medicine
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Five: Stanford and the Rule That Governs Everything
+- **Engine Link:** Information
 
 ### 72. 02-PLACE-06 — Trinidad
 
@@ -735,8 +735,8 @@ Version: 1.0
 - **Narrative Function:** Market allocation contrast
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Five: Stanford and the Rule That Governs Everything
+- **Engine Link:** Care
 
 ### 73. 02-PLACE-07 — Silicon Valley
 
@@ -749,8 +749,8 @@ Version: 1.0
 - **Narrative Function:** Platform economy framing
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Five: Stanford and the Rule That Governs Everything
+- **Engine Link:** Information
 
 ### 78. 02-PHRASE-09 — Dividend Six: UCSF and the Liquidity of Open Data
 
@@ -763,8 +763,8 @@ Version: 1.0
 - **Narrative Function:** Open-data liquidity framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Six: UCSF and the Liquidity of Open Data
+- **Engine Link:** Information
 
 ### 83. 02-PHRASE-10 — Dividend Seven: UCF, COVID, and the Price of Representation
 
@@ -777,8 +777,8 @@ Version: 1.0
 - **Narrative Function:** Representation cost framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Seven: UCF, COVID, and the Price of Representation
+- **Engine Link:** Information
 
 ### 84. 02-ORG-09 — University of Central Florida
 
@@ -792,8 +792,8 @@ Version: 1.0
 - **Narrative Function:** Florida pipeline anchor
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Seven: UCF, COVID, and the Price of Representation
+- **Engine Link:** Information
 
 ### 87. 02-ECON-01 — Recruitment cost gap
 
@@ -807,8 +807,8 @@ Version: 1.0
 - **Narrative Function:** Quantify equity as priced scarcity
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Seven: UCF, COVID, and the Price of Representation
+- **Engine Link:** Information
 
 ### 88. 02-PHRASE-11 — Dividend Eight: The Insurance Engine
 
@@ -821,8 +821,8 @@ Version: 1.0
 - **Narrative Function:** Insurance incentive framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Eight: The Insurance Engine
+- **Engine Link:** Care
 
 ### 89. 02-POLICY-01 — Medicare Advantage
 
@@ -835,8 +835,8 @@ Version: 1.0
 - **Narrative Function:** Insurance dividend mechanism
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Dividend Eight: The Insurance Engine
+- **Engine Link:** Care
 
 ### 95. 02-PHRASE-12 — The Dividend Summary: How the Trillions Assemble
 
@@ -849,8 +849,8 @@ Version: 1.0
 - **Narrative Function:** Stacked arithmetic framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** The Dividend Summary: How the Trillions Assemble
+- **Engine Link:** Care
 
 ### 96. 02-PHRASE-13 — Exit Handoff: Why Chapter Three Must Be Deaths
 
@@ -863,8 +863,8 @@ Version: 1.0
 - **Narrative Function:** Handoff framing
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 2. 02-PHRASE-02 — Software is eating the world
 
@@ -877,8 +877,8 @@ Version: 1.0
 - **Narrative Function:** Infrastructure analogy
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 3. 02-CHAR-01 — Marc Andreessen
 
@@ -893,8 +893,8 @@ Version: 1.0
 - **Narrative Function:** Platform economy analogy
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 4. 02-CONCEPT-01 — Precision-medicine economy
 
@@ -908,8 +908,8 @@ Version: 1.0
 - **Narrative Function:** Core system definition
 - **Reuse Hook:** Across book
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 8. 02-ORG-01 — Penn Medicine
 
@@ -922,8 +922,8 @@ Version: 1.0
 - **Narrative Function:** Hospital-as-machine setting
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 10. 02-PLACE-02 — Philadelphia
 
@@ -936,8 +936,8 @@ Version: 1.0
 - **Narrative Function:** Institutional ecosystem framing
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 13. 02-CHAR-02 — Engineering cohort (Chinese students)
 
@@ -952,8 +952,8 @@ Version: 1.0
 - **Narrative Function:** Language-of-math contrast in training
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 14. 02-CHAR-03 — Engineering cohort peer (unnamed)
 
@@ -968,8 +968,8 @@ Version: 1.0
 - **Narrative Function:** Shared exit from engineering path
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Discovery
 
 ### 32. 02-CHAR-04 — Junhyong Kim
 
@@ -984,8 +984,8 @@ Version: 1.0
 - **Narrative Function:** Embody constraint-driven systems thinking
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 36. 02-CHAR-08 — Charles Darwin
 
@@ -1000,8 +1000,8 @@ Version: 1.0
 - **Narrative Function:** Cultural contrast for neutral theory
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 46. 02-EVID-04 — Ancestry caller and phylogenetic tree
 
@@ -1015,8 +1015,8 @@ Version: 1.0
 - **Narrative Function:** Confirm European-dominant datasets
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 51. 02-PLACE-03 — CHOP Center for Applied Genomics (CAG)
 
@@ -1030,8 +1030,8 @@ Version: 1.0
 - **Narrative Function:** Industrial scale of biased data
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 53. 02-CHAR-10 — Hakon Hakonarson
 
@@ -1046,8 +1046,8 @@ Version: 1.0
 - **Narrative Function:** Show industrialization of pediatric genomics
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Discovery
 
 ### 55. 02-CONCEPT-20 — Genotyping
 
@@ -1060,8 +1060,8 @@ Version: 1.0
 - **Narrative Function:** Volume engine
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 56. 02-CONCEPT-21 — Neuropsychiatry
 
@@ -1074,8 +1074,8 @@ Version: 1.0
 - **Narrative Function:** Precision-medicine use case
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 57. 02-CONCEPT-22 — Black
 
@@ -1088,8 +1088,8 @@ Version: 1.0
 - **Narrative Function:** Equity contrast
 - **Reuse Hook:** Part II
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 58. 02-CONCEPT-23 — White
 
@@ -1102,8 +1102,8 @@ Version: 1.0
 - **Narrative Function:** Equity contrast
 - **Reuse Hook:** Part II
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 61. 02-PLACE-05 — Stanford pathology and informatics
 
@@ -1117,8 +1117,8 @@ Version: 1.0
 - **Narrative Function:** Show reimbursement as engine
 - **Reuse Hook:** Chapter 01 callbacks
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 66. 02-CHAR-11 — Co-resident (unnamed)
 
@@ -1133,8 +1133,8 @@ Version: 1.0
 - **Narrative Function:** Talent utilization and system churn contrast
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 67. 02-ORG-07 — California Institute of Technology
 
@@ -1148,8 +1148,8 @@ Version: 1.0
 - **Narrative Function:** Technical pedigree marker
 - **Reuse Hook:** Chapter 02 only
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 68. 02-CHAR-12 — Ben Pinsky
 
@@ -1164,8 +1164,8 @@ Version: 1.0
 - **Narrative Function:** Show market allocation of attention
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 69. 02-CONCEPT-28 — Dengue
 
@@ -1178,8 +1178,8 @@ Version: 1.0
 - **Narrative Function:** Market allocation example
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 70. 02-CONCEPT-29 — Neglected tropical diseases
 
@@ -1192,8 +1192,8 @@ Version: 1.0
 - **Narrative Function:** Funding priority contrast
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 71. 02-ORG-08 — World Health Organization
 
@@ -1207,8 +1207,8 @@ Version: 1.0
 - **Narrative Function:** Global health framing
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 74. 02-CONCEPT-30 — Bitcoin
 
@@ -1221,8 +1221,8 @@ Version: 1.0
 - **Narrative Function:** Infrastructure shift marker
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 75. 02-CONCEPT-31 — Deep learning
 
@@ -1235,8 +1235,8 @@ Version: 1.0
 - **Narrative Function:** Infrastructure shift marker
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 76. 02-CONCEPT-32 — GPUs
 
@@ -1249,8 +1249,8 @@ Version: 1.0
 - **Narrative Function:** Infrastructure shift marker
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 77. 02-CHAR-13 — Atul Butte
 
@@ -1265,8 +1265,8 @@ Version: 1.0
 - **Narrative Function:** Signal the pivot from bedside to pipelines
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 79. 02-PLACE-08 — UCSF and public data platforms (GEO, STARGEO, CrADLe, BD2K)
 
@@ -1280,8 +1280,8 @@ Version: 1.0
 - **Narrative Function:** Show bias amplification at scale
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 80. 02-CONCEPT-33 — Liquidity as dividend
 
@@ -1295,8 +1295,8 @@ Version: 1.0
 - **Narrative Function:** Define the economic mechanism of reuse
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 81. 02-CONCEPT-34 — Open data
 
@@ -1309,8 +1309,8 @@ Version: 1.0
 - **Narrative Function:** Liquidity mechanism
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 82. 02-CONCEPT-35 — AI models
 
@@ -1324,8 +1324,8 @@ Version: 1.0
 - **Narrative Function:** Reuse dividend pathway
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 86. 02-HIST-02 — COVID-19
 
@@ -1338,8 +1338,8 @@ Version: 1.0
 - **Narrative Function:** Equity cost exposure
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Discovery
 
 ### 90. 02-EVID-05 — Medicare Advantage coding allegations (OIG/Reuters)
 
@@ -1352,8 +1352,8 @@ Version: 1.0
 - **Narrative Function:** Show insurance dividend mechanics
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 91. 02-ORG-10 — Office of Inspector General
 
@@ -1367,8 +1367,8 @@ Version: 1.0
 - **Narrative Function:** Oversight anchor
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 92. 02-ORG-11 — Reuters
 
@@ -1381,8 +1381,8 @@ Version: 1.0
 - **Narrative Function:** Public evidence conduit
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 93. 02-ORG-12 — UnitedHealth
 
@@ -1395,8 +1395,8 @@ Version: 1.0
 - **Narrative Function:** Insurance market exemplar
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
 
 ### 94. 02-CONCEPT-36 — System billing for invisibility
 
@@ -1410,8 +1410,8 @@ Version: 1.0
 - **Narrative Function:** Summarize dividend logic in one line
 - **Reuse Hook:** Chapter 03
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 97. 02-CONCEPT-37 — EHR integration
 
@@ -1425,8 +1425,8 @@ Version: 1.0
 - **Narrative Function:** Reuse pathway for data
 - **Reuse Hook:** Part III
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Information
 
 ### 98. 02-PLACE-10 — United States
 
@@ -1440,5 +1440,5 @@ Version: 1.0
 - **Narrative Function:** System scale framing
 - **Reuse Hook:** Across book
 
-- **Introduced In:** TBD
-- **Engine Link:** TBD
+- **Introduced In:** Exit Handoff: Why Chapter Three Must Be Deaths
+- **Engine Link:** Care
