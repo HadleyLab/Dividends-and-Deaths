@@ -1,52 +1,81 @@
+
 # Copilot Instructions for Dividends & Deaths
 
-## Project Structure & Workflow
-- **Three Pillars:**
-  - `docs/` — Governance, compliance, and conceptual definitions. Treat as the source of truth for rules, vocabulary, and structure.
-  - `assets/ledgers/` — Narrative Asset Ledgers. Every chapter must have a matching ledger, named with a two-digit prefix (e.g., `02_dividends.md`).
-  - `chapters/` — Prose drafts. Top-level files are current manuscripts; `first_drafts/` holds exploratory material.
+## System Overview
+This repository is a governed publication workspace for writing a nonfiction book as a system, not a stream of drafts. All work is governed by invariants, ledgers, and protocols. AI assists with consistency, compression, and enforcement, but does not supply meaning or authority.
 
-## Authoring & Publication Pipeline
-- **Start with Governance:**
-  - Read `docs/governance/chapter_blueprint.md` for the required workflow and naming conventions.
-  - Use `docs/governance/narrative_asset_compliance.md` and `docs/governance/book_spine.md` to check legal, ethical, and narrative alignment.
-  - Reference `docs/concepts/concept_vocabulary.md` for mandated terms and phrases.
-- **Asset-First Drafting:**
-  - Before writing or revising a chapter, create/update its ledger in `assets/ledgers/`.
-  - Each scene in a chapter must map to a logged asset; remove or relocate orphans.
-- **Compliance & Status:**
-  - Tag each chapter file with a status at the top: `Status: OUTLINE`, `Status: DRAFT`, `Status: STRUCTURE PASS`, or `Status: POLISH`.
-  - Use the checklist in `chapters/README.md` before elevating drafts.
+## Directory Structure & Authority
+- `book/` — Governance: invariants, spine, emotional arc, publication plan. **Overrides all other directories.**
+- `concepts/` — Canonical ontology: definitions, closed sets, and mandated phrases. **Overrides narrative when in conflict.**
+- `protocols/` — Execution: how work is done, including asset registration, chapter build, and compliance. **Overrides convenience.**
+- `chapters/` — Governed prose bundles: each chapter is a directory containing prose, ledger, scene map, and optional references. **Prose is not canonical unless compliant.**
+- `drafts/` — Ungoverned exploration. Nothing here is canonical.
 
-## Conventions & Patterns
-- **Naming:**
-  - Chapters and ledgers use two-digit prefixes (e.g., `01_the_billable_code.md`). Prologue is `00`.
-- **Scene Structure:**
-  - Open with the ledger's Core Thesis Asset or a mirror scene.
-  - Insert governance facts within 600 words of any vignette.
-  - Reuse at least one prior asset per chapter.
-- **Language:**
-  - Use mandated phrases from the concept vocabulary (e.g., "Dividends rise. Deaths fall.").
-  - Introduce jargon using the three-step rule: gentle entry, imagery, refresher.
-- **Tonal Guardrails:**
-  - After grief vignettes, close with a structural cause sentence.
-  - Maintain an observational, inevitable tone.
+## Authoring Workflow (Follow in Order)
+1. **Start with Governance:**
+   - Read `AUTHORING_PLAN.md` for lifecycle, roles, and invariants.
+   - Use `book/README_book.md` for governance rules and authority map.
+   - Reference `concepts/README_concepts.md` for canonical terms and definitions.
+   - Use `protocols/README_protocols.md` for execution steps and compliance checks.
+   - Use `chapters/README_chapters.md` for chapter bundle rules and status tags.
+2. **Ledger First:**
+   - All episodes, cases, and assets must be ledgered in `chapter_NN_ledger.md` before appearing in prose.
+   - Register assets globally in `chapters/global_ledger.md`.
+3. **Scene Mapping:**
+   - Every scene in `chapter_NN_scene.md` must map to asset IDs in the global ledger.
+   - Scene order must match prose headings.
+4. **Draft Prose:**
+   - Write `chapter_NN_prose.md` using only ledgered assets and canonical concepts.
+   - No unledgered material may appear in prose.
+5. **Compliance & Audit:**
+   - Run protocol checks before elevating draft status.
+   - Tag each chapter with one status: `Status: OUTLINE`, `Status: DRAFT`, `Status: STRUCTURE PASS`, or `Status: POLISH`.
+   - Use the checklist in `chapters/README_chapters.md` before advancing status.
 
-## Key Files & References
-- `docs/governance/chapter_blueprint.md` — Workflow and structure rules
-- `docs/governance/narrative_asset_compliance.md` — Compliance checklist
-- `docs/governance/book_spine.md` — Chapter-level narrative contract
-- `docs/concepts/concept_vocabulary.md` — Canonical terms
-- `assets/ledgers/` — Asset tracking per chapter
-- `chapters/README.md` — Status workflow and tagging
+## Conventions & Non-Negotiables
+- **Ledger precedes prose.**
+- **Governance overrides style.**
+- **Concepts override narrative.**
+- **Death is always a systems outcome, never a mystery.**
+- **Grief is permitted only after structure is explicit.**
+- **No mixing of governance, ledgers, and prose in the same file.**
 
-## Example: Adding a New Chapter
-1. Draft or update the ledger: `assets/ledgers/NN_chapter_name.md`
-2. Run compliance checks using governance docs
-3. Draft the chapter: `chapters/NN_chapter_name.md`, tagging status at the top
-4. Update `chapters/README.md` with progress
+## Chapter Bundle Structure
+Each chapter directory must contain:
+```
+NN_chapter_name/
+├── chapter_NN_prose.md   # reader-facing prose
+├── chapter_NN_ledger.md  # authoritative asset + failure map
+├── chapter_NN_scene.md   # scene-to-asset alignment
+└── references.bib        # optional
+```
+Only the directory carries the chapter stem; filenames use the chapter number only.
 
-**Do not mix governance, ledgers, and prose in the same file.**
+## Asset & Concept Rules
+- Every asset must have a canonical ID and be registered in the global ledger.
+- Concepts must be defined in `concepts/` and may not be redefined in prose.
+- If prose references material not present in the ledger or canon, it is wrong.
 
----
-For more, see the top-level and chapter `README.md` files. When in doubt, follow the Chapter Blueprint.
+## AI Role & Handoff
+- AI enforces structure, consistency, and compression.
+- AI does not invent lived experience, supply authority, or decide claims.
+- When requesting AI review, specify:
+  - Files in scope
+  - Goal (validation, transformation, audit)
+  - Constraints (non-negotiables)
+  - Required outputs (checklist or diff-ready edits)
+
+## Update Triggers
+Update these instructions when:
+- governance, canon, or protocol rules change
+- chapter bundle or asset rules change
+- status tags or workflow steps change
+
+## Quick Reference
+- `AUTHORING_PLAN.md` — Authoring lifecycle and rules
+- `book/README_book.md` — Governance invariants and authority map
+- `concepts/README_concepts.md` — Canonical ontology and closed sets
+- `protocols/README_protocols.md` — Execution rules and compliance
+- `chapters/README_chapters.md` — Chapter bundle and status workflow
+
+For details, always start with the root `README.md` and follow the production order. When in doubt, governance wins.
