@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Replaced AUTHORING_PLAN with AUTHORING_GUIDE and added QUICKSTART for narrative onboarding.
 - Productionized documentation structure across root and directory READMEs (links, authority order, update triggers).
 - Added canonical ledger stubs for Chapters 04-18.
 - Standardized chapter numbering and filenames (00-03).
