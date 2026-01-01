@@ -114,7 +114,7 @@ Her family was Hindu. In that world, sons might dream of becoming doctors; daugh
 
  
 
-At sixteen, she left Trinidad for England to train as a nurse. Imagine that: a teenage girl from a village of cane fields, dropped into the brick and fog of the NHS. She came home altered. She had a starched nurse’s uniform and memories she rarely spoke about, and somewhere along the way she had added a new first name: Pearl. “Surajee” was too foreign, too Indian for the British wards. “Pearl” was easier for everyone else’s tongue.
+At sixteen, she left Trinidad for England to train as a nurse. Imagine that: a teenage girl from a village of cane fields, dropped into the brick and fog of the NHS (National Health Service). She came home altered. She had a starched nurse’s uniform and memories she rarely spoke about, and somewhere along the way she had added a new first name: Pearl. “Surajee” was too foreign, too Indian for the British wards. “Pearl” was easier for everyone else’s tongue.
 
  
 
@@ -509,7 +509,7 @@ I became Chief of AI at the University of Central Florida’s medical school. On
 
  
 
-But data in Florida was fractured. UCF, HCA, AdventHealth, and others all had their own systems, their own politics, their own codes. Unlike California’s unified UC system or CHOP’s dominance over a region, Florida had no coherent data backbone.
+But data in Florida was fractured. The University of Central Florida (UCF), HCA, AdventHealth, and others all had their own systems, their own politics, their own codes. Unlike California’s unified UC system or CHOP’s dominance over a region, Florida had no coherent data backbone.
 
  
 

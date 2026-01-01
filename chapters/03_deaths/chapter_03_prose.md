@@ -89,7 +89,7 @@ When you place these conditions on top of each other, something startling emerge
 
 Asthma × pollution × poor access to specialty care × housing instability × hypertension × diabetes × lack of genomic testing = an entirely different disease trajectory.
 
-Yet the models used to predict risk—polygenic scores, machine-learning prognostics, EHR-based algorithms (built on electronic health records)—were built on the assumption of a single disease in a single body.
+Yet the models used to predict risk—polygenic scores (risk estimates built from many genetic variants), machine-learning prognostics, EHR-based algorithms (built on electronic health records)—were built on the assumption of a single disease in a single body.
 
 These models are only as good as their denominators. The denominator is the dataset the model sees. If the dataset excludes complexity, the model learns simplicity. If the dataset excludes the hardest cases, the model learns to expect easy ones. It is not the algorithm’s fault. It is the dataset’s shadow.
 
@@ -121,7 +121,7 @@ Pregnancy & Preterm Birth
 
 Black women face a 50% higher risk of preterm birth, even after controlling for income, insurance, and education [@taylor2020_preterm_birth].
 
-The human consequence is a newborn whose first days are spent in a NICU because the model never treated the mother as high risk.
+The human consequence is a newborn whose first days are spent in a neonatal intensive care unit (NICU) because the model never treated the mother as high risk.
 
 Kidney Disease
 
