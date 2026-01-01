@@ -123,6 +123,7 @@ This file is the authoritative vocabulary for the book’s core concepts, terms,
 - U.S. policy decisions that shaped how health data is collected, controlled, and monetized.
 - Use for chapters on data rights, provenance, or governance; keep framing structural, not partisan.
 - Anchor claims in specific laws (HIPAA, HITECH, 21st Century Cures Act).
+- Canonical phrase: Healthcare data law is Ma’at rendered operational.
 
 #### Circular Data Economy
 - A closed loop where data generates value that funds further extraction.
@@ -171,10 +172,12 @@ This file is the authoritative vocabulary for the book’s core concepts, terms,
 #### Ma’at (Egyptian Concept)
 - The ancient Egyptian principle of order, balance, truth, and rightful accounting.
 - In this book, it anchors the governance logic without spiritual framing.
+- Canonical phrase: Ma’at names order, balance, and accountable accounting.
 
 #### Digital Ma’at
 - Governance rendered operational: enforceable alignment between representation and consequence.
 - Structural accountability, not ethical sentiment.
+- Canonical phrase: Governance is Ma’at rendered operational.
 
 #### Māyā–Ma’at Asymmetry
 - Modern systems are optimized for Māyā (scalable representation) without Ma’at (accountable order).

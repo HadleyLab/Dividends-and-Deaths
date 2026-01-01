@@ -65,14 +65,9 @@ Admitted concepts:
 - `concept_redlining.md` — policy encoded in geography
 - `concept_maya_hindu.md` — philosophical anchor of representation illusion
 - `concept_dougla.md` — social category of Afro-Indo Caribbean identity
-
-Draft concepts (not yet admitted):
 - `concept_maat_egyptian.md` — philosophical anchor of order and balance
 - `concept_digital_maat.md` — governance rendered operational
 - `concept_healthcare_data_laws.md` — policy guardrails as mortality governance
-
-Do not treat draft concepts as authoritative in prose until admitted via
-`protocols/protocol_concept_admission.md`.
 
 ---
 

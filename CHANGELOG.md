@@ -13,3 +13,4 @@
 - Added first-person emotional beats in Prologue and Chapter 01 to reinforce voice.
 - Restored Chapter 02 markdown formatting after paste.
 - Canonized single-engine linking and scene/ledger alignment for Chapters 00-03.
+- Admitted Ma’at, Digital Ma’at, and Healthcare Data Laws as canonical concepts and added their vocabulary phrases.
