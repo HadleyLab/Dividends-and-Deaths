@@ -1,48 +1,52 @@
 # Dividends & Deaths — How to Write a Book as a System
 
-This repository is a **publication workspace**, not a draft folder.
+## Purpose
+Define the repository as a publication workspace for writing high‑stakes nonfiction via **symbiotic human computation**.
 
-It is a reference implementation for writing a high‑stakes nonfiction book using **symbiotic human computation**: a governed partnership between human judgment and AI‑assisted reasoning.
+## Scope
+Applies to all canonical writing, governance, concepts, protocols, and chapters in this repository.
 
-The goal is not speed.
-The goal is **coherence, accountability, and scale**.
+This repository is not a draft folder.
+
+## Related Documents
+- `AUTHORING_PLAN.md`
+- `book/README_BOOK.md`
+- `concepts/README_CONCEPTS.md`
+- `protocols/README_PROTOCOLS.md`
+- `chapters/README_CHAPTERS.md`
+- `drafts/README_DRAFTS.md`
 
 ---
 
 ## What This Is
 
-This repository defines a system for writing a book where:
+A writing system where:
 - lived experience does not collapse into memoir
 - theory does not drift into abstraction
 - emotion never outruns mechanism
 - death is treated as a systems outcome, not a mystery
 
-The system is designed so **meaning cannot drift**, even as drafts evolve.
+Meaning must not drift as drafts evolve.
 
 ---
 
 ## Core Method — Symbiotic Human Computation
 
-The book is written through two complementary human inputs:
+Two orthogonal inputs:
 
 ### 1. Lived Episodes & Cases
-The author supplies:
-- witnessed episodes (e.g., UCSF, Elena, Hyojung)
-- clinical or historical cases (e.g., Atul, father)
-- lived experience rendered directly in prose
-
-These provide **witness, consequence, and moral authority**.
+The author supplies witness:
+- lived episodes
+- clinical or historical cases
+- direct experience rendered in prose
 
 ### 2. Formal Concept Construction
-The author also constructs:
-- system‑level concepts (e.g., Geometry of Medicine)
+The author supplies structure:
+- system-level concepts (e.g., Geometry of Medicine)
 - structural models (engines, gears)
 - governance constructs (Digital Māyā, Ma’at)
 
-These provide **structure, constraint, and causal clarity**.
-
-These inputs are intentionally orthogonal.
-They are reconciled through **governance and ledgers**, not intuition.
+These inputs are reconciled through **governance and ledgers**, not intuition.
 
 AI is used to:
 - check consistency
@@ -66,29 +70,21 @@ Core invariants:
 - **Concepts precede reuse**
 - **Governance overrides style**
 
-This allows the manuscript to function as a **well‑oiled system** rather than a fragile document.
-
 ---
 
 ## Directory Guide
 
 ### `book/` — Governance
-Defines what must remain true across all drafts.
-- overview, spine, emotional arc, publication plan
-Read: `book/README_book.md`
+Book-level invariants and authority.
+Read: `book/README_BOOK.md`
 
 ### `concepts/` — Canon
-Defines what is allowed to exist and what terms mean.
-- engines, geometry, Digital Māyā, Ma’at, custody, dividends
-Read: `concepts/README_concepts.md`
+Canonical ontology and reusable definitions.
+Read: `concepts/README_CONCEPTS.md`
 
 ### `protocols/` — Execution
-Defines how work is done.
-- concept intake
-- narrative asset registration
-- chapter build
-- asset compliance
-Read: `protocols/README_protocols.md`
+How work is done and checked.
+Read: `protocols/README_PROTOCOLS.md`
 
 ### `chapters/` — Governed Prose
 Each chapter is a governed bundle:
@@ -98,53 +94,48 @@ NN_chapter_name/
 ├── chapter_NN_ledger.md
 └── chapter_NN_scene.md
 ```
-Only the directory carries the chapter stem; filenames use the chapter number only.
-Global asset index: `chapters/global_ledger.md`
-Global references (optional): `references.bib`
-Read: `chapters/README_chapters.md`
+Global asset index: `chapters/GLOBAL_LEDGER.md`
+Global references (optional): `chapters/GLOBAL_REFERENCES.bib`
+Read: `chapters/README_CHAPTERS.md`
 
 ### `drafts/` — Exploration
 Ungoverned working space. Nothing here is canonical.
-Read: `drafts/README_drafts.md`
+Read: `drafts/README_DRAFTS.md`
 
 ---
 
 ## Start Here (Production Order)
 
-1. `AUTHORING_PLAN.md` — end‑to‑end authoring lifecycle
-2. `book/README_book.md` — governance invariants and authority map
-3. `concepts/README_concepts.md` — canonical ontology and closed sets
-4. `protocols/README_protocols.md` — execution rules and checks
-5. `chapters/README_chapters.md` — governed output rules
+1. `AUTHORING_PLAN.md` — end-to-end authoring lifecycle
+2. `book/README_BOOK.md` — governance invariants and authority map
+3. `concepts/README_CONCEPTS.md` — canonical ontology and closed sets
+4. `protocols/README_PROTOCOLS.md` — execution rules and checks
+5. `chapters/README_CHAPTERS.md` — governed output rules
 
 ---
 
 ## Authoring Plan (Required Reading)
 
-All writing, ledgering, editing, and review assumes familiarity with:
+`AUTHORING_PLAN.md` explains:
+- where prose comes from
+- what ledgering produces
+- how chapter build differs from structural audit
+- how AI is used without replacing authorship
 
-- **`AUTHORING_PLAN.md`** — the authoritative manual describing:
-  - where prose comes from
-  - what ledgering produces
-  - how chapter build differs from structural audit
-  - how AI is used without replacing authorship
-
-If there is uncertainty about *what to do next*, start there.
+If you are unsure what to do next, start there.
 
 ---
 
 ## How to Write a Chapter (Minimal Recipe)
 
-This recipe assumes you are following `AUTHORING_PLAN.md`.
-
-1. Read `book/spine.md` → identify the chapter question, claim, and exit handoff.
-2. Update the chapter `chapter_NN_ledger.md` with all assets, concepts, and death references.
-3. Register episodes, people, and cases via `protocols/protocol_narrative_asset_registration.md`.
-4. Check constraints using `protocols/protocol_canon_compliance.md`.
-5. Draft `chapter_NN_prose.md` **from the ledger**, not from memory.
+1. Read `book/spine.md` for the chapter question, claim, and exit handoff.
+2. Build `chapter_NN_ledger.md` with all assets, concepts, and death references.
+3. Register assets via `protocols/protocol_asset_registration.md`.
+4. Check constraints with `protocols/protocol_canon_compliance.md`.
+5. Draft `chapter_NN_prose.md` **from the ledger**, not memory.
 6. Update `chapter_NN_scene.md` so every scene maps to asset IDs.
 
-If prose introduces material not present in the ledger, it is wrong.
+If prose introduces material not in the ledger, it is wrong.
 
 ---
 
@@ -154,14 +145,12 @@ AI is used to:
 - enforce consistency across files
 - surface contradictions
 - compress language and reduce redundancy
-- act as a second‑pass structural reader
+- act as a second-pass structural reader
 
 AI is **not** used to:
 - invent lived experience
 - supply moral authority
 - decide what the book claims
-
-This keeps representation (Digital Māyā) in balance with accountability (Ma’at).
 
 ---
 
@@ -174,11 +163,7 @@ This keeps representation (Digital Māyā) in balance with accountability (Ma’
 Episodes without governance become memoir.
 Concepts without episodes become abstraction.
 
-This repository exists to prevent both failures.
-
----
-
-## Non‑Negotiables
+## Non-Negotiables
 
 - Governance documents override prose.
 - Canonical concepts override narrative when conflicts arise.
@@ -186,3 +171,9 @@ This repository exists to prevent both failures.
 - Grief is permitted only after structure is explicit.
 
 If the system blocks progress, fix the input — do not bypass the system.
+
+## Update Triggers
+
+- when repository purpose or invariants change
+- when directory structure or canonical order changes
+- when the authoring plan changes

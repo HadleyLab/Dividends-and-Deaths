@@ -1,135 +1,75 @@
 # Canon Compliance Protocol
 
 ## Purpose
-Enforce the non-negotiable rules that govern naming, interiority, identity, and claims.  
-This protocol ensures that narrative authority never outruns structural accountability, especially where harm or death is referenced.
+Enforce the non-negotiable rules that govern naming, interiority, identity, and claims.
 
 ## Scope
 Applies to the Prologue and all chapters.
 
 ## Inputs
 - `book/spine.md`
-- `protocols/protocol_chapter_production.md`
 - `book/emotional_arc.md`
-- `protocols/protocol_narrative_asset_registration.md`
+- `protocols/protocol_chapter_production.md`
+- `protocols/protocol_asset_registration.md`
 
 ## Outputs
 - Chapters and ledgers that comply with the canon
 
 ## Procedure
 
-### Rule 0. Ordering (Required)
+### Rule 0 — Ordering (Required)
 - `chapter_NN_prose.md` headings define scene order.
-- `chapter_NN_scene.md` must follow chapter heading order.
-- `chapter_NN_ledger.md` entries must follow scene order.
+- `chapter_NN_scene.md` follows chapter heading order.
+- `chapter_NN_ledger.md` follows scene order.
 
-### Rule 1. Naming and Identity
-
+### Rule 1 — Naming and Identity
 - Only **one living, non–public-figure person may be named** in the entire book:
   - **Pearl Surajee** (the author’s mother)
 - All other living people must:
-  - Remain unnamed, or
-  - Be referred to by role, relationship, or function
+  - remain unnamed, or
+  - be referred to by role, relationship, or function
 - Deceased people may be named only if:
-  - They are family members, or
-  - They are public historical or scientific figures
-- Public figures (scientists, clinicians, historical actors) are treated as **public-role entities**, not as private individuals.
+  - they are family members, or
+  - they are public historical or scientific figures
+- Public figures are treated as **public-role entities**, not private individuals.
 
-**Rationale:**  
-Naming is power. This rule protects privacy, avoids unintended attribution, and keeps the narrative focused on systems rather than personalities.
+### Rule 2 — Interior-State Prohibition
+Do **not** describe or infer thoughts, beliefs, intentions, motives, or private emotions of anyone other than the author.
 
----
+Exceptions (limited):
+- Memory-framed interiority for *deceased* family members or *deceased* colleagues, grounded in:
+  - close physical scenes
+  - observable behavior
+  - spoken words
+- Clinical-circumstance framing for *living* family members when a documented diagnosis alters cognition, grounded in:
+  - observable behavior
+  - care context
+  - the author’s direct witness
+- Authorial attestation for *biological relatives (shared DNA)* based on direct lived experience and relational proximity.
+- Authorial attestation for *spouse/partner* grounded in direct conversation, shared decisions, or observed practice.
 
-### Rule 2. Interior-State Prohibition
+Always prefer actions, roles, context, outcomes, and structures.
 
-- Do **not** describe or infer:
-  - Thoughts
-  - Beliefs
-  - Intentions
-  - Motives
-  - Private emotions  
-  of any person other than the author.
-**Exceptions (limited):**
-- Memory-framed interiority for *deceased* family members or *deceased* colleagues  
-  - Must be grounded in:
-    - Close physical scenes
-    - Observable behavior
-    - Spoken words
-- Clinical-circumstance framing for *living* family members when a documented diagnosis alters cognition  
-  - Must be grounded in:
-    - Observable behavior
-    - Care context
-    - The author’s direct witness
-  - Avoid mind-reading; name the condition and describe what it does to memory, perception, or behavior as observed.
-- Authorial attestation for *biological relatives (shared DNA)*  
-  - The author may state interiority when based on direct lived experience and relational proximity.
-  - Do not generalize interior states to non-relatives or to groups.
-- Authorial attestation for *spouse/partner*  
-  - Permitted when grounded in direct conversation, shared decisions, or observed practice.
-  - Prefer reported speech or concrete scenes over abstract motives or predictions.
-- Always prefer:
-  - Actions
-  - Roles
-  - Context
-  - Outcomes
-  - Structures
-
-Interior restraint is especially critical in death-adjacent scenes. Emotion may be named only after the structural cause of harm is made legible.
-
-**Rationale:**  
-This book documents systems, not psychologies. Interior speculation weakens authority.
-
----
-
-### Rule 3. Cultural, Religious, and Identity Representation
-
-- Faith appears as:
-  - Environment
-  - Ritual
-  - Social rhythm
-  - Inherited structure
-- Faith does **not** appear as:
-  - Doctrine
-  - Argument
-  - Apologetics
+### Rule 3 — Cultural, Religious, and Identity Representation
+- Faith appears as environment, ritual, social rhythm, or inherited structure.
+- Faith does **not** appear as doctrine, argument, or apologetics.
 - Canonical coexisting faiths:
   - Hinduism
   - Seventh-day Adventism
   - Catholicism
   - Islam
-- Trinidadian culture is represented as:
-  - Coexistence without apology
-  - Layering rather than resolution
-  - Practice rather than explanation
-- Nationality or ethnicity may be named when it provides:
-  - Cultural translation for a scene
-  - Historical or institutional context
-  - Systemic legibility or exclusion framing
+- Trinidadian culture is represented as coexistence without apology, layering rather than resolution, and practice rather than explanation.
+- Nationality or ethnicity may be named only when it provides cultural translation, historical/institutional context, or systemic legibility.
 - Do not use parenthetical identity tags in prose; integrate identity as a clause.
-- Avoid stereotypes or generalized claims; anchor in observed setting or authorial context.
 - Any nationality/ethnicity named must be logged in the chapter ledger as part of the character asset.
 
-**Rationale:**  
-Faith is lived context, not thesis. Identity is context, not characterization.
+### Rule 4 — Language and Jargon
+- Technical jargon must be introduced gently, grounded in scene or imagery, and refreshed after long gaps.
+- Accuracy is **mandatory**. Density is **optional**.
 
----
+Rule of thumb: if a term cannot be explained to a lay reader without embarrassment, it does not belong.
 
-### Rule 4. Language and Jargon
-
-- All technical or academic jargon must:
-  - Be introduced gently
-  - Be grounded in concrete imagery or scene
-  - Be refreshed after long gaps
-- Accuracy is **mandatory**.
-- Density is **optional**.
-
-**Rule of thumb:**  
-If a term cannot be explained to a lay reader without embarrassment, it does not belong.
-
----
-
-### Rule 5. Narrative Asset Rules
-
+### Rule 5 — Narrative Asset Rules
 Every narrative asset must be logged in its chapter ledger using the canonical template.
 
 Each asset must include:
@@ -163,30 +103,20 @@ Canonical asset types:
 - Metaphor
 - Foreshadowing
 
-Assets that are not logged are considered non-canonical.
+Assets not logged are non-canonical.
 
----
-
-### Rule 6. Economic Claims
-
-- Quantified claims must be:
-  - Conservative
-  - Order-of-magnitude
-  - Anchored in widely cited public figures or structural logic
+### Rule 6 — Economic Claims
+- Quantified claims must be conservative, order-of-magnitude, and anchored in widely cited public figures or structural logic.
 - Avoid precise numbers unless sourced.
-- If a claim is not cited, keep it to rough orders of magnitude or clearly qualified ranges.
-- If a claim is cited, precise numbers may be used as long as they match the source.
+- If a claim is not cited, keep it to rough orders of magnitude or qualified ranges.
 - The core economic invariant of the book is fixed:
 
-> **Every layer of the system is reimbursed  
+> **Every layer of the system is reimbursed
 > except the patient who generates the value.**
 
 Any economic claim that implies harm or exclusion must be traceable to a specific engine failure.
 
----
-
-### Rule 7. Spine and Engine Alignment
-
+### Rule 7 — Spine and Engine Alignment
 Each chapter ledger must explicitly map:
 - Chapter Question
 - Chapter Claim
@@ -195,76 +125,39 @@ Each chapter ledger must explicitly map:
 
 Assets that do not serve one of these functions—or that cannot be mapped to an engine when harm is implied—must be removed or relocated.
 
----
+### Rule 8 — Authorial Posture
+The authorial voice must be observational, grounded, inevitable, and based on lived experience.
 
-### Rule 8. Authorial Posture
-
-The authorial voice must be:
-- Observational
-- Grounded
-- Inevitable
-- Based on lived experience
-
-Avoid:
-- Moralizing
-- Villain construction
-- Polemics
-- Treating death as accidental, mysterious, or inevitable without mechanism
+Avoid moralizing, villain construction, polemics, and treating death as accidental or mysterious without mechanism.
 
 The book critiques systems, not individuals.
 
----
-
-## Notes
-This protocol defines policy, not style.
-
-## Checks
-- Naming rules respected for living and public figures.
-- Interior-state prohibition observed outside allowed exceptions.
-- Character assets include Status and Cultural/National Context.
-- Economic claims framed conservatively and sourced.
-- All chapter assets appear in `chapters/global_ledger.md`.
-
-## 9. Forward Compatibility
-
-- Assets should be:
-  - Introduced early
-  - Reused later with new context
+### Rule 9 — Forward Compatibility
+- Assets should be introduced early and reused later with new context.
 - Avoid one-off assets when a reuse hook exists.
 - Assume future chapters will deepen, not repeat.
 
 ---
 
-## 10. Chapter Compliance Checklist
-
-Before a chapter is considered canonical, confirm:
-
+## Checks (Pass / Fail)
+- [ ] Ordering rule enforced
 - [ ] Living-person naming rule satisfied
-- [ ] No interior-state violations
+- [ ] Interior-state prohibition observed outside allowed exceptions
+- [ ] Cultural identity and faith rules observed
 - [ ] Jargon translated for lay readers
-- [ ] Faith treated as environment, not doctrine
-- [ ] Economic claims conservatively framed
+- [ ] Economic claims framed conservatively and sourced
 - [ ] All assets logged and reusable
 - [ ] Chapter aligns with spine and canon
-- [ ] Chapter assets registered in `chapters/global_ledger.md`
-- [ ] Every referenced death or disparity is traceable to a canonical engine failure
-
----
-
-## Canon Status
-
-This document is **binding**.
-
-Violations must be corrected before publication, revision, or reuse.
+- [ ] Chapter assets registered in `chapters/GLOBAL_LEDGER.md`
+- [ ] Every referenced death or disparity traceable to a canonical engine failure
 
 ## Notes
-- This protocol prioritizes enforceable constraints over stylistic guidance.
-- Use it as a pass/fail gate before any structural changes are accepted.
+This protocol defines policy, not style.
 
 ## Non-Negotiables
 - Living-person naming rule is enforced without exception.
 - Interior-state prohibitions are enforced without exception.
-- All assets referenced in prose must exist in `chapters/global_ledger.md`.
+- All assets referenced in prose must exist in `chapters/GLOBAL_LEDGER.md`.
 
 ## Update Triggers
 - When naming, identity, or interiority rules change.
