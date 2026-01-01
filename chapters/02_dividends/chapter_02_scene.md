@@ -1,38 +1,37 @@
 # Scene Map — 02 Dividends
 
-### Where the Money Goes
-- **Assets:** 02-PHRASE-01, 02-CHAR-07, 02-CONCEPT-02
+### **Where the Money Goes**
+- **Assets:** 02-PHRASE-01, 02-CHAR-07, 02-CONCEPT-02, 02-CONCEPT-38
 
-### Dividend One: Training the Eye to See Value
+### **Dividend One: Training the Eye to See Value**
 - **Assets:** 02-PHRASE-03, 02-PLACE-01, 02-ORG-05, 02-ORG-02, 02-PLACE-09, 02-HIST-01, 02-RIT-01, 02-CHAR-05, 02-CHAR-06, 02-CONCEPT-03
 
-### A Quick Inventory of the Jargon You’re About to See
+### **A Quick Inventory of the Jargon You’re About to See**
 - **Assets:** 02-PHRASE-04, 02-CONCEPT-04, 02-CONCEPT-05, 02-CONCEPT-06, 02-CONCEPT-07, 02-CONCEPT-08, 02-CONCEPT-09, 02-CONCEPT-10, 02-CONCEPT-11, 02-CONCEPT-12
 
-### Dividend Two: Volume
+### **Dividend Two: Volume**
 - **Assets:** 02-PHRASE-05, 02-EVID-01, 02-EVID-02, 02-ORG-03, 02-ORG-04, 02-EVID-03, 02-CHAR-09, 02-RIT-02, 02-CONCEPT-13, 02-CONCEPT-14, 02-CONCEPT-15, 02-CONCEPT-16, 02-CONCEPT-17, 02-OBJ-01
 
-### Dividend Three: The Basement Tree
+### **Dividend Three: The Basement Tree**
 - **Assets:** 02-PHRASE-06, 02-CONCEPT-18, 02-CONCEPT-19
 
-### Dividend Four: The Cathedral at CHOP
+### **Dividend Four: The Cathedral at CHOP**
 - **Assets:** 02-PHRASE-07, 02-PLACE-04, 02-ORG-06, 02-FIG-01
 
-### Dividend Five: Stanford and the Rule That Governs Everything
+### **Dividend Five: Stanford and the Rule That Governs Everything**
 - **Assets:** 02-PHRASE-08, 02-CONCEPT-24, 02-CONCEPT-25, 02-CONCEPT-26, 02-CONCEPT-27, 02-PLACE-06, 02-PLACE-07
 
-### Dividend Six: UCSF and the Liquidity of Open Data
+### **Dividend Six: UCSF and the Liquidity of Open Data**
 - **Assets:** 02-PHRASE-09
 
-### Dividend Seven: UCF, COVID, and the Price of Representation
+### **Dividend Seven: UCF, COVID, and the Price of Representation**
 - **Assets:** 02-PHRASE-10, 02-ORG-09, 02-ECON-01
 
-### Dividend Eight: The Insurance Engine
+### **Dividend Eight: The Insurance Engine**
 - **Assets:** 02-PHRASE-11, 02-POLICY-01
 
-### The Dividend Summary: How the Trillions Assemble
+### **The Dividend Summary: How the Trillions Assemble**
 - **Assets:** 02-PHRASE-12
 
-### Exit Handoff: Why Chapter Three Must Be Deaths
+### **Exit Handoff: Why Chapter Three Must Be Deaths**
 - **Assets:** 02-PHRASE-13, 02-PHRASE-02, 02-CHAR-01, 02-CONCEPT-01, 02-ORG-01, 02-PLACE-02, 02-CHAR-02, 02-CHAR-03, 02-CHAR-04, 02-CHAR-08, 02-EVID-04, 02-PLACE-03, 02-CHAR-10, 02-CONCEPT-20, 02-CONCEPT-21, 02-CONCEPT-22, 02-CONCEPT-23, 02-PLACE-05, 02-CHAR-11, 02-ORG-07, 02-CHAR-12, 02-CONCEPT-28, 02-CONCEPT-29, 02-ORG-08, 02-CONCEPT-30, 02-CONCEPT-31, 02-CONCEPT-32, 02-CHAR-13, 02-PLACE-08, 02-CONCEPT-33, 02-CONCEPT-34, 02-CONCEPT-35, 02-HIST-02, 02-EVID-05, 02-ORG-10, 02-ORG-11, 02-ORG-12, 02-CONCEPT-36, 02-CONCEPT-37, 02-PLACE-10
-

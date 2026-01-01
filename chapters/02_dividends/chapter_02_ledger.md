@@ -54,6 +54,21 @@ Version: 1.0
 - **Introduced In:** Where the Money Goes
 - **Engine Link:** Information
 
+### 99. 02-CONCEPT-38 — Extraction
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** extraction
+- **Cultural / Historical Context:** Value capture without custody
+- **Narrative Function:** Name the extractive logic driving the machine
+- **Reuse Hook:** Part II and Part III
+
+- **Introduced In:** Where the Money Goes
+- **Engine Link:** Information
+
 ### 6. 02-PHRASE-03 — Dividend One: Training the Eye to See Value
 
 

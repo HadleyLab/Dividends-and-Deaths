@@ -1335,6 +1335,21 @@ Version: 1.0
 - **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
+### 97. 01-CONCEPT-30 — Geometry of Medicine
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** geometry; Geometry of Medicine
+- **Cultural / Historical Context:** Representational space and boundary decisions in care
+- **Narrative Function:** Name the geometric operating surface behind Digital Māyā
+- **Reuse Hook:** Part III and Part IV
+
+- **Introduced In:** Code Is Not Software — It Is Power
+- **Engine Link:** Information
+
 ### 57. 01-CONCEPT-13 — Access
 
 

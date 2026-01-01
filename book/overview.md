@@ -67,6 +67,19 @@ How precision medicine became a multi-trillion-dollar economy: pharma pipelines,
 Chapter 3 - Deaths: Where the Burden Falls
 Breast cancer as proof that dividends flow upward while deaths fall downward. Mortality follows representation, not biology. Mortality is framed as the audit trail of geometric and engine failure.
 
+## Part I Concept Placement (Canonical)
+These placements translate the Part I chapter map into required concept usage.
+If a chapter’s ledger or prose does not reflect a listed concept, update the ledger first and align scenes before revising prose.
+
+Chapter 1 - The Billable Code
+- Required: `concept_billable_code.md`, `concept_legibility_vs_personhood.md`, `concept_digital_maya.md`, `concept_geometry_of_medicine.md`
+
+Chapter 2 - Dividends: Where the Money Goes
+- Required: `concept_precision_medicine_economy.md`, `concept_extraction.md`, `concept_system_billing_for_invisibility.md`
+
+Chapter 3 - Deaths: Where the Burden Falls
+- Required: `concept_mortality_as_ledger.md`, `concept_mortality_gap.md`, `concept_comorbidity.md`, `concept_underrepresentation_in_trials.md`, `concept_multiplicative_risk.md`, `concept_data_completeness.md`, `concept_social_determinants_of_health.md`
+
 ## PART II - EXTRACTION: FROM HeLa TO 23andMe
 Chapter 4 - Henrietta Lacks and the Immortal Dividend
 HeLa cells as the prototype of extraction without equity. Estimating the downstream economic value.

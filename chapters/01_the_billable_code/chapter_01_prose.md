@@ -512,6 +512,8 @@ If codes determine what becomes actionable…
 
 Who should own the illusion they create?
 
+In this book, that representational regime has a name: the Geometry of Medicine—people become coordinates, care becomes boundaries, and death becomes the only metric that proves whether the space was built truthfully.
+
 That question—about representation, perception, and power—is where *Digital Māyā* begins.
 
 ## **Digital Māyā**

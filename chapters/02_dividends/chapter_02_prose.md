@@ -22,6 +22,8 @@ Once data can be turned into money, money will build a machine to collect it—o
 
 That is the logic of the digital age: build once, scale endlessly, extract repeatedly. That’s why the great platforms—social networks, marketplaces, ad engines—are not “products.” They are pipes. You lay them down and the world’s value runs through them.
 
+That is Extraction: representation converted into profit without custody.
+
 Marc Andreessen gave the culture its phrase for this: software is eating the world.
 
 Healthcare is where that phrase stops being clever and starts being cruel, because healthcare is the one market where the buyer is in crisis, the stakes are bodily, and the timeline is short. It is commerce under duress. Under duress, the moral theory we like to cite—free choice, informed consumers, market discipline—does not behave like morality. It behaves like appetite.
@@ -64,7 +66,7 @@ And Penn also sits near another origin story—one that feels like a prophecy wh
 
 To a lay reader, “MD/PhD” can sound like a humble brag. Here is the plain translation: it’s a dual-degree track where you begin medical school, step out—sometimes for years—for full-time research training, then step back into the hospital to finish the doctor part. You learn two languages: the language of bodies and the language of evidence. You learn to move between bedside and bench without pretending they are the same world.
 
-In my case, I started in medicine, then spent two years in systems engineering before returning—like a prodigal son with better self-knowledge—to a new discipline: Genomics and Computational Biology, one of the earliest formal homes for people who wanted to speak both languages—medicine and machine.
+In my case, I started in medicine, then spent two years in systems engineering before returning—like a prodigal son with better self-knowledge—to a new discipline: Genomics and Computational Biology, one of the earliest formal homes for people learning to speak both languages—medicine and machine.
 
 That detour mattered. Systems engineering taught me something the hospital rarely teaches explicitly: systems don’t reward effort; they reward alignment. If you speak the system’s language, you move. If you don’t, you stall.
 
@@ -176,7 +178,7 @@ Noise doesn’t publish, doesn’t fund, doesn’t become product.
 
 So the machine narrows. We did what everyone did: dropped the outliers and carried on.
 
-Not because anyone wanted to erase anyone. Because the system rewarded the path of least statistical resistance.
+Not because of individual malice. Because the system rewarded the path of least statistical resistance.
 
 That was the dividend: coded volume that could produce effects. (See Figure 2.1.)
 
