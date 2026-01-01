@@ -13,7 +13,7 @@
 - **Assets:** 01-PHRASE-08, 01-HIST-01
 
 ### **My Mother’s Name Was a Code Too**
-- **Assets:** 01-CHAR-05, 01-PHRASE-09, 01-SYMBOL-03
+- **Assets:** 00-CHAR-15, 01-PHRASE-09, 01-SYMBOL-03
 
 ### **Penn and the Operating Room**
 - **Assets:** 01-PHRASE-10, 01-PLACE-16

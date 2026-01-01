@@ -294,7 +294,6 @@ Silent duplication is a protocol violation.
 | 01-PHRASE-07 | The First Code | Phrase | 01 | Information |  |  |
 | 01-PHRASE-08 | Mama’s Code Was a Story | Phrase | 01 | Information |  |  |
 | 01-HIST-01 | Red House fire of 1903 | Historical case | 01 | Information |  |  |
-| 01-CHAR-05 | Mother - Pearl Surajee | Character | 01 | Information | Living |  |
 | 01-PHRASE-09 | My Mother’s Name Was a Code Too | Phrase | 01 | Information |  |  |
 | 01-SYMBOL-03 | Hadley surname | Symbol | 01 | Information |  |  |
 | 01-PHRASE-10 | Penn and the Operating Room | Phrase | 01 | Care |  |  |

@@ -629,14 +629,14 @@ Version: 1.0
 - **Introduced In:** Mama’s Code Was a Story
 - **Engine Link:** Information
 
-### 43. 01-CHAR-05 — Mother - Pearl Surajee
+### 43. 00-CHAR-15 — Pearl Surajee
 
 
 
 
 
 - **Asset Type:** Character
-- **Aliases:** Surajee Ramdin; Polly; Pearl; Ramdin; Ramdeen; Ramdhan; Ramdan
+- **Aliases:** Mother; Surajee Ramdin; Polly; Pearl; Ramdin; Ramdeen; Ramdhan; Ramdan
 - **Status:** Living
 - **Cultural / National Identity:** Indo-Trinidadian, Hindu upbringing, later Seventh-day Adventist; Trinidadian
 - **Cultural / Historical Context:** Renaming and legibility in institutional systems
