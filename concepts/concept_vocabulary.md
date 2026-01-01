@@ -126,7 +126,7 @@ Reference this file whenever a core term appears in prose or a ledger.
 - Character assets must include Cultural/National Identity in ledgers; avoid parenthetical identity tags in prose.
 
 ### Phrases to Reuse Verbatim
-- “The billable code is the fundamental economic unit of American healthcare.”
+- “The Billable Code is the fundamental economic unit of American healthcare.”
 - “Dividends rise. Deaths fall.”
 - “Codes are not neutral.”
 - “Custody, not capability, is the core problem.”

@@ -24,7 +24,7 @@ If precision medicine were working as intended, this should be the disease where
 
 The reason is not a mystery. The pathway from screening to survival is long and fragile. It depends on early detection, follow-up imaging, pathology, staging, referrals, therapy, adherence. Each step is mediated by codes, coverage, and system capacity. Missing a step does not mean missing a number. It means missing a chance.
 
-This is not biology. This is architecture. The billable code is the fundamental economic unit of American healthcare. Codes are not neutral. The Billable Code makes care legible; when that legibility thins out, deaths accumulate. The code determines which histories are visible, which symptoms are reimbursable, which follow-ups are triggered. It is the operating grammar of clinical reality.
+This is not biology. This is architecture. The Billable Code is the fundamental economic unit of American healthcare. Codes are not neutral. The Billable Code makes care legible; when that legibility thins out, deaths accumulate. The code determines which histories are visible, which symptoms are reimbursable, which follow-ups are triggered. It is the operating grammar of clinical reality.
 
 That grammar does not treat everyone equally. It does not have to. It merely has to be consistent enough to render people billable. The system can function while the person beneath the code is fragmented, delayed, or misclassified. In an economy built on representation, the fidelity of the representation becomes the difference between life and death.
 
@@ -125,7 +125,7 @@ The human consequence is a newborn whose first days are spent in a neonatal inte
 
 Kidney Disease
 
-APOL1 variants dramatically increase chronic kidney disease (CKD) risk for African ancestry patients—variants that were unknown for decades simply because no one sequenced enough African ancestry genomes [@genovese2010_apol1_ckd].
+APOL1, a kidney-risk gene variant, dramatically increases chronic kidney disease (CKD) risk for African ancestry patients—variants that were unknown for decades simply because no one sequenced enough African ancestry genomes [@genovese2010_apol1_ckd].
 
 The human consequence is a delayed diagnosis for a risk that was always there.
 

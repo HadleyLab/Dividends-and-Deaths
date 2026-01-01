@@ -422,7 +422,7 @@ It hit me with a clarity I could not unsee:
 
  
 
-The billable code is the fundamental economic unit of American healthcare.
+The Billable Code is the fundamental economic unit of American healthcare.
 
  
 
@@ -755,7 +755,7 @@ I changed what I think a doctor’s job should be.
 
 In the chapters that follow, we will move from:
 
-- the billable code as the core unit of value,
+- the Billable Code as the core unit of value,
 - to the genomic consortia that scaled on Eurocentric data,
 - to the AI models that inherit those biases,
 - to the legal frameworks that already exist to protect patients but are rarely used,

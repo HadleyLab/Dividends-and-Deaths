@@ -58,7 +58,7 @@ By the time I entered the University of Pennsylvania’s MD/PhD program, biology
 
 Penn was the right place to feel that shift in your bones.
 
-This wasn’t just another campus with ivy on the walls. Penn carries a specific kind of American gravity. It doesn’t just teach medicine—it helped invent American medical education. The Perelman School of Medicine traces back to the mid‑18th century and is widely recognized as the first medical school in the United States.  ￼
+This wasn’t just another campus with ivy on the walls. Penn carries a specific kind of American gravity. It doesn’t just teach medicine—it helped invent American medical education. The Perelman School of Medicine traces back to the mid‑18th century and is widely recognized as the first medical school in the United States.
 
 And Penn also sits near another origin story—one that feels like a prophecy when you’re living a double life between biology and computation. Across the same city, within the same institutional ecosystem, the early architecture of modern computing was being forged—machines that turned human thought into symbols a device could process. You can feel it in Philadelphia if you know what you’re listening for: the hum of old ideas still powering new ones.
 
@@ -486,7 +486,7 @@ U.S. healthcare spending is in the trillions. That money does not move as a sing
 
 And when the economy becomes code-driven, whoever controls coding controls outcomes.
 
-By then I already knew the first rule from Chapter One: The billable code is the fundamental economic unit of American healthcare.
+By then I already knew the first rule from Chapter One: The Billable Code is the fundamental economic unit of American healthcare.
 
 This is where the dividends become grotesque.
 
@@ -514,7 +514,7 @@ Codes make care legible. Legibility creates volume. Volume creates credibility. 
 If you want readers to leave aghast, you don’t do it with outrage. You do it with arithmetic.
 
 Here is the dividend logic, stacked:
-1. Research volume dividend: tens of millions in cohort construction; billions in downstream grants, publications, and IP.
+1. Research volume dividend: tens of millions in cohort construction; billions in downstream grants, publications, and IP (intellectual property).
 2. Reimbursement dividend: coded care becomes billable care; billable care becomes standard care.
 3. Platform dividend: build the pipeline once; reuse endlessly (open data, EHR integration, AI models).
 4. Network-effect dividend: the "standard dataset" becomes the default truth (citations, canon, inertia).
