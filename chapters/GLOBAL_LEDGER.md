@@ -100,21 +100,21 @@ Silent duplication is a protocol violation.
 | 00-CHAR-01 | Father - Leonard Kempthorne | Character | 00 | Care | Deceased |  |
 | 00-CHAR-02 | Granny Veronica | Character | 00 | Information | Deceased |  |
 | 00-CHAR-03 | Aunty Betty | Character | 00 | Care | Deceased |  |
-| 00-CHAR-04 | Grandma Anita | Character | 00 | Care | Deceased |  |
+| 00-CHAR-10 | Grandma Anita | Character | 00 | Care | Deceased |  |
 | 00-PLACE-02 | Charlotteville, Tobago | Place | 00 | Care |  |  |
 | 00-PLACE-03 | Englishman's Bay | Place | 00 | Care |  |  |
-| 00-PLACE-04 | Caribbean Union College | Place | 00 | Information |  |  |
+| 00-PLACE-13 | Caribbean Union College | Place | 00 | Information |  |  |
 | 00-PHRASE-03 | The Rose from Gasparillo | Phrase | 00 | Care |  |  |
 | 00-ORG-01 | National Health Service (NHS) | Organization | 00 | Information |  |  |
-| 00-ORG-02 | Harvard University | Organization | 00 | Discovery |  |  |
-| 00-PLACE-05 | Andrews University | Place | 00 | Discovery |  |  |
-| 00-PLACE-06 | University of Pennsylvania | Place | 00 | Information |  |  |
+| 00-ORG-14 | Harvard University | Organization | 00 | Discovery |  |  |
+| 00-PLACE-04 | Andrews University | Place | 00 | Discovery |  |  |
+| 00-PLACE-14 | University of Pennsylvania | Place | 00 | Information |  |  |
 | 00-PHRASE-04 | Malta, Mangoes, and Mauby | Phrase | 00 | Care |  |  |
-| 00-CHAR-05 | Hakon Hakonarson | Character | 00 | Discovery | Public Figure |  |
-| 00-OBJ-02 | Precision medicine | Object | 00 | Care |  |  |
+| 00-CHAR-11 | Hakon Hakonarson | Character | 00 | Discovery | Public Figure |  |
+| 00-OBJ-03 | Precision medicine | Object | 00 | Care |  |  |
 | 00-RIT-01 | Malta bottle ritual | Ritual | 00 | Care |  |  |
-| 00-OBJ-03 | Mauby drink | Object | 00 | Care |  |  |
-| 00-OBJ-04 | IBM 286 clone | Object | 00 | Information |  |  |
+| 00-OBJ-09 | Mauby drink | Object | 00 | Care |  |  |
+| 00-OBJ-10 | IBM 286 clone | Object | 00 | Information |  |  |
 | 00-RIT-02 | Divali bamboo by the river | Ritual | 00 | Care |  |  |
 | 00-RIT-03 | Boxing Day | Ritual | 00 | Care |  |  |
 | 00-RIT-04 | Christmas | Ritual | 00 | Care |  |  |
@@ -124,94 +124,94 @@ Silent duplication is a protocol violation.
 | 00-HIST-02 | Red House fire of 1903 | Historical case | 00 | Information |  |  |
 | 00-SYMBOL-02 | Fatima naming lineage | Symbol | 00 | Care |  |  |
 | 00-SYMBOL-03 | Virgin Mary | Symbol | 00 | Information |  |  |
-| 00-PHRASE-05 | Universal men | Phrase | 00 | Care |  |  |
-| 00-PHRASE-06 | A Long Line of Universal Men | Phrase | 00 | Care |  |  |
+| 00-PHRASE-06 | Universal men | Phrase | 00 | Care |  |  |
+| 00-PHRASE-07 | A Long Line of Universal Men | Phrase | 00 | Care |  |  |
 | 00-ORG-03 | Commonwealth of Nations | Organization | 00 | Information |  |  |
-| 00-PHRASE-07 | Code and Calling | Phrase | 00 | Information |  |  |
+| 00-PHRASE-08 | Code and Calling | Phrase | 00 | Information |  |  |
 | 00-FORESHADOW-01 | Code before medicine | Foreshadowing | 00 | Information |  |  |
-| 00-OBJ-05 | Personalized medicine | Object | 00 | Information |  |  |
-| 00-PHRASE-08 | Migration and the Cost of Opportunity | Phrase | 00 | Care |  |  |
-| 00-PLACE-07 | Orlando, Florida | Place | 00 | Care |  |  |
-| 00-PLACE-08 | Spain | Place | 00 | Information |  |  |
-| 00-PLACE-09 | United States | Place | 00 | Care |  |  |
+| 00-OBJ-04 | Personalized medicine | Object | 00 | Information |  |  |
+| 00-PHRASE-09 | Migration and the Cost of Opportunity | Phrase | 00 | Care |  |  |
+| 00-PLACE-05 | Orlando, Florida | Place | 00 | Care |  |  |
+| 00-PLACE-15 | Spain | Place | 00 | Information |  |  |
+| 00-PLACE-16 | United States | Place | 00 | Care |  |  |
 | 00-HIST-03 | HIV epidemic | Historical case | 00 | Information |  |  |
-| 00-PHRASE-09 | Franklin’s University and the Promise of Precision | Phrase | 00 | Discovery |  |  |
-| 00-CHAR-06 | Benjamin Franklin | Character | 00 | Discovery | Public Figure |  |
+| 00-PHRASE-10 | Franklin’s University and the Promise of Precision | Phrase | 00 | Discovery |  |  |
+| 00-CHAR-12 | Benjamin Franklin | Character | 00 | Discovery | Public Figure |  |
 | 00-ORG-04 | Quakers (Religious Society of Friends) | Organization | 00 | Discovery |  |  |
-| 00-ORG-05 | Ivy League | Organization | 00 | Discovery |  |  |
-| 00-CHAR-07 | Wife (Spanish Moroccan) | Character | 00 | Discovery | Living |  |
+| 00-ORG-06 | Ivy League | Organization | 00 | Discovery |  |  |
+| 00-CHAR-04 | Wife (Spanish Moroccan) | Character | 00 | Discovery | Living |  |
 | 00-POLICY-01 | Precision Medicine Initiative | Policy | 00 | Discovery |  |  |
-| 00-ORG-06 | Children’s Hospital of Philadelphia (CHOP) | Organization | 00 | Information |  |  |
-| 00-PLACE-10 | West Philadelphia | Place | 00 | Discovery |  |  |
-| 00-ORG-07 | Genomics and Computational Biology | Organization | 00 | Information |  |  |
-| 00-PHRASE-10 | The Transitional Year and the Decision Not to Cut | Phrase | 00 | Care |  |  |
-| 00-ORG-08 | Hospital of the University of Pennsylvania | Organization | 00 | Discovery |  |  |
-| 00-OBJ-06 | CPT | Object | 00 | Information |  |  |
-| 00-PHRASE-11 | Stanford, Ontologies, and the Skeleton of the System | Phrase | 00 | Information |  |  |
-| 00-ORG-09 | Stanford University | Organization | 00 | Information |  |  |
-| 00-PHRASE-12 | UCSF, Eighty Million Lives, and the Profit of Failure | Phrase | 00 | Information |  |  |
-| 00-PLACE-11 | California | Place | 00 | Information |  |  |
+| 00-ORG-15 | Children’s Hospital of Philadelphia (CHOP) | Organization | 00 | Information |  |  |
+| 00-PLACE-17 | West Philadelphia | Place | 00 | Discovery |  |  |
+| 00-ORG-08 | Genomics and Computational Biology | Organization | 00 | Information |  |  |
+| 00-PHRASE-11 | The Transitional Year and the Decision Not to Cut | Phrase | 00 | Care |  |  |
+| 00-ORG-09 | Hospital of the University of Pennsylvania | Organization | 00 | Discovery |  |  |
+| 00-OBJ-15 | CPT | Object | 00 | Information |  |  |
+| 00-PHRASE-12 | Stanford, Ontologies, and the Skeleton of the System | Phrase | 00 | Information |  |  |
+| 00-ORG-16 | Stanford University | Organization | 00 | Information |  |  |
+| 00-PHRASE-13 | UCSF, Eighty Million Lives, and the Profit of Failure | Phrase | 00 | Information |  |  |
+| 00-PLACE-18 | California | Place | 00 | Information |  |  |
 | 00-ORG-10 | University of California health system | Organization | 00 | Information |  |  |
 | 00-EVID-01 | Gene Expression Omnibus | Evidence | 00 | Information |  |  |
-| 00-OBJ-07 | Urn and ashes at Englishman's Bay | Object | 00 | Information |  |  |
-| 00-ORG-11 | Clinical Pathology and Laboratory Medicine | Organization | 00 | Information |  |  |
-| 00-PHRASE-13 | Florida, DEI, and a Pacemaker Serial Number | Phrase | 00 | Care |  |  |
-| 00-ORG-12 | University of Central Florida | Organization | 00 | Discovery |  |  |
-| 00-POLICY-02 | Casey DeSantis Breast Cancer Research grant | Policy | 00 | Discovery |  |  |
-| 00-ORG-13 | Systems Medicine | Organization | 00 | Information |  |  |
-| 00-OBJ-08 | Polio vaccine | Object | 00 | Care |  |  |
-| 00-POLICY-03 | DEI | Policy | 00 | Information |  |  |
-| 00-HIST-04 | Dialysis | Historical case | 00 | Care |  |  |
-| 00-PLACE-12 | Nursing home | Place | 00 | Information |  |  |
-| 00-PHRASE-14 | Alzheimer’s, Culture, and COVID | Phrase | 00 | Care |  |  |
-| 00-PHRASE-15 | A Universal Future | Phrase | 00 | Care |  |  |
-| 00-CHAR-08 | Children (author’s) | Character | 00 | Care | Living |  |
+| 00-OBJ-16 | Urn and ashes at Englishman's Bay | Object | 00 | Information |  |  |
+| 00-ORG-12 | Clinical Pathology and Laboratory Medicine | Organization | 00 | Information |  |  |
+| 00-PHRASE-14 | Florida, DEI, and a Pacemaker Serial Number | Phrase | 00 | Care |  |  |
+| 00-ORG-17 | University of Central Florida | Organization | 00 | Discovery |  |  |
+| 00-POLICY-04 | Casey DeSantis Breast Cancer Research grant | Policy | 00 | Discovery |  |  |
+| 00-ORG-18 | Systems Medicine | Organization | 00 | Information |  |  |
+| 00-OBJ-07 | Polio vaccine | Object | 00 | Care |  |  |
+| 00-POLICY-02 | DEI | Policy | 00 | Information |  |  |
+| 00-HIST-05 | Dialysis | Historical case | 00 | Care |  |  |
+| 00-PLACE-19 | Nursing home | Place | 00 | Information |  |  |
+| 00-PHRASE-15 | Alzheimer’s, Culture, and COVID | Phrase | 00 | Care |  |  |
+| 00-PHRASE-16 | A Universal Future | Phrase | 00 | Care |  |  |
+| 00-CHAR-13 | Children (author’s) | Character | 00 | Care | Living |  |
 | 00-SYMBOL-04 | Spanish | Symbol | 00 | Care |  |  |
 | 00-SYMBOL-05 | Arabic | Symbol | 00 | Care |  |  |
 | 00-SYMBOL-06 | English | Symbol | 00 | Care |  |  |
-| 00-PHRASE-16 | Dividends & Deaths | Phrase | 00 | Care |  |  |
-| 00-CHAR-09 | Seventh-day Adventist pastor | Character | 00 | Care | Living |  |
+| 00-PHRASE-22 | Dividends & Deaths | Phrase | 00 | Care |  |  |
+| 00-CHAR-14 | Seventh-day Adventist pastor | Character | 00 | Care | Living |  |
 | 00-PHRASE-17 | Dividends and deaths frame | Phrase | 00 | Care |  |  |
 | 00-PHRASE-18 | Billable Code (named as currency) | Phrase | 00 | Information |  |  |
 | 00-PHRASE-19 | Prologue exit hook | Phrase | 00 | Care |  |  |
-| 00-CHAR-10 | Major Francis Hadley | Character | 00 | Care | Deceased |  |
-| 00-PLACE-13 | Trinidad and Tobago | Place | 00 | Care |  |  |
-| 00-CHAR-11 | Pearl Surajee | Character | 00 | Information | Living |  |
-| 00-ORG-14 | Seventh-day Adventist community hospital (Trinidad) | Organization | 00 | Information |  |  |
-| 00-PLACE-14 | Gasparillo, Trinidad | Place | 00 | Care |  |  |
-| 00-PLACE-15 | Michigan | Place | 00 | Discovery |  |  |
-| 00-CHAR-12 | Mama | Character | 00 | Care | Deceased |  |
-| 00-CHAR-13 | Grandpa Frank | Character | 00 | Care | Deceased |  |
-| 00-CHAR-14 | Brother (author’s) | Character | 00 | Care | Living |  |
-| 00-CONCEPT-01 | Dougla | Concept | 00 | Care |  |  |
-| 00-OBJ-09 | Oorni (Hindu headpiece) | Object | 00 | Information |  |  |
-| 00-PLACE-16 | St. James, Port of Spain | Place | 00 | Information |  |  |
-| 00-PLACE-17 | River Estate | Place | 00 | Discovery |  |  |
-| 00-PLACE-18 | Barataria | Place | 00 | Care |  |  |
-| 00-PLACE-19 | Fatima College | Place | 00 | Information |  |  |
+| 00-CHAR-06 | Major Francis Hadley | Character | 00 | Care | Deceased |  |
+| 00-PLACE-07 | Trinidad and Tobago | Place | 00 | Care |  |  |
+| 00-CHAR-15 | Pearl Surajee | Character | 00 | Information | Living |  |
+| 00-ORG-19 | Seventh-day Adventist community hospital (Trinidad) | Organization | 00 | Information |  |  |
+| 00-PLACE-20 | Gasparillo, Trinidad | Place | 00 | Care |  |  |
+| 00-PLACE-09 | Michigan | Place | 00 | Discovery |  |  |
+| 00-CHAR-05 | Mama | Character | 00 | Care | Deceased |  |
+| 00-CHAR-16 | Grandpa Frank | Character | 00 | Care | Deceased |  |
+| 00-CHAR-17 | Brother (author’s) | Character | 00 | Care | Living |  |
+| 00-PHRASE-17 | Dougla | Concept | 00 | Care |  |  |
+| 00-OBJ-22 | Oorni (Hindu headpiece) | Object | 00 | Information |  |  |
+| 00-PLACE-06 | St. James, Port of Spain | Place | 00 | Information |  |  |
+| 00-PLACE-10 | River Estate | Place | 00 | Discovery |  |  |
+| 00-PLACE-21 | Barataria | Place | 00 | Care |  |  |
+| 00-PLACE-11 | Fatima College | Place | 00 | Information |  |  |
 | 00-OBJ-10 | Tandy TRS-80 | Object | 00 | Information |  |  |
 | 00-OBJ-11 | BASIC | Object | 00 | Information |  |  |
 | 00-PHRASE-20 | Migration as cost | Phrase | 00 | Care |  |  |
-| 00-PLACE-20 | England | Place | 00 | Information |  |  |
-| 00-HIST-05 | Human Genome Project | Historical case | 00 | Discovery |  |  |
-| 00-CHAR-15 | Barack Obama | Character | 00 | Care | Public Figure |  |
-| 00-PLACE-21 | CHOP Center for Applied Genomics (CAG) | Place | 00 | Information |  |  |
-| 00-ORG-15 | NeuroFix Therapeutics | Organization | 00 | Care |  |  |
+| 00-PLACE-22 | England | Place | 00 | Information |  |  |
+| 00-HIST-08 | Human Genome Project | Historical case | 00 | Discovery |  |  |
+| 00-CHAR-18 | Barack Obama | Character | 00 | Care | Public Figure |  |
+| 00-PLACE-23 | CHOP Center for Applied Genomics (CAG) | Place | 00 | Information |  |  |
+| 00-ORG-20 | NeuroFix Therapeutics | Organization | 00 | Care |  |  |
 | 00-OBJ-12 | GWAS | Object | 00 | Discovery |  |  |
-| 00-CHAR-16 | Mark Musen | Character | 00 | Care | Public Figure |  |
+| 00-CHAR-07 | Mark Musen | Character | 00 | Care | Public Figure |  |
 | 00-OBJ-13 | SNOMED | Object | 00 | Information |  |  |
 | 00-OBJ-14 | ICD | Object | 00 | Information |  |  |
 | 00-HIST-06 | ADHD | Historical case | 00 | Care |  |  |
-| 00-CHAR-17 | Atul Butte | Character | 00 | Information | Public Figure |  |
-| 00-PLACE-22 | UCSF and Bakar Institute | Place | 00 | Information |  |  |
-| 00-ORG-16 | Bakar Institute for Computational Health Sciences | Organization | 00 | Information |  |  |
-| 00-CHAR-18 | Mark Zuckerberg | Character | 00 | Information | Public Figure |  |
+| 00-CHAR-08 | Atul Butte | Character | 00 | Information | Public Figure |  |
+| 00-PLACE-12 | UCSF and Bakar Institute | Place | 00 | Information |  |  |
+| 00-ORG-21 | Bakar Institute for Computational Health Sciences | Organization | 00 | Information |  |  |
+| 00-CHAR-09 | Mark Zuckerberg | Character | 00 | Information | Public Figure |  |
 | 00-OBJ-15 | FDG-PET scans | Object | 00 | Information |  |  |
 | 00-HIST-07 | Alzheimer’s disease | Historical case | 00 | Information |  |  |
 | 00-PHRASE-21 | Profit from failure | Phrase | 00 | Information |  |  |
-| 00-PLACE-23 | Florida and UCF | Place | 00 | Information |  |  |
-| 00-ORG-17 | HCA | Organization | 00 | Information |  |  |
-| 00-ORG-18 | AdventHealth | Organization | 00 | Information |  |  |
+| 00-PLACE-25 | Florida and UCF | Place | 00 | Information |  |  |
+| 00-ORG-02 | HCA | Organization | 00 | Information |  |  |
+| 00-ORG-22 | AdventHealth | Organization | 00 | Information |  |  |
 | 00-HIST-08 | COVID-19 | Historical case | 00 | Discovery |  |  |
 | 00-EVID-02 | NCT05384912 decentralized imaging trial | Evidence | 00 | Information |  |  |
 | 00-ORG-19 | Facebook | Organization | 00 | Information |  |  |
@@ -222,8 +222,8 @@ Silent duplication is a protocol violation.
 | 00-HIST-11 | End-stage kidney disease | Historical case | 00 | Information |  |  |
 | 00-OBJ-16 | Pacemaker serial number | Object | 00 | Information |  |  |
 | 00-SYMBOL-07 | Islam | Symbol | 00 | Information |  |  |
-| 00-CONCEPT-02 | Open Provenance Token System | Concept | 00 | Information |  |  |
-| 00-CONCEPT-03 | Equitable governance layer | Concept | 00 | Care |  |  |
+| 00-PHRASE-18 | Open Provenance Token System | Concept | 00 | Information |  |  |
+| 00-PHRASE-19 | Equitable governance layer | Concept | 00 | Care |  |  |
 | 00-CHAR-19 | Casey DeSantis | Character | 00 | Discovery | Public Figure |  |
 | 00-OBJ-17 | LOINC | Object | 00 | Information |  |  |
 | 00-SYMBOL-08 | Seventh-day Adventism | Symbol | 00 | Information |  |  |
@@ -237,7 +237,7 @@ Silent duplication is a protocol violation.
 | 00-OBJ-20 | DNA | Object | 00 | Care |  |  |
 | 00-HIST-12 | HIV | Historical case | 00 | Care |  |  |
 | 00-HIST-13 | HPV | Historical case | 00 | Care |  |  |
-| 00-PLACE-24 | ICU | Place | 00 | Care |  |  |
+| 00-PLACE-08 | ICU | Place | 00 | Care |  |  |
 | 00-SYMBOL-14 | Bollywood | Symbol | 00 | Care |  |  |
 | 00-SYMBOL-15 | Colonialism | Symbol | 00 | Care |  |  |
 | 00-SYMBOL-16 | God | Symbol | 00 | Information |  |  |
@@ -249,10 +249,10 @@ Silent duplication is a protocol violation.
 | 00-ORG-21 | National Institutes of Health (NIH) | Organization | 00 | Information |  |  |
 | 00-ORG-22 | Office of the First Lady of Florida | Organization | 00 | Discovery |  |  |
 | 00-PHRASE-22 | Devanand | Phrase | 00 | Care |  |  |
-| 00-PLACE-25 | Stanford pathology residency | Place | 00 | Information |  |  |
+| 00-PLACE-26 | Stanford pathology residency | Place | 00 | Information |  |  |
 | 00-PLACE-26 | Latin America | Place | 00 | Information |  |  |
 | 00-RIT-08 | Faith coexistence | Ritual | 00 | Information |  |  |
-| 01-PHRASE-01 | Big Apple of Trinidad | Phrase | 01 | Care |  |  |
+| 01-PHRASE-02 | Big Apple of Trinidad | Phrase | 01 | Care |  |  |
 | 01-PLACE-01 | St. James, Trinidad (Agra Street) | Place | 01 | Care |  |  |
 | 01-PLACE-02 | Agra, India | Place | 01 | Care |  |  |
 | 01-PLACE-03 | Taj Mahal | Place | 01 | Care |  |  |
@@ -262,107 +262,107 @@ Silent duplication is a protocol violation.
 | 01-RIT-01 | Carnival and Ash Wednesday | Ritual | 01 | Information |  |  |
 | 01-RIT-02 | Sabbath worship and Lord’s Prayer | Ritual | 01 | Information |  |  |
 | 01-OBJ-01 | VCR and cassette-era media | Object | 01 | Care |  |  |
-| 01-OBJ-02 | Bottle rockets and rum factory caps | Object | 01 | Care |  |  |
-| 01-OBJ-03 | IBM 286 clone | Object | 01 | Information |  |  |
-| 01-OBJ-04 | Nintendo console | Object | 01 | Information |  |  |
-| 01-OBJ-05 | Nintendo games (Mario, Zelda) | Object | 01 | Care |  |  |
-| 01-OBJ-06 | James Bond films | Object | 01 | Care |  |  |
-| 01-OBJ-07 | Bruce Lee films | Object | 01 | Care |  |  |
-| 01-OBJ-08 | Microsoft Flight Simulator | Object | 01 | Care |  |  |
-| 01-OBJ-09 | Hercules monochrome graphics | Object | 01 | Information |  |  |
+| 01-OBJ-10 | Bottle rockets and rum factory caps | Object | 01 | Care |  |  |
+| 01-OBJ-02 | IBM 286 clone | Object | 01 | Information |  |  |
+| 01-OBJ-03 | Nintendo console | Object | 01 | Information |  |  |
+| 01-OBJ-04 | Nintendo games (Mario, Zelda) | Object | 01 | Care |  |  |
+| 01-OBJ-05 | James Bond films | Object | 01 | Care |  |  |
+| 01-OBJ-06 | Bruce Lee films | Object | 01 | Care |  |  |
+| 01-OBJ-07 | Microsoft Flight Simulator | Object | 01 | Care |  |  |
+| 01-OBJ-08 | Hercules monochrome graphics | Object | 01 | Information |  |  |
 | 01-PLACE-07 | Maracas Beach | Place | 01 | Care |  |  |
 | 01-PLACE-08 | Canada | Place | 01 | Care |  |  |
 | 01-PLACE-09 | United States | Place | 01 | Care |  |  |
 | 01-CONCEPT-01 | Legibility vs personhood | Concept | 01 | Information |  |  |
-| 01-CHAR-01 | Father - Leonard Kempthorne | Character | 01 | Information | Deceased |  |
-| 01-PLACE-10 | Rome | Place | 01 | Care |  |  |
-| 01-PLACE-11 | India | Place | 01 | Care |  |  |
-| 01-PLACE-12 | Africa | Place | 01 | Care |  |  |
-| 01-PHRASE-02 | Where Story Becomes Fate | Phrase | 01 | Care |  |  |
+| 01-CHAR-04 | Father - Leonard Kempthorne | Character | 01 | Information | Deceased |  |
+| 01-PLACE-14 | Rome | Place | 01 | Care |  |  |
+| 01-PLACE-15 | India | Place | 01 | Care |  |  |
+| 01-PLACE-13 | Africa | Place | 01 | Care |  |  |
+| 01-PHRASE-01 | Where Story Becomes Fate | Phrase | 01 | Care |  |  |
 | 01-CHAR-02 | Aunty Janice | Character | 01 | Care | Deceased |  |
 | 01-PHRASE-03 | Queen of the Band | Phrase | 01 | Care |  |  |
-| 01-OBJ-10 | TRS-80 (and early home computing) | Object | 01 | Information |  |  |
-| 01-PHRASE-04 | Billable Code as economic unit | Phrase | 01 | Information |  |  |
-| 01-PLACE-13 | Europe | Place | 01 | Care |  |  |
-| 01-CHAR-03 | Aunty Betty | Character | 01 | Care | Deceased |  |
-| 01-SYMBOL-01 | Seventh-day Adventism | Symbol | 01 | Information |  |  |
-| 01-CHAR-04 | Neighborhood friend (unnamed) | Character | 01 | Care | Living |  |
-| 01-PHRASE-05 | Why We Have Codes at All | Phrase | 01 | Information |  |  |
+| 01-OBJ-09 | TRS-80 (and early home computing) | Object | 01 | Information |  |  |
+| 01-PHRASE-05 | Billable Code as economic unit | Phrase | 01 | Information |  |  |
+| 01-PLACE-10 | Europe | Place | 01 | Care |  |  |
+| 01-CHAR-12 | Aunty Betty | Character | 01 | Care | Deceased |  |
+| 01-SYMBOL-02 | Seventh-day Adventism | Symbol | 01 | Information |  |  |
+| 01-CHAR-01 | Neighborhood friend (unnamed) | Character | 01 | Care | Living |  |
+| 01-PHRASE-06 | Why We Have Codes at All | Phrase | 01 | Information |  |  |
 | 01-ECON-01 | Insurance engine | Economic | 01 | Information |  |  |
-| 01-CONCEPT-02 | Precision Medicine Economy | Concept | 01 | Care |  |  |
+| 01-PHRASE-04 | Precision Medicine Economy | Concept | 01 | Care |  |  |
 | 01-CONCEPT-03 | Date of birth as primary key | Concept | 01 | Information |  |  |
-| 01-PHRASE-06 | The First Code | Phrase | 01 | Information |  |  |
-| 01-PHRASE-07 | Mama’s Code Was a Story | Phrase | 01 | Information |  |  |
+| 01-PHRASE-07 | The First Code | Phrase | 01 | Information |  |  |
+| 01-PHRASE-08 | Mama’s Code Was a Story | Phrase | 01 | Information |  |  |
 | 01-HIST-01 | Red House fire of 1903 | Historical case | 01 | Information |  |  |
 | 01-CHAR-05 | Mother - Pearl Surajee | Character | 01 | Information | Living |  |
-| 01-PHRASE-08 | My Mother’s Name Was a Code Too | Phrase | 01 | Information |  |  |
-| 01-SYMBOL-02 | Hadley surname | Symbol | 01 | Information |  |  |
-| 01-PHRASE-09 | Penn and the Operating Room | Phrase | 01 | Care |  |  |
-| 01-PLACE-14 | Penn operating room | Place | 01 | Information |  |  |
+| 01-PHRASE-09 | My Mother’s Name Was a Code Too | Phrase | 01 | Information |  |  |
+| 01-SYMBOL-03 | Hadley surname | Symbol | 01 | Information |  |  |
+| 01-PHRASE-10 | Penn and the Operating Room | Phrase | 01 | Care |  |  |
+| 01-PLACE-16 | Penn operating room | Place | 01 | Information |  |  |
 | 01-OBJ-11 | Surgery | Object | 01 | Care |  |  |
 | 01-OBJ-12 | ICD | Object | 01 | Information |  |  |
 | 01-OBJ-13 | CPT | Object | 01 | Information |  |  |
-| 01-PHRASE-10 | Stanford, the Basement, and the Constitution of Medicine | Phrase | 01 | Information |  |  |
+| 01-PHRASE-11 | Stanford, the Basement, and the Constitution of Medicine | Phrase | 01 | Information |  |  |
 | 01-OBJ-14 | UMLS (Unified Medical Language System) | Object | 01 | Information |  |  |
 | 01-CHAR-06 | Mark Musen | Character | 01 | Information | Public Figure |  |
-| 01-PLACE-15 | Stanford pathology basements | Place | 01 | Information |  |  |
+| 01-PLACE-17 | Stanford pathology basements | Place | 01 | Information |  |  |
 | 01-ORG-01 | Clinical Pathology and Laboratory Medicine | Organization | 01 | Information |  |  |
 | 01-OBJ-15 | LOINC | Object | 01 | Information |  |  |
 | 01-OBJ-16 | RxNorm | Object | 01 | Information |  |  |
 | 01-OBJ-17 | SNOMED CT | Object | 01 | Information |  |  |
-| 01-PHRASE-11 | When Story Became Fate | Phrase | 01 | Care |  |  |
-| 01-PHRASE-12 | The Insurance Engine | Phrase | 01 | Care |  |  |
+| 01-PHRASE-12 | When Story Became Fate | Phrase | 01 | Care |  |  |
+| 01-PHRASE-13 | The Insurance Engine | Phrase | 01 | Care |  |  |
 | 01-SYMBOL-03 | Pacemaker serial number missing at bedside | Symbol | 01 | Information |  |  |
-| 01-PHRASE-13 | Europe, Curation, and the Long Memory of Power | Phrase | 01 | Care |  |  |
-| 01-PLACE-16 | Vatican | Place | 01 | Care |  |  |
-| 01-PLACE-17 | Sistine Chapel | Place | 01 | Care |  |  |
+| 01-PHRASE-14 | Europe, Curation, and the Long Memory of Power | Phrase | 01 | Care |  |  |
+| 01-PLACE-11 | Vatican | Place | 01 | Care |  |  |
+| 01-PLACE-18 | Sistine Chapel | Place | 01 | Care |  |  |
 | 01-CHAR-07 | Michelangelo | Character | 01 | Care | Public Figure |  |
-| 01-CHAR-08 | Raphael | Character | 01 | Care | Public Figure |  |
+| 01-CHAR-09 | Raphael | Character | 01 | Care | Public Figure |  |
 | 01-SYMBOL-04 | Western civilization | Symbol | 01 | Care |  |  |
 | 01-SYMBOL-05 | Renaissance | Symbol | 01 | Information |  |  |
-| 01-CHAR-09 | Leonardo da Vinci | Character | 01 | Care | Public Figure |  |
+| 01-CHAR-08 | Leonardo da Vinci | Character | 01 | Care | Public Figure |  |
 | 01-CHAR-10 | Wife (Spanish Moroccan) | Character | 01 | Information | Living |  |
-| 01-PLACE-18 | Arab world | Place | 01 | Information |  |  |
-| 01-PHRASE-14 | Zero, Algebra, and the Systems Europe Inherited | Phrase | 01 | Care |  |  |
+| 01-PLACE-12 | Arab world | Place | 01 | Information |  |  |
+| 01-PHRASE-15 | Zero, Algebra, and the Systems Europe Inherited | Phrase | 01 | Care |  |  |
 | 01-OBJ-18 | Zero | Object | 01 | Care |  |  |
 | 01-OBJ-19 | Binary | Object | 01 | Care |  |  |
 | 01-OBJ-20 | Algebra | Object | 01 | Care |  |  |
 | 01-OBJ-21 | Algorithm | Object | 01 | Information |  |  |
 | 01-CHAR-11 | al-Khwarizmi | Character | 01 | Information | Public Figure |  |
-| 01-PHRASE-15 | The Moors, and the Proof of a Larger Lineage | Phrase | 01 | Care |  |  |
+| 01-PHRASE-16 | The Moors, and the Proof of a Larger Lineage | Phrase | 01 | Care |  |  |
 | 01-SYMBOL-06 | Moorish lineage | Symbol | 01 | Information |  |  |
 | 01-SYMBOL-07 | Islam | Symbol | 01 | Care |  |  |
 | 01-PLACE-19 | Al-Andalus (Islamic Spain) | Place | 01 | Information |  |  |
 | 01-PLACE-20 | Alhambra | Place | 01 | Information |  |  |
 | 01-PLACE-21 | Morocco | Place | 01 | Care |  |  |
-| 01-PHRASE-16 | Names as Prophecy | Phrase | 01 | Care |  |  |
+| 01-PHRASE-17 | Names as Prophecy | Phrase | 01 | Care |  |  |
 | 01-SYMBOL-08 | Prophets of Islam | Symbol | 01 | Care |  |  |
 | 01-OBJ-22 | Data science | Object | 01 | Information |  |  |
-| 01-PHRASE-17 | Code Is Not Software — It Is Power | Phrase | 01 | Information |  |  |
-| 01-PHRASE-18 | Digital Māyā | Phrase | 01 | Information |  |  |
-| 01-CONCEPT-04 | Digital Maya | Concept | 01 | Information |  |  |
-| 01-CONCEPT-05 | Maya (Hindu concept) | Concept | 01 | Information |  |  |
-| 01-CONCEPT-06 | Geometry of Medicine | Concept | 01 | Information |  |  |
-| 01-CONCEPT-07 | Access | Concept | 01 | Information |  |  |
-| 01-CONCEPT-08 | Coverage | Concept | 01 | Information |  |  |
+| 01-PHRASE-18 | Code Is Not Software — It Is Power | Phrase | 01 | Information |  |  |
+| 01-PHRASE-19 | Digital Māyā | Phrase | 01 | Information |  |  |
+| 01-OBJ-11 | Digital Maya | Concept | 01 | Information |  |  |
+| 01-OBJ-12 | Maya (Hindu concept) | Concept | 01 | Information |  |  |
+| 01-OBJ-13 | Geometry of Medicine | Concept | 01 | Information |  |  |
+| 01-ORG-01 | Access | Concept | 01 | Information |  |  |
+| 01-OBJ-15 | Coverage | Concept | 01 | Information |  |  |
 | 01-SYMBOL-09 | Hinduism | Symbol | 01 | Care |  |  |
 | 01-PHRASE-19 | The Counterattack | Phrase | 01 | Care |  |  |
-| 01-CHAR-12 | Mama (maternal grandmother) | Character | 01 | Information | Deceased |  |
+| 01-CHAR-03 | Mama (maternal grandmother) | Character | 01 | Information | Deceased |  |
 | 01-OBJ-23 | Prediction and pattern recognition | Object | 01 | Information |  |  |
 | 02-PHRASE-01 | Where the Money Goes | Phrase | 02 | Care |  |  |
-| 02-CHAR-01 | Warren Ewens | Character | 02 | Care | Public Figure |  |
-| 02-PHRASE-02 | Dividends follow volume and legibility | Phrase | 02 | Information |  |  |
-| 02-CONCEPT-01 | Extraction | Concept | 02 | Information |  |  |
+| 02-CHAR-05 | Warren Ewens | Character | 02 | Care | Public Figure |  |
+| 02-PHRASE-14 | Dividends follow volume and legibility | Phrase | 02 | Information |  |  |
+| 02-OBJ-21 | Extraction | Concept | 02 | Information |  |  |
 | 02-PHRASE-03 | Dividend One: Training the Eye to See Value | Phrase | 02 | Information |  |  |
 | 02-PLACE-01 | Penn MD/PhD Genomics and Computational Biology | Place | 02 | Information |  |  |
-| 02-ORG-01 | Children’s Hospital of Philadelphia (CHOP) | Organization | 02 | Information |  |  |
+| 02-ORG-07 | Children’s Hospital of Philadelphia (CHOP) | Organization | 02 | Information |  |  |
 | 02-ORG-02 | Perelman School of Medicine | Organization | 02 | Information |  |  |
-| 02-PLACE-02 | UCF decentralized imaging trial (NCT05384912) | Place | 02 | Information |  |  |
+| 02-PLACE-06 | UCF decentralized imaging trial (NCT05384912) | Place | 02 | Information |  |  |
 | 02-HIST-01 | Human Genome Project | Historical case | 02 | Information |  |  |
 | 02-RIT-01 | Systems engineering study groups | Ritual | 02 | Information |  |  |
-| 02-CHAR-02 | Motoo Kimura | Character | 02 | Information | Public Figure |  |
-| 02-CHAR-03 | Maja Bucan | Character | 02 | Information | Public Figure |  |
-| 02-OBJ-01 | Evolutionary conservation | Object | 02 | Information |  |  |
+| 02-CHAR-06 | Motoo Kimura | Character | 02 | Information | Public Figure |  |
+| 02-CHAR-07 | Maja Bucan | Character | 02 | Information | Public Figure |  |
+| 02-OBJ-16 | Evolutionary conservation | Object | 02 | Information |  |  |
 | 02-PHRASE-04 | A Quick Inventory of the Jargon You’re About to See | Phrase | 02 | Care |  |  |
 | 02-OBJ-02 | Genome | Object | 02 | Discovery |  |  |
 | 02-OBJ-03 | Genomics | Object | 02 | Discovery |  |  |
@@ -379,7 +379,7 @@ Silent duplication is a protocol violation.
 | 02-ORG-03 | Autism Genetics Resource Exchange | Organization | 02 | Information |  |  |
 | 02-ORG-04 | Autism Genome Project | Organization | 02 | Information |  |  |
 | 02-EVID-03 | Pivot table ancestry check | Evidence | 02 | Information |  |  |
-| 02-CHAR-04 | Brian Lara | Character | 02 | Care | Public Figure |  |
+| 02-CHAR-08 | Brian Lara | Character | 02 | Care | Public Figure |  |
 | 02-RIT-02 | Australia vs West Indies Test cricket contrast | Ritual | 02 | Care |  |  |
 | 02-OBJ-11 | Population genetics | Object | 02 | Discovery |  |  |
 | 02-OBJ-12 | Neutral theory | Object | 02 | Care |  |  |
@@ -391,68 +391,68 @@ Silent duplication is a protocol violation.
 | 02-SYMBOL-01 | African ancestry | Symbol | 02 | Information |  |  |
 | 02-SYMBOL-02 | European ancestry | Symbol | 02 | Information |  |  |
 | 02-PHRASE-07 | Dividend Four: The Cathedral at CHOP | Phrase | 02 | Care |  |  |
-| 02-PLACE-03 | West Philadelphia (CHOP across the street) | Place | 02 | Information |  |  |
-| 02-ORG-05 | NeuroFix Therapeutics | Organization | 02 | Information |  |  |
+| 02-PLACE-07 | West Philadelphia (CHOP across the street) | Place | 02 | Information |  |  |
+| 02-ORG-01 | NeuroFix Therapeutics | Organization | 02 | Information |  |  |
 | 02-FIG-01 | Figure 2.1 - From Data to Dividends pipeline | Figure | 02 | Information |  |  |
 | 02-PHRASE-08 | Dividend Five: Stanford and the Rule That Governs Everything | Phrase | 02 | Information |  |  |
 | 02-OBJ-17 | LOINC | Object | 02 | Information |  |  |
 | 02-OBJ-18 | SNOMED CT | Object | 02 | Information |  |  |
 | 02-OBJ-19 | ICD | Object | 02 | Information |  |  |
 | 02-OBJ-20 | CPT | Object | 02 | Information |  |  |
-| 02-PLACE-04 | Trinidad | Place | 02 | Care |  |  |
-| 02-PLACE-05 | Silicon Valley | Place | 02 | Information |  |  |
+| 02-PLACE-03 | Trinidad | Place | 02 | Care |  |  |
+| 02-PLACE-08 | Silicon Valley | Place | 02 | Information |  |  |
 | 02-PHRASE-09 | Dividend Six: UCSF and the Liquidity of Open Data | Phrase | 02 | Information |  |  |
 | 02-PHRASE-10 | Dividend Seven: UCF, COVID, and the Price of Representation | Phrase | 02 | Information |  |  |
-| 02-ORG-06 | University of Central Florida | Organization | 02 | Information |  |  |
+| 02-ORG-05 | University of Central Florida | Organization | 02 | Information |  |  |
 | 02-ECON-01 | Recruitment cost gap | Economic | 02 | Information |  |  |
 | 02-PHRASE-11 | Dividend Eight: The Insurance Engine | Phrase | 02 | Care |  |  |
 | 02-POLICY-01 | Medicare Advantage | Policy | 02 | Care |  |  |
 | 02-PHRASE-12 | The Dividend Summary: How the Trillions Assemble | Phrase | 02 | Care |  |  |
 | 02-PHRASE-13 | Exit Handoff: Why Chapter Three Must Be Deaths | Phrase | 02 | Care |  |  |
 | 02-PHRASE-14 | Software is eating the world | Phrase | 02 | Information |  |  |
-| 02-CHAR-05 | Marc Andreessen | Character | 02 | Information | Public Figure |  |
+| 02-CHAR-02 | Marc Andreessen | Character | 02 | Information | Public Figure |  |
 | 02-OBJ-21 | Precision-medicine economy | Object | 02 | Information |  |  |
-| 02-ORG-07 | Penn Medicine | Organization | 02 | Information |  |  |
-| 02-PLACE-06 | Philadelphia | Place | 02 | Care |  |  |
-| 02-CHAR-06 | Engineering cohort (Chinese students) | Character | 02 | Information | Abstract |  |
-| 02-CHAR-07 | Engineering cohort peer (unnamed) | Character | 02 | Discovery | Living |  |
-| 02-CHAR-08 | Junhyong Kim | Character | 02 | Information | Public Figure |  |
-| 02-CHAR-09 | Charles Darwin | Character | 02 | Care | Public Figure |  |
+| 02-ORG-09 | Penn Medicine | Organization | 02 | Information |  |  |
+| 02-PLACE-04 | Philadelphia | Place | 02 | Care |  |  |
+| 02-CHAR-03 | Engineering cohort (Chinese students) | Character | 02 | Information | Abstract |  |
+| 02-CHAR-01 | Engineering cohort peer (unnamed) | Character | 02 | Discovery | Living |  |
+| 02-CHAR-09 | Junhyong Kim | Character | 02 | Information | Public Figure |  |
+| 02-CHAR-04 | Charles Darwin | Character | 02 | Care | Public Figure |  |
 | 02-EVID-04 | Ancestry caller and phylogenetic tree | Evidence | 02 | Information |  |  |
-| 02-PLACE-07 | CHOP Center for Applied Genomics (CAG) | Place | 02 | Information |  |  |
+| 02-PLACE-05 | CHOP Center for Applied Genomics (CAG) | Place | 02 | Information |  |  |
 | 02-CHAR-10 | Hakon Hakonarson | Character | 02 | Discovery | Public Figure |  |
 | 02-OBJ-22 | Genotyping | Object | 02 | Information |  |  |
-| 02-ORG-08 | Neuropsychiatry | Organization | 02 | Care |  |  |
+| 02-ORG-10 | Neuropsychiatry | Organization | 02 | Care |  |  |
 | 02-SYMBOL-03 | Black | Symbol | 02 | Information |  |  |
 | 02-SYMBOL-04 | White | Symbol | 02 | Information |  |  |
-| 02-PLACE-08 | Stanford pathology and informatics | Place | 02 | Information |  |  |
+| 02-PLACE-09 | Stanford pathology and informatics | Place | 02 | Information |  |  |
 | 02-CHAR-11 | Co-resident (unnamed) | Character | 02 | Care | Living |  |
-| 02-ORG-09 | California Institute of Technology | Organization | 02 | Information |  |  |
+| 02-ORG-06 | California Institute of Technology | Organization | 02 | Information |  |  |
 | 02-CHAR-12 | Ben Pinsky | Character | 02 | Care | Public Figure |  |
-| 02-HIST-02 | Dengue | Historical case | 02 | Care |  |  |
+| 02-HIST-03 | Dengue | Historical case | 02 | Care |  |  |
 | 02-POLICY-02 | Neglected tropical diseases | Policy | 02 | Care |  |  |
-| 02-ORG-10 | World Health Organization | Organization | 02 | Care |  |  |
+| 02-ORG-11 | World Health Organization | Organization | 02 | Care |  |  |
 | 02-OBJ-23 | Bitcoin | Object | 02 | Care |  |  |
 | 02-OBJ-24 | Deep learning | Object | 02 | Information |  |  |
 | 02-OBJ-25 | GPUs | Object | 02 | Information |  |  |
 | 02-CHAR-13 | Atul Butte | Character | 02 | Information | Public Figure |  |
-| 02-PLACE-09 | UCSF and public data platforms (GEO, STARGEO, CrADLe, BD2K) | Place | 02 | Information |  |  |
+| 02-PLACE-02 | UCSF and public data platforms (GEO, STARGEO, CrADLe, BD2K) | Place | 02 | Information |  |  |
 | 02-PHRASE-15 | Liquidity as dividend | Phrase | 02 | Information |  |  |
 | 02-OBJ-26 | Open data | Object | 02 | Information |  |  |
 | 02-OBJ-27 | AI models | Object | 02 | Information |  |  |
 | 02-HIST-03 | COVID-19 | Historical case | 02 | Discovery |  |  |
 | 02-EVID-05 | Medicare Advantage coding allegations (OIG/Reuters) | Evidence | 02 | Information |  |  |
-| 02-ORG-11 | Office of Inspector General | Organization | 02 | Information |  |  |
-| 02-ORG-12 | Reuters | Organization | 02 | Information |  |  |
+| 02-ORG-12 | Office of Inspector General | Organization | 02 | Information |  |  |
+| 02-ORG-13 | Reuters | Organization | 02 | Information |  |  |
 | 02-ORG-13 | UnitedHealth | Organization | 02 | Care |  |  |
-| 02-CONCEPT-02 | System billing for invisibility | Concept | 02 | Information |  |  |
+| 02-PHRASE-02 | System billing for invisibility | Concept | 02 | Information |  |  |
 | 02-OBJ-28 | EHR integration | Object | 02 | Information |  |  |
 | 02-PLACE-10 | United States | Place | 02 | Care |  |  |
 | 03-PHRASE-01 | Deaths: Where the Burden Falls | Phrase | 03 | Care |  |  |
-| 03-PHRASE-02 | The Geography of Absence | Phrase | 03 | Care |  |  |
-| 03-PHRASE-03 | Clinical Trials — Where Future Deaths Are Decided | Phrase | 03 | Discovery |  |  |
-| 03-CONCEPT-01 | Redlining | Concept | 03 | Care |  |  |
-| 03-CONCEPT-02 | Data completeness | Concept | 03 | Information |  |  |
+| 03-PHRASE-06 | The Geography of Absence | Phrase | 03 | Care |  |  |
+| 03-PHRASE-07 | Clinical Trials — Where Future Deaths Are Decided | Phrase | 03 | Discovery |  |  |
+| 03-PHRASE-08 | Redlining | Concept | 03 | Care |  |  |
+| 03-CONCEPT-05 | Data completeness | Concept | 03 | Information |  |  |
 | 03-HIST-01 | Chronic kidney disease (CKD) | Historical case | 03 | Care |  |  |
 | 03-EVID-01 | Breast cancer mortality gap (DeSantis et al. 2022) | Evidence | 03 | Care |  |  |
 | 03-EVID-02 | Breast cancer disparity review (Daly & Olopade 2022) | Evidence | 03 | Care |  |  |
@@ -460,9 +460,9 @@ Silent duplication is a protocol violation.
 | 03-OBJ-01 | GWAS | Object | 03 | Information |  |  |
 | 03-PLACE-01 | UCSF | Place | 03 | Discovery |  |  |
 | 03-CHAR-01 | Esteban Gonzalez Burchard | Character | 03 | Information | Public Figure |  |
-| 03-CONCEPT-03 | Underrepresentation in trials | Concept | 03 | Information |  |  |
+| 03-CONCEPT-06 | Underrepresentation in trials | Concept | 03 | Information |  |  |
 | 03-OBJ-02 | Genomic recurrence scoring | Object | 03 | Information |  |  |
-| 03-CONCEPT-04 | Recruitment cost differential | Concept | 03 | Care |  |  |
+| 03-CONCEPT-07 | Recruitment cost differential | Concept | 03 | Care |  |  |
 | 03-EVID-03 | Asthma disparities (Akinbami et al. 2012; Burchard et al. 2014) | Evidence | 03 | Care |  |  |
 | 03-EVID-04 | Puerto Rican asthma prevalence (Nishimura & Burchard 2015) | Evidence | 03 | Care |  |  |
 | 03-EVID-05 | African ancestry asthma severity (Kumar et al. 2015) | Evidence | 03 | Information |  |  |
@@ -475,8 +475,8 @@ Silent duplication is a protocol violation.
 | 03-EVID-10 | APOL1 variants and kidney disease (Genovese et al. 2010) | Evidence | 03 | Information |  |  |
 | 03-PLACE-02 | Florida | Place | 03 | Care |  |  |
 | 03-PLACE-03 | Central Florida | Place | 03 | Care |  |  |
-| 03-PHRASE-04 | Institutional mirror | Phrase | 03 | Information |  |  |
-| 03-EVID-11 | COVID-19 mortality inequities (Hill et al. 2021) | Evidence | 03 | Care |  |  |
+| 03-PHRASE-09 | Institutional mirror | Phrase | 03 | Information |  |  |
+| 03-EVID-13 | COVID-19 mortality inequities (Hill et al. 2021) | Evidence | 03 | Care |  |  |
 | 03-EVID-12 | Clinical trial underrepresentation (Loree et al. 2021) | Evidence | 03 | Information |  |  |
 | 03-SYMBOL-01 | European ancestry | Symbol | 03 | Discovery |  |  |
 | 03-SYMBOL-02 | Indigenous | Symbol | 03 | Information |  |  |
@@ -484,45 +484,45 @@ Silent duplication is a protocol violation.
 | 03-ORG-01 | University of Central Florida | Organization | 03 | Discovery |  |  |
 | 03-ORG-02 | Facebook | Organization | 03 | Information |  |  |
 | 03-ORG-03 | ClinicalTrials.gov | Organization | 03 | Information |  |  |
-| 03-PHRASE-05 | Mortality is the only KPI that matters. | Phrase | 03 | Care |  |  |
+| 03-PHRASE-10 | Mortality is the only KPI that matters. | Phrase | 03 | Care |  |  |
 | 03-PLACE-04 | West Philadelphia | Place | 03 | Care |  |  |
 | 03-PLACE-05 | San Francisco’s Mission District | Place | 03 | Care |  |  |
 | 03-PLACE-06 | United States | Place | 03 | Care |  |  |
 | 03-CHAR-02 | Daughters (author’s) | Character | 03 | Care | Living |  |
-| 03-PHRASE-06 | The billable code is the fundamental economic unit of American healthcare. | Phrase | 03 | Information |  |  |
-| 03-PHRASE-07 | Codes are not neutral. | Phrase | 03 | Information |  |  |
-| 03-PHRASE-08 | Deaths follow representation | Phrase | 03 | Information |  |  |
-| 03-CONCEPT-05 | Mortality as ledger | Concept | 03 | Care |  |  |
-| 03-CONCEPT-06 | Mortality gap | Concept | 03 | Care |  |  |
-| 03-CONCEPT-07 | Extraction | Concept | 03 | Care |  |  |
+| 03-PHRASE-02 | The billable code is the fundamental economic unit of American healthcare. | Phrase | 03 | Information |  |  |
+| 03-PHRASE-04 | Codes are not neutral. | Phrase | 03 | Information |  |  |
+| 03-PHRASE-03 | Deaths follow representation | Phrase | 03 | Information |  |  |
+| 03-HIST-03 | Mortality as ledger | Concept | 03 | Care |  |  |
+| 03-OBJ-05 | Mortality gap | Concept | 03 | Care |  |  |
+| 03-CONCEPT-08 | Extraction | Concept | 03 | Care |  |  |
 | 03-HIST-03 | Breast cancer | Historical case | 03 | Care |  |  |
 | 03-OBJ-05 | Precision medicine | Object | 03 | Care |  |  |
-| 03-CONCEPT-08 | Billable Code | Concept | 03 | Information |  |  |
-| 03-PHRASE-09 | The UCSF Revelation — Diseases Don’t Come One at a Time | Phrase | 03 | Care |  |  |
-| 03-CONCEPT-09 | Comorbidity | Concept | 03 | Information |  |  |
+| 03-CONCEPT-09 | Billable Code | Concept | 03 | Information |  |  |
+| 03-PHRASE-11 | The UCSF Revelation — Diseases Don’t Come One at a Time | Phrase | 03 | Care |  |  |
+| 03-HIST-04 | Comorbidity | Concept | 03 | Information |  |  |
 | 03-HIST-04 | Asthma | Historical case | 03 | Care |  |  |
 | 03-HIST-05 | Diabetes | Historical case | 03 | Information |  |  |
 | 03-HIST-06 | Preterm birth | Historical case | 03 | Care |  |  |
 | 03-SYMBOL-04 | Puerto Rican | Symbol | 03 | Care |  |  |
 | 03-SYMBOL-05 | African ancestry | Symbol | 03 | Care |  |  |
 | 03-OBJ-06 | APOL1 | Object | 03 | Information |  |  |
-| 03-PHRASE-10 | The Multiplicative Nature of Inequity | Phrase | 03 | Care |  |  |
-| 03-CONCEPT-10 | Multiplicative risk | Concept | 03 | Information |  |  |
+| 03-PHRASE-12 | The Multiplicative Nature of Inequity | Phrase | 03 | Care |  |  |
+| 03-HIST-02 | Multiplicative risk | Concept | 03 | Information |  |  |
 | 03-OBJ-07 | Polygenic scores | Object | 03 | Information |  |  |
 | 03-OBJ-08 | Machine-learning prognostics | Object | 03 | Information |  |  |
 | 03-OBJ-09 | EHR-based algorithms | Object | 03 | Information |  |  |
-| 03-CONCEPT-11 | Social determinants of health | Concept | 03 | Care |  |  |
-| 03-EVID-13 | Mammography follow-up delays (Fedewa et al. 2020) | Evidence | 03 | Care |  |  |
+| 03-HIST-05 | Social determinants of health | Concept | 03 | Care |  |  |
+| 03-EVID-11 | Mammography follow-up delays (Fedewa et al. 2020) | Evidence | 03 | Care |  |  |
 | 03-SYMBOL-06 | Latino | Symbol | 03 | Information |  |  |
 | 03-SYMBOL-07 | Hispanic | Symbol | 03 | Information |  |  |
-| 03-PHRASE-11 | COVID-19 — The Exposing Event | Phrase | 03 | Care |  |  |
+| 03-PHRASE-05 | COVID-19 — The Exposing Event | Phrase | 03 | Care |  |  |
 | 03-HIST-07 | COVID-19 | Historical case | 03 | Care |  |  |
 | 03-OBJ-10 | Metaverse of medical data | Object | 03 | Information |  |  |
 | 03-EVID-14 | Decentralized imaging trial (NCT05384912) | Evidence | 03 | Discovery |  |  |
 | 03-SYMBOL-08 | Black | Symbol | 03 | Information |  |  |
 | 03-SYMBOL-09 | White | Symbol | 03 | Care |  |  |
 | 03-SYMBOL-10 | Native | Symbol | 03 | Care |  |  |
-| 03-PHRASE-12 | The Arithmetic of Death | Phrase | 03 | Care |  |  |
+| 03-PHRASE-13 | The Arithmetic of Death | Phrase | 03 | Care |  |  |
 | 03-SYMBOL-11 | Underrepresented ancestry | Symbol | 03 | Information |  |  |
 | 03-OBJ-11 | AI models | Object | 03 | Information |  |  |
 | 03-PHRASE-13 | Dividends rise. Deaths fall. | Phrase | 03 | Care |  |  |
