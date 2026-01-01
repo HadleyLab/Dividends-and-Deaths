@@ -29,6 +29,10 @@ Applies to the Prologue and all chapters.
   - remain unnamed, or
   - be referred to by role, relationship, or function
 - Role-based labels (e.g., "wife," "children," "co-resident," "pastor") are permitted when no proper name is given.
+
+Compliance check note:
+- Flag only proper names of living, non–public-figure persons.
+- Do not flag role-based labels that omit proper names.
 - Deceased people may be named only if:
   - they are family members, or
   - they are public historical or scientific figures
