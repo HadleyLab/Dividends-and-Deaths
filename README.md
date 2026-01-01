@@ -139,8 +139,8 @@ This recipe assumes you are following `AUTHORING_PLAN.md`.
 
 1. Read `book/spine.md` → identify the chapter question, claim, and exit handoff.
 2. Update the chapter `chapter_NN_ledger.md` with all assets, concepts, and death references.
-3. Register episodes, people, and cases via `protocols/protocol_narrative_asset.md`.
-4. Check constraints using `protocols/protocol_asset_compliance.md`.
+3. Register episodes, people, and cases via `protocols/protocol_narrative_asset_registration.md`.
+4. Check constraints using `protocols/protocol_canon_compliance.md`.
 5. Draft `chapter_NN_prose.md` **from the ledger**, not from memory.
 6. Update `chapter_NN_scene.md` so every scene maps to asset IDs.
 

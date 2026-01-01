@@ -9,9 +9,9 @@ Applies to the Prologue and all chapters.
 
 ## Inputs
 - `book/spine.md`
-- `protocols/protocol_chapter_build.md`
+- `protocols/protocol_chapter_production.md`
 - `book/emotional_arc.md`
-- `protocols/protocol_narrative_asset.md`
+- `protocols/protocol_narrative_asset_registration.md`
 
 ## Outputs
 - Chapters and ledgers that comply with the canon

@@ -1,4 +1,4 @@
-# Narrative Asset Protocol — Canonical Reconciliation
+# Narrative Asset Registration Protocol — Canonical Reconciliation
 
 ## Purpose
 Admit, register, and govern **narrative assets** so that lived episodes, cases, people, places, objects, and figures become reusable **system components** rather than isolated anecdotes.
@@ -22,7 +22,7 @@ If an asset appears in prose, it must be registered here.
 - `book/spine.md` (chapter question, claim, exit)
 - `book/emotional_arc.md` (grief limits)
 - `concepts/README_concepts.md` (canonical ontology)
-- `protocols/protocol_asset_compliance.md`
+- `protocols/protocol_canon_compliance.md`
 - `chapters/NN_chapter_name/chapter_NN_ledger.md`
 - `chapters/global_ledger.md`
 - Draft prose or scene introducing the asset
@@ -130,7 +130,7 @@ Assets that touch death without mechanism are non-compliant.
 - If prose order changes, reorder `chapter_NN_ledger.md` and `chapter_NN_scene.md` to match.
 
 ### Step 8 — Compliance Check
-Run `protocols/protocol_asset_compliance.md` and resolve all violations before prose is finalized.
+Run `protocols/protocol_canon_compliance.md` and resolve all violations before prose is finalized.
 
 ---
 

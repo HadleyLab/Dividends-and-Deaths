@@ -1,4 +1,4 @@
-# Documentation Protocol — Naming and Order
+# Documentation Naming and Order Protocol
 
 ## Purpose
 Enforce canonical naming, file structure, and ordering so documentation stays consistent and scalable.
@@ -39,6 +39,12 @@ Only the directory carries the chapter stem; filenames use the chapter number on
 
 **Protocols**
 - File name: `protocol_<name>.md`
+- Canonical protocol filenames (must match `protocols/README_protocols.md`):
+  - `protocol_concept_admission.md`
+  - `protocol_chapter_production.md`
+  - `protocol_narrative_asset_registration.md`
+  - `protocol_canon_compliance.md`
+  - `protocol_documentation_naming_order.md`
 
 **Concepts**
 - File name: `concept_<name>.md`
@@ -125,6 +131,7 @@ Reindex steps:
 ## Checks (Pass / Fail)
 - [ ] Chapter bundles follow the canonical filenames
 - [ ] Protocol filenames follow `protocol_<name>.md`
+- [ ] Protocol filenames match the canonical list in `protocols/README_protocols.md`
 - [ ] Concept filenames follow `concept_<name>.md`
 - [ ] No references to legacy filenames remain
 - [ ] Scene order matches prose order

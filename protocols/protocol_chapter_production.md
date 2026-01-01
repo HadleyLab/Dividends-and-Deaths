@@ -1,4 +1,4 @@
-# Chapter Build Protocol — Governed Execution
+# Chapter Production Protocol — Governed Execution
 
 ## Purpose
 Draft or revise a chapter so that prose is **governed, death-bound, and system-consistent**.
@@ -17,8 +17,8 @@ No chapter is exempt.
 - `concepts/concept_vocabulary.md` (mandated phrases)
 - `concepts/concept_digital_maya.md`
 - `concepts/concept_maat.md`
-- `protocols/protocol_asset_compliance.md`
-- `protocols/protocol_narrative_asset.md`
+- `protocols/protocol_canon_compliance.md`
+- `protocols/protocol_narrative_asset_registration.md`
 - `chapters/NN_chapter_name/chapter_NN_ledger.md`
 - `chapters/global_ledger.md`
 
@@ -56,7 +56,7 @@ Prose may not introduce unledgered material.
 - Confirm all `chapter_NN_scene.md` asset IDs exist in the global ledger.
 
 ### Step 5 — Asset Compliance Check
-- Run `protocols/protocol_asset_compliance.md` against the ledger.
+- Run `protocols/protocol_canon_compliance.md` against the ledger.
 - Resolve violations before drafting.
 
 ### Step 6 — Draft Prose from the Ledger

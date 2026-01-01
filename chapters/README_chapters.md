@@ -129,13 +129,13 @@ If an asset’s **Type** changes, reindex the chapter and update all references.
    If it is not in the ledger, it may not appear in prose.
 
 3. **Register Narrative Assets**  
-   Run `protocols/protocol_narrative_asset.md` for any episode, case, person, or place.
+   Run `protocols/protocol_narrative_asset_registration.md` for any episode, case, person, or place.
 
 4. **Update the Global Ledger**  
    Register or update all assets in `chapters/global_ledger.md`.
 
 5. **Check Compliance Early**  
-   Run `protocols/protocol_asset_compliance.md` before drafting prose.
+   Run `protocols/protocol_canon_compliance.md` before drafting prose.
 
 6. **Draft Prose from the Ledger**  
    Write `chapter_NN_prose.md` using the ledger as the outline, not memory or intuition.
