@@ -75,12 +75,12 @@ This allows the manuscript to function as a **well‑oiled system** rather than 
 ### `book/` — Governance
 Defines what must remain true across all drafts.
 - overview, spine, emotional arc, publication plan
-Read: `book/README.md`
+Read: `book/README_book.md`
 
 ### `concepts/` — Canon
 Defines what is allowed to exist and what terms mean.
 - engines, geometry, Digital Māyā, Ma’at, custody, dividends
-Read: `concepts/README.md`
+Read: `concepts/README_concepts.md`
 
 ### `protocols/` — Execution
 Defines how work is done.
@@ -88,7 +88,7 @@ Defines how work is done.
 - narrative asset registration
 - chapter build
 - asset compliance
-Read: `protocols/README.md`
+Read: `protocols/README_protocols.md`
 
 ### `chapters/` — Governed Prose
 Each chapter is a governed bundle:
@@ -100,21 +100,22 @@ NN_chapter_name/
 ```
 Only the directory carries the chapter stem; filenames use the chapter number only.
 Global asset index: `chapters/global_ledger.md`
-Read: `chapters/README.md`
+Global references (optional): `references.bib`
+Read: `chapters/README_chapters.md`
 
 ### `drafts/` — Exploration
 Ungoverned working space. Nothing here is canonical.
-Read: `drafts/README.md`
+Read: `drafts/README_drafts.md`
 
 ---
 
 ## Start Here (Production Order)
 
 1. `AUTHORING_PLAN.md` — end‑to‑end authoring lifecycle
-2. `book/README.md` — governance invariants and authority map
-3. `concepts/README.md` — canonical ontology and closed sets
-4. `protocols/README.md` — execution rules and checks
-5. `chapters/README.md` — governed output rules
+2. `book/README_book.md` — governance invariants and authority map
+3. `concepts/README_concepts.md` — canonical ontology and closed sets
+4. `protocols/README_protocols.md` — execution rules and checks
+5. `chapters/README_chapters.md` — governed output rules
 
 ---
 

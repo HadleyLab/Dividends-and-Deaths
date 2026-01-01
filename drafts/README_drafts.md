@@ -14,7 +14,7 @@ Drafts are temporary and exempt from the naming standard.
 ## Related Documents
 
 - Root context and directory map: `README.md`
-- Governance invariants: `book/README.md`
-- Canonical ontology: `concepts/README.md`
-- Execution protocols: `protocols/README.md`
-- Governed prose bundles: `chapters/README.md`
+- Governance invariants: `book/README_book.md`
+- Canonical ontology: `concepts/README_concepts.md`
+- Execution protocols: `protocols/README_protocols.md`
+- Governed prose bundles: `chapters/README_chapters.md`

@@ -11,7 +11,7 @@ Applies to any **new or revised concept** intended for use in chapters, figures,
 If a concept does not pass this protocol, it **may not appear in prose**.
 
 ## Inputs
-- `concepts/README.md` (canonical ontology rules)
+- `concepts/README_concepts.md` (canonical ontology rules)
 - `book/spine.md` (throughline and contracts)
 - `book/emotional_arc.md` (death and grief constraints)
 - `concepts/concept_vocabulary.md`
@@ -20,7 +20,7 @@ If a concept does not pass this protocol, it **may not appear in prose**.
 
 ## Outputs
 - A new or updated standalone file in `concepts/`
-- Updated `concepts/README.md` index entry
+- Updated `concepts/README_concepts.md` index entry
 - Updated `concepts/concept_vocabulary.md` with:
   - the concept name
   - any canonical phrases or reuse language
@@ -73,7 +73,7 @@ The concept must declare its relationship to:
 Concepts that float outside this system are not admissible.
 
 ### Step 5 — Index and Vocabulary Update
-- Add the concept to `concepts/README.md` with a one-line description.
+- Add the concept to `concepts/README_concepts.md` with a one-line description.
 - Add the concept name and any canonical phrases to `concepts/concept_vocabulary.md`.
 
 ### Step 6 — Narrative Asset Registration (If Applicable)

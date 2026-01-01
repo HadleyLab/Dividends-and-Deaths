@@ -21,7 +21,7 @@ If an asset appears in prose, it must be registered here.
 ## Inputs
 - `book/spine.md` (chapter question, claim, exit)
 - `book/emotional_arc.md` (grief limits)
-- `concepts/README.md` (canonical ontology)
+- `concepts/README_concepts.md` (canonical ontology)
 - `protocols/protocol_asset_compliance.md`
 - `chapters/NN_chapter_name/chapter_NN_ledger.md`
 - `chapters/global_ledger.md`

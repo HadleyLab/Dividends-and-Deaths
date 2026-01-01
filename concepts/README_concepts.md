@@ -134,9 +134,9 @@ Closed sets remain closed unless book governance is explicitly revised.
 ## Related Documents
 
 - Root context and directory map: `README.md`
-- Governance invariants: `book/README.md`
-- Execution protocols: `protocols/README.md`
-- Governed prose bundles: `chapters/README.md`
+- Governance invariants: `book/README_book.md`
+- Execution protocols: `protocols/README_protocols.md`
+- Governed prose bundles: `chapters/README_chapters.md`
 
 ---
 

@@ -256,3 +256,16 @@ Before a chapter is considered canonical, confirm:
 This document is **binding**.
 
 Violations must be corrected before publication, revision, or reuse.
+
+## Notes
+- This protocol prioritizes enforceable constraints over stylistic guidance.
+- Use it as a pass/fail gate before any structural changes are accepted.
+
+## Non-Negotiables
+- Living-person naming rule is enforced without exception.
+- Interior-state prohibitions are enforced without exception.
+- All assets referenced in prose must exist in `chapters/global_ledger.md`.
+
+## Update Triggers
+- When naming, identity, or interiority rules change.
+- When chapter ordering or ledger rules change.

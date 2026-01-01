@@ -104,9 +104,9 @@ These protocols are designed to work together. Skipping one introduces drift.
 ## Related Documents
 
 - Root context and directory map: `README.md`
-- Governance invariants: `book/README.md`
-- Canonical ontology: `concepts/README.md`
-- Governed prose bundles: `chapters/README.md`
+- Governance invariants: `book/README_book.md`
+- Canonical ontology: `concepts/README_concepts.md`
+- Governed prose bundles: `chapters/README_chapters.md`
 
 ---
 

@@ -124,9 +124,9 @@ When conflicts arise:
 ## Related Documents
 
 - Root context and directory map: `README.md`
-- Canonical ontology: `concepts/README.md`
-- Execution protocols: `protocols/README.md`
-- Governed prose bundles: `chapters/README.md`
+- Canonical ontology: `concepts/README_concepts.md`
+- Execution protocols: `protocols/README_protocols.md`
+- Governed prose bundles: `chapters/README_chapters.md`
 
 ---
 

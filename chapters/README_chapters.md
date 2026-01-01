@@ -22,7 +22,8 @@ Each chapter lives in its own directory:
 NN_chapter_name/
 ├── chapter_NN_prose.md   # reader-facing prose
 ├── chapter_NN_ledger.md  # authoritative asset + failure map
-└── chapter_NN_scene.md   # scene-to-asset alignment
+├── chapter_NN_scene.md   # scene-to-asset alignment
+└── references.bib        # optional chapter-scoped references
 ```
 
 Only the directory carries the chapter stem; filenames use the chapter number only.
@@ -30,6 +31,8 @@ Only the directory carries the chapter stem; filenames use the chapter number on
 - **`chapter_NN_prose.md`** is narrative output.
 - **`chapter_NN_ledger.md`** is the source of truth.
 - **`chapter_NN_scene.md`** ensures narrative structure maps to system structure.
+- **`references.bib`** is optional and chapter-scoped.
+Figure files (if any) live in the chapter directory as `figure_NN_XX_short_slug.png`.
 
 If these three files disagree, **the ledger wins**.
 
@@ -181,9 +184,9 @@ Fix inputs upstream; never patch prose to bypass the ledger.
 ## Related Documents
 
 - Root context and directory map: `README.md`
-- Governance invariants: `book/README.md`
-- Canonical ontology: `concepts/README.md`
-- Execution protocols: `protocols/README.md`
+- Governance invariants: `book/README_book.md`
+- Canonical ontology: `concepts/README_concepts.md`
+- Execution protocols: `protocols/README_protocols.md`
 
 ---
 

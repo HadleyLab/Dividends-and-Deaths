@@ -13,7 +13,7 @@ No chapter is exempt.
 ## Inputs
 - `book/spine.md` (chapter question, claim, exit contract)
 - `book/emotional_arc.md` (grief limits and tonal guardrails)
-- `concepts/README.md` (canonical ontology)
+- `concepts/README_concepts.md` (canonical ontology)
 - `concepts/concept_vocabulary.md` (mandated phrases)
 - `concepts/concept_digital_maya.md`
 - `concepts/concept_maat.md`
@@ -99,7 +99,7 @@ For every death, near-death, or lethal disparity referenced:
 - The chapter must leave the reader with increased structural clarity, not just affect.
 
 ### Step 12 — Status Update
-- Update `chapters/README.md` with chapter status and pass completion.
+- Update `chapters/README_chapters.md` with chapter status and pass completion.
 
 ---
 
