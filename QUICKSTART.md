@@ -38,17 +38,21 @@ This is how the system keeps meaning stable while the manuscript grows.
 1. **Choose the chapter.**  
    Open `book/spine.md` and write down the Chapter Question, Claim, and Exit Handoff.
 
-2. **Ledger the episode.**  
+2. **Confirm concept placement.**  
+   Open `book/overview.md` and identify the required concepts for the chapter.  
+   Add those concept assets to `chapters/NN_chapter_name/chapter_NN_ledger.md` and reference them in `chapter_NN_scene.md`.
+
+3. **Ledger the episode.**  
    Add the assets to `chapters/NN_chapter_name/chapter_NN_ledger.md`.  
    Register every asset in `chapters/GLOBAL_LEDGER.md`.
 
-3. **Align the scenes.**  
+4. **Align the scenes.**  
    Update `chapters/NN_chapter_name/chapter_NN_scene.md` so headings match prose order.
 
-4. **Run compliance.**  
+5. **Run compliance.**  
    Use `protocols/protocol_canon_compliance.md` before drafting prose.
 
-5. **Draft from the ledger.**  
+6. **Draft from the ledger.**  
    Write only what the ledger contains. No new assets.
 
 That is the workflow. It is not optional.
@@ -100,7 +104,7 @@ Outcome:
 
 ### 3) Ledger-First Chapter Build (Assets → Draft)
 You want to write a chapter without violating governance.
-You draft only what the ledger contains.
+You draft only what the ledger contains, including the required concepts from `book/overview.md`.
 
 Outcome:
 - Prose file drafted from the ledger
@@ -163,6 +167,10 @@ Paste the concept definition above this line:
 ### Run Compliance (Pass/Fail Only)
 Scope is the files you name:
 “Run `protocols/protocol_canon_compliance.md` on `chapters/03_deaths/chapter_03_prose.md` and `chapters/03_deaths/chapter_03_ledger.md`. List violations only. No rewrites.”
+
+### Place Required Concepts (Map → Ledger)
+Scope is the chapter you name:
+“From `book/overview.md`, add the required concepts for Chapter 02 to `chapters/02_dividends/chapter_02_ledger.md`, register them in `chapters/GLOBAL_LEDGER.md`, and add them to `chapters/02_dividends/chapter_02_scene.md`. Do not edit prose.”
 
 ### Sync Scenes (Order Only)
 Scope is the chapter you name:

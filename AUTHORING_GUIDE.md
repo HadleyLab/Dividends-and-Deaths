@@ -67,6 +67,25 @@ They test whether the system holds under scrutiny.
 
 ---
 
+## Concept Placement (Canonical)
+
+Concepts are not placed by inference. They are placed by explicit governance.
+
+### Purpose
+Bind required concepts from the book map to chapter assets before prose is drafted.
+
+### Source of Truth
+`book/overview.md` defines the required concept placement per part and chapter.
+
+### Required Outputs
+- Concept assets in `chapters/NN_chapter_name/chapter_NN_ledger.md`
+- Concept asset IDs referenced in `chapters/NN_chapter_name/chapter_NN_scene.md`
+- Concept assets registered in `chapters/GLOBAL_LEDGER.md`
+
+If a chapter is missing a required concept, the ledger is incomplete and prose is non-canonical.
+
+---
+
 ## Tooling Model (Critical)
 
 This project uses **two AI interfaces**, each with a distinct role.
@@ -144,7 +163,29 @@ Ledgering extracts **structure**, not language.
 
 ---
 
-## Phase 3 — Scene Mapping
+## Phase 3 — Place Required Concepts (Canonical Mapping)
+
+### Purpose
+Make the chapter obey the part-level concept map before prose exists.
+
+### Inputs
+- `book/overview.md`
+- `concepts/README_CONCEPTS.md`
+- `chapters/NN_chapter_name/chapter_NN_ledger.md`
+- `chapters/NN_chapter_name/chapter_NN_scene.md`
+- `chapters/GLOBAL_LEDGER.md`
+
+### Procedure
+1. Locate the chapter's required concepts in `book/overview.md`.
+2. Add each required concept as an asset in `chapter_NN_ledger.md`.
+3. Register those assets in `chapters/GLOBAL_LEDGER.md`.
+4. Reference the concept asset IDs in `chapter_NN_scene.md`.
+
+If a concept cannot be placed, revise the chapter inputs before drafting prose.
+
+---
+
+## Phase 4 — Scene Mapping
 
 Scenes declare how assets appear as narrative units.
 
@@ -159,7 +200,7 @@ Scene order must match `chapter_NN_prose.md` headings.
 
 ---
 
-## Phase 4 — Build Chapter XX (Composition)
+## Phase 5 — Build Chapter XX (Composition)
 
 ### Purpose
 Assemble governed assets into a **chapter-length argument**.
@@ -169,6 +210,7 @@ Assemble governed assets into a **chapter-length argument**.
 - ledgered assets
 - canonical concepts
 - emotional arc constraints
+ - required concepts from `book/overview.md`
 
 ### Where Prose Is Written
 
@@ -200,7 +242,7 @@ IDs are append-only within a given index pass, but the index itself is **prose-d
 
 ---
 
-## Phase 5 — Pass 1 Structural Edit (Audit)
+## Phase 6 — Pass 1 Structural Edit (Audit)
 
 ### Purpose
 Test whether the chapter works **without relying on eloquence**.
@@ -224,7 +266,7 @@ Not in sentence-level prose.
 
 ---
 
-## Phase 6 — Later Passes (Compression and Polish)
+## Phase 7 — Later Passes (Compression and Polish)
 
 ### Pass 2 — Concept Compression
 - remove redundancy

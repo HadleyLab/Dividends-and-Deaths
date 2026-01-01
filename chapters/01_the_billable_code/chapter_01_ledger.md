@@ -9,7 +9,7 @@ Version: 1.0
 
 ## Assets
 
-### 9. 01-PHRASE-02 — Big Apple of Trinidad
+### 1. 01-PHRASE-02 — Big Apple of Trinidad
 
 
 
@@ -125,7 +125,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
-### 13. 01-RIT-02 — Sabbath worship and Lord’s Prayer
+### 9. 01-RIT-02 — Sabbath worship and Lord’s Prayer
 
 
 
@@ -140,7 +140,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
-### 14. 01-OBJ-01 — VCR and cassette-era media
+### 10. 01-OBJ-01 — VCR and cassette-era media
 
 
 
@@ -155,7 +155,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 16. 01-OBJ-03 — Bottle rockets and rum factory caps
+### 11. 01-OBJ-10 — Bottle rockets and rum factory caps
 
 
 
@@ -170,7 +170,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 17. 01-OBJ-04 — IBM 286 clone
+### 12. 01-OBJ-02 — IBM 286 clone
 
 
 
@@ -184,7 +184,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
-### 18. 01-OBJ-05 — Nintendo console
+### 13. 01-OBJ-03 — Nintendo console
 
 
 
@@ -199,7 +199,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
-### 19. 01-OBJ-06 — Nintendo games (Mario, Zelda)
+### 14. 01-OBJ-04 — Nintendo games (Mario, Zelda)
 
 
 
@@ -214,7 +214,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 20. 01-OBJ-07 — James Bond films
+### 15. 01-OBJ-05 — James Bond films
 
 
 
@@ -229,7 +229,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 21. 01-OBJ-08 — Bruce Lee films
+### 16. 01-OBJ-06 — Bruce Lee films
 
 
 
@@ -244,7 +244,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 22. 01-OBJ-09 — Microsoft Flight Simulator
+### 17. 01-OBJ-07 — Microsoft Flight Simulator
 
 
 
@@ -258,7 +258,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 23. 01-OBJ-10 — Hercules monochrome graphics
+### 18. 01-OBJ-08 — Hercules monochrome graphics
 
 
 
@@ -272,7 +272,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
-### 24. 01-PLACE-07 — Maracas Beach
+### 19. 01-PLACE-07 — Maracas Beach
 
 
 
@@ -286,7 +286,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 25. 01-PLACE-08 — Canada
+### 20. 01-PLACE-08 — Canada
 
 
 
@@ -300,7 +300,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 26. 01-PLACE-09 — United States
+### 21. 01-PLACE-09 — United States
 
 
 
@@ -315,7 +315,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 27. 01-CONCEPT-01 — Legibility vs personhood
+### 22. 01-CONCEPT-01 — Legibility vs personhood
 
 
 
@@ -330,7 +330,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
-### 34. 01-CHAR-04 — Father - Leonard Kempthorne
+### 23. 01-CHAR-04 — Father - Leonard Kempthorne
 
 
 
@@ -347,7 +347,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
-### 61. 01-PLACE-13 — Rome
+### 24. 01-PLACE-14 — Rome
 
 
 
@@ -361,7 +361,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 69. 01-PLACE-16 — India
+### 25. 01-PLACE-15 — India
 
 
 
@@ -375,7 +375,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 71. 01-PLACE-18 — Africa
+### 26. 01-PLACE-13 — Africa
 
 
 
@@ -389,7 +389,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 1. 01-PHRASE-01 — Where Story Becomes Fate
+### 27. 01-PHRASE-01 — Where Story Becomes Fate
 
 
 
@@ -403,7 +403,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 11. 01-CHAR-02 — Aunty Janice
+### 28. 01-CHAR-02 — Aunty Janice
 
 
 
@@ -420,7 +420,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 12. 01-PHRASE-03 — Queen of the Band
+### 29. 01-PHRASE-03 — Queen of the Band
 
 
 
@@ -434,7 +434,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 15. 01-OBJ-02 — TRS-80 (and early home computing)
+### 30. 01-OBJ-09 — TRS-80 (and early home computing)
 
 
 
@@ -449,7 +449,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
-### 30. 01-CONCEPT-02 — Billable Code as economic unit
+### 31. 01-PHRASE-05 — Billable Code as economic unit
 
 
 
@@ -464,7 +464,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
-### 60. 01-PLACE-12 — Europe
+### 32. 01-PLACE-10 — Europe
 
 
 
@@ -479,7 +479,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 94. 01-CHAR-12 — Aunty Betty
+### 33. 01-CHAR-12 — Aunty Betty
 
 
 
@@ -496,7 +496,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 95. 01-CONCEPT-28 — Seventh-day Adventism
+### 34. 01-SYMBOL-02 — Seventh-day Adventism
 
 
 
@@ -511,7 +511,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Information
 
-### 10. 01-CHAR-01 — Neighborhood friend (unnamed)
+### 35. 01-CHAR-01 — Neighborhood friend (unnamed)
 
 
 
@@ -528,7 +528,7 @@ Version: 1.0
 - **Introduced In:** Where Story Becomes Fate
 - **Engine Link:** Care
 
-### 28. 01-PHRASE-04 — Why We Have Codes at All
+### 36. 01-PHRASE-06 — Why We Have Codes at All
 
 
 
@@ -542,7 +542,7 @@ Version: 1.0
 - **Introduced In:** Why We Have Codes at All
 - **Engine Link:** Information
 
-### 29. 01-ECON-01 — Insurance engine
+### 37. 01-ECON-01 — Insurance engine
 
 
 
@@ -557,7 +557,7 @@ Version: 1.0
 - **Introduced In:** Why We Have Codes at All
 - **Engine Link:** Information
 
-### 58. 01-CONCEPT-14 — Precision Medicine Economy
+### 38. 01-PHRASE-04 — Precision Medicine Economy
 
 
 
@@ -571,7 +571,7 @@ Version: 1.0
 - **Introduced In:** Why We Have Codes at All
 - **Engine Link:** Care
 
-### 32. 01-CONCEPT-03 — Date of birth as primary key
+### 39. 01-CONCEPT-03 — Date of birth as primary key
 
 
 
@@ -586,7 +586,7 @@ Version: 1.0
 - **Introduced In:** The First Code
 - **Engine Link:** Information
 
-### 31. 01-PHRASE-05 — The First Code
+### 40. 01-PHRASE-07 — The First Code
 
 
 
@@ -600,7 +600,7 @@ Version: 1.0
 - **Introduced In:** The First Code
 - **Engine Link:** Information
 
-### 35. 01-PHRASE-06 — Mama’s Code Was a Story
+### 41. 01-PHRASE-08 — Mama’s Code Was a Story
 
 
 
@@ -614,7 +614,7 @@ Version: 1.0
 - **Introduced In:** Mama’s Code Was a Story
 - **Engine Link:** Information
 
-### 36. 01-HIST-01 — Red House fire of 1903
+### 42. 01-HIST-01 — Red House fire of 1903
 
 
 
@@ -629,7 +629,7 @@ Version: 1.0
 - **Introduced In:** Mama’s Code Was a Story
 - **Engine Link:** Information
 
-### 38. 01-CHAR-05 — Mother - Pearl Surajee
+### 43. 01-CHAR-05 — Mother - Pearl Surajee
 
 
 
@@ -646,7 +646,7 @@ Version: 1.0
 - **Introduced In:** My Mother’s Name Was a Code Too
 - **Engine Link:** Information
 
-### 37. 01-PHRASE-07 — My Mother’s Name Was a Code Too
+### 44. 01-PHRASE-09 — My Mother’s Name Was a Code Too
 
 
 
@@ -660,7 +660,7 @@ Version: 1.0
 - **Introduced In:** My Mother’s Name Was a Code Too
 - **Engine Link:** Information
 
-### 39. 01-SYMBOL-01 — Hadley surname
+### 45. 01-SYMBOL-03 — Hadley surname
 
 
 
@@ -675,7 +675,7 @@ Version: 1.0
 - **Introduced In:** My Mother’s Name Was a Code Too
 - **Engine Link:** Information
 
-### 40. 01-PHRASE-08 — Penn and the Operating Room
+### 46. 01-PHRASE-10 — Penn and the Operating Room
 
 
 
@@ -689,7 +689,7 @@ Version: 1.0
 - **Introduced In:** Penn and the Operating Room
 - **Engine Link:** Care
 
-### 41. 01-PLACE-10 — Penn operating room
+### 47. 01-PLACE-16 — Penn operating room
 
 
 
@@ -704,7 +704,7 @@ Version: 1.0
 - **Introduced In:** Penn and the Operating Room
 - **Engine Link:** Information
 
-### 42. 01-CONCEPT-04 — Surgery
+### 48. 01-OBJ-11 — Surgery
 
 
 
@@ -718,7 +718,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Care
 
-### 43. 01-CONCEPT-05 — ICD
+### 49. 01-OBJ-12 — ICD
 
 
 
@@ -732,7 +732,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
-### 44. 01-CONCEPT-06 — CPT
+### 50. 01-OBJ-13 — CPT
 
 
 
@@ -746,7 +746,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
-### 45. 01-PHRASE-09 — Stanford, the Basement, and the Constitution of Medicine
+### 51. 01-PHRASE-11 — Stanford, the Basement, and the Constitution of Medicine
 
 
 
@@ -760,7 +760,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
-### 51. 01-CONCEPT-11 — UMLS (Unified Medical Language System)
+### 52. 01-OBJ-14 — UMLS (Unified Medical Language System)
 
 
 
@@ -775,7 +775,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
-### 52. 01-CHAR-06 — Mark Musen
+### 53. 01-CHAR-06 — Mark Musen
 
 
 
@@ -792,7 +792,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
-### 46. 01-PLACE-11 — Stanford pathology basements
+### 54. 01-PLACE-17 — Stanford pathology basements
 
 
 
@@ -807,7 +807,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
-### 47. 01-CONCEPT-07 — Clinical Pathology and Laboratory Medicine
+### 55. 01-ORG-01 — Clinical Pathology and Laboratory Medicine
 
 
 
@@ -822,7 +822,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
-### 48. 01-CONCEPT-08 — LOINC
+### 56. 01-OBJ-15 — LOINC
 
 
 
@@ -836,7 +836,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
-### 49. 01-CONCEPT-09 — RxNorm
+### 57. 01-OBJ-16 — RxNorm
 
 
 
@@ -850,7 +850,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
-### 50. 01-CONCEPT-10 — SNOMED CT
+### 58. 01-OBJ-17 — SNOMED CT
 
 
 
@@ -864,7 +864,7 @@ Version: 1.0
 - **Introduced In:** Stanford, the Basement, and the Constitution of Medicine
 - **Engine Link:** Information
 
-### 53. 01-PHRASE-10 — When Story Became Fate
+### 59. 01-PHRASE-12 — When Story Became Fate
 
 
 
@@ -878,7 +878,7 @@ Version: 1.0
 - **Introduced In:** When Story Became Fate
 - **Engine Link:** Care
 
-### 55. 01-PHRASE-11 — The Insurance Engine
+### 60. 01-PHRASE-13 — The Insurance Engine
 
 
 
@@ -892,7 +892,7 @@ Version: 1.0
 - **Introduced In:** The Insurance Engine
 - **Engine Link:** Care
 
-### 54. 01-SYMBOL-02 — Pacemaker serial number missing at bedside
+### 61. 01-SYMBOL-03 — Pacemaker serial number missing at bedside
 
 
 
@@ -907,7 +907,7 @@ Version: 1.0
 - **Introduced In:** The Insurance Engine
 - **Engine Link:** Information
 
-### 59. 01-PHRASE-12 — Europe, Curation, and the Long Memory of Power
+### 62. 01-PHRASE-14 — Europe, Curation, and the Long Memory of Power
 
 
 
@@ -921,7 +921,7 @@ Version: 1.0
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
 - **Engine Link:** Care
 
-### 62. 01-PLACE-14 — Vatican
+### 63. 01-PLACE-11 — Vatican
 
 
 
@@ -935,7 +935,7 @@ Version: 1.0
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
 - **Engine Link:** Care
 
-### 63. 01-PLACE-15 — Sistine Chapel
+### 64. 01-PLACE-18 — Sistine Chapel
 
 
 
@@ -949,7 +949,7 @@ Version: 1.0
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
 - **Engine Link:** Care
 
-### 64. 01-CHAR-07 — Michelangelo
+### 65. 01-CHAR-07 — Michelangelo
 
 
 
@@ -981,7 +981,7 @@ Version: 1.0
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
 - **Engine Link:** Care
 
-### 67. 01-CONCEPT-15 — Western civilization
+### 67. 01-SYMBOL-04 — Western civilization
 
 
 
@@ -995,7 +995,7 @@ Version: 1.0
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
 - **Engine Link:** Care
 
-### 68. 01-CONCEPT-16 — Renaissance
+### 68. 01-SYMBOL-05 — Renaissance
 
 
 
@@ -1009,7 +1009,7 @@ Version: 1.0
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
 - **Engine Link:** Information
 
-### 65. 01-CHAR-08 — Leonardo da Vinci
+### 69. 01-CHAR-08 — Leonardo da Vinci
 
 
 
@@ -1026,7 +1026,7 @@ Version: 1.0
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
 - **Engine Link:** Care
 
-### 72. 01-CHAR-10 — Wife (Spanish Moroccan)
+### 70. 01-CHAR-10 — Wife (Spanish Moroccan)
 
 
 
@@ -1043,7 +1043,7 @@ Version: 1.0
 - **Introduced In:** Europe, Curation, and the Long Memory of Power
 - **Engine Link:** Information
 
-### 70. 01-PLACE-17 — Arab world
+### 71. 01-PLACE-12 — Arab world
 
 
 
@@ -1057,7 +1057,7 @@ Version: 1.0
 - **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
 - **Engine Link:** Information
 
-### 73. 01-PHRASE-13 — Zero, Algebra, and the Systems Europe Inherited
+### 72. 01-PHRASE-15 — Zero, Algebra, and the Systems Europe Inherited
 
 
 
@@ -1071,7 +1071,7 @@ Version: 1.0
 - **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
 - **Engine Link:** Care
 
-### 74. 01-CONCEPT-17 — Zero
+### 73. 01-OBJ-18 — Zero
 
 
 
@@ -1085,7 +1085,7 @@ Version: 1.0
 - **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
 - **Engine Link:** Care
 
-### 75. 01-CONCEPT-18 — Binary
+### 74. 01-OBJ-19 — Binary
 
 
 
@@ -1100,7 +1100,7 @@ Version: 1.0
 - **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
 - **Engine Link:** Care
 
-### 76. 01-CONCEPT-19 — Algebra
+### 75. 01-OBJ-20 — Algebra
 
 
 
@@ -1115,7 +1115,7 @@ Version: 1.0
 - **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
 - **Engine Link:** Care
 
-### 77. 01-CONCEPT-20 — Algorithm
+### 76. 01-OBJ-21 — Algorithm
 
 
 
@@ -1130,7 +1130,7 @@ Version: 1.0
 - **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
 - **Engine Link:** Information
 
-### 78. 01-CHAR-11 — al-Khwarizmi
+### 77. 01-CHAR-11 — al-Khwarizmi
 
 
 
@@ -1146,7 +1146,7 @@ Version: 1.0
 - **Introduced In:** Zero, Algebra, and the Systems Europe Inherited
 - **Engine Link:** Information
 
-### 79. 01-PHRASE-14 — The Moors, and the Proof of a Larger Lineage
+### 78. 01-PHRASE-16 — The Moors, and the Proof of a Larger Lineage
 
 
 
@@ -1160,7 +1160,7 @@ Version: 1.0
 - **Introduced In:** The Moors, and the Proof of a Larger Lineage
 - **Engine Link:** Care
 
-### 80. 01-CONCEPT-21 — Moorish lineage
+### 79. 01-SYMBOL-06 — Moorish lineage
 
 
 
@@ -1175,7 +1175,7 @@ Version: 1.0
 - **Introduced In:** The Moors, and the Proof of a Larger Lineage
 - **Engine Link:** Information
 
-### 81. 01-CONCEPT-22 — Islam
+### 80. 01-SYMBOL-07 — Islam
 
 
 
@@ -1190,7 +1190,7 @@ Version: 1.0
 - **Introduced In:** The Moors, and the Proof of a Larger Lineage
 - **Engine Link:** Care
 
-### 82. 01-PLACE-19 — Al-Andalus (Islamic Spain)
+### 81. 01-PLACE-19 — Al-Andalus (Islamic Spain)
 
 
 
@@ -1205,7 +1205,7 @@ Version: 1.0
 - **Introduced In:** The Moors, and the Proof of a Larger Lineage
 - **Engine Link:** Information
 
-### 83. 01-PLACE-20 — Alhambra
+### 82. 01-PLACE-20 — Alhambra
 
 
 
@@ -1219,7 +1219,7 @@ Version: 1.0
 - **Introduced In:** The Moors, and the Proof of a Larger Lineage
 - **Engine Link:** Information
 
-### 84. 01-PLACE-21 — Morocco
+### 83. 01-PLACE-21 — Morocco
 
 
 
@@ -1233,7 +1233,7 @@ Version: 1.0
 - **Introduced In:** The Moors, and the Proof of a Larger Lineage
 - **Engine Link:** Care
 
-### 85. 01-PHRASE-15 — Names as Prophecy
+### 84. 01-PHRASE-17 — Names as Prophecy
 
 
 
@@ -1247,7 +1247,7 @@ Version: 1.0
 - **Introduced In:** Names as Prophecy
 - **Engine Link:** Care
 
-### 86. 01-CONCEPT-23 — Prophets of Islam
+### 85. 01-SYMBOL-08 — Prophets of Islam
 
 
 
@@ -1262,7 +1262,7 @@ Version: 1.0
 - **Introduced In:** Names as Prophecy
 - **Engine Link:** Care
 
-### 87. 01-CONCEPT-24 — Data science
+### 86. 01-OBJ-22 — Data science
 
 
 
@@ -1277,7 +1277,7 @@ Version: 1.0
 - **Introduced In:** Names as Prophecy
 - **Engine Link:** Information
 
-### 89. 01-PHRASE-16 — Code Is Not Software — It Is Power
+### 87. 01-PHRASE-18 — Code Is Not Software — It Is Power
 
 
 
@@ -1291,7 +1291,7 @@ Version: 1.0
 - **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
-### 90. 01-PHRASE-17 — Digital Māyā
+### 88. 01-PHRASE-19 — Digital Māyā
 
 
 
@@ -1305,7 +1305,7 @@ Version: 1.0
 - **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
-### 91. 01-CONCEPT-26 — Digital Maya
+### 89. 01-OBJ-11 — Digital Maya
 
 
 
@@ -1320,7 +1320,7 @@ Version: 1.0
 - **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
-### 92. 01-CONCEPT-27 — Maya (Hindu concept)
+### 90. 01-OBJ-12 — Maya (Hindu concept)
 
 
 
@@ -1335,7 +1335,7 @@ Version: 1.0
 - **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
-### 97. 01-CONCEPT-30 — Geometry of Medicine
+### 91. 01-OBJ-13 — Geometry of Medicine
 
 
 
@@ -1350,7 +1350,7 @@ Version: 1.0
 - **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
-### 57. 01-CONCEPT-13 — Access
+### 92. 01-ORG-01 — Access
 
 
 
@@ -1365,7 +1365,7 @@ Version: 1.0
 - **Introduced In:** Digital Māyā
 - **Engine Link:** Information
 
-### 56. 01-CONCEPT-12 — Coverage
+### 93. 01-OBJ-15 — Coverage
 
 
 
@@ -1379,7 +1379,7 @@ Version: 1.0
 - **Introduced In:** Digital Māyā
 - **Engine Link:** Information
 
-### 96. 01-CONCEPT-29 — Hinduism
+### 94. 01-SYMBOL-09 — Hinduism
 
 
 
@@ -1393,7 +1393,7 @@ Version: 1.0
 
 - **Introduced In:** Digital Māyā
 - **Engine Link:** Care
-### 93. 01-PHRASE-18 — The Counterattack
+### 95. 01-PHRASE-19 — The Counterattack
 
 
 
@@ -1407,7 +1407,7 @@ Version: 1.0
 - **Introduced In:** The Counterattack
 - **Engine Link:** Care
 
-### 33. 01-CHAR-03 — Mama (maternal grandmother)
+### 96. 01-CHAR-03 — Mama (maternal grandmother)
 
 
 
@@ -1424,7 +1424,7 @@ Version: 1.0
 - **Introduced In:** The Counterattack
 - **Engine Link:** Information
 
-### 88. 01-CONCEPT-25 — Prediction and pattern recognition
+### 97. 01-OBJ-23 — Prediction and pattern recognition
 
 
 

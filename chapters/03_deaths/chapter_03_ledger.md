@@ -23,7 +23,7 @@ Version: 1.0
 - **Introduced In:** Deaths: Where the Burden Falls
 - **Engine Link:** Care
 
-### 42. 03-PHRASE-06 — The Geography of Absence
+### 2. 03-PHRASE-06 — The Geography of Absence
 
 
 
@@ -37,7 +37,7 @@ Version: 1.0
 - **Introduced In:** Deaths: Where the Burden Falls
 - **Engine Link:** Care
 
-### 49. 03-PHRASE-08 — Clinical Trials — Where Future Deaths Are Decided
+### 3. 03-PHRASE-07 — Clinical Trials — Where Future Deaths Are Decided
 
 
 
@@ -51,7 +51,7 @@ Version: 1.0
 - **Introduced In:** Deaths: Where the Burden Falls
 - **Engine Link:** Discovery
 
-### 35. 03-CONCEPT-22 — Redlining
+### 4. 03-PHRASE-08 — Redlining
 
 
 
@@ -66,7 +66,7 @@ Version: 1.0
 - **Introduced In:** Deaths: Where the Burden Falls
 - **Engine Link:** Care
 
-### 45. 03-CONCEPT-25 — Data completeness
+### 5. 03-CONCEPT-05 — Data completeness
 
 
 
@@ -80,7 +80,7 @@ Version: 1.0
 - **Introduced In:** Deaths: Where the Burden Falls
 - **Engine Link:** Information
 
-### 21. 03-CONCEPT-13 — Chronic kidney disease (CKD)
+### 6. 03-HIST-01 — Chronic kidney disease (CKD)
 
 
 
@@ -95,7 +95,7 @@ Version: 1.0
 - **Introduced In:** Deaths: Where the Burden Falls
 - **Engine Link:** Care
 
-### 8. 03-EVID-01 — Breast cancer mortality gap (DeSantis et al. 2022)
+### 7. 03-EVID-01 — Breast cancer mortality gap (DeSantis et al. 2022)
 
 
 
@@ -111,7 +111,7 @@ Version: 1.0
 - **Introduced In:** Deaths: Where the Burden Falls
 - **Engine Link:** Care
 
-### 9. 03-EVID-02 — Breast cancer disparity review (Daly & Olopade 2022)
+### 8. 03-EVID-02 — Breast cancer disparity review (Daly & Olopade 2022)
 
 
 
@@ -127,7 +127,7 @@ Version: 1.0
 - **Introduced In:** Deaths: Where the Burden Falls
 - **Engine Link:** Care
 
-### 18. 03-CONCEPT-10 — Hypertension
+### 9. 03-HIST-02 — Hypertension
 
 
 
@@ -141,7 +141,7 @@ Version: 1.0
 - **Introduced In:** Deaths: Where the Burden Falls
 - **Engine Link:** Information
 
-### 52. 03-CONCEPT-28 — GWAS
+### 10. 03-OBJ-01 — GWAS
 
 
 
@@ -156,7 +156,7 @@ Version: 1.0
 - **Introduced In:** Deaths: Where the Burden Falls
 - **Engine Link:** Information
 
-### 14. 03-PLACE-01 — UCSF
+### 11. 03-PLACE-01 — UCSF
 
 
 
@@ -170,7 +170,7 @@ Version: 1.0
 - **Introduced In:** The UCSF Revelation — Diseases Don’t Come One at a Time
 - **Engine Link:** Discovery
 
-### 15. 03-CHAR-01 — Esteban Gonzalez Burchard
+### 12. 03-CHAR-01 — Esteban Gonzalez Burchard
 
 
 
@@ -186,7 +186,7 @@ Version: 1.0
 - **Introduced In:** The UCSF Revelation — Diseases Don’t Come One at a Time
 - **Engine Link:** Information
 
-### 50. 03-CONCEPT-27 — Underrepresentation in trials
+### 13. 03-CONCEPT-06 — Underrepresentation in trials
 
 
 
@@ -201,7 +201,7 @@ Version: 1.0
 - **Introduced In:** The UCSF Revelation — Diseases Don’t Come One at a Time
 - **Engine Link:** Information
 
-### 46. 03-CONCEPT-26 — Genomic recurrence scoring
+### 14. 03-OBJ-02 — Genomic recurrence scoring
 
 
 
@@ -216,7 +216,7 @@ Version: 1.0
 - **Introduced In:** The UCSF Revelation — Diseases Don’t Come One at a Time
 - **Engine Link:** Information
 
-### 66. 03-CONCEPT-36 — Recruitment cost differential
+### 15. 03-CONCEPT-07 — Recruitment cost differential
 
 
 
@@ -231,7 +231,7 @@ Version: 1.0
 - **Introduced In:** The UCSF Revelation — Diseases Don’t Come One at a Time
 - **Engine Link:** Care
 
-### 25. 03-EVID-03 — Asthma disparities (Akinbami et al. 2012; Burchard et al. 2014)
+### 16. 03-EVID-03 — Asthma disparities (Akinbami et al. 2012; Burchard et al. 2014)
 
 
 
@@ -247,7 +247,7 @@ Version: 1.0
 - **Introduced In:** The UCSF Revelation — Diseases Don’t Come One at a Time
 - **Engine Link:** Care
 
-### 26. 03-EVID-04 — Puerto Rican asthma prevalence (Nishimura & Burchard 2015)
+### 17. 03-EVID-04 — Puerto Rican asthma prevalence (Nishimura & Burchard 2015)
 
 
 
@@ -263,7 +263,7 @@ Version: 1.0
 - **Introduced In:** The UCSF Revelation — Diseases Don’t Come One at a Time
 - **Engine Link:** Care
 
-### 27. 03-EVID-05 — African ancestry asthma severity (Kumar et al. 2015)
+### 18. 03-EVID-05 — African ancestry asthma severity (Kumar et al. 2015)
 
 
 
@@ -279,7 +279,7 @@ Version: 1.0
 - **Introduced In:** The UCSF Revelation — Diseases Don’t Come One at a Time
 - **Engine Link:** Information
 
-### 28. 03-EVID-06 — Genomics diversity failure (Popejoy & Fullerton 2016)
+### 19. 03-EVID-06 — Genomics diversity failure (Popejoy & Fullerton 2016)
 
 
 
@@ -295,7 +295,7 @@ Version: 1.0
 - **Introduced In:** The UCSF Revelation — Diseases Don’t Come One at a Time
 - **Engine Link:** Information
 
-### 36. 03-CONCEPT-23 — HbA1c
+### 20. 03-OBJ-03 — HbA1c
 
 
 
@@ -309,7 +309,7 @@ Version: 1.0
 - **Introduced In:** The Multiplicative Nature of Inequity
 - **Engine Link:** Information
 
-### 37. 03-CONCEPT-24 — Electronic health records (EHR)
+### 21. 03-OBJ-04 — Electronic health records (EHR)
 
 
 
@@ -324,7 +324,7 @@ Version: 1.0
 - **Introduced In:** The Multiplicative Nature of Inequity
 - **Engine Link:** Information
 
-### 38. 03-EVID-07 — Hypertension bias (Hoffmann et al. 2018)
+### 22. 03-EVID-07 — Hypertension bias (Hoffmann et al. 2018)
 
 
 
@@ -340,7 +340,7 @@ Version: 1.0
 - **Introduced In:** The Multiplicative Nature of Inequity
 - **Engine Link:** Information
 
-### 39. 03-EVID-08 — Diabetes disparities (Osei et al. 2021)
+### 23. 03-EVID-08 — Diabetes disparities (Osei et al. 2021)
 
 
 
@@ -356,7 +356,7 @@ Version: 1.0
 - **Introduced In:** The Multiplicative Nature of Inequity
 - **Engine Link:** Information
 
-### 40. 03-EVID-09 — Preterm birth inequities (Taylor et al. 2020)
+### 24. 03-EVID-09 — Preterm birth inequities (Taylor et al. 2020)
 
 
 
@@ -372,7 +372,7 @@ Version: 1.0
 - **Introduced In:** The Multiplicative Nature of Inequity
 - **Engine Link:** Care
 
-### 41. 03-EVID-10 — APOL1 variants and kidney disease (Genovese et al. 2010)
+### 25. 03-EVID-10 — APOL1 variants and kidney disease (Genovese et al. 2010)
 
 
 
@@ -388,7 +388,7 @@ Version: 1.0
 - **Introduced In:** The Multiplicative Nature of Inequity
 - **Engine Link:** Information
 
-### 43. 03-PLACE-02 — Florida
+### 26. 03-PLACE-02 — Florida
 
 
 
@@ -402,7 +402,7 @@ Version: 1.0
 - **Introduced In:** The Geography of Absence
 - **Engine Link:** Care
 
-### 44. 03-PLACE-03 — Central Florida
+### 27. 03-PLACE-03 — Central Florida
 
 
 
@@ -416,7 +416,7 @@ Version: 1.0
 - **Introduced In:** The Geography of Absence
 - **Engine Link:** Care
 
-### 47. 03-PHRASE-07 — Institutional mirror
+### 28. 03-PHRASE-09 — Institutional mirror
 
 
 
@@ -431,7 +431,7 @@ Version: 1.0
 - **Introduced In:** The Geography of Absence
 - **Engine Link:** Information
 
-### 61. 03-EVID-13 — COVID-19 mortality inequities (Hill et al. 2021)
+### 29. 03-EVID-13 — COVID-19 mortality inequities (Hill et al. 2021)
 
 
 
@@ -447,7 +447,7 @@ Version: 1.0
 - **Introduced In:** The Geography of Absence
 - **Engine Link:** Care
 
-### 51. 03-EVID-12 — Clinical trial underrepresentation (Loree et al. 2021)
+### 30. 03-EVID-12 — Clinical trial underrepresentation (Loree et al. 2021)
 
 
 
@@ -463,7 +463,7 @@ Version: 1.0
 - **Introduced In:** Clinical Trials — Where Future Deaths Are Decided
 - **Engine Link:** Information
 
-### 53. 03-CONCEPT-29 — European ancestry
+### 31. 03-SYMBOL-01 — European ancestry
 
 
 
@@ -477,7 +477,7 @@ Version: 1.0
 - **Introduced In:** Clinical Trials — Where Future Deaths Are Decided
 - **Engine Link:** Discovery
 
-### 56. 03-CONCEPT-32 — Indigenous
+### 32. 03-SYMBOL-02 — Indigenous
 
 
 
@@ -492,7 +492,7 @@ Version: 1.0
 - **Introduced In:** Clinical Trials — Where Future Deaths Are Decided
 - **Engine Link:** Information
 
-### 57. 03-CONCEPT-33 — Asian
+### 33. 03-SYMBOL-03 — Asian
 
 
 
@@ -506,7 +506,7 @@ Version: 1.0
 - **Introduced In:** Clinical Trials — Where Future Deaths Are Decided
 - **Engine Link:** Information
 
-### 63. 03-ORG-01 — University of Central Florida
+### 34. 03-ORG-01 — University of Central Florida
 
 
 
@@ -521,7 +521,7 @@ Version: 1.0
 - **Introduced In:** COVID-19 — The Exposing Event
 - **Engine Link:** Discovery
 
-### 64. 03-ORG-02 — Facebook
+### 35. 03-ORG-02 — Facebook
 
 
 
@@ -535,7 +535,7 @@ Version: 1.0
 - **Introduced In:** COVID-19 — The Exposing Event
 - **Engine Link:** Information
 
-### 65. 03-ORG-03 — ClinicalTrials.gov
+### 36. 03-ORG-03 — ClinicalTrials.gov
 
 
 
@@ -549,7 +549,7 @@ Version: 1.0
 - **Introduced In:** COVID-19 — The Exposing Event
 - **Engine Link:** Information
 
-### 71. 03-PHRASE-11 — Mortality is the only KPI that matters.
+### 37. 03-PHRASE-10 — Mortality is the only KPI that matters.
 
 
 
@@ -563,7 +563,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 74. 03-PLACE-04 — West Philadelphia
+### 38. 03-PLACE-04 — West Philadelphia
 
 
 
@@ -577,7 +577,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 75. 03-PLACE-05 — San Francisco’s Mission District
+### 39. 03-PLACE-05 — San Francisco’s Mission District
 
 
 
@@ -592,7 +592,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 76. 03-PLACE-06 — United States
+### 40. 03-PLACE-06 — United States
 
 
 
@@ -607,7 +607,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 77. 03-CHAR-02 — Daughters (author’s)
+### 41. 03-CHAR-02 — Daughters (author’s)
 
 
 
@@ -624,7 +624,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 2. 03-PHRASE-02 — The billable code is the fundamental economic unit of American healthcare.
+### 42. 03-PHRASE-02 — The billable code is the fundamental economic unit of American healthcare.
 
 
 
@@ -638,7 +638,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 3. 03-PHRASE-03 — Codes are not neutral.
+### 43. 03-PHRASE-04 — Codes are not neutral.
 
 
 
@@ -652,7 +652,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 4. 03-CONCEPT-01 — Deaths follow representation
+### 44. 03-PHRASE-03 — Deaths follow representation
 
 
 
@@ -667,7 +667,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 5. 03-CONCEPT-02 — Mortality as ledger
+### 45. 03-HIST-03 — Mortality as ledger
 
 
 
@@ -682,7 +682,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 6. 03-CONCEPT-03 — Mortality gap
+### 46. 03-OBJ-05 — Mortality gap
 
 
 
@@ -697,7 +697,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 7. 03-CONCEPT-04 — Extraction
+### 47. 03-CONCEPT-08 — Extraction
 
 
 
@@ -712,7 +712,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 10. 03-CONCEPT-05 — Breast cancer
+### 48. 03-HIST-03 — Breast cancer
 
 
 
@@ -726,7 +726,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 11. 03-CONCEPT-06 — Precision medicine
+### 49. 03-OBJ-05 — Precision medicine
 
 
 
@@ -740,7 +740,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 12. 03-CONCEPT-07 — Billable Code
+### 50. 03-CONCEPT-09 — Billable Code
 
 
 
@@ -755,7 +755,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 13. 03-PHRASE-04 — The UCSF Revelation — Diseases Don’t Come One at a Time
+### 51. 03-PHRASE-11 — The UCSF Revelation — Diseases Don’t Come One at a Time
 
 
 
@@ -769,7 +769,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 16. 03-CONCEPT-08 — Comorbidity
+### 52. 03-HIST-04 — Comorbidity
 
 
 
@@ -784,7 +784,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 17. 03-CONCEPT-09 — Asthma
+### 53. 03-HIST-04 — Asthma
 
 
 
@@ -798,7 +798,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 19. 03-CONCEPT-11 — Diabetes
+### 54. 03-HIST-05 — Diabetes
 
 
 
@@ -812,7 +812,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 20. 03-CONCEPT-12 — Preterm birth
+### 55. 03-HIST-06 — Preterm birth
 
 
 
@@ -827,7 +827,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 22. 03-CONCEPT-14 — Puerto Rican
+### 56. 03-SYMBOL-04 — Puerto Rican
 
 
 
@@ -841,7 +841,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 23. 03-CONCEPT-15 — African ancestry
+### 57. 03-SYMBOL-05 — African ancestry
 
 
 
@@ -855,7 +855,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 24. 03-CONCEPT-16 — APOL1
+### 58. 03-OBJ-06 — APOL1
 
 
 
@@ -869,7 +869,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 29. 03-PHRASE-05 — The Multiplicative Nature of Inequity
+### 59. 03-PHRASE-12 — The Multiplicative Nature of Inequity
 
 
 
@@ -883,7 +883,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 30. 03-CONCEPT-17 — Multiplicative risk
+### 60. 03-HIST-02 — Multiplicative risk
 
 
 
@@ -897,7 +897,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 31. 03-CONCEPT-18 — Polygenic scores
+### 61. 03-OBJ-07 — Polygenic scores
 
 
 
@@ -912,7 +912,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 32. 03-CONCEPT-19 — Machine-learning prognostics
+### 62. 03-OBJ-08 — Machine-learning prognostics
 
 
 
@@ -927,7 +927,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 33. 03-CONCEPT-20 — EHR-based algorithms
+### 63. 03-OBJ-09 — EHR-based algorithms
 
 
 
@@ -941,7 +941,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 34. 03-CONCEPT-21 — Social determinants of health
+### 64. 03-HIST-05 — Social determinants of health
 
 
 
@@ -955,7 +955,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 48. 03-EVID-11 — Mammography follow-up delays (Fedewa et al. 2020)
+### 65. 03-EVID-11 — Mammography follow-up delays (Fedewa et al. 2020)
 
 
 
@@ -971,7 +971,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 54. 03-CONCEPT-30 — Latino
+### 66. 03-SYMBOL-06 — Latino
 
 
 
@@ -986,7 +986,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 55. 03-CONCEPT-31 — Hispanic
+### 67. 03-SYMBOL-07 — Hispanic
 
 
 
@@ -1000,7 +1000,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 58. 03-PHRASE-09 — COVID-19 — The Exposing Event
+### 68. 03-PHRASE-05 — COVID-19 — The Exposing Event
 
 
 
@@ -1014,7 +1014,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 59. 03-CONCEPT-34 — COVID-19
+### 69. 03-HIST-07 — COVID-19
 
 
 
@@ -1028,7 +1028,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 60. 03-CONCEPT-35 — Metaverse of medical data
+### 70. 03-OBJ-10 — Metaverse of medical data
 
 
 
@@ -1043,7 +1043,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 62. 03-EVID-14 — Decentralized imaging trial (NCT05384912)
+### 71. 03-EVID-14 — Decentralized imaging trial (NCT05384912)
 
 
 
@@ -1059,7 +1059,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Discovery
 
-### 67. 03-CONCEPT-37 — Black
+### 72. 03-SYMBOL-08 — Black
 
 
 
@@ -1074,7 +1074,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 68. 03-CONCEPT-38 — White
+### 73. 03-SYMBOL-09 — White
 
 
 
@@ -1089,7 +1089,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 69. 03-CONCEPT-39 — Native
+### 74. 03-SYMBOL-10 — Native
 
 
 
@@ -1104,7 +1104,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 70. 03-PHRASE-10 — The Arithmetic of Death
+### 75. 03-PHRASE-13 — The Arithmetic of Death
 
 
 
@@ -1118,7 +1118,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Care
 
-### 72. 03-CONCEPT-40 — Underrepresented ancestry
+### 76. 03-SYMBOL-11 — Underrepresented ancestry
 
 
 
@@ -1133,7 +1133,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 73. 03-CONCEPT-41 — AI models
+### 77. 03-OBJ-11 — AI models
 
 
 
@@ -1148,7 +1148,7 @@ Version: 1.0
 - **Introduced In:** The Arithmetic of Death
 - **Engine Link:** Information
 
-### 78. 03-PHRASE-12 — Dividends rise. Deaths fall.
+### 78. 03-PHRASE-13 — Dividends rise. Deaths fall.
 
 
 

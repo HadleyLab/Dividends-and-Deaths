@@ -28,6 +28,7 @@ Applies to the Prologue and all chapters.
 - All other living people must:
   - remain unnamed, or
   - be referred to by role, relationship, or function
+- Role-based labels (e.g., "wife," "children," "co-resident," "pastor") are permitted when no proper name is given.
 - Deceased people may be named only if:
   - they are family members, or
   - they are public historical or scientific figures

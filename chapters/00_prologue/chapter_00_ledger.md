@@ -85,7 +85,7 @@ Version: 1.3
 - **Introduced In:** The Mother of Precision Medicine
 - **Engine Link:** Discovery
 
-### 9. 00-PHRASE-02 — Behind God’s Back
+### 6. 00-PHRASE-02 — Behind God’s Back
 
 
 
@@ -99,7 +99,7 @@ Version: 1.3
 - **Introduced In:** Behind God’s Back
 - **Engine Link:** Care
 
-### 10. 00-CHAR-01 — Father - Leonard Kempthorne
+### 7. 00-CHAR-01 — Father - Leonard Kempthorne
 
 
 
@@ -116,7 +116,7 @@ Version: 1.3
 - **Introduced In:** Behind God’s Back
 - **Engine Link:** Care
 
-### 11. 00-CHAR-02 — Granny Veronica
+### 8. 00-CHAR-02 — Granny Veronica
 
 
 
@@ -133,7 +133,7 @@ Version: 1.3
 - **Introduced In:** Behind God’s Back
 - **Engine Link:** Information
 
-### 12. 00-CHAR-03 — Aunty Betty
+### 9. 00-CHAR-03 — Aunty Betty
 
 
 
@@ -149,7 +149,7 @@ Version: 1.3
 - **Introduced In:** Behind God’s Back
 - **Engine Link:** Care
 
-### 27. 00-CHAR-07 — Grandma Anita
+### 10. 00-CHAR-10 — Grandma Anita
 
 
 
@@ -165,7 +165,7 @@ Version: 1.3
 - **Introduced In:** Behind God’s Back
 - **Engine Link:** Care
 
-### 14. 00-PLACE-02 — Charlotteville, Tobago
+### 11. 00-PLACE-02 — Charlotteville, Tobago
 
 
 
@@ -180,7 +180,7 @@ Version: 1.3
 - **Introduced In:** Behind God’s Back
 - **Engine Link:** Care
 
-### 15. 00-PLACE-03 — Englishman's Bay
+### 12. 00-PLACE-03 — Englishman's Bay
 
 
 
@@ -195,7 +195,7 @@ Version: 1.3
 - **Introduced In:** Behind God’s Back
 - **Engine Link:** Care
 
-### 17. 00-PLACE-05 — Caribbean Union College
+### 13. 00-PLACE-13 — Caribbean Union College
 
 
 
@@ -209,7 +209,7 @@ Version: 1.3
 - **Introduced In:** Behind God’s Back
 - **Engine Link:** Information
 
-### 18. 00-PHRASE-03 — The Rose from Gasparillo
+### 14. 00-PHRASE-03 — The Rose from Gasparillo
 
 
 
@@ -223,7 +223,7 @@ Version: 1.3
 - **Introduced In:** The Rose from Gasparillo
 - **Engine Link:** Care
 
-### 20. 00-ORG-01 — National Health Service (NHS)
+### 15. 00-ORG-01 — National Health Service (NHS)
 
 
 
@@ -238,7 +238,7 @@ Version: 1.3
 - **Introduced In:** The Rose from Gasparillo
 - **Engine Link:** Information
 
-### 155. 00-ORG-17 — Harvard University
+### 16. 00-ORG-14 — Harvard University
 
 
 
@@ -253,7 +253,7 @@ Version: 1.3
 - **Introduced In:** The Rose from Gasparillo
 - **Engine Link:** Discovery
 
-### 23. 00-PLACE-07 — Andrews University
+### 17. 00-PLACE-04 — Andrews University
 
 
 
@@ -267,7 +267,7 @@ Version: 1.3
 - **Introduced In:** The Rose from Gasparillo
 - **Engine Link:** Discovery
 
-### 62. 00-PLACE-16 — University of Pennsylvania
+### 18. 00-PLACE-14 — University of Pennsylvania
 
 
 
@@ -282,7 +282,7 @@ Version: 1.3
 - **Introduced In:** The Rose from Gasparillo
 - **Engine Link:** Information
 
-### 25. 00-PHRASE-04 — Malta, Mangoes, and Mauby
+### 19. 00-PHRASE-04 — Malta, Mangoes, and Mauby
 
 
 
@@ -296,7 +296,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Care
 
-### 72. 00-CHAR-12 — Hakon Hakonarson
+### 20. 00-CHAR-11 — Hakon Hakonarson
 
 
 
@@ -312,7 +312,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Discovery
 
-### 140. 00-CONCEPT-40 — Precision medicine
+### 21. 00-OBJ-03 — Precision medicine
 
 
 
@@ -327,7 +327,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Care
 
-### 31. 00-RIT-01 — Malta bottle ritual
+### 22. 00-RIT-01 — Malta bottle ritual
 
 
 
@@ -342,7 +342,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Care
 
-### 32. 00-OBJ-02 — Mauby drink
+### 23. 00-OBJ-09 — Mauby drink
 
 
 
@@ -357,7 +357,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Care
 
-### 52. 00-OBJ-05 — IBM 286 clone
+### 24. 00-OBJ-10 — IBM 286 clone
 
 
 
@@ -371,7 +371,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Information
 
-### 34. 00-RIT-02 — Divali bamboo by the river
+### 25. 00-RIT-02 — Divali bamboo by the river
 
 
 
@@ -386,7 +386,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Care
 
-### 35. 00-RIT-03 — Boxing Day
+### 26. 00-RIT-03 — Boxing Day
 
 
 
@@ -400,7 +400,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Care
 
-### 36. 00-RIT-04 — Christmas
+### 27. 00-RIT-04 — Christmas
 
 
 
@@ -414,7 +414,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Care
 
-### 37. 00-RIT-05 — Sabbath
+### 28. 00-RIT-05 — Sabbath
 
 
 
@@ -429,7 +429,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Information
 
-### 38. 00-RIT-06 — Pooja and bhajan prayers
+### 29. 00-RIT-06 — Pooja and bhajan prayers
 
 
 
@@ -444,7 +444,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Information
 
-### 39. 00-RIT-07 — Hindu cremation pyre by the village creek
+### 30. 00-RIT-07 — Hindu cremation pyre by the village creek
 
 
 
@@ -459,7 +459,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Care
 
-### 40. 00-HIST-02 — Red House fire of 1903
+### 31. 00-HIST-02 — Red House fire of 1903
 
 
 
@@ -473,7 +473,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Information
 
-### 45. 00-SYMBOL-02 — Fatima naming lineage
+### 32. 00-SYMBOL-02 — Fatima naming lineage
 
 
 
@@ -488,7 +488,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Care
 
-### 46. 00-SYMBOL-03 — Virgin Mary
+### 33. 00-SYMBOL-03 — Virgin Mary
 
 
 
@@ -502,7 +502,7 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Information
 
-### 48. 00-CONCEPT-05 — Universal men
+### 34. 00-PHRASE-06 — Universal men
 
 
 
@@ -517,7 +517,7 @@ Version: 1.3
 - **Introduced In:** A Long Line of Universal Men
 - **Engine Link:** Care
 
-### 47. 00-PHRASE-05 — A Long Line of Universal Men
+### 35. 00-PHRASE-07 — A Long Line of Universal Men
 
 
 
@@ -531,7 +531,7 @@ Version: 1.3
 - **Introduced In:** A Long Line of Universal Men
 - **Engine Link:** Care
 
-### 49. 00-ORG-03 — Commonwealth of Nations
+### 36. 00-ORG-03 — Commonwealth of Nations
 
 
 
@@ -546,7 +546,7 @@ Version: 1.3
 - **Introduced In:** A Long Line of Universal Men
 - **Engine Link:** Information
 
-### 50. 00-PHRASE-06 — Code and Calling
+### 37. 00-PHRASE-08 — Code and Calling
 
 
 
@@ -560,7 +560,7 @@ Version: 1.3
 - **Introduced In:** Code and Calling
 - **Engine Link:** Information
 
-### 53. 00-FORESHADOW-01 — Code before medicine
+### 38. 00-FORESHADOW-01 — Code before medicine
 
 
 
@@ -575,7 +575,7 @@ Version: 1.3
 - **Introduced In:** Code and Calling
 - **Engine Link:** Information
 
-### 139. 00-CONCEPT-39 — Personalized medicine
+### 39. 00-OBJ-04 — Personalized medicine
 
 
 
@@ -590,7 +590,7 @@ Version: 1.3
 - **Introduced In:** Code and Calling
 - **Engine Link:** Information
 
-### 55. 00-PHRASE-07 — Migration and the Cost of Opportunity
+### 40. 00-PHRASE-09 — Migration and the Cost of Opportunity
 
 
 
@@ -604,7 +604,7 @@ Version: 1.3
 - **Introduced In:** Migration and the Cost of Opportunity
 - **Engine Link:** Care
 
-### 57. 00-PLACE-13 — Orlando, Florida
+### 41. 00-PLACE-05 — Orlando, Florida
 
 
 
@@ -619,7 +619,7 @@ Version: 1.3
 - **Introduced In:** Migration and the Cost of Opportunity
 - **Engine Link:** Care
 
-### 159. 00-PLACE-24 — Spain
+### 42. 00-PLACE-15 — Spain
 
 
 
@@ -633,7 +633,7 @@ Version: 1.3
 - **Introduced In:** Migration and the Cost of Opportunity
 - **Engine Link:** Information
 
-### 59. 00-PLACE-15 — United States
+### 43. 00-PLACE-16 — United States
 
 
 
@@ -647,7 +647,7 @@ Version: 1.3
 - **Introduced In:** Migration and the Cost of Opportunity
 - **Engine Link:** Care
 
-### 60. 00-HIST-03 — HIV epidemic
+### 44. 00-HIST-03 — HIV epidemic
 
 
 
@@ -661,7 +661,7 @@ Version: 1.3
 - **Introduced In:** Migration and the Cost of Opportunity
 - **Engine Link:** Information
 
-### 61. 00-PHRASE-08 — Franklin’s University and the Promise of Precision
+### 45. 00-PHRASE-10 — Franklin’s University and the Promise of Precision
 
 
 
@@ -675,7 +675,7 @@ Version: 1.3
 - **Introduced In:** Franklin’s University and the Promise of Precision
 - **Engine Link:** Discovery
 
-### 63. 00-CHAR-10 — Benjamin Franklin
+### 46. 00-CHAR-12 — Benjamin Franklin
 
 
 
@@ -692,7 +692,7 @@ Version: 1.3
 - **Introduced In:** Franklin’s University and the Promise of Precision
 - **Engine Link:** Discovery
 
-### 64. 00-ORG-04 — Quakers (Religious Society of Friends)
+### 47. 00-ORG-04 — Quakers (Religious Society of Friends)
 
 
 
@@ -707,7 +707,7 @@ Version: 1.3
 - **Introduced In:** Franklin’s University and the Promise of Precision
 - **Engine Link:** Discovery
 
-### 65. 00-CONCEPT-08 — Ivy League
+### 48. 00-ORG-06 — Ivy League
 
 
 
@@ -721,7 +721,7 @@ Version: 1.3
 - **Introduced In:** Franklin’s University and the Promise of Precision
 - **Engine Link:** Discovery
 
-### 114. 00-CHAR-16 — Wife (Spanish Moroccan)
+### 49. 00-CHAR-04 — Wife (Spanish Moroccan)
 
 
 
@@ -738,7 +738,7 @@ Version: 1.3
 - **Introduced In:** Franklin’s University and the Promise of Precision
 - **Engine Link:** Discovery
 
-### 68. 00-POLICY-01 — Precision Medicine Initiative
+### 50. 00-POLICY-01 — Precision Medicine Initiative
 
 
 
@@ -752,7 +752,7 @@ Version: 1.3
 - **Introduced In:** Franklin’s University and the Promise of Precision
 - **Engine Link:** Discovery
 
-### 69. 00-ORG-05 — Children’s Hospital of Philadelphia (CHOP)
+### 51. 00-ORG-15 — Children’s Hospital of Philadelphia (CHOP)
 
 
 
@@ -767,7 +767,7 @@ Version: 1.3
 - **Introduced In:** Franklin’s University and the Promise of Precision
 - **Engine Link:** Information
 
-### 70. 00-PLACE-17 — West Philadelphia
+### 52. 00-PLACE-17 — West Philadelphia
 
 
 
@@ -781,7 +781,7 @@ Version: 1.3
 - **Introduced In:** Franklin’s University and the Promise of Precision
 - **Engine Link:** Discovery
 
-### 141. 00-CONCEPT-41 — Genomics and Computational Biology
+### 53. 00-ORG-08 — Genomics and Computational Biology
 
 
 
@@ -795,7 +795,7 @@ Version: 1.3
 - **Introduced In:** Franklin’s University and the Promise of Precision
 - **Engine Link:** Information
 
-### 75. 00-PHRASE-09 — The Transitional Year and the Decision Not to Cut
+### 54. 00-PHRASE-11 — The Transitional Year and the Decision Not to Cut
 
 
 
@@ -809,7 +809,7 @@ Version: 1.3
 - **Introduced In:** The Transitional Year and the Decision Not to Cut
 - **Engine Link:** Care
 
-### 76. 00-ORG-07 — Hospital of the University of Pennsylvania
+### 55. 00-ORG-09 — Hospital of the University of Pennsylvania
 
 
 
@@ -823,7 +823,7 @@ Version: 1.3
 - **Introduced In:** The Transitional Year and the Decision Not to Cut
 - **Engine Link:** Discovery
 
-### 82. 00-CONCEPT-12 — CPT
+### 56. 00-OBJ-15 — CPT
 
 
 
@@ -837,7 +837,7 @@ Version: 1.3
 - **Introduced In:** Stanford, Ontologies, and the Skeleton of the System
 - **Engine Link:** Information
 
-### 77. 00-PHRASE-10 — Stanford, Ontologies, and the Skeleton of the System
+### 57. 00-PHRASE-12 — Stanford, Ontologies, and the Skeleton of the System
 
 
 
@@ -851,7 +851,7 @@ Version: 1.3
 - **Introduced In:** Stanford, Ontologies, and the Skeleton of the System
 - **Engine Link:** Information
 
-### 78. 00-ORG-08 — Stanford University
+### 58. 00-ORG-16 — Stanford University
 
 
 
@@ -866,7 +866,7 @@ Version: 1.3
 - **Introduced In:** Stanford, Ontologies, and the Skeleton of the System
 - **Engine Link:** Information
 
-### 85. 00-PHRASE-11 — UCSF, Eighty Million Lives, and the Profit of Failure
+### 59. 00-PHRASE-13 — UCSF, Eighty Million Lives, and the Profit of Failure
 
 
 
@@ -880,7 +880,7 @@ Version: 1.3
 - **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
 - **Engine Link:** Information
 
-### 86. 00-PLACE-19 — California
+### 60. 00-PLACE-18 — California
 
 
 
@@ -895,7 +895,7 @@ Version: 1.3
 - **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
 - **Engine Link:** Information
 
-### 90. 00-ORG-10 — University of California health system
+### 61. 00-ORG-10 — University of California health system
 
 
 
@@ -909,7 +909,7 @@ Version: 1.3
 - **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
 - **Engine Link:** Information
 
-### 91. 00-EVID-01 — Gene Expression Omnibus
+### 62. 00-EVID-01 — Gene Expression Omnibus
 
 
 
@@ -923,7 +923,7 @@ Version: 1.3
 - **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
 - **Engine Link:** Information
 
-### 121. 00-OBJ-08 — Urn and ashes at Englishman's Bay
+### 63. 00-OBJ-16 — Urn and ashes at Englishman's Bay
 
 
 
@@ -938,7 +938,7 @@ Version: 1.3
 - **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
 - **Engine Link:** Information
 
-### 142. 00-CONCEPT-42 — Clinical Pathology and Laboratory Medicine
+### 64. 00-ORG-12 — Clinical Pathology and Laboratory Medicine
 
 
 
@@ -952,7 +952,7 @@ Version: 1.3
 - **Introduced In:** UCSF, Eighty Million Lives, and the Profit of Failure
 - **Engine Link:** Information
 
-### 95. 00-PHRASE-12 — Florida, DEI, and a Pacemaker Serial Number
+### 65. 00-PHRASE-14 — Florida, DEI, and a Pacemaker Serial Number
 
 
 
@@ -966,7 +966,7 @@ Version: 1.3
 - **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
 - **Engine Link:** Care
 
-### 97. 00-ORG-11 — University of Central Florida
+### 66. 00-ORG-17 — University of Central Florida
 
 
 
@@ -981,7 +981,7 @@ Version: 1.3
 - **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
 - **Engine Link:** Discovery
 
-### 104. 00-POLICY-03 — Casey DeSantis Breast Cancer Research grant
+### 67. 00-POLICY-04 — Casey DeSantis Breast Cancer Research grant
 
 
 
@@ -995,7 +995,7 @@ Version: 1.3
 - **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
 - **Engine Link:** Discovery
 
-### 143. 00-CONCEPT-43 — Systems Medicine
+### 68. 00-ORG-18 — Systems Medicine
 
 
 
@@ -1009,7 +1009,7 @@ Version: 1.3
 - **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
 - **Engine Link:** Information
 
-### 138. 00-CONCEPT-38 — Polio vaccine
+### 69. 00-OBJ-07 — Polio vaccine
 
 
 
@@ -1024,7 +1024,7 @@ Version: 1.3
 - **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
 - **Engine Link:** Care
 
-### 144. 00-CONCEPT-44 — DEI
+### 70. 00-POLICY-02 — DEI
 
 
 
@@ -1038,7 +1038,7 @@ Version: 1.3
 - **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
 - **Engine Link:** Information
 
-### 109. 00-CONCEPT-19 — Dialysis
+### 71. 00-HIST-05 — Dialysis
 
 
 
@@ -1053,7 +1053,7 @@ Version: 1.3
 - **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
 - **Engine Link:** Care
 
-### 111. 00-PLACE-22 — Nursing home
+### 72. 00-PLACE-19 — Nursing home
 
 
 
@@ -1067,7 +1067,7 @@ Version: 1.3
 - **Introduced In:** Florida, DEI, and a Pacemaker Serial Number
 - **Engine Link:** Information
 
-### 112. 00-PHRASE-13 — Alzheimer’s, Culture, and COVID
+### 73. 00-PHRASE-15 — Alzheimer’s, Culture, and COVID
 
 
 
@@ -1081,7 +1081,7 @@ Version: 1.3
 - **Introduced In:** Alzheimer’s, Culture, and COVID
 - **Engine Link:** Care
 
-### 113. 00-PHRASE-14 — A Universal Future
+### 74. 00-PHRASE-16 — A Universal Future
 
 
 
@@ -1095,7 +1095,7 @@ Version: 1.3
 - **Introduced In:** A Universal Future
 - **Engine Link:** Care
 
-### 115. 00-CHAR-17 — Children (author’s)
+### 75. 00-CHAR-13 — Children (author’s)
 
 
 
@@ -1112,7 +1112,7 @@ Version: 1.3
 - **Introduced In:** A Universal Future
 - **Engine Link:** Care
 
-### 117. 00-CONCEPT-21 — Spanish
+### 76. 00-SYMBOL-04 — Spanish
 
 
 
@@ -1126,7 +1126,7 @@ Version: 1.3
 - **Introduced In:** A Universal Future
 - **Engine Link:** Care
 
-### 118. 00-CONCEPT-22 — Arabic
+### 77. 00-SYMBOL-05 — Arabic
 
 
 
@@ -1140,7 +1140,7 @@ Version: 1.3
 - **Introduced In:** A Universal Future
 - **Engine Link:** Care
 
-### 119. 00-CONCEPT-23 — English
+### 78. 00-SYMBOL-06 — English
 
 
 
@@ -1154,7 +1154,7 @@ Version: 1.3
 - **Introduced In:** A Universal Future
 - **Engine Link:** Care
 
-### 120. 00-PHRASE-15 — Dividends & Deaths
+### 79. 00-PHRASE-22 — Dividends & Deaths
 
 
 
@@ -1168,7 +1168,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 122. 00-CHAR-18 — Seventh-day Adventist pastor
+### 80. 00-CHAR-14 — Seventh-day Adventist pastor
 
 
 
@@ -1184,7 +1184,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 6. 00-CONCEPT-01 — Dividends and deaths frame
+### 81. 00-PHRASE-17 — Dividends and deaths frame
 
 
 
@@ -1200,7 +1200,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 7. 00-CONCEPT-02 — Billable Code (named as currency)
+### 82. 00-PHRASE-18 — Billable Code (named as currency)
 
 
 
@@ -1215,7 +1215,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 8. 00-CONCEPT-03 — Prologue exit hook
+### 83. 00-PHRASE-19 — Prologue exit hook
 
 
 
@@ -1230,7 +1230,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 13. 00-CHAR-04 — Major Francis Hadley
+### 84. 00-CHAR-06 — Major Francis Hadley
 
 
 
@@ -1247,7 +1247,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 16. 00-PLACE-04 — Trinidad and Tobago
+### 85. 00-PLACE-07 — Trinidad and Tobago
 
 
 
@@ -1262,7 +1262,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 19. 00-CHAR-05 — Pearl Surajee
+### 86. 00-CHAR-15 — Pearl Surajee
 
 
 
@@ -1279,7 +1279,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 21. 00-ORG-02 — Seventh-day Adventist community hospital (Trinidad)
+### 87. 00-ORG-19 — Seventh-day Adventist community hospital (Trinidad)
 
 
 
@@ -1294,7 +1294,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 22. 00-PLACE-06 — Gasparillo, Trinidad
+### 88. 00-PLACE-20 — Gasparillo, Trinidad
 
 
 
@@ -1309,7 +1309,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 24. 00-PLACE-08 — Michigan
+### 89. 00-PLACE-09 — Michigan
 
 
 
@@ -1323,7 +1323,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Discovery
 
-### 26. 00-CHAR-06 — Mama
+### 90. 00-CHAR-05 — Mama
 
 
 
@@ -1340,7 +1340,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 28. 00-CHAR-08 — Grandpa Frank
+### 91. 00-CHAR-16 — Grandpa Frank
 
 
 
@@ -1356,7 +1356,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 29. 00-CHAR-09 — Brother (author’s)
+### 92. 00-CHAR-17 — Brother (author’s)
 
 
 
@@ -1373,7 +1373,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 30. 00-CONCEPT-04 — Dougla
+### 93. 00-PHRASE-17 — Dougla
 
 
 
@@ -1387,7 +1387,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 33. 00-OBJ-03 — Oorni (Hindu headpiece)
+### 94. 00-OBJ-22 — Oorni (Hindu headpiece)
 
 
 
@@ -1402,7 +1402,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 41. 00-PLACE-09 — St. James, Port of Spain
+### 95. 00-PLACE-06 — St. James, Port of Spain
 
 
 
@@ -1417,7 +1417,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 42. 00-PLACE-10 — River Estate
+### 96. 00-PLACE-10 — River Estate
 
 
 
@@ -1431,7 +1431,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Discovery
 
-### 43. 00-PLACE-11 — Barataria
+### 97. 00-PLACE-21 — Barataria
 
 
 
@@ -1445,7 +1445,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 44. 00-PLACE-12 — Fatima College
+### 98. 00-PLACE-11 — Fatima College
 
 
 
@@ -1459,7 +1459,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 51. 00-OBJ-04 — Tandy TRS-80
+### 99. 00-OBJ-10 — Tandy TRS-80
 
 
 
@@ -1474,7 +1474,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 54. 00-CONCEPT-06 — BASIC
+### 100. 00-OBJ-11 — BASIC
 
 
 
@@ -1488,7 +1488,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 56. 00-CONCEPT-07 — Migration as cost
+### 101. 00-PHRASE-20 — Migration as cost
 
 
 
@@ -1503,7 +1503,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 58. 00-PLACE-14 — England
+### 102. 00-PLACE-22 — England
 
 
 
@@ -1517,7 +1517,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 66. 00-HIST-04 — Human Genome Project
+### 103. 00-HIST-08 — Human Genome Project
 
 
 
@@ -1531,7 +1531,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Discovery
 
-### 67. 00-CHAR-11 — Barack Obama
+### 104. 00-CHAR-18 — Barack Obama
 
 
 
@@ -1547,7 +1547,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 71. 00-PLACE-18 — CHOP Center for Applied Genomics (CAG)
+### 105. 00-PLACE-23 — CHOP Center for Applied Genomics (CAG)
 
 
 
@@ -1562,7 +1562,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 73. 00-ORG-06 — NeuroFix Therapeutics
+### 106. 00-ORG-20 — NeuroFix Therapeutics
 
 
 
@@ -1576,7 +1576,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 74. 00-CONCEPT-09 — GWAS
+### 107. 00-OBJ-12 — GWAS
 
 
 
@@ -1590,7 +1590,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Discovery
 
-### 79. 00-CHAR-13 — Mark Musen
+### 108. 00-CHAR-07 — Mark Musen
 
 
 
@@ -1606,7 +1606,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 80. 00-CONCEPT-10 — SNOMED
+### 109. 00-OBJ-13 — SNOMED
 
 
 
@@ -1620,7 +1620,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 81. 00-CONCEPT-11 — ICD
+### 110. 00-OBJ-14 — ICD
 
 
 
@@ -1634,7 +1634,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 83. 00-CONCEPT-13 — ADHD
+### 111. 00-HIST-06 — ADHD
 
 
 
@@ -1648,7 +1648,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 84. 00-CHAR-14 — Atul Butte
+### 112. 00-CHAR-08 — Atul Butte
 
 
 
@@ -1664,7 +1664,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 87. 00-PLACE-20 — UCSF and Bakar Institute
+### 113. 00-PLACE-12 — UCSF and Bakar Institute
 
 
 
@@ -1679,7 +1679,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 88. 00-ORG-09 — Bakar Institute for Computational Health Sciences
+### 114. 00-ORG-21 — Bakar Institute for Computational Health Sciences
 
 
 
@@ -1693,7 +1693,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 89. 00-CHAR-15 — Mark Zuckerberg
+### 115. 00-CHAR-09 — Mark Zuckerberg
 
 
 
@@ -1709,7 +1709,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 92. 00-OBJ-06 — FDG-PET scans
+### 116. 00-OBJ-15 — FDG-PET scans
 
 
 
@@ -1723,7 +1723,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 93. 00-CONCEPT-14 — Alzheimer’s disease
+### 117. 00-HIST-07 — Alzheimer’s disease
 
 
 
@@ -1737,7 +1737,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 94. 00-CONCEPT-15 — Profit from failure
+### 118. 00-PHRASE-21 — Profit from failure
 
 
 
@@ -1752,7 +1752,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 96. 00-PLACE-21 — Florida and UCF
+### 119. 00-PLACE-25 — Florida and UCF
 
 
 
@@ -1767,7 +1767,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 98. 00-ORG-12 — HCA
+### 120. 00-ORG-02 — HCA
 
 
 
@@ -1781,7 +1781,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 99. 00-ORG-13 — AdventHealth
+### 121. 00-ORG-22 — AdventHealth
 
 
 
@@ -1795,7 +1795,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 100. 00-HIST-05 — COVID-19
+### 122. 00-HIST-08 — COVID-19
 
 
 
@@ -1809,7 +1809,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Discovery
 
-### 101. 00-EVID-02 — NCT05384912 decentralized imaging trial
+### 123. 00-EVID-02 — NCT05384912 decentralized imaging trial
 
 
 
@@ -1824,7 +1824,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 102. 00-ORG-14 — Facebook
+### 124. 00-ORG-19 — Facebook
 
 
 
@@ -1838,7 +1838,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 103. 00-POLICY-02 — SB 266 (Florida)
+### 125. 00-POLICY-04 — SB 266 (Florida)
 
 
 
@@ -1853,7 +1853,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 105. 00-ORG-15 — MammoChat
+### 126. 00-ORG-20 — MammoChat
 
 
 
@@ -1867,7 +1867,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 106. 00-CONCEPT-16 — Hypertension
+### 127. 00-HIST-09 — Hypertension
 
 
 
@@ -1882,7 +1882,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 107. 00-CONCEPT-17 — Diabetes
+### 128. 00-HIST-10 — Diabetes
 
 
 
@@ -1897,7 +1897,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 108. 00-CONCEPT-18 — End-stage kidney disease
+### 129. 00-HIST-11 — End-stage kidney disease
 
 
 
@@ -1912,7 +1912,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 110. 00-OBJ-07 — Pacemaker serial number
+### 130. 00-OBJ-16 — Pacemaker serial number
 
 
 
@@ -1927,7 +1927,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 116. 00-CONCEPT-20 — Islam
+### 131. 00-SYMBOL-07 — Islam
 
 
 
@@ -1942,7 +1942,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 123. 00-CONCEPT-24 — Open Provenance Token System
+### 132. 00-PHRASE-18 — Open Provenance Token System
 
 
 
@@ -1956,7 +1956,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 124. 00-CONCEPT-25 — Equitable governance layer
+### 133. 00-PHRASE-19 — Equitable governance layer
 
 
 
@@ -1971,7 +1971,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 125. 00-CHAR-19 — Casey DeSantis
+### 134. 00-CHAR-19 — Casey DeSantis
 
 
 
@@ -1987,7 +1987,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Discovery
 
-### 126. 00-CONCEPT-26 — LOINC
+### 135. 00-OBJ-17 — LOINC
 
 
 
@@ -2001,7 +2001,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 127. 00-CONCEPT-27 — Seventh-day Adventism
+### 136. 00-SYMBOL-08 — Seventh-day Adventism
 
 
 
@@ -2016,7 +2016,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 128. 00-CONCEPT-28 — Hinduism
+### 137. 00-SYMBOL-09 — Hinduism
 
 
 
@@ -2031,7 +2031,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 129. 00-CONCEPT-29 — Catholicism
+### 138. 00-SYMBOL-10 — Catholicism
 
 
 
@@ -2046,7 +2046,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 130. 00-CONCEPT-30 — Christianity
+### 139. 00-SYMBOL-11 — Christianity
 
 
 
@@ -2061,7 +2061,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 131. 00-CONCEPT-31 — Hindi
+### 140. 00-SYMBOL-12 — Hindi
 
 
 
@@ -2075,7 +2075,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 132. 00-CONCEPT-32 — Latin
+### 141. 00-SYMBOL-13 — Latin
 
 
 
@@ -2089,7 +2089,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 133. 00-CONCEPT-33 — SQL
+### 142. 00-OBJ-18 — SQL
 
 
 
@@ -2103,7 +2103,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 134. 00-CONCEPT-34 — AI
+### 143. 00-OBJ-19 — AI
 
 
 
@@ -2117,7 +2117,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 135. 00-CONCEPT-35 — DNA
+### 144. 00-OBJ-20 — DNA
 
 
 
@@ -2131,7 +2131,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 136. 00-CONCEPT-36 — HIV
+### 145. 00-HIST-12 — HIV
 
 
 
@@ -2145,7 +2145,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 137. 00-CONCEPT-37 — HPV
+### 146. 00-HIST-13 — HPV
 
 
 
@@ -2159,7 +2159,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 145. 00-CONCEPT-45 — ICU
+### 147. 00-PLACE-08 — ICU
 
 
 
@@ -2173,7 +2173,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 146. 00-CONCEPT-46 — Bollywood
+### 148. 00-SYMBOL-14 — Bollywood
 
 
 
@@ -2187,7 +2187,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 147. 00-CONCEPT-47 — Colonialism
+### 149. 00-SYMBOL-15 — Colonialism
 
 
 
@@ -2201,7 +2201,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 148. 00-CONCEPT-48 — God
+### 150. 00-SYMBOL-16 — God
 
 
 
@@ -2216,7 +2216,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 149. 00-CONCEPT-49 — Latina
+### 151. 00-SYMBOL-17 — Latina
 
 
 
@@ -2230,7 +2230,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 150. 00-CONCEPT-50 — Mammography
+### 152. 00-OBJ-21 — Mammography
 
 
 
@@ -2244,7 +2244,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Discovery
 
-### 151. 00-CONCEPT-51 — European ancestry
+### 153. 00-SYMBOL-18 — European ancestry
 
 
 
@@ -2259,7 +2259,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 152. 00-METAPHOR-01 — Unpaid labor ledger
+### 154. 00-METAPHOR-01 — Unpaid labor ledger
 
 
 
@@ -2274,7 +2274,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 153. 00-OBJ-09 — Imaging uploads
+### 155. 00-OBJ-22 — Imaging uploads
 
 
 
@@ -2289,7 +2289,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Discovery
 
-### 154. 00-ORG-16 — National Institutes of Health (NIH)
+### 156. 00-ORG-21 — National Institutes of Health (NIH)
 
 
 
@@ -2304,7 +2304,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 156. 00-ORG-18 — Office of the First Lady of Florida
+### 157. 00-ORG-22 — Office of the First Lady of Florida
 
 
 
@@ -2319,7 +2319,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Discovery
 
-### 157. 00-PHRASE-16 — Devanand
+### 158. 00-PHRASE-22 — Devanand
 
 
 
@@ -2333,7 +2333,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Care
 
-### 158. 00-PLACE-23 — Stanford pathology residency
+### 159. 00-PLACE-26 — Stanford pathology residency
 
 
 
@@ -2348,7 +2348,7 @@ Version: 1.3
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information
 
-### 160. 00-PLACE-25 — Latin America
+### 160. 00-PLACE-26 — Latin America
 
 
 
