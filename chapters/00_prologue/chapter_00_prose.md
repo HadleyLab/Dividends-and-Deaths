@@ -1,10 +1,10 @@
 Status: POLISH
 
-**PROLOGUE**
+# Prologue
 
  
 
-**The Mother of Precision Medicine**
+## The Mother of Precision Medicine
 
  
 
@@ -56,7 +56,7 @@ I was trained in that world. I helped build companies and algorithms there. It h
 
 
 
-**Behind God’s Back**
+## Behind God’s Back
 
  
 
@@ -102,7 +102,7 @@ Colonial extraction left only one path out, even when the island had none.
 
 
 
-**The Rose from Gasparillo**
+## The Rose from Gasparillo
 
  
 
@@ -156,7 +156,7 @@ Together, they created something else entirely.
 
 
 
-**Malta, Mangoes, and Mauby**
+## Malta, Mangoes, and Mauby
 
  
 
@@ -216,7 +216,7 @@ Those weekends were my first accounting lessons. I watched how love, labor, and 
 
 
 
-**A Long Line of Universal Men**
+## A Long Line of Universal Men
 
  
 
@@ -232,7 +232,7 @@ Later, when Granny grew older and needed more care, she moved to Trinidad. When 
 
 
 
-**Code and Calling**
+## Code and Calling
 
  
 
@@ -269,7 +269,7 @@ I wanted to practice medicine in code.
 
 
 
-**Migration and the Cost of Opportunity**
+## Migration and the Cost of Opportunity
 
  
 
@@ -285,7 +285,7 @@ We like to talk about opportunity as if it is free. It isn’t. It is paid for i
 
 
 
-**Franklin’s University and the Promise of Precision**
+## Franklin’s University and the Promise of Precision
 
  
 
@@ -357,7 +357,7 @@ Part I will quantify those flows; here I only needed you to feel how familiar th
 
 
 
-**The Transitional Year and the Decision Not to Cut**
+## The Transitional Year and the Decision Not to Cut
 
  
 
@@ -395,7 +395,7 @@ I turned toward code.
 
 
 
-**Stanford, Ontologies, and the Skeleton of the System**
+## Stanford, Ontologies, and the Skeleton of the System
 
  
 
@@ -442,7 +442,7 @@ I quit residency after the first year. I wasn’t walking away from medicine. I 
 
 
 
-**UCSF, Eighty Million Lives, and the Profit of Failure**
+## UCSF, Eighty Million Lives, and the Profit of Failure
 
  
 
@@ -493,7 +493,7 @@ Hospital data does the same, daily, for millions of people who have never heard 
 
 
 
-**Florida, DEI, and a Pacemaker Serial Number**
+## Florida, DEI, and a Pacemaker Serial Number
 
  
 
@@ -578,7 +578,7 @@ If that’s what it looks like for someone with two doctorates and a full unders
 
 
 
-**Alzheimer’s, Culture, and COVID**
+## Alzheimer’s, Culture, and COVID
 
  
 
@@ -630,7 +630,7 @@ He died there, in that nursing home, in the shadow of a pandemic that turned too
 
 
 
-**A Universal Future**
+## A Universal Future
 
  
 
@@ -669,7 +669,7 @@ My mother now lives with me. She is 88, physically strong, mentally elsewhere. S
 
 
 
-**Dividends & Deaths**
+## Dividends & Deaths
 
  
 

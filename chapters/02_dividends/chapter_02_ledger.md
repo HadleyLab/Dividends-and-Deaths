@@ -1,10 +1,10 @@
 # Narrative Asset Ledger - 02 Dividends
-Version: 1.1
+Version: 1.0
 
 ## Chapter Contract
 - **Chapter Question:** How did the precision-medicine economy learn to monetize data long before it learned to represent the people who generate it?
-- **Chapter Claim:** Every major discovery pipeline was engineered to reward coded volume, not demographic accuracy, so the dividends naturally flowed upward to those already legible.
-- **Exit Handoff:** Having followed the money through these systems, Chapter 03 traces the deaths that accumulate wherever the data disappears.
+- **Chapter Claim:** Every major discovery pipeline—from Penn to CHOP to Stanford to UCSF to the University of Central Florida (UCF)—was engineered to reward coded volume, not demographic accuracy, so the dividends naturally flowed upward to those already legible.
+- **Exit Handoff:** Having followed the money through these systems, Chapter Three traces the deaths that accumulate wherever the data disappears.
 
 ## Assets
 
@@ -14,395 +14,13 @@ Version: 1.1
 
 
 
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Entry framing
-- **Reuse:** Chapter 02 only
-
-### 2. 02-PHRASE-02 — Software is eating the world
-
-
-
-
-
-- **Type:** Phrase
-- **Context:** Platform economy framing
-- **Function:** Infrastructure analogy
-- **Reuse:** Chapter 03
-
-### 3. 02-CHAR-01 — Marc Andreessen
-
-
-
-
-
-- **Type:** Character
-- **Status:** Public Figure
-- **Cultural/National Identity:** American; American
-- **Context:** “Software is eating the world” framing
-- **Function:** Platform economy analogy
-- **Reuse:** Chapter 03
-
-### 4. 02-CONCEPT-01 — Precision-medicine economy
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** precision medicine economy; Precision Medicine Economy; Precision-Medicine
-- **Context:** Data monetization system
-- **Function:** Core system definition
-- **Reuse:** Across book
-
-### 5. 02-CONCEPT-02 — Dividends follow volume and legibility
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** dividends; volume and legibility
-- **Context:** Discovery pipelines and reimbursement
-- **Function:** Explain why money flows upward
-- **Reuse:** Chapter 03 and Part II
-
-### 6. 02-PHRASE-03 — Dividend One: Training the Eye to See Value
-
-
-
-
-
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Training and perception framing
-- **Reuse:** Chapter 02 only
-
-### 7. 02-PLACE-01 — Penn MD/PhD Genomics and Computational Biology
-
-
-
-
-
-- **Type:** Place
-- **Aliases:** Penn; University of Pennsylvania; University of Pennsylvania’s; MD/PhD Genomics and Computational Biology
-- **Context:** Early precision-medicine pipeline
-- **Function:** Origin point for volume logic
-- **Reuse:** Chapter 01 callbacks
-
-### 8. 02-ORG-01 — Penn Medicine
-
-
-
-
-
-- **Type:** Organization
-- **Context:** Institutional cathedral for training
-- **Function:** Hospital-as-machine setting
-- **Reuse:** Chapter 03
-
-### 9. 02-ORG-02 — Perelman School of Medicine
-
-
-
-
-
-- **Type:** Organization
-- **Context:** Penn medical education lineage
-- **Function:** Institutional gravity anchor
-- **Reuse:** Chapter 03
-
-### 10. 02-PLACE-02 — Philadelphia
-
-
-
-
-
-- **Type:** Place
-- **Context:** City context for Penn and computing history
-- **Function:** Institutional ecosystem framing
-- **Reuse:** Chapter 03
-
-### 11. 02-HIST-01 — Human Genome Project
-
-
-
-
-
-- **Type:** Historical case
-- **Context:** Sequencing era acceleration
-- **Function:** Precision pipeline origin
-- **Reuse:** Chapter 03
-
-### 12. 02-RIT-01 — Systems engineering study groups
-
-
-
-
-
-- **Type:** Ritual
-- **Context:** Cohort-level language gatekeeping
-- **Function:** Show legibility as early dividend
-- **Reuse:** Chapter 01 callbacks
-
-### 13. 02-CHAR-02 — Engineering cohort (Chinese students)
-
-
-
-
-
-- **Type:** Character
-- **Status:** Abstract
-- **Cultural/National Identity:** Chinese
-- **Context:** Systems engineering peer group at Penn
-- **Function:** Language-of-math contrast in training
-- **Reuse:** Chapter 02 only
-
-### 14. 02-CHAR-03 — Engineering cohort peer (unnamed)
-
-
-
-
-
-- **Type:** Character
-- **Status:** Living
-- **Cultural/National Identity:** Black
-- **Context:** Only other native English speaker in cohort
-- **Function:** Shared exit from engineering path
-- **Reuse:** Chapter 02 only
-
-### 15. 02-CONCEPT-03 — Evolutionary conservation
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** conservation
-- **Context:** Cross-species signal logic
-- **Function:** Early pipeline mechanic
-- **Reuse:** Chapter 03
-
-### 16. 02-PHRASE-04 — A Quick Inventory of the Jargon You’re About to See
-
-
-
-
-
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Jargon framing
-- **Reuse:** Chapter 02 only
-
-### 17. 02-CONCEPT-04 — Genome
-
-
-
-
-
-- **Type:** Concept
-- **Context:** DNA instruction set
-- **Function:** Jargon primer
-- **Reuse:** Chapter 03
-
-### 18. 02-CONCEPT-05 — Genomics
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Genome-scale study
-- **Function:** Jargon primer
-- **Reuse:** Chapter 03
-
-### 19. 02-CONCEPT-06 — Genotype
-
-
-
-
-
-- **Type:** Concept
-- **Context:** DNA letters at specific positions
-- **Function:** Jargon primer
-- **Reuse:** Chapter 03
-
-### 20. 02-CONCEPT-07 — Variant
-
-
-
-
-
-- **Type:** Concept
-- **Context:** DNA difference between people
-- **Function:** Jargon primer
-- **Reuse:** Chapter 03
-
-### 21. 02-CONCEPT-08 — SNPs
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Genotyping scale at CAG
-- **Function:** Volume logic detail
-- **Reuse:** Chapter 03
-
-### 22. 02-CONCEPT-09 — Cohort
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Study group definition
-- **Function:** Jargon primer
-- **Reuse:** Chapter 03
-
-### 23. 02-CONCEPT-10 — Statistical power
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Signal detection capacity
-- **Function:** Jargon primer
-- **Reuse:** Chapter 03
-
-### 24. 02-CONCEPT-11 — Bias (data)
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** bias
-- **Context:** Systematic skew in collection
-- **Function:** Jargon primer
-- **Reuse:** Chapter 03
-
-### 25. 02-CONCEPT-12 — DNA letter
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** DNA-letter
-- **Context:** Genotype definition
-- **Function:** Jargon primer
-- **Reuse:** Chapter 03
-
-### 26. 02-PHRASE-05 — Dividend Two: Volume
-
-
-
-
-
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Volume dividend framing
-- **Reuse:** Chapter 02 only
-
-### 27. 02-EVID-01 — Presynaptic neural gene conservation study
-
-
-
-
-
-- **Type:** Evidence
-- **Aliases:** presynaptic neural gene conservation
-- **Context:** Autism genomics research
-- **Function:** Show early pipeline mechanics and dataset bias
-- **Reuse:** Chapter 03 references
-
-### 28. 02-EVID-02 — Autism cohorts (AGRE, Autism Genome Project)
-
-
-
-
-
-- **Type:** Evidence
-- **Aliases:** AGRE; Autism Genome Project
-- **Context:** Early large-scale genomics
-- **Function:** Establish representation gaps
-- **Reuse:** Chapter 03
-
-### 29. 02-ORG-03 — Autism Genetics Resource Exchange
-
-
-
-
-
-- **Type:** Organization
-- **Aliases:** AGRE
-- **Context:** Family-based autism cohorts
-- **Function:** Early pipeline volume source
-- **Reuse:** Chapter 03
-
-### 30. 02-ORG-04 — Autism Genome Project
-
-
-
-
-
-- **Type:** Organization
-- **Context:** Large-scale autism genomics cohort
-- **Function:** Representation gap example
-- **Reuse:** Chapter 03
-
-### 31. 02-EVID-03 — Pivot table ancestry check
-
-
-
-
-
-- **Type:** Evidence
-- **Aliases:** pivot table
-- **Context:** First dividend: volume
-- **Function:** Reveal demographic collapse in data
-- **Reuse:** Chapter 03 framing
-
-### 32. 02-CHAR-04 — Junhyong Kim
-
-
-
-
-
-- **Type:** Character
-- **Status:** Public Figure
-- **Cultural/National Identity:** Korean
-- **Context:** Penn population genetics mentorship
-- **Function:** Embody constraint-driven systems thinking
-- **Reuse:** Chapter 03
-
-### 33. 02-CHAR-05 — Motoo Kimura
-
-
-
-
-
-- **Type:** Character
-- **Status:** Public Figure
-- **Cultural/National Identity:** Japanese
-- **Context:** Neutral theory in the Penn basement
-- **Function:** Ground volume logic in evolutionary math
-- **Reuse:** Chapter 03
-
-### 34. 02-CHAR-06 — Maja Bucan
-
-
-
-
-
-- **Type:** Character
-- **Status:** Public Figure
-- **Cultural/National Identity:** Croatian
-- **Context:** Wet lab grounding for molecular reality
-- **Function:** Anchor abstraction in physical practice
-- **Reuse:** Part II
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Entry framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
 ### 35. 02-CHAR-07 — Warren Ewens
 
@@ -410,176 +28,59 @@ Version: 1.1
 
 
 
-- **Type:** Character
+- **Asset Type:** Character
 - **Status:** Public Figure
-- **Cultural/National Identity:** Australian, British Commonwealth
-- **Context:** Thesis committee governance
-- **Function:** Establish standards and accountability
-- **Reuse:** Part II
+- **Cultural / National Identity:** Australian, British Commonwealth
+- **Cultural / Historical Context:** Thesis committee governance
+- **Narrative Function:** Establish standards and accountability
+- **Reuse Hook:** Part II
 
-### 36. 02-CHAR-08 — Charles Darwin
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
+### 5. 02-CONCEPT-02 — Dividends follow volume and legibility
 
 
 
 
-- **Type:** Character
-- **Status:** Public Figure
-- **Cultural/National Identity:** British; British
-- **Context:** Popular evolution framing
-- **Function:** Cultural contrast for neutral theory
-- **Reuse:** Chapter 03
 
-### 37. 02-RIT-02 — Australia vs West Indies Test cricket contrast
+- **Asset Type:** Concept
+- **Aliases:** dividends; volume and legibility
+- **Cultural / Historical Context:** Discovery pipelines and reimbursement
+- **Narrative Function:** Explain why money flows upward
+- **Reuse Hook:** Chapter 03 and Part II
 
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
+### 6. 02-PHRASE-03 — Dividend One: Training the Eye to See Value
 
 
 
-- **Type:** Ritual
-- **Context:** Commonwealth cricket framing for systems vs improvisation
-- **Function:** Cultural translation for legibility and dominance
-- **Reuse:** Chapter 03
 
-### 38. 02-CHAR-09 — Brian Lara
 
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Training and perception framing
+- **Reuse Hook:** Chapter 02 only
 
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
+### 7. 02-PLACE-01 — Penn MD/PhD Genomics and Computational Biology
 
 
-- **Type:** Character
-- **Status:** Public Figure
-- **Cultural/National Identity:** Trinidad and Tobago
-- **Context:** Greatest batsman of his era
-- **Function:** Anchor West Indies excellence and authorial lens
-- **Reuse:** Part II
 
-### 39. 02-CONCEPT-13 — Population genetics
 
 
+- **Asset Type:** Place
+- **Aliases:** Penn; University of Pennsylvania; University of Pennsylvania’s; MD/PhD Genomics and Computational Biology
+- **Cultural / Historical Context:** Early precision-medicine pipeline
+- **Narrative Function:** Origin point for volume logic
+- **Reuse Hook:** Chapter 01 callbacks
 
-
-
-- **Type:** Concept
-- **Context:** Systems lens for cohorts
-- **Function:** Method framing
-- **Reuse:** Chapter 03
-
-### 40. 02-CONCEPT-14 — Neutral theory
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** Kimura’s neutral theory
-- **Context:** Evolutionary drift framing
-- **Function:** Volume logic foundation
-- **Reuse:** Chapter 03
-
-### 41. 02-CONCEPT-15 — Excel
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Pivot table analysis
-- **Function:** Low-tech data audit tool
-- **Reuse:** Chapter 03
-
-### 42. 02-CONCEPT-16 — Statistical noise
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** noise
-- **Context:** Small-sample instability
-- **Function:** Volume logic explanation
-- **Reuse:** Chapter 03
-
-### 43. 02-CONCEPT-17 — Statistical signal
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** signal
-- **Context:** Replicable effect size
-- **Function:** Volume logic explanation
-- **Reuse:** Chapter 03
-
-### 44. 02-OBJ-01 — Recruitment letters
-
-
-
-
-
-- **Type:** Object
-- **Context:** Autism cohort outreach
-- **Function:** Consent and hope framing
-- **Reuse:** Chapter 03
-
-### 45. 02-PHRASE-06 — Dividend Three: The Basement Tree
-
-
-
-
-
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Ancestry-tree framing
-- **Reuse:** Chapter 02 only
-
-### 46. 02-EVID-04 — Ancestry caller and phylogenetic tree
-
-
-
-
-
-- **Type:** Evidence
-- **Aliases:** ancestry caller; phylogenetic tree; PCA; SNP clustering
-- **Context:** PCA and SNP clustering
-- **Function:** Confirm European-dominant datasets
-- **Reuse:** Chapter 03
-
-### 47. 02-CONCEPT-18 — African ancestry
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** African-ancestry; African
-- **Context:** Deep lineage with low sample counts
-- **Function:** Representation gap framing
-- **Reuse:** Chapter 03
-
-### 48. 02-CONCEPT-19 — European ancestry
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** European
-- **Context:** Shallow lineage with high sample counts
-- **Function:** Representation gap framing
-- **Reuse:** Chapter 03
-
-### 49. 02-PHRASE-07 — Dividend Four: The Cathedral at CHOP
-
-
-
-
-
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Institutional scale framing
-- **Reuse:** Chapter 02 only
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
 ### 50. 02-ORG-05 — Children’s Hospital of Philadelphia (CHOP)
 
@@ -587,407 +88,28 @@ Version: 1.1
 
 
 
-- **Type:** Organization
+- **Asset Type:** Organization
 - **Aliases:** CHOP; CHOP’s
-- **Context:** Pediatric medicine engine and origin story
-- **Function:** Institutional scale reference
-- **Reuse:** Chapter 03
+- **Cultural / Historical Context:** Pediatric medicine engine and origin story
+- **Narrative Function:** Institutional scale reference
+- **Reuse Hook:** Chapter 03
 
-### 51. 02-PLACE-03 — CHOP Center for Applied Genomics (CAG)
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
+### 9. 02-ORG-02 — Perelman School of Medicine
 
 
 
 
-- **Type:** Place
-- **Aliases:** CHOP; CAG
-- **Context:** Tens of thousands of pediatric genotypes, overwhelmingly White
-- **Function:** Industrial scale of biased data
-- **Reuse:** Chapter 03
 
-### 52. 02-PLACE-04 — West Philadelphia (CHOP across the street)
+- **Asset Type:** Organization
+- **Cultural / Historical Context:** Penn medical education lineage
+- **Narrative Function:** Institutional gravity anchor
+- **Reuse Hook:** Chapter 03
 
-
-
-
-
-- **Type:** Place
-- **Aliases:** West Philadelphia
-- **Context:** Majority-Black neighborhood beside CAG pipeline
-- **Function:** Ground exclusion in geographic proximity
-- **Reuse:** Chapter 03
-
-### 53. 02-CHAR-10 — Hakon Hakonarson
-
-
-
-
-
-- **Type:** Character
-- **Status:** Public Figure
-- **Cultural/National Identity:** Icelandic by ancestry
-- **Context:** CAG builder and scale driver
-- **Function:** Show industrialization of pediatric genomics
-- **Reuse:** Chapter 03
-
-### 54. 02-ORG-06 — NeuroFix Therapeutics
-
-
-
-
-
-- **Type:** Organization
-- **Aliases:** NeuroFix
-- **Context:** Precision-medicine company built on CAG data
-- **Function:** Show dividend conversion from data to enterprise
-- **Reuse:** Chapter 03
-
-### 55. 02-CONCEPT-20 — Genotyping
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Pediatric pipeline infrastructure
-- **Function:** Volume engine
-- **Reuse:** Chapter 03
-
-### 56. 02-CONCEPT-21 — Neuropsychiatry
-
-
-
-
-
-- **Type:** Concept
-- **Context:** NeuroFix focus area
-- **Function:** Precision-medicine use case
-- **Reuse:** Chapter 03
-
-### 57. 02-CONCEPT-22 — Black
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Representation gap framing
-- **Function:** Equity contrast
-- **Reuse:** Part II
-
-### 58. 02-CONCEPT-23 — White
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Representation gap framing
-- **Function:** Equity contrast
-- **Reuse:** Part II
-
-### 59. 02-FIG-01 — Figure 2.1 - From Data to Dividends pipeline
-
-
-
-
-
-- **Type:** Figure
-- **Aliases:** Figure 2.1; From Data to Dividends; Figure_2_1_From_Data_to_Dividends.png; figure_02_01_dividend_stack.png
-- **Context:** Visual summary of extraction flow
-- **Function:** X-ray the system without narration
-- **Reuse:** Chapter 03
-- **Notes:** Figure guidance — “How the Precision-Medicine Economy Extracts Value.” Single-page figure with four vertical layers: Data Generation (Patients, Biospecimens, Imaging, Genotypes); Translation Layer (Codes) (ICD/CPT, LOINC/SNOMED, Genotype arrays, Ancestry labels); Monetization Pipelines (Grants—NIH/R01s, Publications, Consortia—AGRE/CAG/GEO, Reimbursement, Venture-backed startups); Dividend Flow (Institutions, Vendors, Pharma, Insurers, AI companies). Side elements, visually faded/fragmented: Underrepresented populations; “Dropped for power”; “Statistically insignificant”; “Too costly to recruit.” Key insight: Value flows upward smoothly; representation leaks downward.
-
-### 60. 02-PHRASE-08 — Dividend Five: Stanford and the Rule That Governs Everything
-
-
-
-
-
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Code rule framing
-- **Reuse:** Chapter 02 only
-
-### 61. 02-PLACE-05 — Stanford pathology and informatics
-
-
-
-
-
-- **Type:** Place
-- **Aliases:** Stanford; Stanford’s; Clinical Pathology and Laboratory Medicine
-- **Context:** Codes as constitution (SNOMED, LOINC, ICD, CPT)
-- **Function:** Show reimbursement as engine
-- **Reuse:** Chapter 01 callbacks
-
-### 62. 02-CONCEPT-24 — LOINC
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Lab code system in the billing language stack
-- **Function:** Infrastructure example for coded medicine
-- **Reuse:** Chapter 03
-
-### 63. 02-CONCEPT-25 — SNOMED CT
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** SNOMED
-- **Context:** Clinical terminology system in the billing language stack
-- **Function:** Infrastructure example for coded medicine
-- **Reuse:** Chapter 03
-
-### 64. 02-CONCEPT-26 — ICD
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Diagnosis code system in the billing language stack
-- **Function:** Infrastructure example for coded medicine
-- **Reuse:** Chapter 03
-
-### 65. 02-CONCEPT-27 — CPT
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Procedure code system in the billing language stack
-- **Function:** Infrastructure example for coded medicine
-- **Reuse:** Chapter 03
-
-### 66. 02-CHAR-11 — Co-resident (unnamed)
-
-
-
-
-
-- **Type:** Character
-- **Status:** Living
-- **Cultural/National Identity:** Israeli
-- **Context:** CP-year peer at Stanford
-- **Function:** Talent utilization and system churn contrast
-- **Reuse:** Chapter 02 only
-
-### 67. 02-ORG-07 — California Institute of Technology
-
-
-
-
-
-- **Type:** Organization
-- **Aliases:** Caltech
-- **Context:** Co-resident training background
-- **Function:** Technical pedigree marker
-- **Reuse:** Chapter 02 only
-
-### 68. 02-CHAR-12 — Ben Pinsky
-
-
-
-
-
-- **Type:** Character
-- **Status:** Public Figure
-- **Cultural/National Identity:** Not stated
-- **Context:** Dengue prognostic validation project
-- **Function:** Show market allocation of attention
-- **Reuse:** Chapter 03
-
-### 69. 02-CONCEPT-28 — Dengue
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Prognostic validation project
-- **Function:** Market allocation example
-- **Reuse:** Chapter 03
-
-### 70. 02-CONCEPT-29 — Neglected tropical diseases
-
-
-
-
-
-- **Type:** Concept
-- **Context:** WHO disease category
-- **Function:** Funding priority contrast
-- **Reuse:** Chapter 03
-
-### 71. 02-ORG-08 — World Health Organization
-
-
-
-
-
-- **Type:** Organization
-- **Aliases:** WHO
-- **Context:** Dengue classification as neglected tropical disease
-- **Function:** Global health framing
-- **Reuse:** Chapter 03
-
-### 72. 02-PLACE-06 — Trinidad
-
-
-
-
-
-- **Type:** Place
-- **Aliases:** Trinidad and Tobago
-- **Context:** Dengue validation setting
-- **Function:** Market allocation contrast
-- **Reuse:** Chapter 03
-
-### 73. 02-PLACE-07 — Silicon Valley
-
-
-
-
-
-- **Type:** Place
-- **Context:** Technology convergence backdrop
-- **Function:** Platform economy framing
-- **Reuse:** Part III
-
-### 74. 02-CONCEPT-30 — Bitcoin
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Tech-era convergence signal
-- **Function:** Infrastructure shift marker
-- **Reuse:** Chapter 03
-
-### 75. 02-CONCEPT-31 — Deep learning
-
-
-
-
-
-- **Type:** Concept
-- **Context:** AI acceleration context
-- **Function:** Infrastructure shift marker
-- **Reuse:** Chapter 03
-
-### 76. 02-CONCEPT-32 — GPUs
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Computational engine for model scaling
-- **Function:** Infrastructure shift marker
-- **Reuse:** Chapter 03
-
-### 77. 02-CHAR-13 — Atul Butte
-
-
-
-
-
-- **Type:** Character
-- **Status:** Public Figure
-- **Cultural/National Identity:** Not stated
-- **Context:** Systems medicine bridge at Stanford
-- **Function:** Signal the pivot from bedside to pipelines
-- **Reuse:** Part III
-
-### 78. 02-PHRASE-09 — Dividend Six: UCSF and the Liquidity of Open Data
-
-
-
-
-
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Open-data liquidity framing
-- **Reuse:** Chapter 02 only
-
-### 79. 02-PLACE-08 — UCSF and public data platforms (GEO, STARGEO, CrADLe, BD2K)
-
-
-
-
-
-- **Type:** Place
-- **Aliases:** UCSF; GEO; Gene Expression Omnibus; STARGEO; CrADLe; BD2K
-- **Context:** Open data and reuse economics
-- **Function:** Show bias amplification at scale
-- **Reuse:** Chapter 03
-
-### 80. 02-CONCEPT-33 — Liquidity as dividend
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** liquidity
-- **Context:** Public data routed into private pipelines
-- **Function:** Define the economic mechanism of reuse
-- **Reuse:** Part III
-
-### 81. 02-CONCEPT-34 — Open data
-
-
-
-
-
-- **Type:** Concept
-- **Context:** Public data reuse economics
-- **Function:** Liquidity mechanism
-- **Reuse:** Part III
-
-### 82. 02-CONCEPT-35 — AI models
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** AI
-- **Context:** Downstream extraction layer
-- **Function:** Reuse dividend pathway
-- **Reuse:** Part III
-
-### 83. 02-PHRASE-10 — Dividend Seven: UCF, COVID, and the Price of Representation
-
-
-
-
-
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Representation cost framing
-- **Reuse:** Chapter 02 only
-
-### 84. 02-ORG-09 — University of Central Florida
-
-
-
-
-
-- **Type:** Organization
-- **Aliases:** UCF; University of Central Florida’s
-- **Context:** Academic setting for decentralized trials
-- **Function:** Florida pipeline anchor
-- **Reuse:** Chapter 03
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
 ### 85. 02-PLACE-09 — UCF decentralized imaging trial (NCT05384912)
 
@@ -995,22 +117,683 @@ Version: 1.1
 
 
 
-- **Type:** Place
+- **Asset Type:** Place
 - **Aliases:** UCF; NCT05384912; decentralized imaging trial
-- **Context:** Pandemic-era recruitment
-- **Function:** Show cost of representation
-- **Reuse:** Chapter 03
+- **Cultural / Historical Context:** Pandemic-era recruitment
+- **Narrative Function:** Show cost of representation
+- **Reuse Hook:** Chapter 03
 
-### 86. 02-HIST-02 — COVID-19
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 11. 02-HIST-01 — Human Genome Project
 
 
 
 
 
-- **Type:** Historical case
-- **Context:** Pandemic-era imaging trials
-- **Function:** Equity cost exposure
-- **Reuse:** Chapter 03
+- **Asset Type:** Historical case
+- **Cultural / Historical Context:** Sequencing era acceleration
+- **Narrative Function:** Precision pipeline origin
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 12. 02-RIT-01 — Systems engineering study groups
+
+
+
+
+
+- **Asset Type:** Ritual
+- **Cultural / Historical Context:** Cohort-level language gatekeeping
+- **Narrative Function:** Show legibility as early dividend
+- **Reuse Hook:** Chapter 01 callbacks
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 33. 02-CHAR-05 — Motoo Kimura
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Public Figure
+- **Cultural / National Identity:** Japanese
+- **Cultural / Historical Context:** Neutral theory in the Penn basement
+- **Narrative Function:** Ground volume logic in evolutionary math
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 34. 02-CHAR-06 — Maja Bucan
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Public Figure
+- **Cultural / National Identity:** Croatian
+- **Cultural / Historical Context:** Wet lab grounding for molecular reality
+- **Narrative Function:** Anchor abstraction in physical practice
+- **Reuse Hook:** Part II
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 15. 02-CONCEPT-03 — Evolutionary conservation
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** conservation
+- **Cultural / Historical Context:** Cross-species signal logic
+- **Narrative Function:** Early pipeline mechanic
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 16. 02-PHRASE-04 — A Quick Inventory of the Jargon You’re About to See
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Jargon framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 17. 02-CONCEPT-04 — Genome
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** DNA instruction set
+- **Narrative Function:** Jargon primer
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 18. 02-CONCEPT-05 — Genomics
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Genome-scale study
+- **Narrative Function:** Jargon primer
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 19. 02-CONCEPT-06 — Genotype
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** DNA letters at specific positions
+- **Narrative Function:** Jargon primer
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 20. 02-CONCEPT-07 — Variant
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** DNA difference between people
+- **Narrative Function:** Jargon primer
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 21. 02-CONCEPT-08 — SNPs
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Genotyping scale at CAG
+- **Narrative Function:** Volume logic detail
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 22. 02-CONCEPT-09 — Cohort
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Study group definition
+- **Narrative Function:** Jargon primer
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 23. 02-CONCEPT-10 — Statistical power
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Signal detection capacity
+- **Narrative Function:** Jargon primer
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 24. 02-CONCEPT-11 — Bias (data)
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** bias
+- **Cultural / Historical Context:** Systematic skew in collection
+- **Narrative Function:** Jargon primer
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 25. 02-CONCEPT-12 — DNA letter
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** DNA-letter
+- **Cultural / Historical Context:** Genotype definition
+- **Narrative Function:** Jargon primer
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 26. 02-PHRASE-05 — Dividend Two: Volume
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Volume dividend framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 27. 02-EVID-01 — Presynaptic neural gene conservation study
+
+
+
+
+
+- **Asset Type:** Evidence
+- **Aliases:** presynaptic neural gene conservation
+- **Cultural / Historical Context:** Autism genomics research
+- **Narrative Function:** Show early pipeline mechanics and dataset bias
+- **Reuse Hook:** Chapter 03 references
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 28. 02-EVID-02 — Autism cohorts (AGRE, Autism Genome Project)
+
+
+
+
+
+- **Asset Type:** Evidence
+- **Aliases:** AGRE; Autism Genome Project
+- **Cultural / Historical Context:** Early large-scale genomics
+- **Narrative Function:** Establish representation gaps
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 29. 02-ORG-03 — Autism Genetics Resource Exchange
+
+
+
+
+
+- **Asset Type:** Organization
+- **Aliases:** AGRE
+- **Cultural / Historical Context:** Family-based autism cohorts
+- **Narrative Function:** Early pipeline volume source
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 30. 02-ORG-04 — Autism Genome Project
+
+
+
+
+
+- **Asset Type:** Organization
+- **Cultural / Historical Context:** Large-scale autism genomics cohort
+- **Narrative Function:** Representation gap example
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 31. 02-EVID-03 — Pivot table ancestry check
+
+
+
+
+
+- **Asset Type:** Evidence
+- **Aliases:** pivot table
+- **Cultural / Historical Context:** First dividend: volume
+- **Narrative Function:** Reveal demographic collapse in data
+- **Reuse Hook:** Chapter 03 framing
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 38. 02-CHAR-09 — Brian Lara
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Public Figure
+- **Cultural / National Identity:** Trinidad and Tobago
+- **Cultural / Historical Context:** Greatest batsman of his era
+- **Narrative Function:** Anchor West Indies excellence and authorial lens
+- **Reuse Hook:** Part II
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 37. 02-RIT-02 — Australia vs West Indies Test cricket contrast
+
+
+
+
+
+- **Asset Type:** Ritual
+- **Cultural / Historical Context:** Commonwealth cricket framing for systems vs improvisation
+- **Narrative Function:** Cultural translation for legibility and dominance
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 39. 02-CONCEPT-13 — Population genetics
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Systems lens for cohorts
+- **Narrative Function:** Method framing
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 40. 02-CONCEPT-14 — Neutral theory
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** Kimura’s neutral theory
+- **Cultural / Historical Context:** Evolutionary drift framing
+- **Narrative Function:** Volume logic foundation
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 41. 02-CONCEPT-15 — Excel
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Pivot table analysis
+- **Narrative Function:** Low-tech data audit tool
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 42. 02-CONCEPT-16 — Statistical noise
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** noise
+- **Cultural / Historical Context:** Small-sample instability
+- **Narrative Function:** Volume logic explanation
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 43. 02-CONCEPT-17 — Statistical signal
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** signal
+- **Cultural / Historical Context:** Replicable effect size
+- **Narrative Function:** Volume logic explanation
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 44. 02-OBJ-01 — Recruitment letters
+
+
+
+
+
+- **Asset Type:** Object
+- **Cultural / Historical Context:** Autism cohort outreach
+- **Narrative Function:** Consent and hope framing
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 45. 02-PHRASE-06 — Dividend Three: The Basement Tree
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Ancestry-tree framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 47. 02-CONCEPT-18 — African ancestry
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** African-ancestry; African
+- **Cultural / Historical Context:** Deep lineage with low sample counts
+- **Narrative Function:** Representation gap framing
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 48. 02-CONCEPT-19 — European ancestry
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** European
+- **Cultural / Historical Context:** Shallow lineage with high sample counts
+- **Narrative Function:** Representation gap framing
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 49. 02-PHRASE-07 — Dividend Four: The Cathedral at CHOP
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Institutional scale framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 52. 02-PLACE-04 — West Philadelphia (CHOP across the street)
+
+
+
+
+
+- **Asset Type:** Place
+- **Aliases:** West Philadelphia
+- **Cultural / Historical Context:** Majority-Black neighborhood beside CAG pipeline
+- **Narrative Function:** Ground exclusion in geographic proximity
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 54. 02-ORG-06 — NeuroFix Therapeutics
+
+
+
+
+
+- **Asset Type:** Organization
+- **Aliases:** NeuroFix
+- **Cultural / Historical Context:** Precision-medicine company built on CAG data
+- **Narrative Function:** Show dividend conversion from data to enterprise
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 59. 02-FIG-01 — Figure 2.1 - From Data to Dividends pipeline
+
+
+
+
+
+- **Asset Type:** Figure
+- **Aliases:** Figure 2.1; From Data to Dividends; Figure_2_1_From_Data_to_Dividends.png; figure_02_01_dividend_stack.png
+- **Cultural / Historical Context:** Visual summary of extraction flow
+- **Narrative Function:** X-ray the system without narration
+- **Reuse Hook:** Chapter 03
+- **Notes:** Figure guidance — “How the Precision-Medicine Economy Extracts Value.” Single-page figure with four vertical layers: Data Generation (Patients, Biospecimens, Imaging, Genotypes); Translation Layer (Codes) (ICD/CPT, LOINC/SNOMED, Genotype arrays, Ancestry labels); Monetization Pipelines (Grants—NIH/R01s, Publications, Consortia—AGRE/CAG/GEO, Reimbursement, Venture-backed startups); Dividend Flow (Institutions, Vendors, Pharma, Insurers, AI companies). Side elements, visually faded/fragmented: Underrepresented populations; “Dropped for power”; “Statistically insignificant”; “Too costly to recruit.” Key insight: Value flows upward smoothly; representation leaks downward.
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 60. 02-PHRASE-08 — Dividend Five: Stanford and the Rule That Governs Everything
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Code rule framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 62. 02-CONCEPT-24 — LOINC
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Lab code system in the billing language stack
+- **Narrative Function:** Infrastructure example for coded medicine
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 63. 02-CONCEPT-25 — SNOMED CT
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** SNOMED
+- **Cultural / Historical Context:** Clinical terminology system in the billing language stack
+- **Narrative Function:** Infrastructure example for coded medicine
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 64. 02-CONCEPT-26 — ICD
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Diagnosis code system in the billing language stack
+- **Narrative Function:** Infrastructure example for coded medicine
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 65. 02-CONCEPT-27 — CPT
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Procedure code system in the billing language stack
+- **Narrative Function:** Infrastructure example for coded medicine
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 72. 02-PLACE-06 — Trinidad
+
+
+
+
+
+- **Asset Type:** Place
+- **Aliases:** Trinidad and Tobago
+- **Cultural / Historical Context:** Dengue validation setting
+- **Narrative Function:** Market allocation contrast
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 73. 02-PLACE-07 — Silicon Valley
+
+
+
+
+
+- **Asset Type:** Place
+- **Cultural / Historical Context:** Technology convergence backdrop
+- **Narrative Function:** Platform economy framing
+- **Reuse Hook:** Part III
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 78. 02-PHRASE-09 — Dividend Six: UCSF and the Liquidity of Open Data
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Open-data liquidity framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 83. 02-PHRASE-10 — Dividend Seven: UCF, COVID, and the Price of Representation
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Representation cost framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 84. 02-ORG-09 — University of Central Florida
+
+
+
+
+
+- **Asset Type:** Organization
+- **Aliases:** UCF; University of Central Florida’s
+- **Cultural / Historical Context:** Academic setting for decentralized trials
+- **Narrative Function:** Florida pipeline anchor
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
 ### 87. 02-ECON-01 — Recruitment cost gap
 
@@ -1018,11 +801,14 @@ Version: 1.1
 
 
 
-- **Type:** Economic
+- **Asset Type:** Economic
 - **Aliases:** representation cost gap
-- **Context:** Hundreds of dollars for White women vs thousands for Black women
-- **Function:** Quantify equity as priced scarcity
-- **Reuse:** Chapter 03
+- **Cultural / Historical Context:** Hundreds of dollars for White women vs thousands for Black women
+- **Narrative Function:** Quantify equity as priced scarcity
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
 ### 88. 02-PHRASE-11 — Dividend Eight: The Insurance Engine
 
@@ -1030,10 +816,13 @@ Version: 1.1
 
 
 
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Insurance incentive framing
-- **Reuse:** Chapter 02 only
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Insurance incentive framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
 ### 89. 02-POLICY-01 — Medicare Advantage
 
@@ -1041,67 +830,13 @@ Version: 1.1
 
 
 
-- **Type:** Policy
-- **Context:** Risk-scoring reimbursement program
-- **Function:** Insurance dividend mechanism
-- **Reuse:** Part III
+- **Asset Type:** Policy
+- **Cultural / Historical Context:** Risk-scoring reimbursement program
+- **Narrative Function:** Insurance dividend mechanism
+- **Reuse Hook:** Part III
 
-### 90. 02-EVID-05 — Medicare Advantage coding allegations (OIG/Reuters)
-
-
-
-
-
-- **Type:** Evidence
-- **Context:** Risk scoring, denials, and payment inflation
-- **Function:** Show insurance dividend mechanics
-- **Reuse:** Part III
-
-### 91. 02-ORG-10 — Office of Inspector General
-
-
-
-
-
-- **Type:** Organization
-- **Aliases:** OIG
-- **Context:** Medicare Advantage coding allegations
-- **Function:** Oversight anchor
-- **Reuse:** Part III
-
-### 92. 02-ORG-11 — Reuters
-
-
-
-
-
-- **Type:** Organization
-- **Context:** Reporting on algorithmic denial allegations
-- **Function:** Public evidence conduit
-- **Reuse:** Part III
-
-### 93. 02-ORG-12 — UnitedHealth
-
-
-
-
-
-- **Type:** Organization
-- **Context:** Ownership context in Reuters-reported case
-- **Function:** Insurance market exemplar
-- **Reuse:** Part III
-
-### 94. 02-CONCEPT-36 — System billing for invisibility
-
-
-
-
-
-- **Type:** Concept
-- **Aliases:** billing for invisibility
-- **Context:** Algorithmic ad pricing
-- **Function:** Summarize dividend logic in one line
-- **Reuse:** Chapter 03
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
 ### 95. 02-PHRASE-12 — The Dividend Summary: How the Trillions Assemble
 
@@ -1109,10 +844,13 @@ Version: 1.1
 
 
 
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Stacked arithmetic framing
-- **Reuse:** Chapter 02 only
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Stacked arithmetic framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
 ### 96. 02-PHRASE-13 — Exit Handoff: Why Chapter Three Must Be Deaths
 
@@ -1120,10 +858,560 @@ Version: 1.1
 
 
 
-- **Type:** Phrase
-- **Context:** Chapter section title
-- **Function:** Handoff framing
-- **Reuse:** Chapter 02 only
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Chapter section title
+- **Narrative Function:** Handoff framing
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 2. 02-PHRASE-02 — Software is eating the world
+
+
+
+
+
+- **Asset Type:** Phrase
+- **Cultural / Historical Context:** Platform economy framing
+- **Narrative Function:** Infrastructure analogy
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 3. 02-CHAR-01 — Marc Andreessen
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Public Figure
+- **Cultural / National Identity:** American; American
+- **Cultural / Historical Context:** “Software is eating the world” framing
+- **Narrative Function:** Platform economy analogy
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 4. 02-CONCEPT-01 — Precision-medicine economy
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** precision medicine economy; Precision Medicine Economy; Precision-Medicine
+- **Cultural / Historical Context:** Data monetization system
+- **Narrative Function:** Core system definition
+- **Reuse Hook:** Across book
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 8. 02-ORG-01 — Penn Medicine
+
+
+
+
+
+- **Asset Type:** Organization
+- **Cultural / Historical Context:** Institutional cathedral for training
+- **Narrative Function:** Hospital-as-machine setting
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 10. 02-PLACE-02 — Philadelphia
+
+
+
+
+
+- **Asset Type:** Place
+- **Cultural / Historical Context:** City context for Penn and computing history
+- **Narrative Function:** Institutional ecosystem framing
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 13. 02-CHAR-02 — Engineering cohort (Chinese students)
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Abstract
+- **Cultural / National Identity:** Chinese
+- **Cultural / Historical Context:** Systems engineering peer group at Penn
+- **Narrative Function:** Language-of-math contrast in training
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 14. 02-CHAR-03 — Engineering cohort peer (unnamed)
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Living
+- **Cultural / National Identity:** Black
+- **Cultural / Historical Context:** Only other native English speaker in cohort
+- **Narrative Function:** Shared exit from engineering path
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 32. 02-CHAR-04 — Junhyong Kim
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Public Figure
+- **Cultural / National Identity:** Korean
+- **Cultural / Historical Context:** Penn population genetics mentorship
+- **Narrative Function:** Embody constraint-driven systems thinking
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 36. 02-CHAR-08 — Charles Darwin
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Public Figure
+- **Cultural / National Identity:** British; British
+- **Cultural / Historical Context:** Popular evolution framing
+- **Narrative Function:** Cultural contrast for neutral theory
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 46. 02-EVID-04 — Ancestry caller and phylogenetic tree
+
+
+
+
+
+- **Asset Type:** Evidence
+- **Aliases:** ancestry caller; phylogenetic tree; PCA; SNP clustering
+- **Cultural / Historical Context:** PCA and SNP clustering
+- **Narrative Function:** Confirm European-dominant datasets
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 51. 02-PLACE-03 — CHOP Center for Applied Genomics (CAG)
+
+
+
+
+
+- **Asset Type:** Place
+- **Aliases:** CHOP; CAG
+- **Cultural / Historical Context:** Tens of thousands of pediatric genotypes, overwhelmingly White
+- **Narrative Function:** Industrial scale of biased data
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 53. 02-CHAR-10 — Hakon Hakonarson
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Public Figure
+- **Cultural / National Identity:** Icelandic by ancestry
+- **Cultural / Historical Context:** CAG builder and scale driver
+- **Narrative Function:** Show industrialization of pediatric genomics
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 55. 02-CONCEPT-20 — Genotyping
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Pediatric pipeline infrastructure
+- **Narrative Function:** Volume engine
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 56. 02-CONCEPT-21 — Neuropsychiatry
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** NeuroFix focus area
+- **Narrative Function:** Precision-medicine use case
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 57. 02-CONCEPT-22 — Black
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Representation gap framing
+- **Narrative Function:** Equity contrast
+- **Reuse Hook:** Part II
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 58. 02-CONCEPT-23 — White
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Representation gap framing
+- **Narrative Function:** Equity contrast
+- **Reuse Hook:** Part II
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 61. 02-PLACE-05 — Stanford pathology and informatics
+
+
+
+
+
+- **Asset Type:** Place
+- **Aliases:** Stanford; Stanford’s; Clinical Pathology and Laboratory Medicine
+- **Cultural / Historical Context:** Codes as constitution (SNOMED, LOINC, ICD, CPT)
+- **Narrative Function:** Show reimbursement as engine
+- **Reuse Hook:** Chapter 01 callbacks
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 66. 02-CHAR-11 — Co-resident (unnamed)
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Living
+- **Cultural / National Identity:** Israeli
+- **Cultural / Historical Context:** CP-year peer at Stanford
+- **Narrative Function:** Talent utilization and system churn contrast
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 67. 02-ORG-07 — California Institute of Technology
+
+
+
+
+
+- **Asset Type:** Organization
+- **Aliases:** Caltech
+- **Cultural / Historical Context:** Co-resident training background
+- **Narrative Function:** Technical pedigree marker
+- **Reuse Hook:** Chapter 02 only
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 68. 02-CHAR-12 — Ben Pinsky
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Public Figure
+- **Cultural / National Identity:** Not stated
+- **Cultural / Historical Context:** Dengue prognostic validation project
+- **Narrative Function:** Show market allocation of attention
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 69. 02-CONCEPT-28 — Dengue
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Prognostic validation project
+- **Narrative Function:** Market allocation example
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 70. 02-CONCEPT-29 — Neglected tropical diseases
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** WHO disease category
+- **Narrative Function:** Funding priority contrast
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 71. 02-ORG-08 — World Health Organization
+
+
+
+
+
+- **Asset Type:** Organization
+- **Aliases:** WHO
+- **Cultural / Historical Context:** Dengue classification as neglected tropical disease
+- **Narrative Function:** Global health framing
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 74. 02-CONCEPT-30 — Bitcoin
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Tech-era convergence signal
+- **Narrative Function:** Infrastructure shift marker
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 75. 02-CONCEPT-31 — Deep learning
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** AI acceleration context
+- **Narrative Function:** Infrastructure shift marker
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 76. 02-CONCEPT-32 — GPUs
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Computational engine for model scaling
+- **Narrative Function:** Infrastructure shift marker
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 77. 02-CHAR-13 — Atul Butte
+
+
+
+
+
+- **Asset Type:** Character
+- **Status:** Public Figure
+- **Cultural / National Identity:** Not stated
+- **Cultural / Historical Context:** Systems medicine bridge at Stanford
+- **Narrative Function:** Signal the pivot from bedside to pipelines
+- **Reuse Hook:** Part III
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 79. 02-PLACE-08 — UCSF and public data platforms (GEO, STARGEO, CrADLe, BD2K)
+
+
+
+
+
+- **Asset Type:** Place
+- **Aliases:** UCSF; GEO; Gene Expression Omnibus; STARGEO; CrADLe; BD2K
+- **Cultural / Historical Context:** Open data and reuse economics
+- **Narrative Function:** Show bias amplification at scale
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 80. 02-CONCEPT-33 — Liquidity as dividend
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** liquidity
+- **Cultural / Historical Context:** Public data routed into private pipelines
+- **Narrative Function:** Define the economic mechanism of reuse
+- **Reuse Hook:** Part III
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 81. 02-CONCEPT-34 — Open data
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Public data reuse economics
+- **Narrative Function:** Liquidity mechanism
+- **Reuse Hook:** Part III
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 82. 02-CONCEPT-35 — AI models
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** AI
+- **Cultural / Historical Context:** Downstream extraction layer
+- **Narrative Function:** Reuse dividend pathway
+- **Reuse Hook:** Part III
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 86. 02-HIST-02 — COVID-19
+
+
+
+
+
+- **Asset Type:** Historical case
+- **Cultural / Historical Context:** Pandemic-era imaging trials
+- **Narrative Function:** Equity cost exposure
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 90. 02-EVID-05 — Medicare Advantage coding allegations (OIG/Reuters)
+
+
+
+
+
+- **Asset Type:** Evidence
+- **Cultural / Historical Context:** Risk scoring, denials, and payment inflation
+- **Narrative Function:** Show insurance dividend mechanics
+- **Reuse Hook:** Part III
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 91. 02-ORG-10 — Office of Inspector General
+
+
+
+
+
+- **Asset Type:** Organization
+- **Aliases:** OIG
+- **Cultural / Historical Context:** Medicare Advantage coding allegations
+- **Narrative Function:** Oversight anchor
+- **Reuse Hook:** Part III
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 92. 02-ORG-11 — Reuters
+
+
+
+
+
+- **Asset Type:** Organization
+- **Cultural / Historical Context:** Reporting on algorithmic denial allegations
+- **Narrative Function:** Public evidence conduit
+- **Reuse Hook:** Part III
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 93. 02-ORG-12 — UnitedHealth
+
+
+
+
+
+- **Asset Type:** Organization
+- **Cultural / Historical Context:** Ownership context in Reuters-reported case
+- **Narrative Function:** Insurance market exemplar
+- **Reuse Hook:** Part III
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
+
+### 94. 02-CONCEPT-36 — System billing for invisibility
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** billing for invisibility
+- **Cultural / Historical Context:** Algorithmic ad pricing
+- **Narrative Function:** Summarize dividend logic in one line
+- **Reuse Hook:** Chapter 03
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
 ### 97. 02-CONCEPT-37 — EHR integration
 
@@ -1131,11 +1419,14 @@ Version: 1.1
 
 
 
-- **Type:** Concept
+- **Asset Type:** Concept
 - **Aliases:** EHR
-- **Context:** Platform dividend infrastructure
-- **Function:** Reuse pathway for data
-- **Reuse:** Part III
+- **Cultural / Historical Context:** Platform dividend infrastructure
+- **Narrative Function:** Reuse pathway for data
+- **Reuse Hook:** Part III
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD
 
 ### 98. 02-PLACE-10 — United States
 
@@ -1143,8 +1434,11 @@ Version: 1.1
 
 
 
-- **Type:** Place
+- **Asset Type:** Place
 - **Aliases:** U.S.
-- **Context:** National healthcare and institutional context
-- **Function:** System scale framing
-- **Reuse:** Across book
+- **Cultural / Historical Context:** National healthcare and institutional context
+- **Narrative Function:** System scale framing
+- **Reuse Hook:** Across book
+
+- **Introduced In:** TBD
+- **Engine Link:** TBD

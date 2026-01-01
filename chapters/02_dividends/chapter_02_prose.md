@@ -333,19 +333,6 @@ If you want a single sentence that captures the moral inversion of the precision
 
 Everyone gets paid except the person who paid with their body.
 
-Figure 2.1: From Data to Dividends
-
-This is the moment you need the reader to see the machine in one glance.
-
-Figure 2.1 (full-page): "From Data to Dividends: The Precision-Medicine Pipeline."
-- Patients enter as bodies -> data.
-- Small groups fall out as "insufficient N."
-- What remains becomes code.
-- Code routes upward into institutions, insurers, industry.
-- Excluded patients remain below, carrying the risk of model failure.
-
-(Insert Figure 2.1 here - "Figure_2_1_From_Data_to_Dividends.png")
-
 The figure isn’t decoration.
 
 It’s indictment.
