@@ -20,22 +20,26 @@ Each chapter lives in its own directory:
 
 ```text
 NN_chapter_name/
-├── chapter.md   # reader-facing prose
-├── ledger.md    # authoritative asset + failure map
-└── scene.md     # scene-to-asset alignment
+├── chapter_NN_prose.md   # reader-facing prose
+├── chapter_NN_ledger.md  # authoritative asset + failure map
+└── chapter_NN_scene.md   # scene-to-asset alignment
 ```
 
-- **`chapter.md`** is narrative output.
-- **`ledger.md`** is the source of truth.
-- **`scene.md`** ensures narrative structure maps to system structure.
+Only the directory carries the chapter stem; filenames use the chapter number only.
+
+- **`chapter_NN_prose.md`** is narrative output.
+- **`chapter_NN_ledger.md`** is the source of truth.
+- **`chapter_NN_scene.md`** ensures narrative structure maps to system structure.
 
 If these three files disagree, **the ledger wins**.
+
+**Ordering rule:** `chapter_NN_prose.md` headings define scene order. `chapter_NN_scene.md` must follow that order. `chapter_NN_ledger.md` must follow scene order.
 
 ---
 
 ## Chapter Status Tags
 
-Add exactly one status line at the top of `chapter.md`:
+Add exactly one status line at the top of `chapter_NN_prose.md`:
 
 - `Status: OUTLINE` — spine-aligned structure only
 - `Status: DRAFT` — prose exists but governance incomplete
@@ -43,6 +47,8 @@ Add exactly one status line at the top of `chapter.md`:
 - `Status: POLISH` — language and cadence tightening only
 
 Status reflects **governance maturity**, not writing effort.
+
+Prologue and Epilogue must use headings in `chapter_NN_prose.md` so ordering can be enforced.
 
 ---
 
@@ -67,7 +73,7 @@ chapters/global_ledger.md
 
 Use this to normalize existing chapters into the global ledger:
 
-1. For each existing `chapters/NN_*` bundle, list all assets in `ledger.md`.
+1. For each existing `chapters/NN_*` bundle, list all assets in `chapter_NN_ledger.md`.
 2. For each asset, create a row in `chapters/global_ledger.md` with:
    - Asset ID
    - Canonical Name
@@ -80,11 +86,25 @@ Use this to normalize existing chapters into the global ledger:
    - Choose a single canonical ID
    - Mark the duplicate **DEPRECATED** in the global ledger
    - Update chapter ledgers to reference the canonical ID
-4. Verify every asset referenced in every `scene.md` exists in the global ledger.
+4. Verify every asset referenced in every `chapter_NN_scene.md` exists in the global ledger.
 
 After bootstrap:
 - `chapters/global_ledger.md` is mandatory and authoritative.
 - No new asset appears in prose unless it is registered globally first.
+
+### Production Reindex (When Prose Order Changes)
+
+Reindexing is required when `chapter_NN_prose.md` headings or scene order changes.
+
+Steps:
+1. Ensure `chapter_NN_scene.md` matches `chapter_NN_prose.md` heading order.
+2. Reassign asset IDs in `chapter_NN_ledger.md` by **type**, in the order assets appear across scenes.
+3. Update all references in `chapter_NN_prose.md`, `chapter_NN_scene.md`, and `chapters/global_ledger.md`.
+4. Rebuild the global ledger from chapter ledgers in their new order.
+
+IDs are defined by **prose order**, not by convenience.
+
+If an asset’s **Type** changes, reindex the chapter and update all references.
 
 ---
 
@@ -97,7 +117,7 @@ After bootstrap:
    - Exit Handoff
 
 2. **Build the Ledger First**  
-   Create or update `ledger.md` with:
+   Create or update `chapter_NN_ledger.md` with:
    - all narrative assets (episodes, people, places, figures)
    - all concepts referenced
    - every death, disparity, or harm
@@ -106,19 +126,19 @@ After bootstrap:
    If it is not in the ledger, it may not appear in prose.
 
 3. **Register Narrative Assets**  
-   Run `protocols/narrative_asset.md` for any episode, case, person, or place.
+   Run `protocols/protocol_narrative_asset.md` for any episode, case, person, or place.
 
 4. **Update the Global Ledger**  
    Register or update all assets in `chapters/global_ledger.md`.
 
 5. **Check Compliance Early**  
-   Run `protocols/asset_compliance.md` before drafting prose.
+   Run `protocols/protocol_asset_compliance.md` before drafting prose.
 
 6. **Draft Prose from the Ledger**  
-   Write `chapter.md` using the ledger as the outline, not memory or intuition.
+   Write `chapter_NN_prose.md` using the ledger as the outline, not memory or intuition.
 
 7. **Map Scenes**  
-   Update `scene.md` so each scene lists the asset IDs it uses.
+   Update `chapter_NN_scene.md` so each scene lists the asset IDs it uses.
 
 8. **Enforce Death-Bound Logic**  
    Ensure every referenced death or disparity is explicitly traceable to:
@@ -150,9 +170,9 @@ Chapters **may not include**:
 When discrepancies appear:
 
 1. `chapters/global_ledger.md` (global IDs and asset truth)
-2. `chapters/NN_chapter_name/ledger.md` (chapter asset authority)
-3. `chapters/NN_chapter_name/scene.md` (scene mapping)
-4. `chapters/NN_chapter_name/chapter.md` (prose)
+2. `chapters/NN_chapter_name/chapter_NN_ledger.md` (chapter asset authority)
+3. `chapters/NN_chapter_name/chapter_NN_scene.md` (scene mapping)
+4. `chapters/NN_chapter_name/chapter_NN_prose.md` (prose)
 
 Fix inputs upstream; never patch prose to bypass the ledger.
 

@@ -121,11 +121,11 @@ If this cannot be stated plainly, the concept does not belong in this book.
 This directory contains the authoritative definitions for:
 
 - `concept_vocabulary.md` — canonical meanings and phrases
-- `geometry_of_medicine.md` — representational geometry and proof assets
-- `three_engines.md` — discovery, care, information
-- `digital_maya.md` — representation without custody
-- `maat.md` — enforceable governance and alignment
-- `healthcare_data_laws.md` — mortality governance through policy
+- `concept_geometry_of_medicine.md` — representational geometry and proof assets
+- `concept_three_engines.md` — discovery, care, information
+- `concept_digital_maya.md` — representation without custody
+- `concept_maat.md` — enforceable governance and alignment
+- `concept_healthcare_data_laws.md` — mortality governance through policy
 
 Closed sets remain closed unless book governance is explicitly revised.
 

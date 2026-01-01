@@ -47,11 +47,16 @@ Narrative assets are created by **ledgering**.
 
 ### 3. Chapter Bundles (Argument Containers)
 Each chapter is a bundle of:
-- reader-facing prose (`chapter.md`)
-- an authoritative ledger (`ledger.md`)
-- a scene map (`scene.md`)
+- reader-facing prose (`chapter_NN_prose.md`)
+- an authoritative ledger (`chapter_NN_ledger.md`)
+- a scene map (`chapter_NN_scene.md`)
 
 Chapters **consume assets**. They do not invent them.
+
+Ordering rule:
+- `chapter_NN_prose.md` headings define scene order.
+- `chapter_NN_scene.md` must follow chapter heading order.
+- `chapter_NN_ledger.md` must follow scene order.
 
 ---
 
@@ -115,7 +120,7 @@ Convert lived experience into a **governed, reusable system asset**.
 Ledgering always occurs inside a **chapter bundle**:
 
 ```
-chapters/NN_chapter_name/ledger.md
+chapters/NN_chapter_name/chapter_NN_ledger.md
 ```
 
 Every episode has:
@@ -145,10 +150,11 @@ Scenes declare how assets appear as narrative units.
 Outputs live in:
 
 ```
-chapters/NN_chapter_name/scene.md
+chapters/NN_chapter_name/chapter_NN_scene.md
 ```
 
 Scene mapping is optional during ledgering and mandatory during chapter build.
+Scene order must match `chapter_NN_prose.md` headings.
 
 ---
 
@@ -166,7 +172,7 @@ Assemble governed assets into a **chapter-length argument**.
 ### Where Prose Is Written
 
 ```
-chapters/NN_chapter_name/chapter.md
+chapters/NN_chapter_name/chapter_NN_prose.md
 ```
 
 ### Rules
@@ -176,6 +182,20 @@ chapters/NN_chapter_name/chapter.md
 - emotion must close with mechanism
 
 This is the **only phase where reader-facing prose is written**.
+
+---
+
+## Production Initialization and Reindex
+
+When prose order changes, reindex IDs to match the new sequence.
+
+Steps:
+- Ensure `chapter_NN_scene.md` follows `chapter_NN_prose.md` heading order.
+- Reassign IDs in `chapter_NN_ledger.md` by **type**, in scene order.
+- Update all references in `chapter_NN_prose.md`, `chapter_NN_scene.md`, and `chapters/global_ledger.md`.
+- Rebuild the global ledger from the updated chapter ledgers.
+
+IDs are append-only within a given index pass, but the index itself is **prose-derived**.
 
 ---
 
@@ -229,16 +249,16 @@ Use this checklist to scale work across collaborators.
 
 ### Phase 2 — Ledger an Episode
 - **Outputs:**
-  - `chapters/NN_chapter_name/ledger.md` entry
+  - `chapters/NN_chapter_name/chapter_NN_ledger.md` entry
   - `chapters/global_ledger.md` row
 - **Done when:** asset has a canonical ID, engine link, and reuse hook
 
 ### Phase 3 — Scene Mapping
-- **Output:** `chapters/NN_chapter_name/scene.md` entries
+- **Output:** `chapters/NN_chapter_name/chapter_NN_scene.md` entries
 - **Done when:** every scene lists asset IDs that exist in the global ledger
 
 ### Phase 4 — Build Chapter
-- **Output:** `chapters/NN_chapter_name/chapter.md` draft
+- **Output:** `chapters/NN_chapter_name/chapter_NN_prose.md` draft
 - **Done when:** every asset referenced in prose is logged and engine-linked
 
 ### Phase 5 — Structural Edit (Pass 1)
@@ -278,7 +298,7 @@ When requesting AI review or assistance, provide:
 - **Required outputs:** checklist or specific edits
 
 Example:
-\"Validate that `chapters/02_dividends/chapter.md` only references assets listed in `chapters/02_dividends/ledger.md` and `chapters/global_ledger.md`. Flag missing IDs and mismatches. Do not rewrite prose.\"
+\"Validate that `chapters/02_dividends/chapter_02_prose.md` only references assets listed in `chapters/02_dividends/chapter_02_ledger.md` and `chapters/global_ledger.md`. Flag missing IDs and mismatches. Do not rewrite prose.\"
 AI outputs must be actionable lists or diff-ready edits.
 
 ---

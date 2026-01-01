@@ -16,7 +16,7 @@ If a concept does not pass this protocol, it **may not appear in prose**.
 - `book/emotional_arc.md` (death and grief constraints)
 - `concepts/concept_vocabulary.md`
 - Related concept files in `concepts/`
-- `protocols/narrative_asset.md` (if the concept appears in a chapter)
+- `protocols/protocol_narrative_asset.md` (if the concept appears in a chapter)
 
 ## Outputs
 - A new or updated standalone file in `concepts/`
@@ -78,8 +78,8 @@ Concepts that float outside this system are not admissible.
 
 ### Step 6 — Narrative Asset Registration (If Applicable)
 If the concept appears in a chapter:
-- Log it using `protocols/narrative_asset.md`.
-- Update the relevant `scene.md` to reference the asset.
+- Log it using `protocols/protocol_narrative_asset.md`.
+- Update the relevant `chapter_NN_scene.md` to reference the asset.
 
 ## Checks (Pass / Fail)
 

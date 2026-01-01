@@ -80,7 +80,7 @@ AI does **not** supply authority, witness, or moral judgment.
 
 Episodes / Cases ↔ Concepts  
 → Narrative Assets (ledgered)  
-→ Chapter Bundles (`chapter.md` + `ledger.md` + `scene.md`)  
+→ Chapter Bundles (`chapter_NN_prose.md` + `chapter_NN_ledger.md` + `chapter_NN_scene.md`)  
 → Book-Level Enforcement (spine, emotional arc, red lines)
 
 Key invariants:

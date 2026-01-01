@@ -9,14 +9,19 @@ Applies to the Prologue and all chapters.
 
 ## Inputs
 - `book/spine.md`
-- `protocols/chapter_build.md`
+- `protocols/protocol_chapter_build.md`
 - `book/emotional_arc.md`
-- `protocols/narrative_asset.md`
+- `protocols/protocol_narrative_asset.md`
 
 ## Outputs
 - Chapters and ledgers that comply with the canon
 
 ## Procedure
+
+### Rule 0. Ordering (Required)
+- `chapter_NN_prose.md` headings define scene order.
+- `chapter_NN_scene.md` must follow chapter heading order.
+- `chapter_NN_ledger.md` entries must follow scene order.
 
 ### Rule 1. Naming and Identity
 

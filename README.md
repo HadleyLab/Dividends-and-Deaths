@@ -94,10 +94,11 @@ Read: `protocols/README.md`
 Each chapter is a governed bundle:
 ```
 NN_chapter_name/
-├── chapter.md
-├── ledger.md
-└── scene.md
+├── chapter_NN_prose.md
+├── chapter_NN_ledger.md
+└── chapter_NN_scene.md
 ```
+Only the directory carries the chapter stem; filenames use the chapter number only.
 Global asset index: `chapters/global_ledger.md`
 Read: `chapters/README.md`
 
@@ -136,11 +137,11 @@ If there is uncertainty about *what to do next*, start there.
 This recipe assumes you are following `AUTHORING_PLAN.md`.
 
 1. Read `book/spine.md` → identify the chapter question, claim, and exit handoff.
-2. Update the chapter `ledger.md` with all assets, concepts, and death references.
-3. Register episodes, people, and cases via `protocols/narrative_asset.md`.
-4. Check constraints using `protocols/asset_compliance.md`.
-5. Draft `chapter.md` **from the ledger**, not from memory.
-6. Update `scene.md` so every scene maps to asset IDs.
+2. Update the chapter `chapter_NN_ledger.md` with all assets, concepts, and death references.
+3. Register episodes, people, and cases via `protocols/protocol_narrative_asset.md`.
+4. Check constraints using `protocols/protocol_asset_compliance.md`.
+5. Draft `chapter_NN_prose.md` **from the ledger**, not from memory.
+6. Update `chapter_NN_scene.md` so every scene maps to asset IDs.
 
 If prose introduces material not present in the ledger, it is wrong.
 

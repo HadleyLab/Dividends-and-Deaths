@@ -59,6 +59,8 @@ Protocols **do**:
 - make death auditable
 - prevent conceptual and emotional drift
 - make AI useful without giving it authority
+- enforce prose-driven ordering (chapter → scene → ledger)
+- enforce production reindexing when prose order changes
 
 Protocols **do not**:
 - invent ideas or episodes
@@ -89,10 +91,11 @@ If a required section is missing, the protocol is incomplete.
 
 These protocols define canonical execution:
 
-- `concept_intake.md` — admitting or revising concepts
-- `chapter_build.md` — producing governed chapters
-- `narrative_asset.md` — registering people, episodes, and cases
-- `asset_compliance.md` — enforcing narrative and ethical constraints
+- `protocol_concept_intake.md` — admitting or revising concepts
+- `protocol_chapter_build.md` — producing governed chapters
+- `protocol_narrative_asset.md` — registering people, episodes, and cases
+- `protocol_asset_compliance.md` — enforcing narrative and ethical constraints
+- `protocol_documentation.md` — naming conventions and documentation order
 
 These protocols are designed to work together. Skipping one introduces drift.
 
@@ -120,7 +123,7 @@ If a protocol blocks progress, fix the input — **do not bypass the protocol**.
 
 ## AI Review Discipline
 
-Protocol checks include AI-assisted consistency scans where noted (see `protocols/chapter_build.md` and `AUTHORING_PLAN.md`).
+Protocol checks include AI-assisted consistency scans where noted (see `protocols/protocol_chapter_build.md` and `AUTHORING_PLAN.md`).
 
 AI never introduces meaning; it only enforces structure, reuse, and contradiction checks.
 

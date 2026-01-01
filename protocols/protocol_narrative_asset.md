@@ -11,6 +11,8 @@ Applies to any new or modified:
 - episode or case
 - place or institution
 - object, technology, or artifact
+- organization or policy
+- ritual, symbol, or phrase used as a named asset
 - concept instance referenced narratively
 - figure or visual object
 
@@ -20,15 +22,15 @@ If an asset appears in prose, it must be registered here.
 - `book/spine.md` (chapter question, claim, exit)
 - `book/emotional_arc.md` (grief limits)
 - `concepts/README.md` (canonical ontology)
-- `protocols/asset_compliance.md`
-- `chapters/NN_chapter_name/ledger.md`
+- `protocols/protocol_asset_compliance.md`
+- `chapters/NN_chapter_name/chapter_NN_ledger.md`
 - `chapters/global_ledger.md`
 - Draft prose or scene introducing the asset
 
 ## Outputs
-- Updated `chapters/NN_chapter_name/ledger.md` with canonical asset entry
+- Updated `chapters/NN_chapter_name/chapter_NN_ledger.md` with canonical asset entry
 - Updated `chapters/global_ledger.md` with canonical index row
-- Updated `chapters/NN_chapter_name/scene.md` with asset references
+- Updated `chapters/NN_chapter_name/chapter_NN_scene.md` with asset references
 - Updated reuse hooks for future chapters
 
 ---
@@ -38,12 +40,21 @@ If an asset appears in prose, it must be registered here.
 Every narrative asset must be classified as **one** of the following:
 
 - **Character** — a person appearing in narrative (including the author)
-- **Episode** — a bounded event or case (clinical, institutional, personal)
 - **Place** — a location or institution
 - **Object** — a physical or digital artifact
-- **Concept Instance** — a narrative instantiation of a canonical concept
-- **Evidence** — data, paper, statistic, or study
 - **Figure** — diagram, chart, or visual explanatory object
+- **Ritual** — a repeated practice or rite used as a narrative unit
+- **Economic** — a defined economic mechanism or unit
+- **Phrase** — a named line or structural refrain
+- **Concept** — a canonical concept used narratively
+- **Symbol** — a named symbol or emblematic object
+- **Organization** — an institution or formal entity
+- **Policy** — a law, program, or formal policy instrument
+- **Evidence** — data, paper, statistic, or study
+- **Citation** — a formal reference unit when cited as an object
+- **Historical case** — a bounded historical event or case
+- **Metaphor** — a named metaphor used as a structural unit
+- **Foreshadowing** — a named foreshadowing device
 
 If an asset does not fit cleanly, it is not ready for prose.
 
@@ -60,16 +71,27 @@ Confirm the asset directly serves **at least one** of:
 If it does not, do not admit the asset.
 
 ### Step 2 — Assign Canonical ID
-- Use the chapter prefix and asset type code (e.g., `00-CHAR-01`, `02-EPIS-03`).
+- Use the chapter prefix and asset code: `NN-CODE-XX`.
+- Codes are fixed. Do not invent new codes.
 - IDs are append-only. Never reuse or reorder.
+- IDs are assigned in the order assets are introduced in `chapter_NN_prose.md` (scene order).
+- If an asset’s **Type** changes, reindex IDs for the chapter and update all references.
+
+**Preferred codes (use for new assets):**
+CHAR, PLACE, OBJ, FIG, RIT, ECON, PHRASE, CONCEPT, SYMBOL, ORG, POLICY, EVID, HIST, METAPHOR, FORESHADOW
+
+**Legacy codes (already in use; keep only if the asset already exists):**
+THESIS, CASE, DATA, TOOL, CULT, LEDGER, EXIT, OBJECT
 
 ### Step 3 — Ledger Registration (Non-Negotiable)
-Register the asset in `chapters/NN_chapter_name/ledger.md` using the canonical template.
+Register the asset in `chapters/NN_chapter_name/chapter_NN_ledger.md` using the canonical template.
 
 Required fields:
+- **Canonical Name** (use the entry heading)
 - **Asset Type**
 - **Status** (for Characters)
 - **Cultural / National Identity** (for Characters, when relevant)
+- **Cultural / Historical Context**
 - **Introduced In**
 - **Narrative Function** (what structural work this asset does)
 - **Engine Link** — which engine failure(s) this asset illuminates
@@ -99,11 +121,16 @@ If the asset involves harm, disparity, or death:
 Assets that touch death without mechanism are non-compliant.
 
 ### Step 6 — Scene Map Update
-- Update `chapters/NN_chapter_name/scene.md` so each scene lists the asset IDs it uses.
+- Update `chapters/NN_chapter_name/chapter_NN_scene.md` so each scene lists the asset IDs it uses.
 - Scenes may not reference unregistered assets.
+- Scene order must match the order of headings in `chapters/NN_chapter_name/chapter_NN_prose.md`.
 
-### Step 7 — Compliance Check
-Run `protocols/asset_compliance.md` and resolve all violations before prose is finalized.
+### Step 7 — Ledger Ordering
+- Ledger entries must follow the scene order derived from `chapter_NN_prose.md`.
+- If prose order changes, reorder `chapter_NN_ledger.md` and `chapter_NN_scene.md` to match.
+
+### Step 8 — Compliance Check
+Run `protocols/protocol_asset_compliance.md` and resolve all violations before prose is finalized.
 
 ---
 
@@ -126,7 +153,7 @@ Failure on any check means the asset is **not canonical**.
 When a chapter introduces a figure:
 - Log it as a **Figure** asset in the ledger.
 - Include a figure callout in the prose (e.g., “(See Figure 2.1.)”).
-- Add a standalone title line and a caption line in `chapter.md` using `Figure X | Caption...`.
+- Add a standalone title line and a caption line in `chapter_NN_prose.md` using `Figure X | Caption...`.
 - List the file name in **Aliases** if a source image or diagram exists.
 - Standardize file naming: `figure_NN_XX_short_slug.png` (e.g., `figure_02_01_dividend_stack.png`) and place the file in the chapter folder.
 

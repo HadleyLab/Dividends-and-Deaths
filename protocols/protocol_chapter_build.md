@@ -15,17 +15,17 @@ No chapter is exempt.
 - `book/emotional_arc.md` (grief limits and tonal guardrails)
 - `concepts/README.md` (canonical ontology)
 - `concepts/concept_vocabulary.md` (mandated phrases)
-- `concepts/digital_maya.md`
-- `concepts/maat.md`
-- `protocols/asset_compliance.md`
-- `protocols/narrative_asset.md`
-- `chapters/NN_chapter_name/ledger.md`
+- `concepts/concept_digital_maya.md`
+- `concepts/concept_maat.md`
+- `protocols/protocol_asset_compliance.md`
+- `protocols/protocol_narrative_asset.md`
+- `chapters/NN_chapter_name/chapter_NN_ledger.md`
 - `chapters/global_ledger.md`
 
 ## Outputs
-- Updated `chapters/NN_chapter_name/chapter.md`
-- Updated `chapters/NN_chapter_name/ledger.md` (authoritative)
-- Updated `chapters/NN_chapter_name/scene.md`
+- Updated `chapters/NN_chapter_name/chapter_NN_prose.md`
+- Updated `chapters/NN_chapter_name/chapter_NN_ledger.md` (authoritative)
+- Updated `chapters/NN_chapter_name/chapter_NN_scene.md`
 - Updated `chapters/global_ledger.md`
 - Figure callouts and captions (if used)
 
@@ -35,14 +35,14 @@ No chapter is exempt.
 - Confirm naming conventions:
   - Prologue is Chapter `00`.
   - Chapter bundles use two-digit prefixes (`01_the_billable_code`).
-  - Each bundle contains `chapter.md`, `ledger.md`, and `scene.md`.
+  - Each bundle contains `chapter_NN_prose.md`, `chapter_NN_ledger.md`, and `chapter_NN_scene.md`.
 
 ### Step 2 — Spine Contract Lock
 - Explicitly state the **Chapter Question**, **Claim**, and **Exit Handoff** from `book/spine.md`.
 - If any of these are unclear, **stop**. Do not draft prose.
 
 ### Step 3 — Ledger First (Non-Negotiable)
-- Update `ledger.md` before writing prose.
+- Update `chapter_NN_ledger.md` before writing prose.
 - Every scene, episode, concept, figure, and death reference must be logged.
 - Each death reference must be tagged with:
   - Failed engine(s): Discovery / Care / Information
@@ -53,14 +53,14 @@ Prose may not introduce unledgered material.
 ### Step 4 — Global Ledger Sync (Non-Negotiable)
 - Register every asset from the chapter ledger in `chapters/global_ledger.md`.
 - Resolve duplicates via **DEPRECATED** redirects.
-- Confirm all `scene.md` asset IDs exist in the global ledger.
+- Confirm all `chapter_NN_scene.md` asset IDs exist in the global ledger.
 
 ### Step 5 — Asset Compliance Check
-- Run `protocols/asset_compliance.md` against the ledger.
+- Run `protocols/protocol_asset_compliance.md` against the ledger.
 - Resolve violations before drafting.
 
 ### Step 6 — Draft Prose from the Ledger
-Draft `chapter.md` using the ledger as the outline.
+Draft `chapter_NN_prose.md` using the ledger as the outline.
 
 Required structure:
 - **Opening hook**: mirror or Core Thesis Asset within the first scene.
@@ -70,8 +70,10 @@ Required structure:
 If a figure appears, insert a callout and caption tied to a ledgered asset.
 
 ### Step 7 — Scene Mapping
-- Update `scene.md` so every scene maps to one or more ledger assets.
+- Update `chapter_NN_scene.md` so every scene maps to one or more ledger assets.
 - Remove or relocate orphan scenes.
+- Scene order must match the order of headings in `chapter_NN_prose.md`.
+- Ledger entries must follow the scene order.
 
 ### Step 8 — Death-Bound Enforcement
 
@@ -119,7 +121,7 @@ Failure on any check means the chapter is **not publication-ready**.
 ## AI Review Checklist (Second-Pass)
 
 Use AI to:
-- verify that every asset ID in `chapter.md` exists in `ledger.md` and `chapters/global_ledger.md`
+- verify that every asset ID in `chapter_NN_prose.md` exists in `chapter_NN_ledger.md` and `chapters/global_ledger.md`
 - flag any prose claims that lack engine failure linkage
 - detect concept drift against `concepts/` definitions
 - identify repeated explanations that should be collapsed into canonical phrases
