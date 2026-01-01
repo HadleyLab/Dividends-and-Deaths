@@ -85,35 +85,6 @@ Version: 1.3
 - **Introduced In:** The Mother of Precision Medicine
 - **Engine Link:** Discovery
 
-### 82. 00-CONCEPT-12 — CPT
-
-
-
-
-
-- **Asset Type:** Concept
-- **Cultural / Historical Context:** Procedure code system
-- **Narrative Function:** Billing infrastructure example
-- **Reuse Hook:** Chapter 02
-
-- **Introduced In:** Stanford, Ontologies, and the Skeleton of the System
-- **Engine Link:** Information
-
-### 48. 00-CONCEPT-05 — Universal men
-
-
-
-
-
-- **Asset Type:** Concept
-- **Aliases:** Universal Men
-- **Cultural / Historical Context:** Lineage philosophy
-- **Narrative Function:** Identity and inclusion frame
-- **Reuse Hook:** Chapter 15, Epilogue
-
-- **Introduced In:** A Long Line of Universal Men
-- **Engine Link:** Care
-
 ### 9. 00-PHRASE-02 — Behind God’s Back
 
 
@@ -531,6 +502,21 @@ Version: 1.3
 - **Introduced In:** Malta, Mangoes, and Mauby
 - **Engine Link:** Information
 
+### 48. 00-CONCEPT-05 — Universal men
+
+
+
+
+
+- **Asset Type:** Concept
+- **Aliases:** Universal Men
+- **Cultural / Historical Context:** Lineage philosophy
+- **Narrative Function:** Identity and inclusion frame
+- **Reuse Hook:** Chapter 15, Epilogue
+
+- **Introduced In:** A Long Line of Universal Men
+- **Engine Link:** Care
+
 ### 47. 00-PHRASE-05 — A Long Line of Universal Men
 
 
@@ -836,6 +822,20 @@ Version: 1.3
 
 - **Introduced In:** The Transitional Year and the Decision Not to Cut
 - **Engine Link:** Discovery
+
+### 82. 00-CONCEPT-12 — CPT
+
+
+
+
+
+- **Asset Type:** Concept
+- **Cultural / Historical Context:** Procedure code system
+- **Narrative Function:** Billing infrastructure example
+- **Reuse Hook:** Chapter 02
+
+- **Introduced In:** Stanford, Ontologies, and the Skeleton of the System
+- **Engine Link:** Information
 
 ### 77. 00-PHRASE-10 — Stanford, Ontologies, and the Skeleton of the System
 
