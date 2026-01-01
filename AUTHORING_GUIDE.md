@@ -1,6 +1,7 @@
-# Authoring Plan — Writing *Dividends & Deaths* as a System
+# Authoring Guide — Writing *Dividends & Deaths* as a System
 
 This document is the **authoritative authoring guide** for *Dividends & Deaths*.
+For a fast entry point, see `QUICKSTART.md`.
 
 It defines:
 - where prose comes from,

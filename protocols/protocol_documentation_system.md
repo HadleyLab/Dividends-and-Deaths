@@ -8,7 +8,7 @@ Applies to all canonical directories and documentation files.
 
 ## Inputs
 - `README.md`
-- `AUTHORING_PLAN.md`
+- `AUTHORING_GUIDE.md`
 - `book/README_BOOK.md`
 - `concepts/README_CONCEPTS.md`
 - `protocols/README_PROTOCOLS.md`
@@ -52,7 +52,7 @@ Purpose → Scope → Related Documents → Non-Negotiables → Update Triggers
 ### Step 4 — Reference Integrity
 When any canonical file is added, removed, or renamed, update references in:
 - `README.md`
-- `AUTHORING_PLAN.md`
+- `AUTHORING_GUIDE.md`
 - `book/README_BOOK.md`
 - `concepts/README_CONCEPTS.md`
 - `protocols/README_PROTOCOLS.md`

@@ -109,7 +109,7 @@ Assets not logged are non-canonical.
 - Quantified claims must be conservative, order-of-magnitude, and anchored in widely cited public figures or structural logic.
 - Avoid precise numbers unless sourced.
 - If a claim is not cited, keep it to rough orders of magnitude or qualified ranges.
-- Approximate scale language (e.g., hundreds, thousands, millions, billions, trillions, order-of-magnitude) is allowed without citation when clearly presented as estimates; exact percentages, dates, or dollar figures still require sources.
+- Approximate scale language (e.g., hundreds, thousands, millions, billions, trillions, decades, order-of-magnitude, "~99%") is allowed without citation when clearly presented as estimates; exact percentages, dates, or dollar figures still require sources.
 - The core economic invariant of the book is fixed:
 
 > **Every layer of the system is reimbursed

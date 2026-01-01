@@ -1305,7 +1305,7 @@ Version: 1.0
 - **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
-### 91. 01-CONCEPT-26 — Digital Māyā
+### 91. 01-CONCEPT-26 — Digital Maya
 
 
 
@@ -1320,7 +1320,7 @@ Version: 1.0
 - **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
-### 92. 01-CONCEPT-27 — Māyā (Hindu concept)
+### 92. 01-CONCEPT-27 — Maya (Hindu concept)
 
 
 

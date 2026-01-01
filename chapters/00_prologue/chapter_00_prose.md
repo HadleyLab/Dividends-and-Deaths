@@ -665,7 +665,7 @@ And I will not dare disappoint him.
 
  
 
-My mother now lives with me. She is 88, physically strong, mentally elsewhere. She will die with me, not in an institution. It is the least I can do for the girl from Gasparillo who became Pearl in England and Surajee again in the quiet of our kitchen when she forgets which name she is supposed to answer to.
+My mother now lives with me. She is 88, physically strong, mentally elsewhere. She will die with me, not in an institution. It is the least I can do for the girl from Gasparillo who became Pearl in England and Surajee again in the quiet of our kitchen when she forgets which name she is supposed to answer to. The system still lacks a way to hold her story in a form that can protect her.
 
 
 

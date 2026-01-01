@@ -258,7 +258,7 @@ CHOP’s origin story carries weight for a reason: it was founded in the mid‑1
 
 Across the street is West Philadelphia—predominantly Black, deeply rooted, deeply burdened by the same inequities every American city carries in its bones. CHOP sits against that reality like a fortress of excellence.
 
-Inside CHOP, a new kind of center was coming into power: the Center for Applied Genomics (CAG)—an industrial machine for genotyping children at scale.
+Inside CHOP, a new kind of center was coming into power: the Center for Applied Genomics (CAG)—an industrial machine for genotyping children at scale (turning DNA into standardized data).
 
 This is where I first met Hakon Hakonarson in that era: Icelandic by ancestry, big-science by temperament, running the center like a builder. If academia has poets, he read as an engineer of scale.
 
@@ -266,7 +266,7 @@ Engines produce outputs. Not just papers or knowledge.
 
 Value.
 
-At NeuroFix—our precision-medicine venture in neuropsychiatry—I became lead bioinformatician on pediatric genotyping efforts at a scale that was breathtaking at the time: tens of thousands of children, hundreds of thousands of SNPs.
+At NeuroFix—our precision-medicine venture in neuropsychiatry—I became lead bioinformatician (data scientist for biological data) on pediatric genotyping efforts at a scale that was breathtaking at the time: tens of thousands of children, hundreds of thousands of SNPs (single-nucleotide polymorphisms).
 
 Plainly: we were taking a child’s biology and turning it into a dataset dense enough to compute on.
 
@@ -516,7 +516,7 @@ If you want readers to leave aghast, you don’t do it with outrage. You do it w
 Here is the dividend logic, stacked:
 1. Research volume dividend: tens of millions in cohort construction; billions in downstream grants, publications, and IP (intellectual property).
 2. Reimbursement dividend: coded care becomes billable care; billable care becomes standard care.
-3. Platform dividend: build the pipeline once; reuse endlessly (open data, EHR integration, AI models).
+3. Platform dividend: build the pipeline once; reuse endlessly (open data, EHR [electronic health record] integration, AI models).
 4. Network-effect dividend: the "standard dataset" becomes the default truth (citations, canon, inertia).
 5. Insurance dividend: risk scoring turns diagnoses into revenue and denials into savings.
 6. Equity surcharge: representation costs more - priced explicitly by the market.

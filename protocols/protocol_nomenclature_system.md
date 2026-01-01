@@ -24,7 +24,7 @@ All other files use lowercase names.
 
 System files (UPPERCASE role token):
 - `README.md`
-- `AUTHORING_PLAN.md`
+- `AUTHORING_GUIDE.md`
 - `chapters/GLOBAL_LEDGER.md`
 - `chapters/GLOBAL_REFERENCES.bib`
 - `protocols/README_PROTOCOLS.md`

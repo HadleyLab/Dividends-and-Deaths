@@ -342,8 +342,8 @@ Silent duplication is a protocol violation.
 | 01-CONCEPT-25 | Prediction and pattern recognition | Object | 01 | Information |  |  |
 | 01-PHRASE-16 | Code Is Not Software — It Is Power | Phrase | 01 | Information |  |  |
 | 01-PHRASE-17 | Digital Māyā | Phrase | 01 | Information |  |  |
-| 01-CONCEPT-26 | Digital Māyā | Concept | 01 | Information |  |  |
-| 01-CONCEPT-27 | Māyā (Hindu concept) | Concept | 01 | Information |  |  |
+| 01-CONCEPT-26 | Digital Maya | Concept | 01 | Information |  |  |
+| 01-CONCEPT-27 | Maya (Hindu concept) | Concept | 01 | Information |  |  |
 | 01-PHRASE-18 | The Counterattack | Phrase | 01 | Care |  |  |
 | 01-CHAR-12 | Aunty Betty | Character | 01 | Care | Deceased |  |
 | 01-CONCEPT-28 | Seventh-day Adventism | Symbol | 01 | Information |  |  |

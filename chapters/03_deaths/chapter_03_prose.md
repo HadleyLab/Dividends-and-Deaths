@@ -40,7 +40,7 @@ Even partial representation can mislead. A thin record can read as low risk when
 
 Follow a patient from first symptom to final code and the mechanism becomes clear. A lump is noticed at home. A clinic visit is scheduled weeks out because work and childcare are nonnegotiable. The intake note captures pain but not concern. A screening order is placed, but the referral is routed to a center outside the patient’s network. Imaging is delayed. A biopsy is scheduled, then rescheduled. A diagnosis is made and coded, but the oncology visit arrives late. A recurrence score requires a complete record, so it is never ordered. A therapy that requires a specific staging code is never authorized because the staging code was never entered. Every step is a reasonable decision inside the system. Each one is a small loss of representation. The losses accumulate, and the body bears the consequence.
 
-This is what the Billable Code does when it becomes the only grammar in the room. It compresses a life into billable units and leaves everything else outside the record. The things that are hardest to code are often the things that matter most: the delays, the missed appointments, the unstable housing, the work schedule that turns care into a series of deferrals. The code is not designed to carry those realities, so the algorithm never learns them, and the system never accounts for them.
+This is what the Billable Code does when it becomes the only grammar in the room. It compresses a life into billable units and leaves everything else outside the record. The things that are hardest to code are often the things that matter most: the delays, the missed appointments, the unstable housing, the work schedule that turns care into a series of deferrals. The code is not designed to carry those realities, so the system is not trained on them, and the system never accounts for them.
 
 It also shifts incentives. Clinicians are required to document what is reimbursable. Systems are optimized around what can be billed. The result is a record that tilts toward the measurable and away from the lived. When the record becomes a financial artifact, the person becomes a financial abstraction. That is how representation drifts away from reality without anyone deciding it should.
 
@@ -53,6 +53,8 @@ Burchard’s research showed:
 	•	Puerto Rican children have the highest asthma prevalence in the world, nearly 3× that of White children [@nishimura2015_latino_asthma]
 	•	African ancestry is associated with worse asthma exacerbations, even when controlling for environment [@kumar2015_african_asthma]
 	•	The genetic variants that drive asthma risk in minorities are often absent in Eurocentric GWAS (genome-wide association study) datasets, making clinical prediction tools less accurate for the people who need them most [@popejoy2016_diversity_failure]
+
+The human consequence is simple: children get sicker and stay sicker because the evidence was never built around them.
 
 These were not modest findings. They were indictments.
 
@@ -75,7 +77,7 @@ In the chart, these fragments become separate problems with separate codes, sepa
 
 Complexity also becomes a reason to exclude. In clinical research, comorbidities are treated as confounders. In algorithm development, they are treated as noise. Clean datasets are prized. Complex datasets are seen as messy. But for the patient who carries multiple risks, the “mess” is the reality. The model’s cleanliness is paid for by the patient’s invisibility.
 
-Data cleaning is never neutral. Outliers get removed. Missing values get imputed. Cases with partial records get dropped. Each of these steps makes the model more elegant, and each makes the model less faithful to the lived world. When you remove the hardest cases to simplify a dataset, you teach the model that those cases do not exist. When those cases then show up in the clinic, the model fails silently. The failure looks like a low risk score. The patient receives a late diagnosis.
+Data cleaning is never neutral. Outliers get removed. Missing values get imputed. Cases with partial records get dropped. Each of these steps makes the model more elegant, and each makes the model less faithful to the lived world. When you remove the hardest cases to simplify a dataset, the system is trained as if those cases do not exist. When those cases then show up in the clinic, the outputs fail silently. The failure looks like a low risk score. The patient receives a late diagnosis.
 
 In meetings where cohorts are selected, you can hear the tradeoffs in plain language: we need a clean cohort, we need a manageable dataset, we need to control for variables. These are technical decisions. But they produce moral consequences. Every exclusion criterion is a decision about whose life counts as evidence.
 
@@ -91,17 +93,17 @@ Asthma × pollution × poor access to specialty care × housing instability × h
 
 Yet the models used to predict risk—polygenic scores (risk estimates built from many genetic variants), machine-learning prognostics, EHR-based algorithms (built on electronic health records)—were built on the assumption of a single disease in a single body.
 
-These models are only as good as their denominators. The denominator is the dataset the model sees. If the dataset excludes complexity, the model learns simplicity. If the dataset excludes the hardest cases, the model learns to expect easy ones. It is not the algorithm’s fault. It is the dataset’s shadow.
+These models are only as good as their denominators. The denominator is the dataset the system is trained on. If the dataset excludes complexity, the system is trained to expect simplicity. If the dataset excludes the hardest cases, the system is trained to expect easy ones. It is not the algorithm’s fault. It is the dataset’s shadow.
 
 This is why the same algorithm can look brilliant in a paper and brittle in a clinic. In a controlled dataset, the variables are clean. In a real clinic, variables are incomplete. In a community clinic, variables are missing. The model doesn’t fail because it is wrong. It fails because the world is more complicated than the representation it was trained on.
 
 Multiplicative risk is not just a metaphor. When exposures stack, each one reshapes the impact of the others. A model trained on isolated conditions cannot capture these interactions. It treats each factor as a separate line item. But biology does not behave like a ledger. The human consequence is a risk score that underestimates the true danger.
 
-There is a second failure that often goes unacknowledged: missingness is not random. The people with the most fragmented data are usually the people with the most fragmented access. When a model treats missing data as neutral, it is not neutral. It is a proxy for structural exclusion. The algorithm sees a blank entry and interprets it as normal. The patient is treated as lower priority.
+There is a second failure that often goes unacknowledged: missingness is not random. The people with the most fragmented data are usually the people with the most fragmented access. When a model treats missing data as neutral, it is not neutral. It is a proxy for structural exclusion. The system interprets a blank entry as normal. The patient is treated as lower priority.
 
-Risk is also dynamic. A model often sees a snapshot: a list of codes, a handful of labs, a single visit. But lives are not snapshots. Risk rises and falls across seasons of stress, across changes in coverage, across the churn of housing and work. When the record captures only fragments, the model treats stability as the default. In communities where stability is the exception, the model systematically underestimates the danger.
+Risk is also dynamic. A model often works off a snapshot: a list of codes, a handful of labs, a single visit. But lives are not snapshots. Risk rises and falls across seasons of stress, across changes in coverage, across the churn of housing and work. When the record captures only fragments, the system defaults to stability in its scoring. In communities where stability is the exception, the model systematically underestimates the danger.
 
-And the absence of a code is often misread as health. A missing diagnosis can mean a missing test, a missing visit, or a missing clinic. But the algorithm sees a blank entry as a normal state. The system then treats the patient as lower risk and allocates resources elsewhere. The absence of representation becomes a rationale for further absence.
+And the absence of a code is often misread as health. A missing diagnosis can mean a missing test, a missing visit, or a missing clinic. But the system interprets a blank entry as a normal state. The system then treats the patient as lower risk and allocates resources elsewhere. The absence of representation becomes a rationale for further absence.
 
 The same pattern holds across conditions:
 
@@ -121,7 +123,7 @@ Pregnancy & Preterm Birth
 
 Black women face a 50% higher risk of preterm birth, even after controlling for income, insurance, and education [@taylor2020_preterm_birth].
 
-The human consequence is a newborn whose first days are spent in a neonatal intensive care unit (NICU) because the model never treated the mother as high risk.
+The human consequence is a newborn whose first days are spent in a neonatal intensive care unit (NICU) because the system never flagged the mother as high risk.
 
 Kidney Disease
 
@@ -167,7 +169,7 @@ This is why precision medicine “works” on paper: the people with the best ac
 
 That is not a flaw in the system. That is the system.
 
-In Central Florida, that logic takes physical form. A patient can live within miles of advanced oncology centers and still be functionally excluded by appointment lag, transportation, or the simple reality that the specialist network does not include them. The representation of their care never enters the algorithm. The algorithm therefore never learns them. The clinic never sees the risk it cannot compute. The cycle continues.
+In Central Florida, that logic takes physical form. A patient can live within miles of advanced oncology centers and still be functionally excluded by appointment lag, transportation, or the simple reality that the specialist network does not include them. The representation of their care never enters the algorithm. The system is never trained on them. The clinic never sees the risk it cannot compute. The cycle continues.
 
 The geography of absence is not only a map of where clinics are. It is a map of where data travels and where it stops. It is a map of which codes cross institutional boundaries and which do not. The person may cross those boundaries, but their record often does not.
 
@@ -175,7 +177,7 @@ The human consequence is a disease treated too late and a death that looks inevi
 
 Data completeness is a privilege. It arrives with stable employment, with insurance that persists, with time to attend appointments, with transportation that does not fail. It is not just a technical condition. It is a social one. When the system selects for data completeness, it selects for those privileges. Everyone else becomes an outlier not because their biology is rare, but because their representation is incomplete.
 
-The absence is compounded by interoperability gaps. Records do not travel cleanly across institutions, and they travel even less cleanly across economic boundaries. Community clinics are often the first stop for care and the last stop for data. The person moves through the system; the record stays behind. That is how a patient can be present at every appointment and still be invisible to the model.
+The absence is compounded by interoperability gaps. Records do not travel cleanly across institutions, and they travel even less cleanly across economic boundaries. Community clinics are often the first stop for care and the last stop for data. The person moves through the system; the record stays behind. That is how a patient can be present at every appointment and still be invisible to the scoring system.
 
 This is where the institutional mirror becomes dangerous. The system acts on the representation because it is scalable. It cannot act on the person because the person is complex. The representation becomes the target of care. When the representation is incomplete, the care is incomplete, and the consequence is mortality. The ledger is balanced only in the abstract. The body pays the difference.
 
