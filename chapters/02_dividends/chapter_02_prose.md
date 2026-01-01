@@ -58,7 +58,7 @@ By the time I entered the University of Pennsylvania’s MD/PhD program, biology
 
 Penn was the right place to feel that shift in your bones.
 
-This wasn’t just another campus with ivy on the walls. Penn carries a specific kind of American gravity. It doesn’t just teach medicine—it helped invent American medical education. The Perelman School of Medicine traces back to 1765 and is widely recognized as the first medical school in the United States.  ￼
+This wasn’t just another campus with ivy on the walls. Penn carries a specific kind of American gravity. It doesn’t just teach medicine—it helped invent American medical education. The Perelman School of Medicine traces back to the mid‑18th century and is widely recognized as the first medical school in the United States.  ￼
 
 And Penn also sits near another origin story—one that feels like a prophecy when you’re living a double life between biology and computation. Across the same city, within the same institutional ecosystem, the early architecture of modern computing was being forged—machines that turned human thought into symbols a device could process. You can feel it in Philadelphia if you know what you’re listening for: the hum of old ideas still powering new ones.
 

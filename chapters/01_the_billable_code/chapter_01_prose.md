@@ -232,7 +232,7 @@ LOINC for lab observations—turning a blood test into a comparable data point.
 
 RxNorm for medications—normalizing drugs across brands and formulations.
 
-SNOMED CT for clinical concepts—representing diseases and findings as structured ontology.
+SNOMED CT (Systematized Nomenclature of Medicine—Clinical Terms) for clinical concepts—representing diseases and findings as structured ontology.
 
 ICD for diagnoses—the backbone of what counts as illness.
 
