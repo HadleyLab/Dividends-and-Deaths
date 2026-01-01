@@ -645,7 +645,7 @@ Version: 1.0
 
 - **Asset Type:** Concept
 - **Cultural / Historical Context:** Care availability after coverage
-- **Narrative Function:** Compression step in Digital Maya sequence
+- **Narrative Function:** Compression step in Digital Māyā sequence
 - **Reuse Hook:** Chapter 02
 
 - **Introduced In:** The Insurance Engine
@@ -790,7 +790,7 @@ Version: 1.0
 
 
 - **Asset Type:** Place
-- **Cultural / Historical Context:** Origin of zero and Maya
+- **Cultural / Historical Context:** Origin of zero and Māyā
 - **Narrative Function:** Systems lineage anchor
 - **Reuse Hook:** Chapter 04
 
@@ -1012,7 +1012,7 @@ Version: 1.0
 - **Introduced In:** Code Is Not Software — It Is Power
 - **Engine Link:** Information
 
-### 90. 01-PHRASE-17 — Digital Maya
+### 90. 01-PHRASE-17 — Digital Māyā
 
 
 
@@ -1023,7 +1023,7 @@ Version: 1.0
 - **Narrative Function:** System abstraction framing
 - **Reuse Hook:** Chapter 01 only
 
-- **Introduced In:** Digital Maya
+- **Introduced In:** Digital Māyā
 - **Engine Link:** Information
 
 ### 93. 01-PHRASE-18 — The Counterattack
@@ -1241,7 +1241,7 @@ Version: 1.0
 
 - **Asset Type:** Concept
 - **Cultural / Historical Context:** Insurance authorization layer
-- **Narrative Function:** Compression step in Digital Maya sequence
+- **Narrative Function:** Compression step in Digital Māyā sequence
 - **Reuse Hook:** Chapter 02
 
 - **Introduced In:** The Counterattack
@@ -1335,14 +1335,14 @@ Version: 1.0
 - **Introduced In:** The Counterattack
 - **Engine Link:** Information
 
-### 91. 01-CONCEPT-26 — Digital Maya
+### 91. 01-CONCEPT-26 — Digital Māyā
 
 
 
 
 
 - **Asset Type:** Concept
-- **Aliases:** Digital Maya
+- **Aliases:** Digital Māyā
 - **Cultural / Historical Context:** Representation mistaken for reality
 - **Narrative Function:** Introduce the named concept and custody question
 - **Reuse Hook:** Mid-book callbacks and epilogue
@@ -1350,16 +1350,16 @@ Version: 1.0
 - **Introduced In:** The Counterattack
 - **Engine Link:** Information
 
-### 92. 01-CONCEPT-27 — Maya (Hindu concept)
+### 92. 01-CONCEPT-27 — Māyā (Hindu concept)
 
 
 
 
 
 - **Asset Type:** Concept
-- **Aliases:** Maya
+- **Aliases:** Māyā
 - **Cultural / Historical Context:** Representation mistaken for reality
-- **Narrative Function:** Philosophical basis for Digital Maya
+- **Narrative Function:** Philosophical basis for Digital Māyā
 - **Reuse Hook:** Chapter 04, Epilogue
 
 - **Introduced In:** The Counterattack
@@ -1405,7 +1405,7 @@ Version: 1.0
 
 - **Asset Type:** Concept
 - **Aliases:** Hindu
-- **Cultural / Historical Context:** Maya and maternal lineage
+- **Cultural / Historical Context:** Māyā and maternal lineage
 - **Narrative Function:** Philosophical anchor
 - **Reuse Hook:** Chapter 04
 

@@ -409,7 +409,7 @@ Version: 1.0
 
 - **Asset Type:** Phrase
 - **Cultural / Historical Context:** Representation that acts before the person
-- **Narrative Function:** Digital Maya proxy without naming it
+- **Narrative Function:** Digital Māyā proxy without naming it
 - **Reuse Hook:** Chapter 07
 
 - **Introduced In:** The Geography of Absence

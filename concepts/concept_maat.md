@@ -6,32 +6,19 @@ Keep Ma’at structurally present without turning it into philosophy or moral in
 ## Scope
 Applies to chapters once systems are shown to function without accountability.
 
-## Usage
+## Canonical Definition
+Ma’at is the governance condition required to align representation with consequence: order, balance, and accountable accounting between value, power, and responsibility.
+In this book, Ma’at is structural, not spiritual, and it appears only when failure can kill at scale.
+
+## Usage / Placement Rules
 Treat Ma’at as governance logic, not virtue.
 - Do not introduce Ma’at in Chapter 1.
 - Ma’at emerges only once systems are shown to function without accountability.
 - Readers should encounter Ma’at as a missing constraint, not a belief system.
 
----
+### Chapter-Level Direction
 
-## Death-Bound Clarification
-
-Ma’at is not a moral appeal. It is the **governance condition required to prevent patient death once systems scale**.
-
-Ma’at becomes relevant only when failure can kill.
-
-In this book, Ma’at is invoked when:
-- Misrepresentation can no longer be corrected informally
-- Errors propagate across institutions and time
-- No actor is structurally obligated to reconcile harm
-
-Ma’at names the **missing constraint** that allows failures in **Discovery, Care, and Information** to produce mortality without accountability.
-
----
-
-## Chapter-Level Direction
-
-### Early Chapters (1–3: Illusion → Translation → Extraction)
+#### Early Chapters (1–3: Illusion → Translation → Extraction)
 - Do not name Ma’at.
 - Show imbalance without naming its absence.
 - Focus on asymmetry: value flows one way, harm another.
@@ -39,9 +26,7 @@ Ma’at names the **missing constraint** that allows failures in **Discovery, Ca
 
 Ma’at is not yet speakable.
 
----
-
-### Middle Chapters (4–8: Exclusion, Bias, Scale)
+#### Middle Chapters (4–8: Exclusion, Bias, Scale)
 - Still do not name Ma’at.
 - Begin to surface questions of who should be responsible but is not.
 - Use phrases like:
@@ -51,9 +36,7 @@ Ma’at is not yet speakable.
 
 This is the negative space where Ma’at belongs.
 
----
-
-### Later Chapters (Provenance, Governance, OPTS-EGO, Dividends)
+#### Later Chapters (Provenance, Governance, OPTS-EGO, Dividends)
 - Introduce Ma’at once, cleanly, without flourish.
 - Frame it explicitly as:
   - order
@@ -62,7 +45,7 @@ This is the negative space where Ma’at belongs.
   - alignment between action and consequence
 - Make clear that Ma’at is structural, not ethical sentiment.
 
-**Example framing:**
+Example framing:
 
 “Older civilizations understood that systems require order not just to function, but to remain just. They called that order Ma’at.”
 
@@ -74,9 +57,7 @@ Immediately translate it into modern terms:
 
 Ma’at is introduced at the moment the reader can see that, without enforceable alignment, the system will continue to produce preventable deaths while appearing functional.
 
----
-
-### Final Chapters (Dividends, Contracts, Futures)
+#### Final Chapters (Dividends, Contracts, Futures)
 - Do not repeat the definition.
 - Use Ma’at implicitly through mechanisms:
   - custody reassignment
@@ -87,46 +68,37 @@ Ma’at is introduced at the moment the reader can see that, without enforceable
 
 The reader should understand: Governance is Ma’at without the name.
 
----
-
 ### Relationship to Digital Māyā
 - Māyā explains how systems drift.
 - Ma’at explains why drift is tolerated.
 - Māyā is descriptive.
-	•	Ma’at is corrective.
+- Ma’at is corrective.
 
 Never collapse them.
 Never resolve Māyā without invoking Ma’at.
 
-⸻
-
-When to Name It Again
-	1.	Once, at the point where governance is introduced as unavoidable.
-	2.	Optionally, in the Epilogue, paired with Digital Māyā:
-“The task was never to eliminate illusion, but to bind it to order.”
+### When to Name It Again
+1. Once, at the point where governance is introduced as unavoidable.
+2. Optionally, in the Epilogue, paired with Digital Māyā:
+   “The task was never to eliminate illusion, but to bind it to order.”
 
 No additional definitions.
 No metaphysics.
 No spirituality.
 
-⸻
-
-Stylistic Guardrails
-	•	Never moralize Ma’at.
-	•	Never present it as wisdom or belief.
-	•	Never frame it as cultural ornament.
-	•	Always tie it to:
-	•	accountability
-	•	enforcement
-	•	custody
-	•	consequence
+### Stylistic Guardrails
+- Never moralize Ma’at.
+- Never present it as wisdom or belief.
+- Never frame it as cultural ornament.
+- Always tie it to:
+  - accountability
+  - enforcement
+  - custody
+  - consequence
 
 If Ma’at appears without governance, it does not belong.
 
-⸻
-
-Structural Test (Non-Negotiable)
-
+### Structural Test (Non-Negotiable)
 If a passage could be rewritten as:
 
 “We need to be more ethical”
@@ -139,20 +111,28 @@ If it can only be rewritten as:
 
 Then Ma’at is correctly placed.
 
----
-
-## Canonical Relationship to Engines, Geometry, and Digital Māyā
-
+## Relationship to Canonical Concepts
 - **Three Engines (Discovery / Care / Information):** Ma’at is the constraint that binds engine output to consequence.
 - **Geometry of Medicine:** Ma’at is the requirement that the space be auditable, correctable, and accountable.
 - **Digital Māyā:** Ma’at prevents representations from governing action without custody.
 
 Digital Māyā explains how systems drift.
-
 Geometry explains why misplacement becomes inevitable.
-
 Engines explain where death is instantiated.
-
 Ma’at explains why death is no longer tolerated.
-
 Without Ma’at, scale guarantees harm.
+
+## Reusable Phrase (Canonical)
+“Governance is Ma’at rendered operational.”
+
+## Death-Bound Clarification
+Ma’at is not a moral appeal. It is the **governance condition required to prevent patient death once systems scale**.
+
+Ma’at becomes relevant only when failure can kill.
+
+In this book, Ma’at is invoked when:
+- Misrepresentation can no longer be corrected informally
+- Errors propagate across institutions and time
+- No actor is structurally obligated to reconcile harm
+
+Ma’at names the **missing constraint** that allows failures in **Discovery, Care, and Information** to produce mortality without accountability.

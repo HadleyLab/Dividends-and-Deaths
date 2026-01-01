@@ -2320,7 +2320,7 @@ Version: 1.3
 - **Asset Type:** Ritual
 - **Cultural / Historical Context:** Hindu, Seventh-day Adventist, Catholic, Islam
 - **Narrative Function:** Plural systems outlast purist ones
-- **Reuse Hook:** Digital Maya, governance chapters
+- **Reuse Hook:** Digital Māyā, governance chapters
 
 - **Introduced In:** Dividends & Deaths
 - **Engine Link:** Information

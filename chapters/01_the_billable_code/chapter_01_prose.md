@@ -512,19 +512,19 @@ If codes determine what becomes actionable…
 
 Who should own the illusion they create?
 
-That question—about representation, perception, and power—is where *Digital Maya* begins.
+That question—about representation, perception, and power—is where *Digital Māyā* begins.
 
-## **Digital Maya**
+## **Digital Māyā**
 
-As my sons are named for Muslim prophets, my firstborn daughter is named for the Hindu concept of Maya, the beliefs her great-grandmother, Mama, would have embraced. In Hindu philosophy, Maya is often translated as “illusion,” but that translation is misleading.
+As my sons are named for Muslim prophets, my firstborn daughter is named for the Hindu concept of Māyā, the beliefs her great-grandmother, Mama, would have embraced. In Hindu philosophy, Māyā is often translated as “illusion,” but that translation is misleading.
 
-Maya is not falsehood.
+Māyā is not falsehood.
 
-Maya is representation mistaken for reality.
+Māyā is representation mistaken for reality.
 
 It is the layer between what is and what is perceived. The interface. The abstraction. The story we tell ourselves that becomes real only because we agree to act on it.
 
-Long before data science had a name, Maya described its central danger.
+Long before data science had a name, Māyā described its central danger.
 
 We do not live in direct contact with reality. We live inside models of it.
 
@@ -536,15 +536,15 @@ It is necessary.
 
 What matters is who owns it.
 
-My Mama lived inside Maya, but it was a communal one. Her identity was held by people, not institutions. The abstractions of her life—mother, grandmother, matriarch—belonged to the village. When her date of birth vanished, nothing essential broke. The model did not outrank the person.
+My Mama lived inside Māyā, but it was a communal one. Her identity was held by people, not institutions. The abstractions of her life—mother, grandmother, matriarch—belonged to the village. When her date of birth vanished, nothing essential broke. The model did not outrank the person.
 
-My father died inside a different Maya—an institutional one. His body was rendered legible to machines, vendors, insurers, and regulators. His pacemaker had an identity more durable than his own agency. When its serial number could not be produced at the bedside, the abstraction overruled the human.
+My father died inside a different Māyā—an institutional one. His body was rendered legible to machines, vendors, insurers, and regulators. His pacemaker had an identity more durable than his own agency. When its serial number could not be produced at the bedside, the abstraction overruled the human.
 
-That is the moment when Maya stops being a story and becomes fate.
+That is the moment when Māyā stops being a story and becomes fate.
 
-Today, we are no longer dealing with incidental Maya. We are building Digital Maya—a fully automated, continuously updated representation of human life composed of billable codes, lab values, risk scores, device telemetry, genomic variants, and algorithmic predictions.
+Today, we are no longer dealing with incidental Māyā. We are building Digital Māyā—a fully automated, continuously updated representation of human life composed of billable codes, lab values, risk scores, device telemetry, genomic variants, and algorithmic predictions.
 
-Digital Maya is extraordinarily powerful.
+Digital Māyā is extraordinarily powerful.
 
 It determines:
 
@@ -566,13 +566,13 @@ That is not a technological accident.
 
 It is an economic design choice.
 
-In the Precision Medicine Economy, Digital Maya is the asset.
+In the Precision Medicine Economy, Digital Māyā is the asset.
 
 The tragedy is not that we live inside an illusion. Humanity always has.
 
 The tragedy is that we have been excluded from custody of our own representation.
 
-Digital Maya will not be dismantled. It cannot be. It has survived thousands of years of civilization. Systems this powerful do not get rolled back.
+Digital Māyā will not be dismantled. It cannot be. It has survived thousands of years of civilization. Systems this powerful do not get rolled back.
 
 But they can be reassigned.
 
@@ -580,7 +580,7 @@ The future of medicine is not about destroying abstraction.
 
 It is about returning it.
 
-Let patients own their Maya.
+Let patients own their Māyā.
 
 Because until they do, precision medicine will remain precise for institutions and probabilistic for the people it claims to serve.
 
