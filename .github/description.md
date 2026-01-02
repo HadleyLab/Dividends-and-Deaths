@@ -1,0 +1,1 @@
+An AI-guided, rigorously governed system for writing the book "Dividends & Deaths," ensuring accountability and traceability of narrative elements to enforceable concepts and assets.
